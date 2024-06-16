@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Sketches to Scores  Making Dance Videos on Your MacOS\""
-date: 2024-05-23T01:47:02.206Z
-updated: 2024-05-24T01:47:02.206Z
+date: 2024-06-08T06:02:16.229Z
+updated: 2024-06-09T06:02:16.229Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Sketches to Scores: Making Dance Videos on Your MacOS\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Sketches to Scores: Making Dance Videos on Your MacOS\""
 keywords: "Dance Video Creation,MacOS Dance Making,Sketch to Video Dance,Dance Score Production,Mac Danceshop,Macos Dance Vids,Dance on MacSketch"
-thumbnail: https://www.lifewire.com/thmb/1tuLZhPzIqmVA_xbgDkahkYD4yw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29f573eb68f13f17cdd7b780f.jpg
 ---
 
 ## From Sketches to Scores: Making Dance Videos on Your MacOS

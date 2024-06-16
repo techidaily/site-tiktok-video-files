@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Illustrating A Novel TikTok End Slide"
-date: 2024-05-23T01:23:35.687Z
-updated: 2024-05-24T01:23:35.687Z
+date: 2024-06-08T06:02:06.944Z
+updated: 2024-06-09T06:02:06.944Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Illustrating A Novel TikTok End Slide"
 excerpt: "This Article Describes [Updated] Illustrating A Novel TikTok End Slide"
 keywords: "TikTok Novel Finale,TikEndSlide Illustration,Novel TikTok Closing,TikNovel Epilogue Sketch,Slide Out Novel TikTok,Ending Illustration TikTok,TikTok Bookend Imagery"
-thumbnail: https://www.lifewire.com/thmb/yRFJMQWiePYCmkBaR8_rxYN5o54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-112228848-5825fd543df78c6f6ac39b7b.jpg
+thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7484ba703ce124bf47249cb0.jpg
 ---
 
 ## Illustrating A Novel TikTok End Slide

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Comic Corner  Tickling Fun with the Top TikTok Jokes and Pranks\""
-date: 2024-05-23T01:17:19.733Z
-updated: 2024-05-24T01:17:19.733Z
+date: 2024-06-08T06:02:14.662Z
+updated: 2024-06-09T06:02:14.662Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Comic Corner: Tickling Fun with the Top TikTok Jokes and Pranks\""
 excerpt: "\"This Article Describes [Updated] Comic Corner: Tickling Fun with the Top TikTok Jokes and Pranks\""
 keywords: "TikTok Comedy Hits,TikTok Joke Trends,Popular TikTok Jokes,TikTok Funniest Moments,Top TikTok Pranks,Hilarious TikTok Content,Viral TikTok Humor"
-thumbnail: https://www.lifewire.com/thmb/1GNoj79Wd2P3m5NhvYCQDjqSocU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1147622423-211c8ae1f88a4b1bae8f277422e23d3d.jpg
+thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg
 ---
 
 ## Comic Corner: Tickling Fun with the Top TikTok Jokes and Pranks

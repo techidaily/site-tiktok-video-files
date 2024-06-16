@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Unusual Upsets  Top 10 Unexpected Gaming Sensations on TikTok\""
-date: 2024-05-23T02:03:22.511Z
-updated: 2024-05-24T02:03:22.511Z
+date: 2024-06-08T06:02:06.267Z
+updated: 2024-06-09T06:02:06.267Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok\""
 excerpt: "\"This Article Describes [Updated] In 2024, Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok\""
 keywords: "Gameplay Surprises,Unforeseen Gaming,TikTok Gamers,Upset Victories,TikTok Sensations,Unexpected Players,Top Gaming Moments"
-thumbnail: https://www.lifewire.com/thmb/IOh9_WggHTWQVdROiOds6RlayQo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alexa-and-google-home-f387c57f006a459b80c27ad77f6f10a9.jpg
+thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297afafdcde864123fe0ad252d.jpg
 ---
 
 ## Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok

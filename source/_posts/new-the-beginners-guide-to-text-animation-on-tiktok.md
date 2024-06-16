@@ -1,7 +1,7 @@
 ---
 title: "[New] The Beginner's Guide to Text Animation on TikTok"
-date: 2024-05-23T01:30:53.440Z
-updated: 2024-05-24T01:30:53.440Z
+date: 2024-06-08T06:02:10.127Z
+updated: 2024-06-09T06:02:10.127Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Beginner's Guide to Text Animation on TikTok"
 excerpt: "This Article Describes [New] The Beginner's Guide to Text Animation on TikTok"
 keywords: "Text Animation TikTok Basics,TikTok Text Animator Guide,Learn TikTok Text Animations,Start With TikTok Texting Tricks,Master TikTok Text Effects,Simple TikTok Animation Techniques,Introduction to TikTok Text Animating"
-thumbnail: https://www.lifewire.com/thmb/52cm_V9C3TFxE3FG5iT7mPAC1J4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/55a66c62-7dd6-4b7c-b176-5942ad8b77a1-9693aedc51a242109ed21be18d9c340c.jpeg
+thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5a9a2ad4f10fdb3f8f16d4fd.jpeg
 ---
 
 ## The Beginner's Guide to Text Animation on TikTok

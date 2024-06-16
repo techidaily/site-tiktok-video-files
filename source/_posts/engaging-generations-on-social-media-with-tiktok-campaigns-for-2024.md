@@ -1,7 +1,7 @@
 ---
 title: "Engaging Generations on Social Media with TikTok Campaigns for 2024"
-date: 2024-05-23T01:20:03.040Z
-updated: 2024-05-24T01:20:03.040Z
+date: 2024-06-08T06:02:16.843Z
+updated: 2024-06-09T06:02:16.843Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Engaging Generations on Social Media with TikTok Campaigns for 2024"
 excerpt: "This Article Describes Engaging Generations on Social Media with TikTok Campaigns for 2024"
 keywords: "\"Cross-Gen Engagement,TikTok Socializing,Intergenerational Sharing,Gen Z Outreach,Video Content Marketing,Multi-Platform Campaigns,Digital Inclusion Strategies\""
-thumbnail: https://www.lifewire.com/thmb/wD2BaL-uGeo9Ore30VI3QWyk2QY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1307393933-75641c476c1e4a5aab36b94eeafc92c8.jpg
+thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e906117f4f6cafe9378e4fe6f.jpg
 ---
 
 ## Engaging Generations on Social Media with TikTok Campaigns

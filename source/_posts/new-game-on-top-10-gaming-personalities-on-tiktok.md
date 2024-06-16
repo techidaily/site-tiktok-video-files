@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Game On  Top 10 Gaming Personalities on TikTok\""
-date: 2024-05-23T01:22:12.541Z
-updated: 2024-05-24T01:22:12.541Z
+date: 2024-06-08T06:02:27.479Z
+updated: 2024-06-09T06:02:27.479Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Game On: Top 10 Gaming Personalities on TikTok\""
 excerpt: "\"This Article Describes [New] Game On: Top 10 Gaming Personalities on TikTok\""
 keywords: "TikTok Gamers Trends,Gaming Influencers Online,Top Gaming Figures TikTok,Viral Gamer Personalities,Leading Gamers on Social Media,TikTok Gaming Stars List,Famous Gamers TikTok Insight"
-thumbnail: https://www.lifewire.com/thmb/kESskFVoFi4dzaPyJf9zOpkhnqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png
+thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1cac3e933531323d55d47dcdde.png
 ---
 
 ## Game On: Top 10 Gaming Personalities on TikTok

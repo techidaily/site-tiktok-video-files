@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Discovering Gems  20 Underrated TikTok Raps\""
-date: 2024-05-23T01:18:46.128Z
-updated: 2024-05-24T01:18:46.128Z
+date: 2024-06-08T06:02:30.453Z
+updated: 2024-06-09T06:02:30.453Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Discovering Gems: 20 Underrated TikTok Raps\""
 excerpt: "\"This Article Describes In 2024, Discovering Gems: 20 Underrated TikTok Raps\""
 keywords: "\"Underrated TikTok Hits,TikTok Rap Discovery,Overlooked TikTok Lyrics,TikTok Hidden Gems,TikTok Understated Raps,Lesser-Known TikTok Tracks,Uncharted TikTok Beats\""
-thumbnail: https://www.lifewire.com/thmb/JY3L91vvZ0g1GXL_LTaLztJt5pY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-172697480-58d0c4bb3df78c3c4f2df865.jpg
+thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b0e9205be931fb19bdb3ed9f.jpg
 ---
 
 ## Discovering Gems: 20 Underrated TikTok Raps

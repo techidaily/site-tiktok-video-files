@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing Your TikTok Videography with Slow-Motion Techniques for 2024\""
-date: 2024-05-23T01:20:14.476Z
-updated: 2024-05-24T01:20:14.476Z
+date: 2024-06-08T06:02:14.358Z
+updated: 2024-06-09T06:02:14.358Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Enhancing Your TikTok Videography with Slow-Motion Techniques for 2024\""
 excerpt: "\"This Article Describes Enhancing Your TikTok Videography with Slow-Motion Techniques for 2024\""
 keywords: "\"TikTok Slow-Motion,Video Editing Tips,Enhance Videography,Slow-Motion Effect,Film Techniques,Social Media Filming,Creative Video Edits\""
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Enhancing Your TikTok Videography with Slow-Motion Techniques

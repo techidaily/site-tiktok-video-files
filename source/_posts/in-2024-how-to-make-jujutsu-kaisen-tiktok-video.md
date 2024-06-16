@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make Jujutsu Kaisen Tiktok Video?"
-date: 2024-05-23T01:24:21.739Z
-updated: 2024-05-24T01:24:21.739Z
+date: 2024-06-08T06:02:27.445Z
+updated: 2024-06-09T06:02:27.445Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, How to Make Jujutsu Kaisen Tiktok Video?"
 excerpt: "This Article Describes In 2024, How to Make Jujutsu Kaisen Tiktok Video?"
 keywords: "Jujutsu Kaisen TikTok,Jujutsu Tutorials,Kaisen Fight Techniques,Martial Arts Choreography,Online Manga Study,Anime Series Learn,TikTok Creative Craft"
-thumbnail: https://www.lifewire.com/thmb/wUhbe859YEeTu_M5YNm0d0fdpe4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ps5-backwards-compatibility-can-you-play-ps4-games-on-the-ps5-5084149-f25fc6e2a1be422e916f59b22a0605e4.jpg
+thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1317d80297e6274f57adb5a8.jpg
 ---
 
 ## A Beginner’s Guide to Jujutsu Kaisen on TikTok

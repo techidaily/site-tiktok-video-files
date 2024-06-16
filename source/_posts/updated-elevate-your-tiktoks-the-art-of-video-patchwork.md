@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevate Your TikToks  The Art of Video Patchwork\""
-date: 2024-05-23T01:19:43.512Z
-updated: 2024-05-24T01:19:43.512Z
+date: 2024-06-08T06:02:08.486Z
+updated: 2024-06-09T06:02:08.486Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Elevate Your TikToks: The Art of Video Patchwork\""
 excerpt: "\"This Article Describes [Updated] Elevate Your TikToks: The Art of Video Patchwork\""
 keywords: "TikTok Crafting Basics,Creative TikTok Videos,DIY TikTok Challenges,TikTok Storytelling,Video Patchwork Techniques,Unique TikTok Content,Artistic TikTok Designs"
-thumbnail: https://www.lifewire.com/thmb/gqD8upUHe51-QbDVBOjSRL6QoLk=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/AI_Choreograph_GettyImagesPlus-1473211827_CROPPED-137fc9eef04a43a79554344a6f11d1b7.jpg
+thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg
 ---
 
 ## Elevate Your TikToks: The Art of Video Patchwork

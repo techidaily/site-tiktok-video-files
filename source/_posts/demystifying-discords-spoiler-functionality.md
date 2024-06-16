@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Discord’s Spoiler Functionality"
-date: 2024-05-23T01:09:11.169Z
-updated: 2024-05-24T01:09:11.169Z
+date: 2024-06-08T06:02:11.166Z
+updated: 2024-06-09T06:02:11.166Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Demystifying Discord’s Spoiler Functionality"
 excerpt: "This Article Describes Demystifying Discord’s Spoiler Functionality"
 keywords: "Demystify Discord Spoilers,Understanding Discord Spoilers,Discord Spoiler Explanation,How Discord Handles Spoilers,Learn Discord's Spoiler Mechanics,Mastering Discord Spoilers,Insight Into Discord Spoil Protection"
-thumbnail: https://www.lifewire.com/thmb/R8mQYHSyvIG9KhbxaCWoxTwRczE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Remotecontrol-dd51ae399bd54bd4adccca5d9d446195.jpg
+thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
 ---
 
 ## Demystifying Discord’s Spoiler Functionality

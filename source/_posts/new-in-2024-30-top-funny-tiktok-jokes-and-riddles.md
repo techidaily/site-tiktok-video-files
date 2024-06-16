@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, 30 Top Funny TikTok Jokes & Riddles"
-date: 2024-05-23T01:37:22.651Z
-updated: 2024-05-24T01:37:22.651Z
+date: 2024-06-08T06:02:19.618Z
+updated: 2024-06-09T06:02:19.618Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, 30 Top Funny TikTok Jokes & Riddles"
 excerpt: "This Article Describes [New] In 2024, 30 Top Funny TikTok Jokes & Riddles"
 keywords: "Funny TikTok Jokes,Hilarious TikTok Content,Comedic TikTok Humor,TikTok Joke Collection,TikTok Riddle Challenges,Laughter on TikTok,Funny TikTok Trends"
-thumbnail: https://www.lifewire.com/thmb/PrGY8pAgKjzqmXRv8UVAznKJhN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-application-of-cloud-storage-471510877-5b1eb0158023b90036f2f175.jpg
+thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
 ---
 
 ## 30 Top Funny TikTok Jokes & Riddles

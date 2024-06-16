@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Jujutsu Kaisen Characters in the World of TikTok Creatives"
-date: 2024-05-23T01:49:45.535Z
-updated: 2024-05-24T01:49:45.535Z
+date: 2024-06-08T06:02:13.751Z
+updated: 2024-06-09T06:02:13.751Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Jujutsu Kaisen Characters in the World of TikTok Creatives"
 excerpt: "This Article Describes [New] In 2024, Jujutsu Kaisen Characters in the World of TikTok Creatives"
 keywords: "Jujutsu Kai Sen Characters,TikTok Jujutsu Kaisen,Kaisen On TikTok,Jujutsu Creatives Artists,Kaisen TikTok Influence,Jujutsu Storytelling TikToks,Kaisen TikTok Characters"
-thumbnail: https://www.lifewire.com/thmb/35EJIYWnOjf-DPYyt8jATjphfKo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/couple-reading-map-on-waterfront--young-woman-using-mobile-phone-200326285-001-5a948525119fa80036dc10c9.jpg
+thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b87668f0c388f2d39f0ecdca.jpg
 ---
 
 ## Jujutsu Kaisen Characters in the World of TikTok Creatives

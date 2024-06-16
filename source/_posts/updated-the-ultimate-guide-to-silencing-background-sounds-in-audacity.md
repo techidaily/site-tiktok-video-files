@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Silencing Background Sounds in Audacity"
-date: 2024-05-23T01:32:06.223Z
-updated: 2024-05-24T01:32:06.223Z
+date: 2024-06-08T06:02:23.334Z
+updated: 2024-06-09T06:02:23.334Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] The Ultimate Guide to Silencing Background Sounds in Audacity"
 excerpt: "This Article Describes [Updated] The Ultimate Guide to Silencing Background Sounds in Audacity"
 keywords: "Audacity Soundproofing Tips,Quieting Noise in Audacity,Mastering Low Volume Mixes,Reduce Ambient Audio Levels,Silent Recording Techniques,Calm Audition Editing Guide,Minimize Background Noise"
-thumbnail: https://www.lifewire.com/thmb/3c1cTWiTn2Xcx6PnSP-2IA67Da0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41228f9bbeee698b42d6caf34.jpg
 ---
 
 ## The Ultimate Guide to Silencing Background Sounds in Audacity

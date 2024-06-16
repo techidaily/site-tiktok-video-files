@@ -1,7 +1,7 @@
 ---
 title: "Efficient Ways to Terminate Your Discord Membership"
-date: 2024-05-23T01:09:18.812Z
-updated: 2024-05-24T01:09:18.812Z
+date: 2024-06-08T06:02:18.546Z
+updated: 2024-06-09T06:02:18.546Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Efficient Ways to Terminate Your Discord Membership"
 excerpt: "This Article Describes Efficient Ways to Terminate Your Discord Membership"
 keywords: "Disconnect From Discord,Cancel Discord Account,End Discord Subscription,Terminate Discord Membership,Freeze Discord Access,Stop Using Discord,Unsubscribe Discord Service"
-thumbnail: https://www.lifewire.com/thmb/pqu2By75ru8MJlTZ4i-iemNOlJg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ledephoto-820c7f6e8d3747c396c4fae1032ac4b4.jpg
+thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221ab645eab192a9d9f6936accf.jpg
 ---
 
 ## Efficient Ways to Terminate Your Discord Membership

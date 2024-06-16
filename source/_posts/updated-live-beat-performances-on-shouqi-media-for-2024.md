@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Live Beat Performances on Shouqi Media for 2024"
-date: 2024-05-23T01:50:25.486Z
-updated: 2024-05-24T01:50:25.486Z
+date: 2024-06-08T06:02:25.333Z
+updated: 2024-06-09T06:02:25.333Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Live Beat Performances on Shouqi Media for 2024"
 excerpt: "This Article Describes [Updated] Live Beat Performances on Shouqi Media for 2024"
 keywords: "Shouqi Live Music,Beats Performance,Media Streaming,Karaoke Vibes,Urban DJ Shows,Social Media Events,Entertainment Venues"
-thumbnail: https://www.lifewire.com/thmb/aRwENUeqFRPb062Ha2fLqnMKw_4=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/HomeOfficeCentral_MorsaImages_GettyImages-1369568023_vert1409-c9574b1d088a42aa8e5b62cc13c3bb0b.jpg
+thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9f258c0a63e3b6ef48739db7.jpg
 ---
 
 ## Live Beat Performances on Shouqi Media

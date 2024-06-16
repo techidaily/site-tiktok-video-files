@@ -1,7 +1,7 @@
 ---
 title: "\"Accelerating Filming on TikTok for Real-Time Results\""
-date: 2024-05-23T01:09:36.127Z
-updated: 2024-05-24T01:09:36.127Z
+date: 2024-06-08T06:02:09.314Z
+updated: 2024-06-09T06:02:09.314Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Accelerating Filming on TikTok for Real-Time Results\""
 excerpt: "\"This Article Describes Accelerating Filming on TikTok for Real-Time Results\""
 keywords: "\"TikTok Live Film,Real-Time Video Editing,Instant TikTok Effects,Quick TikTok Shooting,On-the-Go TikTok Filming,RealTime TikTok Creation,Rapid TikTok Production\""
-thumbnail: https://www.lifewire.com/thmb/7iSqR9T6Aul7nVcsld8FAGRFQ6k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1149123484-a277077c6bb643caaf22a94a39dfc15d.jpg
+thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c1851d2a65f8ffeb1e28c4c2.jpg
 ---
 
 ## Accelerating Filming on TikTok for Real-Time Results

@@ -1,7 +1,7 @@
 ---
 title: "\"Social Media Supremacy  Amplifying Sales via TikTok Campaigns\""
-date: 2024-05-23T01:12:32.084Z
-updated: 2024-05-24T01:12:32.084Z
+date: 2024-06-08T06:02:24.089Z
+updated: 2024-06-09T06:02:24.089Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Social Media Supremacy: Amplifying Sales via TikTok Campaigns\""
 excerpt: "\"This Article Describes Social Media Supremacy: Amplifying Sales via TikTok Campaigns\""
 keywords: "Social Media Boosting,TikTok Marketing,Influencer Selling,Viral Video Sales,TikTok Ad Reach,User Engagement Sales,Hashtag Promotion Growth"
-thumbnail: https://www.lifewire.com/thmb/BWYABouSAKXfjY1r0C4zjwI_cVI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/john-schnobrich-yFbyvpEGHFQ-unsplash-932cb35776654b588521bd997297760c.jpg
+thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8834da223e912daed0885bd1.jpg
 ---
 
 ## Social Media Supremacy: Amplifying Sales via TikTok Campaigns

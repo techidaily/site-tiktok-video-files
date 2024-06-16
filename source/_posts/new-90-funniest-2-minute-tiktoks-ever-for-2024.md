@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 90 Funniest 2-Minute TikToks Ever for 2024\""
-date: 2024-05-23T01:37:42.233Z
-updated: 2024-05-24T01:37:42.233Z
+date: 2024-06-08T06:02:25.288Z
+updated: 2024-06-09T06:02:25.288Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 90 Funniest 2-Minute TikToks Ever for 2024\""
 excerpt: "\"This Article Describes [New] 90 Funniest 2-Minute TikToks Ever for 2024\""
 keywords: "\"Hilarious TikTok Shorts,Top 2-Min Comedy TikToks,Funny Viral Videos,Best TikTok Laughter Hits,Epic Two-Minute TikToks,Ultimate Jokes on TikTok,Quick Comedy Gems TikTok\""
-thumbnail: https://www.lifewire.com/thmb/ZBqFoENbbRmDTcsnIlj_6leL_Bg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/screenburnin01-5bdc37e9c9e77c00269c4545.jpg
+thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044596db757054a8f03e6ab91e.jpg
 ---
 
 ## 90 Funniest 2-Minute TikToks Ever

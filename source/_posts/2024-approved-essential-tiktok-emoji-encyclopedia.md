@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Essential TikTok Emoji Encyclopedia\""
-date: 2024-05-23T01:20:35.519Z
-updated: 2024-05-24T01:20:35.519Z
+date: 2024-06-08T06:02:21.470Z
+updated: 2024-06-09T06:02:21.470Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Essential TikTok Emoji Encyclopedia\""
 excerpt: "\"This Article Describes 2024 Approved: Essential TikTok Emoji Encyclopedia\""
 keywords: "TikTok Emoji Guide,Emojis on TikTok,TikTok Symbols Reference,TikTok Emoji Usage,Comprehensive TikTok Emojis,TikTok Emoji Quick Guide,Essential TikTok Emoji"
-thumbnail: https://www.lifewire.com/thmb/p9IaplJL54ugOQSdVcCq05XRd54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_0755-5be60f4146e0fb002616c5f4.jpg
+thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
 ---
 
 ## Essential TikTok Emoji Encyclopedia

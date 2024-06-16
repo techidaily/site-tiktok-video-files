@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  TikTok-Spurred Reads  The Top 15 Books Captivating Audiences\""
-date: 2024-05-23T01:59:53.074Z
-updated: 2024-05-24T01:59:53.074Z
+date: 2024-06-08T06:02:16.687Z
+updated: 2024-06-09T06:02:16.687Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: TikTok-Spurred Reads: The Top 15 Books Captivating Audiences\""
 excerpt: "\"This Article Describes [New] 2024 Approved: TikTok-Spurred Reads: The Top 15 Books Captivating Audiences\""
 keywords: "\"TikTok Book Trends,Engaging TikTok Reads,Popular TikTok Literature,Viral TikTok Books,Captivating TikTok Novels,Audiences' Top TikTok Reads,Best-Selling TikTok Titles\""
-thumbnail: https://www.lifewire.com/thmb/jBnabVblnU-pVzdwjWgW35QXhjQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PreetAnand-4c9eb5ff333041e2a6a25710d87b4a34.png
+thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab605d1c55ebd68e10c11778128.png
 ---
 
 ## TikTok-Spurred Reads: The Top 15 Books Captivating Audiences

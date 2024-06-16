@@ -1,7 +1,7 @@
 ---
 title: "Easy Implementation of Snap Camera on MS Teams"
-date: 2024-05-23T01:08:00.773Z
-updated: 2024-05-24T01:08:00.773Z
+date: 2024-06-08T06:02:20.184Z
+updated: 2024-06-09T06:02:20.184Z
 tags:
   - ai video
   - ai snapchat
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Easy Implementation of Snap Camera on MS Teams"
 excerpt: "This Article Describes Easy Implementation of Snap Camera on MS Teams"
 keywords: "\"Snap Integration MS Teams,Snap Camera Teams Live,Quick Snap Teams Add-On,Snap Feature Teams,Implementing Snap in Teams,MS Teams with Snap Capture,Easy Snap for Teams Meeting\""
-thumbnail: https://www.lifewire.com/thmb/W34W6TT9TbgsmuZbNttEy9T33-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iPhoneinUVSanitizer-dd84366f842c41cc985354139d8ffb8e.jpeg
+thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732cf24aad5cc401c9c124e67ae.jpeg
 ---
 
 ## Easy Implementation of Snap Camera on MS Teams

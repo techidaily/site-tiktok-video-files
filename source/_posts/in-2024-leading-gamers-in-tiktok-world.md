@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Gamers in TikTok World"
-date: 2024-05-23T01:24:35.787Z
-updated: 2024-05-24T01:24:35.787Z
+date: 2024-06-08T06:02:29.155Z
+updated: 2024-06-09T06:02:29.155Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Leading Gamers in TikTok World"
 excerpt: "This Article Describes In 2024, Leading Gamers in TikTok World"
 keywords: "Gaming TikTok Stars,Top TikTok Gamers,Influencers on TikTok Games,TikTok's Gaming Elite,Leading Game Creators TikTok,Trending TikTok Gamers,TikTok Gamer Community"
-thumbnail: https://www.lifewire.com/thmb/necVDHY0jw2X8abfnDNPSwKEgJc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-973902638-5c055ec346e0fb0001dfd9f1.jpg
+thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a90b0cd758e49ef9cfc3066d.jpg
 ---
 
 ## Leading Gamers in TikTok World

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Discovering the World of TikTok Anime  Celebrating Creativity in Motion and Sound for 2024\""
-date: 2024-05-23T01:43:11.447Z
-updated: 2024-05-24T01:43:11.447Z
+date: 2024-06-08T06:02:23.680Z
+updated: 2024-06-09T06:02:23.680Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Discovering the World of TikTok Anime: Celebrating Creativity in Motion and Sound for 2024\""
 excerpt: "\"This Article Describes [New] Discovering the World of TikTok Anime: Celebrating Creativity in Motion and Sound for 2024\""
 keywords: "TikTok Anime,Motion Anime,Sound Anime,Creative TikTok,Anime TikTok,Motion Creativity,Sound Animation"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Discovering the World of TikTok Anime: Celebrating Creativity in Motion and Sound
