@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rising Stars  Will Likes Surpass TikTok's Mass Appeal?\""
-date: 2024-05-23T01:28:22.240Z
-updated: 2024-05-24T01:28:22.240Z
+date: 2024-06-15T13:17:10.864Z
+updated: 2024-06-16T13:17:10.864Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Rising Stars: Will Likes Surpass TikTok's Mass Appeal?\""
 excerpt: "\"This Article Describes [New] Rising Stars: Will Likes Surpass TikTok's Mass Appeal?\""
 keywords: "Star Rising Trends,Like Popularity Shift,TikTok Vs. Likes,Social Media Competition,Video Content Evolution,Appeal in Platforms,Mass Engagement Analysis"
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## Rising Stars: Will Likes Surpass TikTok's Mass Appeal?

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)"
-date: 2024-05-23T01:56:49.826Z
-updated: 2024-05-24T01:56:49.826Z
+date: 2024-06-15T13:17:08.827Z
+updated: 2024-06-16T13:17:08.827Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)"
 excerpt: "This Article Describes [Updated] In 2024, Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)"
 keywords: "Swift Fix TikTok,Rescue Android TikTok,IOS TikTok Recovery,Unfreeze TikTok Apps,Stop TikTok Crashes,Quick TikTok Restore,Fix Freezing TikTok"
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bigger-Head VFX Techniques to Impress on TikTok Videos (3 Methods)\""
-date: 2024-05-23T01:39:29.966Z
-updated: 2024-05-24T01:39:29.966Z
+date: 2024-06-15T13:17:10.920Z
+updated: 2024-06-16T13:17:10.920Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Bigger-Head VFX Techniques to Impress on TikTok Videos (3 Methods)\""
 excerpt: "\"This Article Describes [New] In 2024, Bigger-Head VFX Techniques to Impress on TikTok Videos (3 Methods)\""
 keywords: "Bigger Head Effects,VFX for TikTok,Impressive VFX Tricks,Video Animation Techniques,Enhanced TikTok Visuals,Advanced Video Effects,Creative TikTok VFX Methods"
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Bigger-Head VFX Techniques to Impress on TikTok Videos (3 Methods)

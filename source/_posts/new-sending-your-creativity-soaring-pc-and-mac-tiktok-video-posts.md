@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sending Your Creativity Soaring  PC & Mac TikTok Video Posts\""
-date: 2024-05-23T01:28:50.202Z
-updated: 2024-05-24T01:28:50.202Z
+date: 2024-06-15T13:17:05.498Z
+updated: 2024-06-16T13:17:05.498Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Sending Your Creativity Soaring: PC & Mac TikTok Video Posts\""
 excerpt: "\"This Article Describes [New] Sending Your Creativity Soaring: PC & Mac TikTok Video Posts\""
 keywords: "\"Creative TikTok Videos,PC TikTok Content,Mac TikTok Editing,TikTok Creativity Boost,Digital Video Posts,Social Media TikToks,Cross-Platform TikTok Art\""
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Sending Your Creativity Soaring: PC & Mac TikTok Video Posts

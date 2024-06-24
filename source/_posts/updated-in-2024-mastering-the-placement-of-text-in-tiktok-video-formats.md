@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering the Placement of Text in TikTok Video Formats"
-date: 2024-05-23T01:51:29.703Z
-updated: 2024-05-24T01:51:29.703Z
+date: 2024-06-15T13:17:02.888Z
+updated: 2024-06-16T13:17:02.888Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Mastering the Placement of Text in TikTok Video Formats"
 excerpt: "This Article Describes [Updated] In 2024, Mastering the Placement of Text in TikTok Video Formats"
 keywords: "TikTok Text Strategy,Placement Techniques TikTok,TikTok Caption Art,Mastering TikTok Layouts,Optimal TikTok Text Position,Efficient TikTok Captions,Best Practices for TikTok Texts"
-thumbnail: https://www.lifewire.com/thmb/HT5maf4eHTE-8eexIKBPujtE7yc=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/woman-using-phone-in-pool-5c31541c46e0fb000132beb2.jpg
+thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59ddef7b2d9a4c85759dfb53f1ee.jpg
 ---
 
 ## Mastering the Placement of Text in TikTok Video Formats

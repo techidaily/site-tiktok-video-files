@@ -1,7 +1,7 @@
 ---
 title: "5 Sizzling Social Media Foods"
-date: 2024-05-23T01:09:30.520Z
-updated: 2024-05-24T01:09:30.520Z
+date: 2024-06-15T13:16:59.864Z
+updated: 2024-06-16T13:16:59.864Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes 5 Sizzling Social Media Foods"
 excerpt: "This Article Describes 5 Sizzling Social Media Foods"
 keywords: "Hot Social Feeds,Viral Eats Trend,Culinary Share Wave,Engaging Food Post,Flavorful Network Bites,Tasty Media Moments,Sensational Shares Meals"
-thumbnail: https://www.lifewire.com/thmb/Q4b3wBAsMnqMweYuzMFrJi3DF6E=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/jakob-owens-ZOtnmYS0JVg-unsplash-b9f4f0bd065c4366948e3f4847f41131.jpg
+thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114df0401fe96c31b4cf2882857.jpg
 ---
 
 ## 5 Sizzling Social Media Foods

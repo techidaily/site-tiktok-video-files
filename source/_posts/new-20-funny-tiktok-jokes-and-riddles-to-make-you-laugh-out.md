@@ -1,7 +1,7 @@
 ---
 title: "[New] 20 Funny TikTok Jokes and Riddles to Make You Laugh Out"
-date: 2024-05-23T01:32:45.842Z
-updated: 2024-05-24T01:32:45.842Z
+date: 2024-06-15T13:17:13.991Z
+updated: 2024-06-16T13:17:13.991Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] 20 Funny TikTok Jokes and Riddles to Make You Laugh Out"
 excerpt: "This Article Describes [New] 20 Funny TikTok Jokes and Riddles to Make You Laugh Out"
 keywords: "\"TikTok Humor,Funny TikToks,Joke Riddles TikTok,TikTok Comedy Skits,Laugh TikTok Jokes,Hilarious TikTok Riddles,Giggle-Inducing TikToks\""
-thumbnail: https://www.lifewire.com/thmb/Z73u58LZkbkGL5EnRK85VTxYLlE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/messaging-5b40e35ec9e77c0037b03f3c.jpg
+thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ecd8a0532a8cb17367d809b46.jpg
 ---
 
 ## 20 Funny TikTok Jokes and Riddles to Make You Laugh Out

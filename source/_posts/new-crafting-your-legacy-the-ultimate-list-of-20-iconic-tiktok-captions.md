@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Your Legacy  The Ultimate List of 20 Iconic TikTok Captions\""
-date: 2024-05-23T01:17:57.462Z
-updated: 2024-05-24T01:17:57.462Z
+date: 2024-06-15T13:17:03.852Z
+updated: 2024-06-16T13:17:03.852Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Crafting Your Legacy: The Ultimate List of 20 Iconic TikTok Captions\""
 excerpt: "\"This Article Describes [New] Crafting Your Legacy: The Ultimate List of 20 Iconic TikTok Captions\""
 keywords: "Iconic TikTok Quotes,TikTok Legacy Speeches,Influential TikTok Lyrics,Popular TikTok Hashtags,Viral TikTok Messages,Famous TikTok Words,Timeless TikTok Phrases"
-thumbnail: https://www.lifewire.com/thmb/YwIHT6UDxVqykPz-YslSlgdLafI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-shadow-banning-featured-0a8ee83befca4150891a7b7cbda1c87c.jpg
+thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b2a4f404614a92dadcad15cd.jpg
 ---
 
 ## Crafting Your Legacy: The Ultimate List of 20 Iconic TikTok Captions

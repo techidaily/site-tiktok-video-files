@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unusual Upsets  Top 10 Unexpected Gaming Sensations on TikTok\""
-date: 2024-05-23T01:35:59.345Z
-updated: 2024-05-24T01:35:59.345Z
+date: 2024-06-15T13:17:02.804Z
+updated: 2024-06-16T13:17:02.804Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok\""
 excerpt: "\"This Article Describes [New] Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok\""
 keywords: "Gameplay Surprises,Unforeseen Gaming,TikTok Gamers,Upset Victories,TikTok Sensations,Unexpected Players,Top Gaming Moments"
-thumbnail: https://www.lifewire.com/thmb/LLn7hdNldySWzZ7VIiItwytVfPY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf769458408d36b67b305252021.jpg
 ---
 
 ## Unusual Upsets: Top 10 Unexpected Gaming Sensations on TikTok
