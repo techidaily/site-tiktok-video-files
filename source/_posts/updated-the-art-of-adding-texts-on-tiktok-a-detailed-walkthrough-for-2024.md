@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Adding Texts on TikTok  A Detailed Walkthrough for 2024\""
-date: 2024-05-23T01:57:10.602Z
-updated: 2024-05-24T01:57:10.602Z
+date: 2024-06-30T13:34:36.822Z
+updated: 2024-07-01T13:34:36.822Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Art of Adding Texts on TikTok: A Detailed Walkthrough for 2024\""
 excerpt: "\"This Article Describes [Updated] The Art of Adding Texts on TikTok: A Detailed Walkthrough for 2024\""
 keywords: "TikTok Texting Guide,TikTok Video Captions,TikTok Creative Writing,TikTok Content Enhancement,Adding Words on TikTok,TikTok Media Addition,Masterful TikTok Texts"
-thumbnail: https://www.lifewire.com/thmb/6jBqlViPTqYHPeyAITr4PSJvrVk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/89794567-56a6a56a3df78cf7728f9185.jpg
+thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c9525864662d718cce49121a5e7.jpg
 ---
 
 ## The Art of Adding Texts on TikTok: A Detailed Walkthrough

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hot Beats  Exploring Viral TikTok Rap Hits Today\""
-date: 2024-05-23T01:22:50.146Z
-updated: 2024-05-24T01:22:50.146Z
+date: 2024-06-30T13:34:34.004Z
+updated: 2024-07-01T13:34:34.004Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Hot Beats: Exploring Viral TikTok Rap Hits Today\""
 excerpt: "\"This Article Describes [New] Hot Beats: Exploring Viral TikTok Rap Hits Today\""
 keywords: "Hot Beats Rap,TikTok Viral Hits,Rap TikTok Trends,Rap TikTok Sounds,Online Rap Challenges,Popular Rap Videos,Viral Rap Tutorials"
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## Hot Beats: Exploring Viral TikTok Rap Hits Today

@@ -1,7 +1,7 @@
 ---
 title: "\"Expanding Visual Presence  TikTok's Head Dilation Methods\""
-date: 2024-05-23T01:10:46.671Z
-updated: 2024-05-24T01:10:46.671Z
+date: 2024-06-30T13:34:34.359Z
+updated: 2024-07-01T13:34:34.359Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Expanding Visual Presence: TikTok's Head Dilation Methods\""
 excerpt: "\"This Article Describes Expanding Visual Presence: TikTok's Head Dilation Methods\""
 keywords: "TikTok Visual Expansion,Head Dilation Techniques,TikTok Dynamic Imaging,TikTok Distortion Methods,Video Stretching on TikTok,Enhanced TikTok Effects,Social Media Scaling on TikTok"
-thumbnail: https://www.lifewire.com/thmb/7-p_9NYo8JG4i-R6e8BAGzrNRL8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ManworkingonMacBook-a850f8204081407191ff533c32018943.jpg
+thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef54198880a460fef17224e3b3660509.jpg
 ---
 
 ## Expanding Visual Presence: TikTok's Head Dilation Methods
@@ -27,7 +27,7 @@ How to get that **TikTok Big Head** effect? Would you like to make your head loo
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -147,7 +147,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -267,7 +267,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -387,7 +387,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 

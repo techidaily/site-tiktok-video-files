@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rewinding to Reactions  TikTok's Classic Videos\""
-date: 2024-05-23T01:28:16.724Z
-updated: 2024-05-24T01:28:16.724Z
+date: 2024-06-30T13:34:39.726Z
+updated: 2024-07-01T13:34:39.726Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Rewinding to Reactions: TikTok's Classic Videos\""
 excerpt: "\"This Article Describes 2024 Approved: Rewinding to Reactions: TikTok's Classic Videos\""
 keywords: "TikTok Classics,Vintage TikToks,Retro TikTok,Timeless TikTok,Historical TikTok,Classic Tiktok Dance,Nostalgic TikTok Videos"
-thumbnail: https://www.lifewire.com/thmb/jVj3zTPzlSk-TEYtLIyBRT63fA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-535970955-5b0ef2cca474be003791023e.jpg
+thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1ec409bdbe7a0807e99cdc6f4.jpg
 ---
 
 ## Rewinding to Reactions: TikTok's Classic Videos
@@ -103,7 +103,7 @@ In this video, the creator reacts to the videos of people that look ugly at the 
 
 In this video, the creator goes public and randomly touches strangers and records their reactions. There are different types of reactions, some are funny, and some people look annoyed. The video has over 1.6M views and likes.
 
-![best tiktok reaction video - Randomly Touching People In Public ](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
+![best tiktok reaction video - Randomly Touching People In Public](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
 
 ### #9 How many songs did you know? By Lucian Reacts
 
@@ -241,7 +241,7 @@ In this video, the creator reacts to the videos of people that look ugly at the 
 
 In this video, the creator goes public and randomly touches strangers and records their reactions. There are different types of reactions, some are funny, and some people look annoyed. The video has over 1.6M views and likes.
 
-![best tiktok reaction video - Randomly Touching People In Public ](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
+![best tiktok reaction video - Randomly Touching People In Public](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
 
 ### #9 How many songs did you know? By Lucian Reacts
 
@@ -379,7 +379,7 @@ In this video, the creator reacts to the videos of people that look ugly at the 
 
 In this video, the creator goes public and randomly touches strangers and records their reactions. There are different types of reactions, some are funny, and some people look annoyed. The video has over 1.6M views and likes.
 
-![best tiktok reaction video - Randomly Touching People In Public ](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
+![best tiktok reaction video - Randomly Touching People In Public](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
 
 ### #9 How many songs did you know? By Lucian Reacts
 
@@ -517,7 +517,7 @@ In this video, the creator reacts to the videos of people that look ugly at the 
 
 In this video, the creator goes public and randomly touches strangers and records their reactions. There are different types of reactions, some are funny, and some people look annoyed. The video has over 1.6M views and likes.
 
-![best tiktok reaction video - Randomly Touching People In Public ](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
+![best tiktok reaction video - Randomly Touching People In Public](https://images.wondershare.com/filmora/article-images/2022/04/tiktok-reaction-video-8.jpg)
 
 ### #9 How many songs did you know? By Lucian Reacts
 

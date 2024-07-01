@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Elite 10 of TikTok Game Stars"
-date: 2024-05-23T01:31:11.600Z
-updated: 2024-05-24T01:31:11.600Z
+date: 2024-06-30T13:34:31.300Z
+updated: 2024-07-01T13:34:31.300Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, The Elite 10 of TikTok Game Stars"
 excerpt: "This Article Describes In 2024, The Elite 10 of TikTok Game Stars"
 keywords: "TikTok Gaming Leaders,Top TikTok Gamers,Elite TikTok Players,Star TikTok Gaming,TikTok Gaming Icons,Game Stars on TikTok,TikTok Gamer Elites"
-thumbnail: https://www.lifewire.com/thmb/JY3L91vvZ0g1GXL_LTaLztJt5pY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-172697480-58d0c4bb3df78c3c4f2df865.jpg
+thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b0e9205be931fb19bdb3ed9f.jpg
 ---
 
 ## The Elite 10 of TikTok Game Stars
