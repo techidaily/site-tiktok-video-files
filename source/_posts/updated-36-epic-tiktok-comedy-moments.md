@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 36 Epic TikTok Comedy Moments"
-date: 2024-05-23T01:14:15.521Z
-updated: 2024-05-24T01:14:15.521Z
+date: 2024-07-08T04:25:58.600Z
+updated: 2024-07-09T04:25:58.600Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] 36 Epic TikTok Comedy Moments"
 excerpt: "This Article Describes [Updated] 36 Epic TikTok Comedy Moments"
 keywords: "TikTok Comedy Skits,Hilarious TikTok Videos,Funny TikTok Performances,Epic TikTok Laughs,Comedic TikTok Shorts,TikTok Humor Moments,Popular TikTok Jokes"
-thumbnail: https://www.lifewire.com/thmb/WBsXwvHS7QxhtfeasAVkRPq-wcI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1264119308-60c8a48e24994a4e83bcef07f427d2cd.jpg
+thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10c18f1adcfe6fd4f956e57b1.jpg
 ---
 
 ## 36 Epic TikTok Comedy Moments
