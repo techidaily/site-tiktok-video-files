@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Past Images  A Snapchat Journey\""
-date: 2024-05-23T01:08:51.890Z
-updated: 2024-05-24T01:08:51.890Z
+date: 2024-07-14T04:43:56.422Z
+updated: 2024-07-15T04:43:56.422Z
 tags:
   - ai video
   - ai snapchat
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes The Art of Past Images: A Snapchat Journey\""
 excerpt: "\"This Article Describes The Art of Past Images: A Snapchat Journey\""
 keywords: "Image Snapping Basics,Snapchat Photography Tips,Digital Picture History,Visual Storytelling Snap,Past Images Techniques,Memories Snap Sharing,Historical Snap Artistry"
-thumbnail: https://www.lifewire.com/thmb/9cDtXnbEaG_Ya-2d7Wrg1ueCYZ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/raytracingstarwars-b548b699b36b4bb8b4334d66a964ede9.jpg
+thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e763bab0af0faf409f9f29c9c.jpg
 ---
 
 ## The Art of Past Images: A Snapchat Journey
@@ -41,6 +41,9 @@ Snapchat allows you to apply its filters on any of your camera roll's pictures. 
 
 Step1 Open your Snapchat and swipe up to open the 'Memories'. Go to your Camera Roll and select any particular picture from there.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access camera roll tab](https://images.wondershare.com/filmora/article-images/2022/11/send-snaps-from-camera-roll-1.jpg)
 
 Step2 After choosing a particular photo, tap on the "**Edit**" icon at the bottom left corner. You can apply filters to the photo by swiping from right to left. Keep swiping until you can find your preferred filter.
@@ -95,6 +98,9 @@ Step4 On the LMK app, tap on the "Plus" icon to proceed. Afterward, tap on "Post
 
 Step5 After choosing the photo from the gallery, tap "Post to Snapchat." By doing so, you will be redirected to your Snapchat. From your image, remove the added stickers of the LMK app. You can drag the sticker to the trash bin icon. Afterward, tap on the "Paper Clip" icon to remove the added attachment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove the sticker and link](https://images.wondershare.com/filmora/article-images/2022/11/send-snaps-from-camera-roll-12.jpg)
 
 Step6 Once done with removing the sticker and attached link, hit the "Send" button. Now choose a Snapchat contact and hit the "Send" button.
@@ -331,6 +337,9 @@ To install and activate the Gboard application and transmit GIFs directly from i
 1. The Communication and Input menu will appear in Preferences.
 2. Choose Gboard from the list of available keyboards.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![gboard-setting2](https://images.wondershare.com/filmora/article-images/gboard-setting2.png)
 
 ### 6.In iOS, how to send gif on snapchat Messages?
@@ -348,6 +357,9 @@ Using the GIPHY keypad on your iPhone, you can share GIFs straight to your pals 
 
 1. All of the newly added keyboards will now be visible. Click the “Add Additional Keyboard” option to add GIPHY.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios-setting3-send-gif](https://images.wondershare.com/filmora/article-images/ios-setting3-send-gif.png)
 
 ![ios-setting4-send-gif](https://images.wondershare.com/filmora/article-images/ios-setting4-send-gif.png)
@@ -651,6 +663,9 @@ Using the GIPHY keypad on your iPhone, you can share GIFs straight to your pals 
 
 1. All of the newly added keyboards will now be visible. Click the “Add Additional Keyboard” option to add GIPHY.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios-setting3-send-gif](https://images.wondershare.com/filmora/article-images/ios-setting3-send-gif.png)
 
 ![ios-setting4-send-gif](https://images.wondershare.com/filmora/article-images/ios-setting4-send-gif.png)
@@ -678,3 +693,44 @@ For macOS 10.12 or later
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktok-bugs-what-if-my-tiktok-not-working/"><u>[Updated] Tiktok Bugs  What If My Tiktok Not Working?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-dance-guide-hottest-moves-and-easy-mastery/"><u>In 2024, TikTok Dance Guide  Hottest Moves & Easy Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[New] Unparalleled Editing Experience  Vimeo Edition Awaits</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-gaming-youtubers-you-should-know/"><u>In 2024, Top 10 Gaming YouTubers You Should Know</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-advertise-on-tiktok-and-best-tiktok-ads-examples/"><u>[Updated] How to Advertise on TikTok and Best TikTok Ads Examples</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-self-assured-vlogging-channeling-youtube-stars/"><u>In 2024, Mastering Self-Assured Vlogging  Channeling YouTube Stars</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/tiktok-foundations-a-complete-users-manual-for-2024/"><u>TikTok Foundations  A Complete User's Manual for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tiktok-bugs-what-if-my-tiktok-not-working/"><u>[New] Tiktok Bugs  What If My Tiktok Not Working?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-your-path-to-success-in-youtubes-earnings-system/"><u>Charting Your Path to Success in YouTube's Earnings System</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-10-tiktok-campaigns-and-how-to-make-a-successful-campaign-for-2024/"><u>Top 10 TikTok Campaigns and How to Make a Successful Campaign for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-groundbre-folio-of-gaming-loggers-alternatives-to-fbx-for-2024/"><u>[Updated] Groundbre Folio of Gaming Loggers Alternatives to FBX for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-craziest-tiktok-games-worth-playing/"><u>[Updated] Top 10 Craziest TikTok Games Worth Playing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insiders-guide-maximizing-windows-11-efficiency/"><u>Insider's Guide  Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-effective-filmmaking-5-top-free-video-tools/"><u>[New] Cost-Effective Filmmaking  5 Top Free Video Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-tiktok-broadcast-chrome-android-iphone-techniques/"><u>2024 Approved  TikTok Broadcast  Chrome, Android, iPhone Techniques</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-change-frame-rate-in-premiere-pro/"><u>Updated 2024 Approved How to Change Frame Rate in Premiere Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-12plus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 12+ 5G Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-food-10-viral-tiktok-food-recipes/"><u>In 2024, Tiktok Food | 10 Viral Tiktok Food Recipes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/all-about-tiktok-anime-dances-songs-memes-and-filters-for-2024/"><u>All About TikTok Anime  Dances, Songs, Memes, and Filters for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-all-about-tiktok-anime-dances-songs-memes-and-filters/"><u>[New] All About TikTok Anime  Dances, Songs, Memes, and Filters</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-tiktok-earnings-gurus-choice-top-6-tools/"><u>2024 Approved  TikTok Earnings Gurus' Choice  Top 6 Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tiktok-creator-fund-how-to-join-it-and-make-money/"><u>[New] TikTok Creator Fund  How to Join It and Make Money</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-hidden-gems-advanced-techniques-for-bokeh/"><u>In 2024, Instagram's Hidden Gems  Advanced Techniques for Bokeh</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-securing-your-facebook-memories-top-5-downloading-methods/"><u>[New] Securing Your Facebook Memories  Top 5 Downloading Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proficient-strategies-for-hyperlink-integration-into-tiktok-profiles/"><u>In 2024, Proficient Strategies for Hyperlink Integration Into TikTok Profiles</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-20-best-tiktok-caption-ideas-to-engage-your-next-audience/"><u>[Updated] 20 Best TikTok Caption Ideas to Engage Your Next Audience</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-music-video-production-companies-for-unforgettable-mvs-for-2024/"><u>Updated Best Music Video Production Companies for Unforgettable MVs for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone X In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-top-10-tiktok-analytics-tools-to-improve-account-performance/"><u>[New] Top 10 Tiktok Analytics Tools to Improve Account Performance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-thriving-through-themes-30plus-unique-biographical-techniques-to-triple-your-views-and-following-on-the-tiktok-filmora-platform/"><u>2024 Approved  Thriving Through Themes  30+ Unique Biographical Techniques to Triple Your Views and Following on the TikTok-Filmora Platform</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tiktok-dance-guide-hottest-moves-and-easy-mastery/"><u>[New] TikTok Dance Guide  Hottest Moves & Easy Mastery</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktok-creator-fund-how-to-join-it-and-make-money/"><u>[Updated] TikTok Creator Fund  How to Join It and Make Money</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/tiktok-app-not-loading-on-chrome-troubleshoot-now-for-2024/"><u>TikTok App Not Loading on Chrome? Troubleshoot Now for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-advertise-on-tiktok-and-best-tiktok-ads-examples/"><u>In 2024, How to Advertise on TikTok and Best TikTok Ads Examples</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-6s-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 6s without Passcode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software-for-2024/"><u>[Updated] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software for 2024</u></a></li>
+</ul></div>

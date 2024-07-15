@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Chuckle Census  Latest Stars and Trends in TikTok Laughter\""
-date: 2024-05-23T01:17:11.778Z
-updated: 2024-05-24T01:17:11.778Z
+date: 2024-07-14T04:48:09.121Z
+updated: 2024-07-15T04:48:09.121Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Chuckle Census: Latest Stars and Trends in TikTok Laughter\""
 excerpt: "\"This Article Describes 2024 Approved: Chuckle Census: Latest Stars and Trends in TikTok Laughter\""
 keywords: "TikTok Laughs,Funny TikToks,Comedy TikTrends,Laughing TikTimeline,Viral TikLaughter,TikTok Chuckle,Trending TikHumor"
-thumbnail: https://www.lifewire.com/thmb/AvFsoKTttswUkdcOQKuJ7hslpaQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/phoneinairplanemode-4cf424c7f7cf4366853c8100d57275cc.jpeg
+thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c64c0456c40360dd20bfbffb.jpeg
 ---
 
 ## Chuckle Census: Latest Stars and Trends in TikTok Laughter
@@ -41,7 +41,7 @@ This trend started out with Khaby Lame, who posted a video during the pandemic w
 
 Zoom meeting mishaps are one of the most hilarious trends that took TikTok by storm. In the initial pandemic phase, people were getting accustomed to the online world where using zoom was a big challenge for a lot of us. Click [here](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1) to see a mishap.
 
-![Zoom Meetings ](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
+![Zoom Meetings](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 2: Zoom Meetings_](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
 
@@ -51,7 +51,7 @@ However, luckily for us, this challenge gave us a lot of hilarious moments as we
 
 A user asked a question, "What’s a video that lives in your head rent-free?"
 
-![Videos that live in your head rent-free ](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
+![Videos that live in your head rent-free](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 3: Videos that live in your head rent-free_](https://www.tiktok.com/@tally%5Fnawrocki/video/6922644131298692357?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6922644131298692357&refer=embed)
 
@@ -113,7 +113,161 @@ If you like funny impersonations, “whatchugotforme” is her handle. So, go fo
 
 Lucas and Marcus Dobre are twin brothers who started a YouTube channel along with their two other brothers. They now have a TikTok account with 38.4 million followers. They make different comedy videos, do fun challenges, and also make vlogs.
 
-![“ID pics vs real life” ](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
+![“ID pics vs real life”](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 9: “ID pics vs real life”_](https://www.tiktok.com/@dobretwins/video/7036149636691938606?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+The credit of their huge following owes to the fact that their content is very enjoyable.
+
+### 5\. Liza Koshy
+
+Liza Koshy is an American actress who gained fame through her YouTube channel. She has a knack for making everything sound funny using her unique facial expressions. She currently has 29.4 million followers on Tiktok.
+
+![Liza Koshy Funny Tiktok](https://images.wondershare.com/filmora/article-images/2022/03/10-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 10: Liza Koshy Funny Tiktok_](https://www.tiktok.com/@lizzza/video/6815669065357495557?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+This is a must-have account on your feed!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 6\. Cole LaBrant
+
+Who doesn’t love wholesome family humor? Well, Cole LaBrant is just the Tiktoker for you. He makes fun and humorous videos with his beautiful wife and daughters. His videos consist of skits, dances, pranks, and a whole lotta cuteness.
+
+![Cole LaBrant Funny Tiktok](https://images.wondershare.com/filmora/article-images/2022/03/11-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 11: Cole LaBrant Funny Tiktok_](https://www.tiktok.com/@thesupercole/video/7059091363891236143?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+He has a following of 21.8 million people, and you should definitely be one of them!
+
+### 7\. Liam Silk
+
+Liam Silk is an 18-year-old influencer who has 6.9 million followers on Tiktok.
+
+![Liam Silk Tiktok Video](https://images.wondershare.com/filmora/article-images/2022/03/12-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 12: Liam Silk Tiktok Video_](https://www.tiktok.com/@liamsilk/video/7071718777985142062?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+His Tiktoks are hilarious and will surely have you rolling on the floor laughing.
+
+### 8\. Adam Waheed
+
+Adam Waheed is a social media celebrity, comedian, and content creator. His Tiktok account has 15.5 million followers. His comedy sketches are hilarious to watch and will surely light up your days.
+
+![Adam Waheed's “An Amazing Experience”](https://images.wondershare.com/filmora/article-images/2022/03/13-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 13: Adam Waheed's “An Amazing Experience”_](https://www.tiktok.com/@adamw/video/7070604075867622702?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+He uses personal experiences and adds humor to them, making them more enjoyable.
+
+### 9\. Daniele LaBelle
+
+Another comedian and social media influencer that you must follow on Tiktok is Daniele LaBelle. He uses his athleticism to create comedy videos that will surely bring a smile to your face.
+
+![If People Slid Instead of Walked Part 5](https://images.wondershare.com/filmora/article-images/2022/03/14-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 14: “If People Slid Instead of Walked Part 5”_](https://www.tiktok.com/@daniel.labelle/video/7071314757545970987?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+He has a follower count of 25.3 million.
+
+### 10\. Khabane Lame
+
+Last but in no way least and a personal favorite is Khabane Lame, AKA “@khaby.lame.” Khaby Lame became famous during the pandemic when he started making fun of life hacks in his videos.
+
+![Khaby Lame’s First Tiktok Video](https://images.wondershare.com/filmora/article-images/2022/03/15-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 15: Khaby Lame’s First Tiktok Video_](https://www.youtube.com/watch?v=P%5FnT4w%5FB550&ab%5Fchannel=frank98)
+
+This became his signature move and gained so much popularity that he is now one of the leading comedians on Tiktok. He now has 31.8k followers on Tiktok.
+
+## Conclusion
+
+Tiktok is an amazing social networking website that provides its users an opportunity to express themselves in a very creative manner with a lot of ease. The main purpose of Tiktok was to give people a platform for enjoyment in the form of short videos, and that is exactly what it did!
+
+[_Figure 1: Khaby Lame Tiktok Video_](https://www.tiktok.com/@khaby.lame/video/7038280908994120966?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
+
+### 2\. Zoom Meeting Mishaps
+
+Zoom meeting mishaps are one of the most hilarious trends that took TikTok by storm. In the initial pandemic phase, people were getting accustomed to the online world where using zoom was a big challenge for a lot of us. Click [here](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1) to see a mishap.
+
+![Zoom Meetings](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 2: Zoom Meetings_](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
+
+However, luckily for us, this challenge gave us a lot of hilarious moments as well. A lot of people hoped on the trend of sharing their hilarious experiences.
+
+### 3\. Videos Living in Your Head Rent Free Trend
+
+A user asked a question, "What’s a video that lives in your head rent-free?"
+
+![Videos that live in your head rent-free](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 3: Videos that live in your head rent-free_](https://www.tiktok.com/@tally%5Fnawrocki/video/6922644131298692357?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6922644131298692357&refer=embed)
+
+The responses to this were hilarious, where people shared all sorts of videos.
+
+### 4\. Good Soup Trend
+
+Apparently, there’s a show out there where Adam Driver comments on a soup that its “good soup.” Well, Tiktokers took that one-liner and made hilarious content out of it.
+
+![Good Soup Trend](https://images.wondershare.com/filmora/article-images/2022/03/4-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 4: Good Soup Trend_](https://www.tiktok.com/@visionsvibraniumpubes/video/6996585199316372737?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6996585199316372737&refer=embed)
+
+### 5\. The He He He Trend
+
+People used this hilarious sound to create funny videos showing people expecting something and then getting something else.
+
+![The He He He Trend](https://images.wondershare.com/filmora/article-images/2022/03/5-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 5: The He He He Trend_](https://www.tiktok.com/@brodalorian/video/7003368478157622534?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=7003368478157622534&refer=embed)
+
+These are some of the fun Tiktok trends that have happened in the past year. You can always hop on any of these trends. Even if these trends have died down, there are always new ones you can try out.
+
+## Top 10 Tiktok Comedy Stars
+
+Now let’s take a look at the top 10 Tiktok comedy stars that you must follow to make the most of your Tiktok experience.
+
+### 1\. Brittany Broski
+
+Brittany Broski is an American Tiktoker who gained her fame in August 2019 after a video of her tasting a kombucha for the first time went viral. She currently has 6.6 million followers on Tiktok and 902k followers on Instagram.
+
+![Brittany Broski](https://images.wondershare.com/filmora/article-images/2022/03/6-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 6: Brittany Broski Funny Tiktok_](https://www.tiktok.com/@brittany%5Fbroski/video/7072213139038948654?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
+
+Her Tiktoks include different funny videos, including videos with a rat filter on, making up scenarios, and doing bits. Her videos have thousands and millions of views showing that she has quite a viewership.
+
+### 2\. Kris Collins
+
+Kris Collins is a Canadian Tiktoker who goes by the handle “kallmekris.” Kris has a following of 43.0 million people. She is famous for her skits, called the Imagine series, where she acts as different characters. She started out with just one or two characters and eventually built a whole lot of characters.
+
+![Kris Collins](https://images.wondershare.com/filmora/article-images/2022/03/7-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 7: Kris Collins “What I Imagine” Series_](https://www.tiktok.com/@kallmekris/video/7065026375144574213?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
+
+The uniqueness of her videos comes from the variety of characters and her dry sense of humor. Thus, making her videos extremely popular.
+
+### 3\. Sarah Cooper
+
+Sarah Cooper is an American author and comedian. Her Tiktok videos consist of lip-syncing. She became famous for her Trump impersonations. She has around 641.6k followers on Tiktok, but most of her videos have views in millions.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![“How to Second Term” Impersonation](https://images.wondershare.com/filmora/article-images/2022/03/8-top-tiktok-comedy-trends-and-stars.png)
+
+[_Figure 8: “How to Second Term” Impersonation_](https://www.tiktok.com/@whatchugotforme/video/6842766585376099589?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
+
+If you like funny impersonations, “whatchugotforme” is her handle. So, go follow her on Tiktok right now!
+
+### 4\. Dobre Twins
+
+Lucas and Marcus Dobre are twin brothers who started a YouTube channel along with their two other brothers. They now have a TikTok account with 38.4 million followers. They make different comedy videos, do fun challenges, and also make vlogs.
+
+![“ID pics vs real life”](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 9: “ID pics vs real life”_](https://www.tiktok.com/@dobretwins/video/7036149636691938606?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
 
@@ -189,7 +343,7 @@ Tiktok is an amazing social networking website that provides its users an opport
 
 Zoom meeting mishaps are one of the most hilarious trends that took TikTok by storm. In the initial pandemic phase, people were getting accustomed to the online world where using zoom was a big challenge for a lot of us. Click [here](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1) to see a mishap.
 
-![Zoom Meetings ](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
+![Zoom Meetings](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 2: Zoom Meetings_](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
 
@@ -199,7 +353,7 @@ However, luckily for us, this challenge gave us a lot of hilarious moments as we
 
 A user asked a question, "What’s a video that lives in your head rent-free?"
 
-![Videos that live in your head rent-free ](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
+![Videos that live in your head rent-free](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 3: Videos that live in your head rent-free_](https://www.tiktok.com/@tally%5Fnawrocki/video/6922644131298692357?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6922644131298692357&refer=embed)
 
@@ -261,12 +415,15 @@ If you like funny impersonations, “whatchugotforme” is her handle. So, go fo
 
 Lucas and Marcus Dobre are twin brothers who started a YouTube channel along with their two other brothers. They now have a TikTok account with 38.4 million followers. They make different comedy videos, do fun challenges, and also make vlogs.
 
-![“ID pics vs real life” ](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
+![“ID pics vs real life”](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 9: “ID pics vs real life”_](https://www.tiktok.com/@dobretwins/video/7036149636691938606?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
 
 The credit of their huge following owes to the fact that their content is very enjoyable.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Liza Koshy
 
 Liza Koshy is an American actress who gained fame through her YouTube channel. She has a knack for making everything sound funny using her unique facial expressions. She currently has 29.4 million followers on Tiktok.
@@ -337,7 +494,7 @@ Tiktok is an amazing social networking website that provides its users an opport
 
 Zoom meeting mishaps are one of the most hilarious trends that took TikTok by storm. In the initial pandemic phase, people were getting accustomed to the online world where using zoom was a big challenge for a lot of us. Click [here](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1) to see a mishap.
 
-![Zoom Meetings ](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
+![Zoom Meetings](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 2: Zoom Meetings_](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
 
@@ -347,12 +504,15 @@ However, luckily for us, this challenge gave us a lot of hilarious moments as we
 
 A user asked a question, "What’s a video that lives in your head rent-free?"
 
-![Videos that live in your head rent-free ](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
+![Videos that live in your head rent-free](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 3: Videos that live in your head rent-free_](https://www.tiktok.com/@tally%5Fnawrocki/video/6922644131298692357?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6922644131298692357&refer=embed)
 
 The responses to this were hilarious, where people shared all sorts of videos.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Good Soup Trend
 
 Apparently, there’s a show out there where Adam Driver comments on a soup that its “good soup.” Well, Tiktokers took that one-liner and made hilarious content out of it.
@@ -409,7 +569,7 @@ If you like funny impersonations, “whatchugotforme” is her handle. So, go fo
 
 Lucas and Marcus Dobre are twin brothers who started a YouTube channel along with their two other brothers. They now have a TikTok account with 38.4 million followers. They make different comedy videos, do fun challenges, and also make vlogs.
 
-![“ID pics vs real life” ](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
+![“ID pics vs real life”](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 9: “ID pics vs real life”_](https://www.tiktok.com/@dobretwins/video/7036149636691938606?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
 
@@ -429,154 +589,9 @@ This is a must-have account on your feed!
 
 Who doesn’t love wholesome family humor? Well, Cole LaBrant is just the Tiktoker for you. He makes fun and humorous videos with his beautiful wife and daughters. His videos consist of skits, dances, pranks, and a whole lotta cuteness.
 
-![Cole LaBrant Funny Tiktok](https://images.wondershare.com/filmora/article-images/2022/03/11-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 11: Cole LaBrant Funny Tiktok_](https://www.tiktok.com/@thesupercole/video/7059091363891236143?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-He has a following of 21.8 million people, and you should definitely be one of them!
-
-### 7\. Liam Silk
-
-Liam Silk is an 18-year-old influencer who has 6.9 million followers on Tiktok.
-
-![Liam Silk Tiktok Video](https://images.wondershare.com/filmora/article-images/2022/03/12-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 12: Liam Silk Tiktok Video_](https://www.tiktok.com/@liamsilk/video/7071718777985142062?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-His Tiktoks are hilarious and will surely have you rolling on the floor laughing.
-
-### 8\. Adam Waheed
-
-Adam Waheed is a social media celebrity, comedian, and content creator. His Tiktok account has 15.5 million followers. His comedy sketches are hilarious to watch and will surely light up your days.
-
-![Adam Waheed's “An Amazing Experience”](https://images.wondershare.com/filmora/article-images/2022/03/13-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 13: Adam Waheed's “An Amazing Experience”_](https://www.tiktok.com/@adamw/video/7070604075867622702?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-He uses personal experiences and adds humor to them, making them more enjoyable.
-
-### 9\. Daniele LaBelle
-
-Another comedian and social media influencer that you must follow on Tiktok is Daniele LaBelle. He uses his athleticism to create comedy videos that will surely bring a smile to your face.
-
-![If People Slid Instead of Walked Part 5](https://images.wondershare.com/filmora/article-images/2022/03/14-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 14: “If People Slid Instead of Walked Part 5”_](https://www.tiktok.com/@daniel.labelle/video/7071314757545970987?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-He has a follower count of 25.3 million.
-
-### 10\. Khabane Lame
-
-Last but in no way least and a personal favorite is Khabane Lame, AKA “@khaby.lame.” Khaby Lame became famous during the pandemic when he started making fun of life hacks in his videos.
-
-![Khaby Lame’s First Tiktok Video](https://images.wondershare.com/filmora/article-images/2022/03/15-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 15: Khaby Lame’s First Tiktok Video_](https://www.youtube.com/watch?v=P%5FnT4w%5FB550&ab%5Fchannel=frank98)
-
-This became his signature move and gained so much popularity that he is now one of the leading comedians on Tiktok. He now has 31.8k followers on Tiktok.
-
-## Conclusion
-
-Tiktok is an amazing social networking website that provides its users an opportunity to express themselves in a very creative manner with a lot of ease. The main purpose of Tiktok was to give people a platform for enjoyment in the form of short videos, and that is exactly what it did!
-
-[_Figure 1: Khaby Lame Tiktok Video_](https://www.tiktok.com/@khaby.lame/video/7038280908994120966?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
-
-### 2\. Zoom Meeting Mishaps
-
-Zoom meeting mishaps are one of the most hilarious trends that took TikTok by storm. In the initial pandemic phase, people were getting accustomed to the online world where using zoom was a big challenge for a lot of us. Click [here](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1) to see a mishap.
-
-![Zoom Meetings ](https://images.wondershare.com/filmora/article-images/2022/03/2-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 2: Zoom Meetings_](https://www.tiktok.com/@jeffyracks/video/6806680007990070534?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
-
-However, luckily for us, this challenge gave us a lot of hilarious moments as well. A lot of people hoped on the trend of sharing their hilarious experiences.
-
-### 3\. Videos Living in Your Head Rent Free Trend
-
-A user asked a question, "What’s a video that lives in your head rent-free?"
-
-![Videos that live in your head rent-free ](https://images.wondershare.com/filmora/article-images/2022/03/3-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 3: Videos that live in your head rent-free_](https://www.tiktok.com/@tally%5Fnawrocki/video/6922644131298692357?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6922644131298692357&refer=embed)
-
-The responses to this were hilarious, where people shared all sorts of videos.
-
-### 4\. Good Soup Trend
-
-Apparently, there’s a show out there where Adam Driver comments on a soup that its “good soup.” Well, Tiktokers took that one-liner and made hilarious content out of it.
-
-![Good Soup Trend](https://images.wondershare.com/filmora/article-images/2022/03/4-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 4: Good Soup Trend_](https://www.tiktok.com/@visionsvibraniumpubes/video/6996585199316372737?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=6996585199316372737&refer=embed)
-
-### 5\. The He He He Trend
-
-People used this hilarious sound to create funny videos showing people expecting something and then getting something else.
-
-![The He He He Trend](https://images.wondershare.com/filmora/article-images/2022/03/5-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 5: The He He He Trend_](https://www.tiktok.com/@brodalorian/video/7003368478157622534?referer%5Furl=https%3A%2F%2Fhotinsocialmedia.com%2F&referer%5Fvideo%5Fid=7003368478157622534&refer=embed)
-
-These are some of the fun Tiktok trends that have happened in the past year. You can always hop on any of these trends. Even if these trends have died down, there are always new ones you can try out.
-
-## Top 10 Tiktok Comedy Stars
-
-Now let’s take a look at the top 10 Tiktok comedy stars that you must follow to make the most of your Tiktok experience.
-
-### 1\. Brittany Broski
-
-Brittany Broski is an American Tiktoker who gained her fame in August 2019 after a video of her tasting a kombucha for the first time went viral. She currently has 6.6 million followers on Tiktok and 902k followers on Instagram.
-
-![Brittany Broski](https://images.wondershare.com/filmora/article-images/2022/03/6-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 6: Brittany Broski Funny Tiktok_](https://www.tiktok.com/@brittany%5Fbroski/video/7072213139038948654?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
-
-Her Tiktoks include different funny videos, including videos with a rat filter on, making up scenarios, and doing bits. Her videos have thousands and millions of views showing that she has quite a viewership.
-
-### 2\. Kris Collins
-
-Kris Collins is a Canadian Tiktoker who goes by the handle “kallmekris.” Kris has a following of 43.0 million people. She is famous for her skits, called the Imagine series, where she acts as different characters. She started out with just one or two characters and eventually built a whole lot of characters.
-
-![Kris Collins](https://images.wondershare.com/filmora/article-images/2022/03/7-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 7: Kris Collins “What I Imagine” Series_](https://www.tiktok.com/@kallmekris/video/7065026375144574213?is%5Fcopy%5Furl=1&is%5Ffrom%5Fwebapp=v1)
-
-The uniqueness of her videos comes from the variety of characters and her dry sense of humor. Thus, making her videos extremely popular.
-
-### 3\. Sarah Cooper
-
-Sarah Cooper is an American author and comedian. Her Tiktok videos consist of lip-syncing. She became famous for her Trump impersonations. She has around 641.6k followers on Tiktok, but most of her videos have views in millions.
-
-![“How to Second Term” Impersonation](https://images.wondershare.com/filmora/article-images/2022/03/8-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 8: “How to Second Term” Impersonation_](https://www.tiktok.com/@whatchugotforme/video/6842766585376099589?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-If you like funny impersonations, “whatchugotforme” is her handle. So, go follow her on Tiktok right now!
-
-### 4\. Dobre Twins
-
-Lucas and Marcus Dobre are twin brothers who started a YouTube channel along with their two other brothers. They now have a TikTok account with 38.4 million followers. They make different comedy videos, do fun challenges, and also make vlogs.
-
-![“ID pics vs real life” ](https://images.wondershare.com/filmora/article-images/2022/03/9-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 9: “ID pics vs real life”_](https://www.tiktok.com/@dobretwins/video/7036149636691938606?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-The credit of their huge following owes to the fact that their content is very enjoyable.
-
-### 5\. Liza Koshy
-
-Liza Koshy is an American actress who gained fame through her YouTube channel. She has a knack for making everything sound funny using her unique facial expressions. She currently has 29.4 million followers on Tiktok.
-
-![Liza Koshy Funny Tiktok](https://images.wondershare.com/filmora/article-images/2022/03/10-top-tiktok-comedy-trends-and-stars.png)
-
-[_Figure 10: Liza Koshy Funny Tiktok_](https://www.tiktok.com/@lizzza/video/6815669065357495557?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
-
-This is a must-have account on your feed!
-
-### 6\. Cole LaBrant
-
-Who doesn’t love wholesome family humor? Well, Cole LaBrant is just the Tiktoker for you. He makes fun and humorous videos with his beautiful wife and daughters. His videos consist of skits, dances, pranks, and a whole lotta cuteness.
-
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cole LaBrant Funny Tiktok](https://images.wondershare.com/filmora/article-images/2022/03/11-top-tiktok-comedy-trends-and-stars.png)
 
 [_Figure 11: Cole LaBrant Funny Tiktok_](https://www.tiktok.com/@thesupercole/video/7059091363891236143?is%5Ffrom%5Fwebapp=1&sender%5Fdevice=pc&web%5Fid7072000409191319041)
@@ -738,3 +753,55 @@ TikTok has made a significant impact on the social media industry. Due to its hi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-toolkit-increase-views-and-engagement/"><u>[Updated] The Ultimate TikTok Toolkit  Increase Views and Engagement</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-thriving-through-themes-30plus-unique-biographical-techniques-to-triple-your-views-and-following-on-the-tiktok-filmora-platform/"><u>2024 Approved  Thriving Through Themes  30+ Unique Biographical Techniques to Triple Your Views and Following on the TikTok-Filmora Platform</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-tiktok-broadcast-chrome-android-iphone-techniques/"><u>2024 Approved  TikTok Broadcast  Chrome, Android, iPhone Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-10-tiktok-campaigns-and-how-to-make-a-successful-campaign-for-2024/"><u>Top 10 TikTok Campaigns and How to Make a Successful Campaign for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-voiceover-playbook/"><u>[Updated] The Ultimate TikTok Voiceover Playbook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tiktok-bugs-what-if-my-tiktok-not-working/"><u>[New] Tiktok Bugs  What If My Tiktok Not Working?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-thumbnails-top-20-fonts-for-stellar-credits/"><u>2024 Approved  YouTube Thumbnails - Top 20 Fonts for Stellar Credits</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-this-weeks-hot-tiktok-trends-for-you/"><u>[New] This Week’s Hot TikTok Trends for You</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-viral-feast-top-15-easy-innovative-tiktok-dishes/"><u>[Updated] The Viral Feast  Top 15 Easy, Innovative TikTok Dishes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-ultimate-tiktok-book-list-for-every-genre-lover/"><u>In 2024, The Ultimate TikTok Book List for Every Genre Lover</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-tiktok-voice-alteration-steps/"><u>[New] The Ultimate TikTok Voice Alteration Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-10-must-have-tech-gadgets-for-seamless-video-meetings/"><u>[Updated] 2024 Approved  10 Must-Have Tech Gadgets for Seamless Video Meetings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-advertise-on-tiktok-and-best-tiktok-ads-examples/"><u>[Updated] How to Advertise on TikTok and Best TikTok Ads Examples</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-earning-by-critiquing-goodies-a-youtube-guide/"><u>[New] 2024 Approved  Earning by Critiquing Goodies  A YouTube Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-your-preferred-language-on-steam-platform/"><u>Change Your Preferred Language on Steam Platform</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-dance-guide-hottest-moves-and-easy-mastery/"><u>In 2024, TikTok Dance Guide  Hottest Moves & Easy Mastery</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>[Updated] The Ultimate TikTok Playbook  Driving View Growth and Engagement</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktok-creator-fund-how-to-join-it-and-make-money/"><u>[Updated] TikTok Creator Fund  How to Join It and Make Money</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-tiktok-video-locker-free-and-clear/"><u>[New] The Ultimate TikTok Video Locker - FREE & Clear</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-path-to-flawless-film-recording-device-agnostic-guide/"><u>[Updated] In 2024, The Path to Flawless Film Recording  Device Agnostic Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-20-best-tiktok-caption-ideas-to-engage-your-next-audience/"><u>[Updated] 20 Best TikTok Caption Ideas to Engage Your Next Audience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pathway-to-pinnacle-chromatic-precision/"><u>The Pathway to Pinnacle Chromatic Precision</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-strategy-for-a-wider-reach-tips-for-using-tiktok-hashtags/"><u>[New] The Ultimate Strategy for a Wider Reach  Tips for Using TikTok Hashtags</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-all-about-tiktok-anime-dances-songs-memes-and-filters/"><u>[New] All About TikTok Anime  Dances, Songs, Memes, and Filters</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-thriving-through-themes-30plus-unique-biographical-techniques-to-triple-your-views-and-following-on-the-tiktok-filmora-platform/"><u>In 2024, Thriving Through Themes  30+ Unique Biographical Techniques to Triple Your Views and Following on the TikTok-Filmora Platform</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-demystifying-jazz-understanding-its-core-concepts-and-styles/"><u>2024 Approved Demystifying Jazz Understanding Its Core Concepts and Styles</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktok-bugs-what-if-my-tiktok-not-working/"><u>[Updated] Tiktok Bugs  What If My Tiktok Not Working?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/all-about-tiktok-anime-dances-songs-memes-and-filters-for-2024/"><u>All About TikTok Anime  Dances, Songs, Memes, and Filters for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-voice-alteration-steps/"><u>[Updated] The Ultimate TikTok Voice Alteration Steps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-unsung-heros-guide-to-tiktok-live-participation/"><u>[New] The Unsung Hero's Guide to TikTok Live Participation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>2024 Approved  The Ultimate TikTok Playbook  Driving View Growth and Engagement</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-advertise-on-tiktok-and-best-tiktok-ads-examples/"><u>In 2024, How to Advertise on TikTok and Best TikTok Ads Examples</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-viral-feast-top-15-easy-innovative-tiktok-dishes/"><u>2024 Approved  The Viral Feast  Top 15 Easy, Innovative TikTok Dishes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-top-10-tiktok-analytics-tools-to-improve-account-performance/"><u>[New] Top 10 Tiktok Analytics Tools to Improve Account Performance</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial-for-2024/"><u>[New] Step-by-Step to Smiles and Laughter  Your Snapchat Gif Tutorial for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/tiktok-app-not-loading-on-chrome-troubleshoot-now-for-2024/"><u>TikTok App Not Loading on Chrome? Troubleshoot Now for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-moneysmart-cumulus-storage-scaling-files-economically/"><u>[New] MoneySmart Cumulus Storage - Scaling Files Economically</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-customization-playbook/"><u>[Updated] The Ultimate TikTok Customization Playbook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-tiktok-emoji-guide-discover-top-7-plus-clandestine-icons/"><u>[Updated] The Ultimate TikTok Emoji Guide – Discover Top 7 + Clandestine Icons</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-vibrant-sphere-of-tiktok-animation-and-memes/"><u>2024 Approved  The Vibrant Sphere of TikTok Animation & Memes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-thread-through-time-traditional-stitches-on-modern-platforms/"><u>2024 Approved  Thread Through Time  Traditional Stitches on Modern Platforms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-strategy-for-a-wider-reach-tips-for-using-tiktok-hashtags/"><u>[Updated] The Ultimate Strategy for a Wider Reach  Tips for Using TikTok Hashtags</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-tiktok-book-list-for-every-genre-lover/"><u>[New] The Ultimate TikTok Book List for Every Genre Lover</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tiktok-creator-fund-how-to-join-it-and-make-money/"><u>[New] TikTok Creator Fund  How to Join It and Make Money</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-viral-trend-you-need-to-try-here-it-is/"><u>In 2024, The Viral Trend You Need to Try - Here It Is</u></a></li>
+</ul></div>

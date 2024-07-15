@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Laying Down an Elegant TikTok Credits Panel"
-date: 2024-06-23T05:44:07.063Z
-updated: 2024-06-24T05:44:07.063Z
+date: 2024-07-14T05:05:58.308Z
+updated: 2024-07-15T05:05:58.308Z
 tags:
   - ai video
   - ai tiktok
@@ -44,6 +44,9 @@ Here are a few basic elements to include in your outro to keep people engaged:
 * **Your Social Media Channels:** Let people know where they can find you on other social media platforms so they can connect with you outside of TikTok. This is a great way to build relationships with your viewers.
 * **Use Stunning Visuals:** Usually, viewers skip outros just like any movie credits showing on a black screen with names on it. However, if you try to create a short TikTok outro with stunning visuals, impressive background sound, and a bit of flair, you are bound to get more followers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Make an Advanced Good Outro?
 
 If you want your TikTok video to go viral, you are required to have a good outro, meaning that you need to have a format that is consistent with the main body of your video, a length that is appropriate, and a call to action that is effective.
@@ -77,6 +80,9 @@ Follow the instructions below to **create some great outros for your TikTok** ac
 
 Step1 First, launch a browser on your PC, visit the official [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website and download the software version for your Mac or Windows operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download and install wondershare filmora software](https://images.wondershare.com/filmora/article-images/2022/11/download-and-install-wondershare-filmora-software.png)
 
 Step2 Install the software on your PC, launch it, click the **New Project** option on the main dashboard, and use the **"Click here to import Media"** option or drag and drop your file to import it.
@@ -233,6 +239,9 @@ Launch Filmora on your Windows PC or Mac, and then import the video to the timel
 
 Go to **Effects** and then select the **AI Portrait** to see all of the AI Portrait effects. Move the human segmentation effect to the video timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add human segmentation to remove tiktok video background](https://images.wondershare.com/filmora/article-images/add-human-segmentation-filmora.jpg)
 
 **Step 3: Adjust the Effect Setting (Optional)**
@@ -281,6 +290,9 @@ You can choose any image from your phone's gallery to utilize it as your backgro
 
 Note: Apart from selecting your own picture, you can choose from different effects available, including the titled background or AR (augmented reality) features.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Get a Green Screen Background from Someone's TikTok?
 
 TikTok recently introduced a fantastic feature to customize or alter your video’s background without even looking for the green screen filter on your own. The “Green Screen Duet Feature.” This feature also lets users apply another person’s video as the background.
@@ -453,6 +465,9 @@ Launch the TikTok application, log in to your account and tap the + button to ca
 
 Select rear or front camera when directed to video recording window. Choose **effects** at the bottom-right of the screen. From the available options, look for the green screen option and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![add green screen effects in TikTok](https://images.wondershare.com/filmora/article-images/add-green-screen-effect-tiktok-remove-background.jpg)
 
 **Step 3:: Select the Image to change video background**
@@ -542,3 +557,70 @@ To lure the viewer's attention, there is always a necessity to create visual and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/unraveling-the-mystery-what-does-pfp-mean-in-tiktok-in-2024/"><u>Unraveling the Mystery  What Does PFP Mean in TikTok, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-integration-mac-recording-techniques-for-snapchat/"><u>[Updated] Seamless Integration  Mac Recording Techniques for Snapchat</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unusual-upsets-top-10-unexpected-gaming-sensations-on-tiktok/"><u>[Updated] Unusual Upsets  Top 10 Unexpected Gaming Sensations on TikTok</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-weave-wisdom-mastering-looms-screen-capture/"><u>In 2024, Weave Wisdom  Mastering Loom’s Screen Capture</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unveiling-the-path-to-tiktok-on-your-macbook/"><u>2024 Approved  Unveiling the Path to TikTok on Your MacBook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-tips-installing-vrecorder/"><u>[Updated] 2024 Approved  Essential Tips  Installing VRecorder</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/budget-video-editing-made-simple-with-vimeo-free-service/"><u>Budget Video Editing Made Simple with Vimeo Free Service</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unraveling-the-favorites-15-top-rated-books-in-booktoks-limelight/"><u>In 2024, Unraveling the Favorites  15 Top-Rated Books in BookTok’s Limelight</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unraveling-the-mystery-of-hidden-tiktok-penalties/"><u>[Updated] Unraveling the Mystery of Hidden TikTok Penalties</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-role-of-cdn-in-reducing-web-page-load-times/"><u>[Updated] 2024 Approved  The Role of CDN in Reducing Web Page Load Times</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-5-cinematiccamera-tips/"><u>2024 Approved  Top 5 Cinematic/Camera Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-choosing-the-right-format-boosting-your-youtube-videos-performance/"><u>[Updated] Choosing the Right Format – Boosting Your YouTube Videos’ Performance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveil-authenticity-premier-marker-eraser-tools/"><u>In 2024, Unveil Authenticity  Premier Marker Eraser Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fastest-audio-playback-speed-controlers-collection/"><u>[Updated] Fastest Audio Playback Speed Controlers Collection</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-similarities-and-divergences-in-triller-and-tiktok-max-156-chars/"><u>[Updated] Unveiling Similarities & Divergences in Triller and TikTok (Max 156 Chars)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unraveling-the-mystery-of-a-frozen-tiktok-app-on-chrome/"><u>In 2024, Unraveling the Mystery of a Frozen TikTok App on Chrome</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-essence-of-tiktok-movement-sound-and-humor/"><u>[Updated] Unveiling the Essence of TikTok  Movement, Sound, and Humor</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveiling-the-art-of-reshaping-your-tiktok-avatar/"><u>In 2024, Unveiling the Art of Reshaping Your TikTok Avatar</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/bokeh-beauty-tips-for-engaging-instagram-stories-for-2024/"><u>Bokeh Beauty Tips for Engaging Instagram Stories for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unmissable-fun-with-todays-viral-tiktok-trials/"><u>In 2024, Unmissable Fun with Today’s Viral TikTok Trials</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-p55plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel P55+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-a-guide-to-filing-reports-against-misconduct-for-2024/"><u>[Updated] Mastering Discord  A Guide to Filing Reports Against Misconduct for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-arrange-content-in-youtube-media/"><u>2024 Approved  Strategies to Arrange Content in YouTube Media</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-10-best-tiktok-reaction-videos/"><u>[Updated] Unveiling the 10 Best TikTok Reaction Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unraveling-the-meaning-and-purpose-of-tiktoks-pfp/"><u>[Updated] Unraveling the Meaning and Purpose of TikTok’s PFP</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unmatched-visual-appeal-top-5-tools-for-enhancing-your-tiktok-texts/"><u>In 2024, Unmatched Visual Appeal  Top 5 Tools for Enhancing Your TikTok Texts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unraveling-tiktoks-symbolic-use-of-pfp/"><u>2024 Approved  Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-usenet-video-player-direct-streaming-access/"><u>[New] Usenet Video Player  Direct Streaming Access</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-credentials-on-youtube-for-2024/"><u>Checking Credentials on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unusual-upsets-top-10-unexpected-gaming-sensations-on-tiktok/"><u>[New] Unusual Upsets  Top 10 Unexpected Gaming Sensations on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveiling-the-hottest-books-on-social-medias-reading-stage/"><u>In 2024, Unveiling the Hottest Books on Social Media's Reading Stage</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unraveling-the-secrets-behind-tiktoks-pfp-emoji-for-2024/"><u>Unraveling the Secrets Behind TikTok's PFP Emoji for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-magic-of-clear-audio-eliminating-ambient-noises-using-audacity-for-2024/"><u>Unveiling the Magic of Clear Audio  Eliminating Ambient Noises Using Audacity for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unveiling-the-essence-of-tiktok-movement-sound-and-humor/"><u>2024 Approved  Unveiling the Essence of TikTok  Movement, Sound, and Humor</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveil-authenticity-premier-marker-eraser-tools/"><u>[Updated] Unveil Authenticity  Premier Marker Eraser Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-finding-best-gif-websites-is-easy-as-pie-for-2024/"><u>New Finding Best GIF Websites Is Easy as Pie for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unplanned-tiktok-refresh-can-i-regain-previous-views/"><u>In 2024, Unplanned TikTok Refresh  Can I Regain Previous Views?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-enthralling-realm-of-animated-entertainment-on-tiktok/"><u>[Updated] Unveiling the Enthralling Realm of Animated Entertainment on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unplanned-tiktok-refresh-can-i-regain-previous-views/"><u>[Updated] Unplanned TikTok Refresh  Can I Regain Previous Views?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveiling-the-secrets-to-premium-tiktok-advertising/"><u>In 2024, Unveiling the Secrets to Premium TikTok Advertising</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unraveling-tiktoks-pfp-the-ultimate-explanation/"><u>2024 Approved  Unraveling TikTok's PFP  The Ultimate Explanation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-full-screen-recorders-windows-and-macos-version/"><u>[New] In 2024, Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unraveling-15-trendy-tiktok-stunts-today/"><u>[Updated] Unraveling 15 Trendy TikTok Stunts Today</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unraveling-the-wonders-of-tiktok-written-language-filters-for-2024/"><u>Unraveling the Wonders of TikTok' Written Language (Filters) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>[Updated] Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>[New] M1 Innovation  Elevating Smoothness in Every Editor's Toolkit</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unveiling-the-magic-of-clear-audio-eliminating-ambient-noises-using-audacity/"><u>[New] Unveiling the Magic of Clear Audio  Eliminating Ambient Noises Using Audacity</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-essence-of-tiktok-movement-sound-and-humor-for-2024/"><u>Unveiling the Essence of TikTok  Movement, Sound, and Humor for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-path-to-tiktok-on-your-macbook/"><u>[Updated] Unveiling the Path to TikTok on Your MacBook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 7 Plus Safe and Legal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-joke-makers-haven-get-it-today/"><u>2024 Approved  Joke Makers' Haven - Get It Today</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unveiling-the-enthralling-realm-of-animated-entertainment-on-tiktok/"><u>[New] Unveiling the Enthralling Realm of Animated Entertainment on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-hidden-gems-of-tiktok-elements-for-creators-for-2024/"><u>Unveiling the Hidden Gems of TikTok Elements for Creators for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-secrets-of-superior-tiktok-captions-top-5-strategies-for-2024/"><u>Unveiling the Secrets of Superior TikTok Captions (Top 5 Strategies) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/add-stylish-text-to-videos/"><u>Add Stylish Text to Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x80072f8f-0x20000-in-windows/"><u>Troubleshooting Error 0X80072f8f - 0X20000 in Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unmissable-hot-tiktok-gadgets-you-can-find-on-amazon/"><u>[Updated] Unmissable Hot TikTok Gadgets You Can Find on Amazon</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unmissable-fun-top-10-must-do-tiktoks-for-2024/"><u>Unmissable Fun  Top 10 Must-Do TikToks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/balancing-focus-zooming-tips-for-clear-instagram-stories/"><u>Balancing Focus  Zooming Tips for Clear Instagram Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visionhd-video-streamer/"><u>[Updated] VisionHD Video Streamer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unveiling-the-hottest-books-on-social-medias-reading-stage/"><u>[New] Unveiling the Hottest Books on Social Media's Reading Stage</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Become a TikTok Wizard  Essential Guide for Mac and Windows Users\""
-date: 2024-05-23T01:15:35.546Z
-updated: 2024-05-24T01:15:35.546Z
+date: 2024-07-14T04:47:17.476Z
+updated: 2024-07-15T04:47:17.476Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Become a TikTok Wizard: Essential Guide for Mac and Windows Users\""
 excerpt: "\"This Article Describes 2024 Approved: Become a TikTok Wizard: Essential Guide for Mac and Windows Users\""
 keywords: "TikTok Mastery Basics,Learn TikTok Tricks,TikTok on PC/Mac,Essential TikTok Skills,Mac TikTok Guide,Windows TikTok Tips,Mastering TikTok Apps"
-thumbnail: https://www.lifewire.com/thmb/5-m_1GYRxGAFct79OSVOEiWVtWM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/new-apple-tv-4k-console-device-against-yellow-background-1140205622-2a35a59f75d34f95b8395268d53950b0.jpg
+thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec74141e34200890076f60dc1f.jpg
 ---
 
 ## Become a TikTok Wizard: Essential Guide for Mac and Windows Users
@@ -257,6 +257,9 @@ Undoubtedly, TikTok is a trending app nowadays. It does not just let you share y
 
 Yes, you heard that right! You can download TikTok or any other Android application using the emulator BlueStacks. However, at the moment, the TikTok app is only available for smartphones, which means that you can't use it from a computer. However, you can install the BlueStacks emulator that lets you use apps from the Google Play Store on Windows and Mac operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download TikTok on Computer](https://images.wondershare.com/filmora/article-images/download-tiktok-on-computer.jpg)
 
 Installing BlueStacks might be slightly complicated, so in this article, we are going to take you through the installation process of this emulator, and we'll show you how to install **TikTok on PC and Mac**. Let's have a look at how you can use TikTok on computers.
@@ -275,6 +278,9 @@ Installing BlueStacks might be slightly complicated, so in this article, we are 
 
 ## The Fastest Way to Download TikTok on Your Laptops
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
@@ -387,10 +393,16 @@ Installing BlueStacks might be slightly complicated, so in this article, we are 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Fastest Way to Download TikTok on Your Laptops
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
 This method is probably the fastest way to download TikTok because you don't have to download any emulator. Actually, all you have to do is add a free extension to Google Chrome - [**Mobile TikTok & Downloader**](https://chrome.google.com/webstore/detail/mobile-tiktok-downloader/jdjgnjieephgfljfnfplfebalfecmghl?hl=en), so that you can swipe through the trendiest videos, explore various kinds of sounds, find the most popular hashtags, and more.
@@ -435,6 +447,9 @@ TikTok offers an easy and fun way to create short music videos that have cool fi
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q1\. What is an Emulator?
 
 In computing, emulator is a software or hardware that makes your computer system act like another system. For example, there were previously famous PlayStation 1 emulators, which allowed users to play PS1 games on their PCs. Likewise, having an Android emulator on your desktop or laptop will enable you to download and run mobile applications on your system.
@@ -528,7 +543,7 @@ Step 1: Get the TikTok app installed on your gadget.
 
 Step 2: Open the app and look for the video that you want to duet. Hit the share button and choose the duet option from the bottom of the screen. Now start recording your own video while the selected video is automatically playing on another side of the screen.
 
-![ Make Duet video in TikTok ](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
+![Make Duet video in TikTok](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
 
 Step 3: Now you can modify your video by adding interesting stickers and special effects available in the TikTok app. Choose a cover for your recorded video and hit the next button. Finally hit post button to share your split-screen video.
 
@@ -603,7 +618,7 @@ Step 1: Get the TikTok app installed on your gadget.
 
 Step 2: Open the app and look for the video that you want to duet. Hit the share button and choose the duet option from the bottom of the screen. Now start recording your own video while the selected video is automatically playing on another side of the screen.
 
-![ Make Duet video in TikTok ](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
+![Make Duet video in TikTok](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
 
 Step 3: Now you can modify your video by adding interesting stickers and special effects available in the TikTok app. Choose a cover for your recorded video and hit the next button. Finally hit post button to share your split-screen video.
 
@@ -678,7 +693,7 @@ Step 1: Get the TikTok app installed on your gadget.
 
 Step 2: Open the app and look for the video that you want to duet. Hit the share button and choose the duet option from the bottom of the screen. Now start recording your own video while the selected video is automatically playing on another side of the screen.
 
-![ Make Duet video in TikTok ](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
+![Make Duet video in TikTok](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
 
 Step 3: Now you can modify your video by adding interesting stickers and special effects available in the TikTok app. Choose a cover for your recorded video and hit the next button. Finally hit post button to share your split-screen video.
 
@@ -753,7 +768,7 @@ Step 1: Get the TikTok app installed on your gadget.
 
 Step 2: Open the app and look for the video that you want to duet. Hit the share button and choose the duet option from the bottom of the screen. Now start recording your own video while the selected video is automatically playing on another side of the screen.
 
-![ Make Duet video in TikTok ](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
+![Make Duet video in TikTok](https://images.wondershare.com/filmora/article-images/tiktok-duet-video.jpg)
 
 Step 3: Now you can modify your video by adding interesting stickers and special effects available in the TikTok app. Choose a cover for your recorded video and hit the next button. Finally hit post button to share your split-screen video.
 
@@ -810,3 +825,70 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/master-the-art-of-age-precision-on-tiktok-for-2024/"><u>Master the Art of Age Precision on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expert-tips-for-broadcasting-on-tiktok-via-computer/"><u>In 2024, Expert Tips for Broadcasting on TikTok Via Computer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expert-tips-for-adding-audio-to-your-tiktok-creations/"><u>In 2024, Expert Tips for Adding Audio to Your TikTok Creations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smooth-decline-techniques-for-controlled-audio-reduction/"><u>[Updated] Smooth Decline Techniques for Controlled Audio Reduction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-freelancers-dream-top-free-3d-text-psd-arsenal/"><u>In 2024, Freelancer’s Dream  Top FREE 3D Text PSD Arsenal</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-15-funny-jokes-on-tiktok-for-giggles-for-2024/"><u>[New] 15 Funny Jokes on TikTok for Giggles for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-these-10-no-cost-tiktok-edits-on-mac-os-x/"><u>[New] Explore These 10 No-Cost TikTok Edits on Mac OS X</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-expertly-selected-10-windows-apps-for-tiktok-videography/"><u>[Updated] Expertly Selected 10 Windows Apps for TikTok Videography</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/exploring-the-freshest-tiktok-challenges-for-2024/"><u>Exploring the Freshest TikTok Challenges for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-jitters-to-silk-stabilizing-your-footage-in-fcpx-for-2024/"><u>From Jitters to Silk Stabilizing Your Footage in FCPX for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-discord-live-broadcasts/"><u>[New] The Ultimate Guide to Discord Live Broadcasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-local-printer-service-unavailable-on-pc/"><u>[ERROR] Local Printer Service Unavailable on PC</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expertly-selected-10-windows-apps-for-tiktok-videography/"><u>In 2024, Expertly Selected 10 Windows Apps for TikTok Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-elite-discover-the-leading-25-influential-souls-for-2024/"><u>[New] The Instagram Elite  Discover the Leading 25 Influential Souls for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/expert-selection-of-pc-friendly-video-editors-for-tiktok-for-2024/"><u>Expert Selection of PC-Friendly Video Editors for TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-next-level-tiktok-edits-with-simple-background-swapping-techniques/"><u>[New] Explore Next-Level TikTok Edits with Simple Background Swapping Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f54-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F54 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expert-strategies-for-keeping-tiktok-videos-available/"><u>In 2024, Expert Strategies for Keeping TikTok Videos Available</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[New] Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>In 2024, Selecting Your Perfect VR Experience  Mobile Vs. Tethered Options</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unveiling-booktiks-must-read-masterpieces-a-reading-delight/"><u>[Updated] 2024 Approved  Unveiling #Booktik's Must-Read Masterpieces  A Reading Delight</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-reviewing-efectum-app-and-the-best-alternatives-for-smartphone-users-for-2024/"><u>New Reviewing Efectum App and The Best Alternatives for Smartphone Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-transferring-audio-from-video-files-across-various-operating-systems-and-devices/"><u>Updated 2024 Approved The Ultimate Guide to Transferring Audio From Video Files Across Various Operating Systems and Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-discover-the-ultimate-64-bit-video-editor-for-windows/"><u>New 2024 Approved Discover the Ultimate 64-Bit Video Editor for Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-exploring-the-dynamic-world-of-tiktok-creativity/"><u>[Updated] Exploring the Dynamic World of TikTok Creativity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-handheld-happiness-advanced-mounting-solutions/"><u>2024 Approved  Handheld Happiness  Advanced Mounting Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-check-who-unfollowed-me-on-instagram/"><u>2024 Approved  How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-explore-the-best-10-tiktok-video-editing-apps-for-mac-users-free/"><u>[Updated] Explore the Best 10 TikTok Video Editing Apps for Mac Users (FREE)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-explore-these-10-unique-tiktok-video-effects/"><u>2024 Approved  Explore These 10 Unique TikTok Video Effects</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/synchronizing-videos-can-be-hectic-but-do-you-wish-to-know-a-good-tool-for-this-purpose-this-article-will-discuss-wondershare-filmora-which-is-perfect-for-t/"><u>Synchronizing Videos Can Be Hectic, but Do You Wish to Know a Good Tool for This Purpose? This Article Will Discuss Wondershare Filmora, Which Is Perfect for This</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-explore-20-most-shared-rap-tracks-on-social-media/"><u>In 2024, Explore  20 Most Shared Rap Tracks on Social Media</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-explore-and-snap-downloads-of-tiktok-videos/"><u>2024 Approved  Explore and Snap Downloads of TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/experts-blueprint-to-mastering-tiktok-icons-and-triggers-for-2024/"><u>Expert's Blueprint to Mastering TikTok Icons and Triggers for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/expertly-selected-10-windows-apps-for-tiktok-videography-for-2024/"><u>Expertly Selected 10 Windows Apps for TikTok Videography for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/expert-level-converter-tiktok-videos-to-high-quality-mp4-for-2024/"><u>Expert-Level Converter  TikTok Videos to High-Quality MP4 for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-experts-blueprint-to-mastering-tiktok-icons-and-triggers/"><u>[New] Expert's Blueprint to Mastering TikTok Icons and Triggers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-explore-amazons-hot-tiktok-products-that-cant-be-missed/"><u>2024 Approved  Explore Amazon's Hot TikTok Products That Can’t Be Missed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-5-non-twitter-social-sites/"><u>[New] In 2024, Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expert-strategies-for-thriving-in-the-desktop-tiktok-ecosystem/"><u>In 2024, Expert Strategies for Thriving in the Desktop TikTok Ecosystem</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-chronicles-the-hidden-viewer/"><u>[New] In 2024, FB Chronicles  The Hidden Viewer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-novel-tiktok-profile-features-to-elevate-your-status/"><u>[New] Explore Novel TikTok Profile Features to Elevate Your Status</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-exploring-methods-for-rapid-tiktok-editing/"><u>[New] Exploring Methods for Rapid TikTok Editing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-explore-novel-tiktok-profile-features-to-elevate-your-status/"><u>In 2024, Explore Novel TikTok Profile Features to Elevate Your Status</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-ditch-adobe-10-free-and-paid-linux-video-editors-youll-love/"><u>New 2024 Approved Ditch Adobe 10 Free and Paid Linux Video Editors Youll Love</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/expert-techniques-to-download-tiktoks-without-apple-watermarks-for-2024/"><u>Expert Techniques to Download TikToks without Apple Watermarks for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-expert-techniques-to-download-tiktoks-without-apple-watermarks/"><u>In 2024, Expert Techniques to Download TikToks without Apple Watermarks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-live-to-recorded-your-path-to-maccam-skills/"><u>2024 Approved  From Live to Recorded  Your Path to MacCam Skills</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/exploring-options-a-treasure-hunt-for-your-tiktok-symbol-for-2024/"><u>Exploring Options  A Treasure Hunt for Your TikTok Symbol for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mac-users-adding-the-social-app-snapchat/"><u>[Updated] 2024 Approved  Mac Users  Adding the Social App Snapchat</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-explore-the-top-20-trending-tiktok-dancing-patterns/"><u>2024 Approved  Explore the Top 20 Trending TikTok Dancing Patterns</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-explore-tiktoks-charms-7-most-popular-emojis-and-their-secrets-revealed/"><u>[Updated] Explore TikTok's Charms  #7 Most Popular Emojis and Their Secrets Revealed</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-exploring-the-freshest-tiktok-challenges/"><u>In 2024, Exploring the Freshest TikTok Challenges</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[New] Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>2024 Approved  Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-techniques-for-crafting-efficient-thumbnails/"><u>[Updated] 2024 Approved  Essential Techniques for Crafting Efficient Thumbnails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>Ideas Aplenty  Crafting Inspirational Photographic Mosaics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-exploring-the-creme-de-la-creme-of-android-mobas-10/"><u>[Updated] In 2024, Exploring the Crème De La Crème of Android MOBAs (#10)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-amplify-facebook-stories-with-music-elements/"><u>How to Amplify Facebook Stories with Music Elements</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-expert-guide-to-tiktoks-must-have-elements/"><u>[Updated] Expert Guide to TikTok's Must-Have Elements</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-explore-affordable-mac-video-editing-tools-tiktok-edition/"><u>2024 Approved  Explore Affordable Mac Video Editing Tools (TikTok Edition)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-explore-and-snap-downloads-of-tiktok-videos/"><u>In 2024, Explore and Snap Downloads of TikTok Videos</u></a></li>
+</ul></div>

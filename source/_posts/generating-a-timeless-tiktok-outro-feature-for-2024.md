@@ -1,7 +1,7 @@
 ---
 title: "Generating a Timeless TikTok Outro Feature for 2024"
-date: 2024-06-08T06:02:12.363Z
-updated: 2024-06-09T06:02:12.363Z
+date: 2024-07-14T04:51:14.906Z
+updated: 2024-07-15T04:51:14.906Z
 tags:
   - ai video
   - ai tiktok
@@ -35,6 +35,9 @@ Basically, the outro is the last thing your viewers will see, so it's important 
 
 ![outros template](https://images.wondershare.com/filmora/article-images/2022/11/outros-template.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Elements of an Outro
 
 Here are a few basic elements to include in your outro to keep people engaged:
@@ -119,6 +122,9 @@ Follow the instructions below to **create some great outros for your TikTok** ac
 
 Step1 First, launch a browser on your PC, visit the official [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website and download the software version for your Mac or Windows operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download and install wondershare filmora software](https://images.wondershare.com/filmora/article-images/2022/11/download-and-install-wondershare-filmora-software.png)
 
 Step2 Install the software on your PC, launch it, click the **New Project** option on the main dashboard, and use the **"Click here to import Media"** option or drag and drop your file to import it.
@@ -171,7 +177,7 @@ How to get that **TikTok Big Head** effect? Would you like to make your head loo
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -291,7 +297,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -411,7 +417,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -487,6 +493,9 @@ For macOS 10.12 or later
 
 In the Effects tab, go to the **Recommended** category, and then you will see the magnify effect. Drag and drop it to the timeline above the video track, and you will see part of the video has been magnified accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add magnify effect tiktok video](https://images.wondershare.com/filmora/article-images/add-magnify-effect-tiktok-video.jpg)
 
 Now, double click on the effect in the timeline and open the Properties of the magnify effect. From the Properties section, you can adjust the size of the bubble using functions such as the Radius, CenterY, CenterX, Alpha, Zoom rate, etc to get a better video with big head effects.
@@ -531,7 +540,7 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
-03 [ How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\] ](#part3)
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -621,6 +630,9 @@ Besides adding magnify effects and bubblehead effects, you can also use the mask
 
 Drag and drop the video to video track 1 and video track 2 respectively in Filmora. Then go to the **Effect** tab, and scroll down to the **Utility** category, and place the Image Mask effect to the video above. Or, you can type _image mask_ in the search bar to locate it quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add image mask to tiktok video](https://images.wondershare.com/filmora/article-images/add-image-mask-to-tiktok-video.jpg)
 
 Now, double-click the video with the image mask to adjust the properties. Scroll down to the Video Effects field, and you will see the Image Mask. Click the arrow icon to choose a mask preset, adjust its position and size settings to fit the video.
@@ -629,6 +641,9 @@ Tips: You can hide the video in track 1 by clicking the eye icon so you can adju
 
 Next, click the video in track 2 again, and then go to the **Transform** tab, use the **Scale** slider to adjust the video size to make a big head effect.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust scale to make big head](https://images.wondershare.com/filmora/article-images/adjust-scale-to-make-big-head.jpg)
 
 Watch the video tutorial below to find out how to use the Image Mask effect to create a video with a big head effect in Filmora.
@@ -664,3 +679,45 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-concluding-steps-for-an-irremediable-tiktok-account-termination/"><u>2024 Approved  Concluding Steps for an Irremediable TikTok Account Termination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-form-the-journey-of-a-text-into-3d/"><u>[New] From Flat to Form  The Journey of a Text Into 3D</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-comedic-climb-tracking-the-rise-of-laughter-artists-on-tiktok/"><u>[Updated] Comedic Climb  Tracking the Rise of Laughter Artists on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-circumventing-tiktoks-obscured-blockades/"><u>[Updated] Circumventing TikTok's Obscured Blockades</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-comical-couture-innovative-trends-in-tiktok-comedy/"><u>2024 Approved  Comical Couture  Innovative Trends in TikTok Comedy</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-compreeved-list-of-top-10-pc-based-tiktok-creators/"><u>[New] Compreeved List of Top 10 PC-Based TikTok Creators</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-use-luts-in-premiere-pro/"><u>In 2024, How to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-complete-tiktok-video-stitching-made-simple/"><u>2024 Approved  Complete TikTok Video Stitching Made Simple</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-introducing-the-essence-of-motion-blur-techniques-on-iphone/"><u>[Updated] Introducing the Essence of Motion-Blur Techniques on iPhone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/composing-the-ideal-tiktok-closure-melody-for-2024/"><u>Composing the Ideal TikTok Closure Melody for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-circumventing-tiktoks-obscured-blockades/"><u>In 2024, Circumventing TikTok's Obscured Blockades</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo A79 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-imagination-vr-powered-movies/"><u>Beyond Imagination  VR-Powered Movies</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-comprehensive-steps-for-achieving-excellent-slow-motion-on-tiktok/"><u>In 2024, Comprehensive Steps for Achieving Excellent Slow Motion on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[Updated] Comic Corner  Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/comprehensive-steps-for-achieving-excellent-slow-motion-on-tiktok-for-2024/"><u>Comprehensive Steps for Achieving Excellent Slow Motion on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/comedic-climb-tracking-the-rise-of-laughter-artists-on-tiktok-for-2024/"><u>Comedic Climb  Tracking the Rise of Laughter Artists on TikTok for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-moments-with-precision-the-mycam-reviewed-for-2024/"><u>[New] Capturing Moments with Precision  The MyCam Reviewed for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-composing-the-ideal-tiktok-closure-melody/"><u>[Updated] Composing the Ideal TikTok Closure Melody</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>In 2024, Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mould-laughter-inducing-images-giphy-style-for-2024/"><u>Mould Laughter-Inducing Images, Giphy Style for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-connect-to-a-real-time-tiktok-livestayers-world/"><u>2024 Approved  Connect to a Real-Time TikTok Livestayer's World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-ambiance-for-visionaries-incorporating-youtube-music-wisely/"><u>[Updated] Audio Ambiance for Visionaries  Incorporating YouTube Music Wisely</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-co-singers-capturing-hearts-online/"><u>In 2024, Co-Singers Capturing Hearts Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-switch-gaming-elevated-by-top-capture-cards/"><u>2024 Approved  Switch Gaming Elevated by Top Capture Cards</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-comprehensive-steps-for-achieving-excellent-slow-motion-on-tiktok/"><u>2024 Approved  Comprehensive Steps for Achieving Excellent Slow Motion on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-comedic-climb-tracking-the-rise-of-laughter-artists-on-tiktok/"><u>In 2024, Comedic Climb  Tracking the Rise of Laughter Artists on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nintendo-switch-pugilists-the-ultimate-10-game-guidebook/"><u>Nintendo Switch Pugilists  The Ultimate 10-Game Guidebook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-clear-up-creations-leading-emblem-eraser-tools/"><u>2024 Approved  Clear Up Creations  Leading Emblem Eraser Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-circumventing-tiktoks-obscured-blockades/"><u>2024 Approved  Circumventing TikTok's Obscured Blockades</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-concurrent-choreo-broadcasts-on-qyoutube/"><u>[New] Concurrent Choreo Broadcasts on QYoutube</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-comprehensive-tiktok-tools-and-techniques-a-guide/"><u>[New] Comprehensive TikTok Tools & Techniques  A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-potential-secrets-for-career-growth-in-designing/"><u>2024 Approved  Unleash Potential  Secrets for Career Growth in Designing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-clearance-checking-guidelines-for-pre-upload-to-tiktok/"><u>[Updated] Clearance-Checking Guidelines for Pre-Upload to TikTok</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 5 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-video-reach-sharing-youtube-content-via-facebook-network/"><u>[New] 2024 Approved  Maximizing Video Reach  Sharing YouTube Content via Facebook Network</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-commanding-attention-with-the-most-powerful-tiktok-caption-strategies/"><u>2024 Approved  Commanding Attention with the Most Powerful TikTok Caption Strategies</u></a></li>
+</ul></div>
