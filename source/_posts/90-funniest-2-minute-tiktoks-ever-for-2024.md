@@ -1,7 +1,7 @@
 ---
 title: "\"90 Funniest 2-Minute TikToks Ever for 2024\""
-date: 2024-07-14T04:46:30.064Z
-updated: 2024-07-15T04:46:30.064Z
+date: 2024-07-29T13:03:18.934Z
+updated: 2024-07-30T13:03:18.934Z
 tags:
   - ai video
   - ai tiktok
@@ -573,3 +573,41 @@ TikTok has made a significant impact on the social media industry. Due to its hi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-tactics-for-youtube-advertising-with-banners/"><u>[New] 2024 Approved  Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-how-to-craft-an-original-tiktok-tag-identifier/"><u>[New] 2024 Approved  How to Craft an Original TikTok Tag Identifier</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-trending-10-tiktok-effects-to-dominate-social-media/"><u>[New] 2024 Approved  Trending 10 TikTok Effects to Dominate Social Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-streamers-guide-for-secure-viewing/"><u>[New] Elite Streamer’s Guide for Secure Viewing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-friendly-how-to-participating-in-tiktok-livestreams/"><u>[New] In 2024, A Friendly How-To  Participating in TikTok Livestreams</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-what-you-need-to-know-about-tiktoks-latest-trends/"><u>[New] In 2024, What You Need to Know About TikTok’s Latest Trends</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unlocking-the-full-potential-of-tiktok-videos-from-pcmac-devices-for-2024/"><u>[New] Unlocking the Full Potential of TikTok Videos (From PC/MAC Devices) for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-15-books-that-have-conquered-social-media-with-booktok-flair-for-2024/"><u>[Updated] 15 Books That Have Conquered Social Media with BookTok Flair for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-engineering-unique-tiktok-outro-animations/"><u>[Updated] 2024 Approved  Engineering Unique TikTok Outro Animations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-reputed-tiktok-follower-purchasers/"><u>[Updated] 2024 Approved  Reputed TikTok Follower Purchasers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-spotlight-series-the-best-gamers-on-tiktok/"><u>[Updated] 2024 Approved  Spotlight Series  The Best Gamers on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-4-ways-to-go-live-on-tiktok-on-computer/"><u>[Updated] 4 Ways to Go Live on TikTok on Computer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-advanced-techniques-to-skip-content-on-tiktok-for-2024/"><u>[Updated] Advanced Techniques to Skip Content on TikTok for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-az-vision-recorder-complete-application-audits-and-substitutes-for-2024/"><u>[Updated] AZ Vision Recorder  Complete Application Audits & Substitutes for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-best-tiktok-downloader-convert-to-professional-quality-mp4-format/"><u>[Updated] Best TikTok Downloader  Convert to Professional Quality MP4 Format</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-crafting-a-standout-identifier-for-your-tiktok-stream/"><u>[Updated] Crafting a Standout Identifier for Your TikTok Stream</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-googles-platform-unveiled-for-professional-podcasters/"><u>[Updated] Google's Platform Unveiled for Professional Podcasters</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-countdown-of-the-most-memorable-animated-tiktoks/"><u>[Updated] In 2024, A Countdown of the Most Memorable Animated TikToks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-discover-how-to-thrive-in-tiktok-lives-from-desktop/"><u>[Updated] In 2024, Discover How to Thrive in TikTok Lives From Desktop</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-laying-down-an-elegant-tiktok-credits-panel/"><u>[Updated] In 2024, Laying Down an Elegant TikTok Credits Panel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screenshot-supreme-in-depth-recorder-reviews/"><u>[Updated] In 2024, Screenshot Supreme  In-Depth Recorder Reviews</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-whats-cooking-10-viral-food-scenes-on-tiktok/"><u>[Updated] In 2024, What's Cooking? 10 Viral Food Scenes on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-scripting-a-powerful-tiktok-outro-statement/"><u>2024 Approved  Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-adding-snap-camera-to-teams-chats/"><u>2024 Approved  Step-by-Step  Adding Snap Camera to Teams Chats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-11-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 11 for Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-motorola-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Motorola .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-smart-8-hd-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/dual-performance-the-tiktok-duet-trend/"><u>Dual Performance  The TikTok Duet Trend</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>In 2024, Expert Analysis  How ShowMore Enhances Your Video Capture Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 with IMEI Code?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-a1x-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A1x 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-complete-process-of-scheduling-google-meets/"><u>In 2024, The Complete Process of Scheduling Google Meets</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/lens-legends-a-deep-dive-into-snapchats-transformative-tools/"><u>Lens Legends  A Deep Dive Into Snapchat's Transformative Tools</u></a></li>
+</ul></div>
