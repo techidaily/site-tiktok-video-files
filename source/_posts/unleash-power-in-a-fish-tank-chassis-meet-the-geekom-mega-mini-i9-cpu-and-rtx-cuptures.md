@@ -1,7 +1,7 @@
 ---
 title: "Unleash Power in a Fish-Tank Chassis: Meet the Geekom Mega Mini - I9 CPU and RTX Cuptures"
-date: 2024-08-15T01:47:12.062Z
-updated: 2024-08-16T01:47:12.062Z
+date: 2024-09-03T23:43:24.890Z
+updated: 2024-09-04T23:43:24.890Z
 tags:
   - desktop
 categories:
@@ -109,5 +109,8 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
