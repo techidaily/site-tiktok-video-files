@@ -1,7 +1,7 @@
 ---
 title: Advanced Gadget Analysis by Tom's Electronics Review
-date: 2024-09-09T00:37:48.595Z
-updated: 2024-09-10T00:37:48.595Z
+date: 2024-09-13T03:07:08.232Z
+updated: 2024-09-15T02:50:26.749Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/8YdLiEjyCGajqh3AcmMEU6-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ayaneo Unveils the Newly Launched AMD-Driven Mini PC: The Classic Macintosh Revival - Now in Retail
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -58,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -72,12 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -86,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,64 +77,27 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-19-best-anime-inspirations-for-tiktok-stars-for-2024/"><u>[New] 19 Best Anime Inspirations for TikTok Stars for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-android-dominance-top-10-moba-games-showcase/"><u>[New] 2024 Approved  Android Dominance  Top 10 MOBA Games Showcase</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-compreeved-list-of-top-10-pc-based-tiktok-creators/"><u>[New] 2024 Approved  Compreeved List of Top 10 PC-Based TikTok Creators</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-discover-hidden-gems-top-7-under-the-radar-tiktok-emojis/"><u>[New] 2024 Approved  Discover Hidden Gems  Top 7 Under-the-Radar TikTok Emojis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-insights-for-successful-short-video-creation/"><u>[New] 2024 Approved  The Ultimate Insights for Successful Short Video Creation</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-audio-alchemy-transforming-chaos-into-clarity-for-2024/"><u>[New] Audio Alchemy  Transforming Chaos Into Clarity for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] Bringing Anime Characters to Life  Jujutsu Kaisen for TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breaking-the-mold-with-original-tiktok-profile-photos/"><u>[New] In 2024, Breaking the Mold with Original TikTok Profile Photos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-enhance-your-online-presence-4-streaming-methods-for-desktop-users/"><u>[New] In 2024, Enhance Your Online Presence  4 Streaming Methods for Desktop Users</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-savory-selections-international-foodie-frenzy-on-tiktok/"><u>[New] In 2024, Savory Selections  International Foodie Frenzy on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-syncing-your-presence-in-real-time-tiktoks/"><u>[New] In 2024, Syncing Your Presence in Real-Time TikToks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-unveiling-pro-slow-motion-filming-techniques-for-stellar-tiktok-videos/"><u>[New] In 2024, Unveiling Pro Slow Motion Filming Techniques for Stellar TikTok Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-techniques-from-recording-room-to-facebook-lives/"><u>[New] In 2024, Unveiling Techniques  From Recording Room to Facebook Lives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-out-a-review-of-individual-3d-printing-journey/"><u>[New] Inside Out  A Review of Individual 3D Printing Journey</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[New] Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-seize-the-moment-exploring-top-10-social-media-phenoms/"><u>[New] Seize the Moment  Exploring Top 10 Social Media Phenoms</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-49-countdown-of-viral-tiktok-musings-for-your-success/"><u>[New] Top 49-Countdown of Viral TikTok Musings for Your Success</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-86-cracking-the-code-tiktok-riddles-and-jokes/"><u>[Updated] 2024 Approved  86 Cracking the Code  TikTok Riddles & Jokes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-crafting-prime-tiktok-openings-using-macos/"><u>[Updated] 2024 Approved  Crafting Prime TikTok Openings Using MacOS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-edge-of-insanity-the-10-most-chaotic-tiktok-contests/"><u>[Updated] 2024 Approved  Edge of Insanity  The 10 Most Chaotic TikTok Contests</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-leveraging-innovation-a-comprehensive-guide-to-redefining-your-tiktok-avatar/"><u>[Updated] 2024 Approved  Leveraging Innovation  A Comprehensive Guide to Redefining Your TikTok Avatar</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[Updated] 2024 Approved  Subtlety In Sound  Fading Out Effectively in Logic Pro</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-transforming-ideas-into-visuals-the-template-method-for-impressive-tiktoks/"><u>[Updated] 2024 Approved  Transforming Ideas Into Visuals  The Template Method for Impressive TikToks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-best-tiktok-pfp-ideas-to-make-your-tiktok-profile-stand-out-for-2024/"><u>[Updated] Best TikTok PFP Ideas to Make Your TikTok Profile Stand Out for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-boosting-video-success-tips-from-top-50plus-quotes-on-tiktok-for-2024/"><u>[Updated] Boosting Video Success  Tips From Top 50+ Quotes on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac-for-2024/"><u>[Updated] Click and Groove  An Insider's Guide to Making TikTok Dance Videos for Mac for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-free-green-screens-for-cinematic-artists-for-2024/"><u>[Updated] Free Green Screens for Cinematic Artists for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-dominate-tiktoks-trending-topics-for-more-engagement/"><u>[Updated] How to Dominate TikTok's Trending Topics for More Engagement</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-break-into-the-heart-of-a-tiktok-live-session/"><u>[Updated] In 2024, Break Into the Heart of a TikTok Live Session</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-the-art-of-editing-crafting-tiktok-success-stories-on-mac/"><u>[Updated] In 2024, The Art of Editing  Crafting TikTok Success Stories on Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-thread-through-time-traditional-stitches-on-modern-platforms/"><u>[Updated] In 2024, Thread Through Time  Traditional Stitches on Modern Platforms</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>[Updated] In 2024, Top 20 TikTok Anthems  Discovering Today’s Hip-Hop Stars</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-earnings-navigating-youtubes-partner-program-updates/"><u>[Updated] Maximize Earnings  Navigating YouTube's Partner Program Updates</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-speak-loud-and-clear-on-tiktok-a-comprehensible-guide/"><u>[Updated] Speak Loud and Clear on TikTok - A Comprehensible Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok-for-2024/"><u>[Updated] The Next Big Thing in Short Form Videos  Who'll Take the Lead, Likes or TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-30-unique-tiktok-pfps-for-standout-profiles/"><u>[Updated] Top 30 Unique TikTok PFPs for Standout Profiles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhancing-instagram-stories-by-including-youtube-tracks/"><u>2024 Approved  Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-preserving-chronological-integrity-in-visuals/"><u>2024 Approved  Preserving Chronological Integrity in Visuals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>2024 Approved  Step-by-Step VivaCut Video Editing  Complete Guide for '24</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-taste-trek-journey-through-global-cuisine-secrets/"><u>2024 Approved  Taste Trek  Journey Through Global Cuisine Secrets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/bridging-the-gap-reactivating-your-obs-cam-for-2024/"><u>Bridging the Gap  Reactivating Your OBS Cam for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-mastering-onetactic-add-in-in-ms-onenote/"><u>Comprehensive Analysis: The Ultimate Guide to Mastering Onetactic Add-In in MS OneNote</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/cutting-ties-in-cyberspace-an-exit-strategy-from-discords/"><u>Cutting Ties in Cyberspace  An Exit Strategy From Discords</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nokia-c110-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nokia C110 Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-s17-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-x5-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sion-and-proficiency-youtube-edits-in-adobe-premiere/"><u>Precision & Proficiency  YouTube Edits in Adobe Premiere</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/speeding-up-tiktoks-simple-techniques-for-faster-videos/"><u>Speeding Up TikToks  Simple Techniques for Faster Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/step-into-style-choosing-and-applying-new-bg-for-tiktok-vids/"><u>Step Into Style  Choosing and Applying New BG for TikTok Vids</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/taste-the-trend-top-tiktok-food-challenges/"><u>Taste the Trend  Top TikTok Food Challenges</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-past-images-a-snapchat-journey/"><u>The Art of Past Images  A Snapchat Journey</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-quintessential-guide-top-5-tiktok-gif-creation-software-for-2024/"><u>The Quintessential Guide  Top 5 TikTok GIF Creation Software for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-to-bandicam-the-2023-comprehensive-overview-for-2024/"><u>Ultimate Guide to Bandicam  The 2023 Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unlocking-the-secrets-of-duplicating-your-tiktok-aura-for-2024/"><u>Unlocking the Secrets of Duplicating Your TikTok Aura for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-your-online-potential-mastering-seo-for-youtube-success-for-2024/"><u>Unlocking Your Online Potential  Mastering SEO for YouTube Success for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discover-hidden-audio-makers-6-stealthy-iosandroid-tools-for-2024/"><u>[New] Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-nextgen-videostreaming-platforms/"><u>[New] Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-joyful-juxtapositions-top-humorous-concepts-in-tiktok-culture/"><u>[Updated] In 2024, Joyful Juxtapositions Top Humorous Concepts in TikTok Culture</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-become-a-tiktok-wizard-essential-guide-for-mac-and-windows-users/"><u>2024 Approved Become a TikTok Wizard Essential Guide for Mac and Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discovering-direct-conversations-on-snapchat-in-a-click/"><u>Discovering Direct Conversations on Snapchat in a Click</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-f5-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco F5 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo V30 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/inadvertent-tiktok-redownload-whats-next-in-2024/"><u>Inadvertent TikTok Redownload – What's Next, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/introductory-tips-gradual-amplification-techniques/"><u>Introductory Tips Gradual Amplification Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-video-storage-of-snapchat-stories/"><u>Mastering Video Storage of Snapchat Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-like-a-pro-enabling-the-undercover-navigation-bar-in-file-explorer/"><u>Navigate Like a Pro: Enabling The Undercover Navigation Bar in File Explorer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-oddball-gaming-guide-best-outlandish-tiktok-titles/"><u>The Oddball Gaming Guide Best Outlandish TikTok Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-content-emulate-top-tiktok-trends-on-instagram-reels-for-2024/"><u>Transform Your Content Emulate Top TikTok Trends on Instagram Reels for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pro-apk-a-comprehensive-review-of-its-features-for-2024/"><u>VN Video Editor Pro Apk A Comprehensive Review of Its Features for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Dealing With One Dead AirPod? Here Are Your Options
-date: 2024-09-09T00:37:49.213Z
-updated: 2024-09-10T00:37:49.213Z
+date: 2024-09-09T23:02:24.102Z
+updated: 2024-09-14T17:23:22.309Z
 tags:
   - iphone
   - apple
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 
 ## Dealing With One Dead AirPod? Here Are Your Options
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -48,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 
 Close
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart the Connected Device
 
  Once you've checked your AirPods' battery levels and made sure they're charged, it's time to reboot the device you use your AirPods with.
@@ -56,12 +63,6 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -83,11 +84,19 @@ Close
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -96,18 +105,6 @@ Close
 
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Forget Your AirPods From Your Devices
 
  One of the best ways to fix issues with Bluetooth devices is to forget them on your phone or other device and then re-pair them. This allows your device to establish a fresh Bluetooth connection.
@@ -126,18 +123,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -146,12 +131,6 @@ Close
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -176,8 +155,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,39 +164,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-cultivate-calmness-and-flexibility-with-top-10-yoga-streams/"><u>[New] 2024 Approved  Cultivate Calmness & Flexibility with Top 10 Yoga Streams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-peering-into-the-pantheon-of-social-media-mavens-in-your-area/"><u>[New] 2024 Approved  Peering Into the Pantheon of Social Media Mavens in Your Area</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-elevate-your-social-media-game-30-unique-tiktok-pfp-strategies/"><u>[New] In 2024, Elevate Your Social Media Game - 30 Unique TikTok PFP Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[New] In 2024, Streamline Your TikTok Experience  4 Desktop Broadcast Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unlocking-growth-potential-with-top-7-tiktok-tools/"><u>[New] In 2024, Unlocking Growth Potential with Top 7 TikTok Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-watermark-free-tiktok-clips-on-your-iphone/"><u>[New] In 2024, Watermark-Free TikTok Clips on Your iPhone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-master-the-art-of-tiktok-video-making-with-ease-and-flair/"><u>[New] Master the Art of TikTok Video Making with Ease & Flair</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[New] Maximizing Your Social Reach  Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-navigating-to-your-distinctive-tiktok-tag-for-2024/"><u>[New] Navigating to Your Distinctive TikTok Tag for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screensnapper-review-latest-tech-for-2024/"><u>[New] ScreenSnapper Review - Latest Tech for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-sound-studio-everything-about-the-sound-recording-studio-mac/"><u>[New] Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-a-business-from-blogs-and-video-reviews-for-2024/"><u>[Updated] Building a Business From Blogs and Video Reviews for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-charting-the-course-of-knowledge-best-history-yt-channels-for-students-for-2024/"><u>[Updated] Charting the Course of Knowledge  Best History YT Channels for Students for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-amplify-video-speeds-the-ultimate-tiktok-guide/"><u>[Updated] In 2024, Amplify Video Speeds  The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[Updated] In 2024, Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-determining-a-bespoke-keyword-for-your-tiktok-feed/"><u>[Updated] In 2024, Determining a Bespoke Keyword for Your TikTok Feed</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-explore-20-most-shared-rap-tracks-on-social-media/"><u>[Updated] In 2024, Explore  20 Most Shared Rap Tracks on Social Media</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-navigating-the-social-sphere-of-tiktok-lives/"><u>[Updated] Navigating the Social Sphere of TikTok Lives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-powerpoint-and-voice-a-seamless-journey-explored/"><u>[Updated] PowerPoint and Voice  A Seamless Journey Explored</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-rhythmic-revolution-top-tracks-reshaping-the-rap-scene-on-tiktok-for-2024/"><u>[Updated] Rhythmic Revolution  Top Tracks Reshaping the Rap Scene on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unique-tiktok-identity-standout-pfp-concepts-to-embrace-for-2024/"><u>[Updated] Unique TikTok Identity  Standout PFP Concepts to Embrace for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-secrets-unveiled-attending-friends-tiktok-lives/"><u>2024 Approved  Secrets Unveiled  Attending Friends’ TikTok Lives</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-strategies-for-overcoming-black-screen-errors-during-youtube-viewing/"><u>2024 Approved  Strategies for Overcoming Black Screen Errors During YouTube Viewing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/blueprinting-a-dynamic-tiktok-end-credits-rollout/"><u>Blueprinting a Dynamic TikTok End-Credits Rollout</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/ethical-buying-of-tiktok-clout-increase/"><u>Ethical Buying of TikTok Clout Increase</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y56-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y56 5G?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock HTC U23 Phone Forgot Password</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sive-history-education-from-youtubes-best-10-vlogs-for-2024/"><u>Immersive History Education From YouTube's Best 10 Vlogs for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-interactive-photography-sharing-immersive-360-photos-via-mobile-devices/"><u>In 2024, Interactive Photography  Sharing Immersive 360 Photos via Mobile Devices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-jumpstart-your-cash-with-these-8-innovative-tiktok-methods/"><u>In 2024, Jumpstart Your Cash with These 8 Innovative TikTok Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-on-demand-rhythm-sharing-on-xigua-video/"><u>In 2024, On-Demand Rhythm Sharing on Xigua Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs-for-2024/"><u>Navigating the World of Online Broadcasts on YouTube and Twitch with OBS for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/step-by-step-guide-to-aplus-tiktok-videos-with-designed-templates/"><u>Step-by-Step Guide to A+ TikTok Videos with Designed Templates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/what-financial-gain-stems-from-one-million-youtube-eyeballs-for-2024/"><u>What Financial Gain Stems From One Million YouTube Eyeballs for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-essential-guidelines-for-tiktok-web-on-a-mac/"><u>[New] 2024 Approved Essential Guidelines for TikTok Web on a Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-giggle-o-meter-rising-top-tiktok-joke-threads-for-laughter-for-2024/"><u>[New] Giggle-O-Meter Rising Top TikTok Joke Threads for Laughter for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-deciphering-the-best-recorder-with-active-in-mind/"><u>[New] In 2024, Deciphering the Best Recorder with Active in Mind</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlocking-creative-sound-discover-free-voice-alterations-for-2024/"><u>[New] Unlocking Creative Sound Discover Free Voice Alterations for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[Updated] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-securing-top-quality-pixel-ringtones-where-to-go/"><u>[Updated] 2024 Approved Securing Top Quality Pixel Ringtones Where to Go?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-breaking-the-ice-a-guide-to-crafting-strikingly-effective-tiktok-captions-for-2024/"><u>[Updated] Breaking the Ice A Guide to Crafting Strikingly Effective TikTok Captions for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-be-a-part-of-the-buzz-top-10-tiktok-tests/"><u>[Updated] In 2024, Be a Part of the Buzz Top 10 TikTok Tests</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-scripting-a-powerful-tiktok-outro-statement/"><u>[Updated] In 2024, Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-10-recorders-that-wont-break-your-wallet/"><u>[Updated] In 2024, Top 10 Recorders That Won't Break Your Wallet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-whats-your-potential-income-from-youtube-sponsored-videos/"><u>[Updated] In 2024, What's Your Potential Income From YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads-for-2024/"><u>[Updated] Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fixing-a-faulty-control-pad-fast-and-hands-off-approaches-to-common-issues/"><u>Fixing a Faulty Control Pad: Fast and Hands-Off Approaches to Common Issues</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/reviving-classics-top-20-anime-concepts-for-tiktoks-for-2024/"><u>Reviving Classics Top 20 Anime Concepts for TikToks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-fixing-kernel32dll-failures-on-windows-devices/"><u>Troubleshooting Tips: Fixing Kernel32.dll Failures on Windows Devices</u></a></li>
 </ul></div>
+

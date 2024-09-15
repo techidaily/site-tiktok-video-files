@@ -1,7 +1,7 @@
 ---
 title: Inside Scoop on Devices From Tom's Digital World
-date: 2024-09-09T00:37:48.223Z
-updated: 2024-09-10T00:37:48.223Z
+date: 2024-09-13T20:39:56.771Z
+updated: 2024-09-14T18:11:34.654Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/LCbG8RwNDZHdVnhQuwPna5-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,32 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -65,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -85,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,38 +64,34 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-deep-dive-into-recmasters-video-capturing-technology/"><u>[New] 2024 Approved  A Deep Dive Into Recmaster's Video Capturing Technology</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-desktop-techniques-for-effective-tiktok-live-sessions/"><u>[New] 2024 Approved  Desktop Techniques for Effective TikTok Live Sessions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-explore-and-learn-personalized-tiktok-identifier-creation-for-2024/"><u>[New] Explore and Learn  Personalized TikTok Identifier Creation for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-high-quality-tiktok-editors-ranked-1-10-on-windows/"><u>[New] In 2024, High-Quality TikTok Editors Ranked #1-10 on Windows</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-meme-madness-discovering-the-most-hilarious-tiktok-challenges-for-2024/"><u>[New] Meme Madness  Discovering the Most Hilarious TikTok Challenges for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-key-to-memorable-tiktok-opens-mac-edition/"><u>[New] The Key to Memorable TikTok Opens - Mac Edition</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-scripting-the-final-push-for-your-tiktok-series/"><u>[Updated] 2024 Approved  Scripting the Final Push for Your TikTok Series</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-taste-of-trending-the-foodie-world-of-tiktok/"><u>[Updated] In 2024, A Taste of Trending  The Foodie World of TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boost-your-tiktok-video-speed-easy-methods-explored/"><u>[Updated] In 2024, Boost Your TikTok Video Speed  Easy Methods Explored</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boosting-your-tiktok-following-a-selection-of-engaging-username-ideas/"><u>[Updated] In 2024, Boosting Your TikTok Following - A Selection of Engaging Username Ideas</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-master-the-pre-upload-process-on-tiktoks-copyright-policy-for-2024/"><u>[Updated] Master the Pre-Upload Process on TikTok's Copyright Policy for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-masterful-lunapic-photography/"><u>[Updated] The Complete Guide to Masterful LunaPic Photography</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>[Updated] TikTok's Legal Boundaries  Understanding Pre-Upload Rights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>2024 Approved  Chill Vibes  Current Hits to Match Your YT Short Tunes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-smart-content-creator-legal-checks-for-pre-upload-videos/"><u>2024 Approved  The Smart Content Creator  Legal Checks for Pre-Upload Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded-for-2024/"><u>Authenticity Matters  Ensuring Your TikToks Are Legally Uploaded for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/by-accident-tiktok-rewind-restore-lost-content-in-2024/"><u>By Accident, TikTok Rewind  Restore Lost Content, In 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/expedite-your-tiktok-videos-with-ease/"><u>Expedite Your TikTok Videos with Ease</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/exploring-options-a-treasure-hunt-for-your-tiktok-symbol-for-2024/"><u>Exploring Options  A Treasure Hunt for Your TikTok Symbol for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-logiteche-g27-steering-wheel-drivers-for-windows-versions-win-11107/"><u>Get Logiteche G27 Steering Wheel Drivers for Windows Versions: Win 11/10/7</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/guide-to-silentizing-ambient-sounds-use-of-audacitys-features-for-2024/"><u>Guide to Silentizing Ambient Sounds  Use of Audacity's Features for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-poco-c55-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Poco C55 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>In 2024, A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-scrutinizing-vlc-for-video-capturing/"><u>In 2024, Scrutinizing VLC for Video Capturing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>Mastering Live Participation in TikTok  A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/microsoft-teams-sessions-recording-for-2024/"><u>Microsoft Teams Sessions Recording for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/pre-upload-best-practices-to-maintain-tiktoks-integrity-for-2024/"><u>Pre-Upload Best Practices to Maintain TikTok's Integrity for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-guide-to-boost-your-tiktok-production-speed/"><u>Quick Guide to Boost Your TikTok Production Speed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synching-melodies-to-photos-virtually/"><u>Synching Melodies to Photos Virtually</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[New] Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-3d-blu-ray-players/"><u>[New] Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-choreography-to-clicks-making-tiktok-dancing-videos-for-mac/"><u>[New] From Choreography to Clicks Making TikTok Dancing Videos for Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[New] In 2024, Maximizing Your Social Reach Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-dive-into-the-tiktok-universe-quick-setup-guide-on-macbook-for-2024/"><u>[Updated] Dive Into the TikTok Universe Quick Setup Guide on MacBook for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-cut-mark-clutter-quickly-tiktok-overlay-remover/"><u>[Updated] In 2024, Cut Mark Clutter Quickly TikTok Overlay Remover</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-desktop-maximizing-tiktok-fame-for-2024/"><u>[Updated] Mastering Desktop Maximizing TikTok Fame for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-upload-made-easy-your-device-based-guide-for-youtube-shorts/"><u>[Updated] Upload Made Easy Your Device-Based Guide for YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-seamless-tiktok-videos-through-stitching/"><u>2024 Approved Crafting Seamless TikTok Videos Through Stitching</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>2024 Approved Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-audio-experience-with-leading-ceiling-booms-ranked-best-of-2024/"><u>Elevate Your Audio Experience with Leading Ceiling Booms - Ranked Best of 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s17-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S17 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-enhance-visibility-on-instagram-the-art-of-animated-texts-in-stories/"><u>In 2024, Enhance Visibility on Instagram The Art of Animated Texts in Stories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-gear-galaxy-a-guide-to-advanced-computing-tools/"><u>Navigating Tom's Gear Galaxy: A Guide to Advanced Computing Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-x9a-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor X9a FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-free-online-video-editors-for-merging-clips-for-2024/"><u>Updated Best Free Online Video Editors for Merging Clips for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing AI Efficiency: Discovering TSMC's Innovative 12.8 Tbps Silicon Photonic Interconnect Technology"
-date: 2024-09-09T00:37:48.089Z
-updated: 2024-09-10T00:37:48.089Z
+date: 2024-09-07T18:16:37.510Z
+updated: 2024-09-14T17:19:57.384Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084837b38e9693d564989750d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ayaneo Unveils the Newly Launched AMD-Driven Mini PC: The Classic Macintosh Revival - Now in Retail
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -58,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -72,18 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -92,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,42 +77,27 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-the-income-from-a-million-on-youtube-for-2024/"><u>[New] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-easy-going-20-country-tunes-to-relax-and-dance-on-tiktok-for-2024/"><u>[New] Easy-Going 20 Country Tunes to Relax and Dance on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-expedite-your-videos-on-tiktok-secrets-revealed/"><u>[New] Expedite Your Videos on TikTok  Secrets Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-template-treasures-to-craft-unique-corporate-emblems/"><u>[New] Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-how-to-verify-rights-before-sharing-on-tiktok-platforms-for-2024/"><u>[New] How to Verify Rights Before Sharing on TikTok Platforms for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-the-art-of-vocal-tweaks-in-tiktok-videos/"><u>[New] In 2024, Mastering the Art of Vocal Tweaks in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximize-social-media-impact-tiktoks-top-data-analysis-resources/"><u>[New] In 2024, Maximize Social Media Impact  TikTok's Top Data Analysis Resources</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-optimize-tiktok-videos-for-snappy-playback-times/"><u>[New] In 2024, Optimize TikTok Videos for Snappy Playback Times</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-mastering-slow-motion-on-tiktok-a-step-by-step-guide/"><u>[New] Mastering Slow Motion on TikTok  A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-night-owls-techniques-for-long-exposure-iphone-pics/"><u>[New] Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-blueprint-for-crafting-an-individual-tiktok-marker/"><u>[New] The Blueprint for Crafting an Individual TikTok Marker</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-macos-blueprint-to-stellar-ootd-videos/"><u>[New] The MacOS Blueprint to Stellar OOTD Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[New] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-magic-of-custom-snaps-and-effortless-lenses-for-2024/"><u>[New] Unlock the Magic of Custom Snaps & Effortless Lenses for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-video-sharing-limits-for-2024/"><u>[New] Unlocking Instagram's Video Sharing Limits for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-wacky-world-of-webinars-top-10-hilarious-tiktok-challenges/"><u>[New] Wacky World of Webinars  Top 10 Hilarious TikTok Challenges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamped-quality-enhance-audio-experience-with-updated-nahimic-drivers/"><u>[Revamped Quality!]: Enhance Audio Experience with Updated Nahimic Drivers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-your-tiktok-presence-with-strategic-captioning-methods/"><u>[Updated] 2024 Approved  Boost Your TikTok Presence with Strategic Captioning Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-key-to-generating-an-exclusive-tag-on-tiktok/"><u>[Updated] 2024 Approved  Key to Generating an Exclusive Tag on TikTok</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-conveniently-record-your-favorite-streams-top-5-grabber-apps-for-2024/"><u>[Updated] Conveniently Record Your Favorite Streams  Top 5 Grabber Apps for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-halt-predicted-posts-no-more-suggests-on-insta-for-2024/"><u>[Updated] Halt Predicted Posts  No More Suggests on Insta for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-hands-free-tricks-capturing-gotomeetings-on-the-fly/"><u>[Updated] Hands-Free Tricks  Capturing GoToMeetings on the Fly</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-beyond-the-dance-understanding-copyright-pre-upload/"><u>[Updated] In 2024, Beyond the Dance  Understanding Copyright Pre-Upload</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-dance-away-stress-the-most-popular-country-tunes-tiktok-edition/"><u>[Updated] In 2024, Dance Away Stress  The Most Popular Country Tunes (TikTok Edition)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-revamped-tiktok-visuals-the-ultimate-guide-for-background-swapping/"><u>[Updated] In 2024, Revamped TikTok Visuals  The Ultimate Guide for Background Swapping</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-integrate-into-others-tiktok-livestreams/"><u>[Updated] In 2024, Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mycams-evolution-a-new-era-of-home-video-capture/"><u>[Updated] MyCam's Evolution  A New Era of Home Video Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pajama-plots-revisited-critique-and-analysis-for-kids-slumber/"><u>[Updated] Pajama Plots Revisited  Critique and Analysis for Kids' Slumber</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok-for-2024/"><u>[Updated] Upgrade Your Creativity  Easy Steps for Transforming Video Backgrounds on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-essential-free-online-tiktok-to-mp3-conversion-apps-top-6/"><u>2024 Approved  Essential Free, Online TikTok to MP3 Conversion Apps  Top 6</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a14-4g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A14 4G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-infiltrate-live-tips-for-guesting-on-tiktok-sessions/"><u>In 2024, Infiltrate Live  Tips for Guesting on TikTok Sessions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-mastering-tiktok-self-cloning-a-beginners-roadmap/"><u>In 2024, Mastering TikTok Self-Cloning  A Beginner's Roadmap</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-performances-in-snowboard-cross-world-cup-22/"><u>In 2024, Top Performances in Snowboard Cross World Cup '22</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-sectional-design-tips-to-divide-your-3d-models/"><u>Mastering the Art of Sectional Design - Tips to Divide Your 3D Models</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-streams-on-youtube-less-than-1000-subs-no-problem/"><u>Mobile Streams on YouTube  Less Than 1000 Subs? No Problem</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unobtrusive-visuals-topimarker-for-iphone-and-android/"><u>Unobtrusive Visuals  TopiMarker for iPhone & Android</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-epic-battles-and-dynamic-choreography-for-tiktoks-for-2024/"><u>[New] Epic Battles & Dynamic Choreography for TikToks for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-fresh-social-media-perspectives-without-the-need-for-tiktok-for-2024/"><u>[New] Fresh Social Media Perspectives Without the Need for TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-building-a-brand-with-your-own-eyes-the-dual-identity-strategy-for-tiktok-enthusiasts/"><u>[Updated] 2024 Approved Building a Brand with Your Own Eyes The Dual Identity Strategy for TikTok Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>[Updated] 2024 Approved Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-hit-list-top-10-songs-in-one-place-for-2024/"><u>[Updated] Hit List Top 10 Songs in One Place for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[Updated] In 2024, Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>In 2024, Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>In 2024, Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tiktok-versus-youtube-shorts-assessing-personal-usage-value/"><u>In 2024, TikTok versus YouTube Shorts Assessing Personal Usage Value</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/retrieving-secret-snaps-tips-for-snapchats-private-photos/"><u>Retrieving Secret Snaps Tips for Snapchat's Private Photos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y27s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y27s with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-what-to-do-when-your-keyboard-isnt-typing/"><u>Solving the Problem: What to Do When Your Keyboard Isn't Typing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sudden-iphone-photo-loss-effective-fixes-and-tips/"><u>Sudden iPhone Photo Loss: Effective Fixes and Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-expert-strategies-for-attaching-melodies-to-desktop-and-mobile-media-files-for-2024/"><u>Updated Expert Strategies for Attaching Melodies to Desktop and Mobile Media Files for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

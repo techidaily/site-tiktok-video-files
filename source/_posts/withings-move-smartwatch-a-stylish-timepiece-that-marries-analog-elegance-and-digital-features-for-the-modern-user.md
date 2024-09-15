@@ -1,7 +1,7 @@
 ---
 title: Withings Move Smartwatch - A Stylish Timepiece That Marries Analog Elegance and Digital Features for the Modern User
-date: 2024-09-09T00:37:48.356Z
-updated: 2024-09-10T00:37:48.356Z
+date: 2024-09-13T16:59:55.233Z
+updated: 2024-09-15T00:30:50.896Z
 categories:
   - BestProducts
 description: This Article Describes Withings Move Smartwatch - A Stylish Timepiece That Marries Analog Elegance and Digital Features for the Modern User
@@ -36,12 +36,6 @@ Lifewire / James Huenink
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
@@ -84,12 +78,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -102,20 +90,8 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
@@ -124,30 +100,32 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -165,11 +143,12 @@ Lifewire / James Huenink
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  C615 HD Laptop Webcam
@@ -193,8 +172,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,46 +181,16 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-beat-o-vision-your-guide-to-the-years-most-shared-rap-tracks/"><u>[New] Beat-O-Vision  Your Guide to the Year's Most Shared Rap Tracks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-bridge-to-tiktok-lives-secrets-of-successful-entry/"><u>[New] Bridge to TikTok Lives  Secrets of Successful Entry</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-hip-hop-frenzy-top-tiktok-rap-videos-of-today-for-2024/"><u>[New] Hip-Hop Frenzy  Top TikTok Rap Videos of Today for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[New] How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-boosting-interactions-on-tiktok-top-30-creative-username-suggestions/"><u>[New] In 2024, Boosting Interactions on TikTok - Top 30 Creative Username Suggestions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>[New] In 2024, From Novice to Proficient  The Path with Zoom Webinars</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-invite-and-guest-at-tiktok-lives-easily/"><u>[New] In 2024, Invite and Guest at TikTok Lives Easily</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-rapid-video-filming-techniques-for-tiktok-success/"><u>[New] In 2024, Rapid Video Filming Techniques for TikTok Success</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts/"><u>[New] In 2024, Sending Your Creativity Soaring  PC & Mac TikTok Video Posts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-top-5-must-know-for-macos-tiktok-users-for-2024/"><u>[New] The Top 5 Must-Know for macOS TikTok Users for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-unsung-heros-guide-to-tiktok-live-participation/"><u>[New] The Unsung Hero's Guide to TikTok Live Participation</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-15-latest-innovations-in-tiktok-world-for-2024/"><u>[New] Top 15 Latest Innovations in TikTok World for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-what-are-you-missing-out-on-5-non-tiktok-apps-to-try/"><u>[New] What Are You Missing Out On? 5 Non-TikTok Apps to Try</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-capture-hearts-on-tiktok-designed-templates-for-visual-impact/"><u>[Updated] 2024 Approved  Capture Hearts on TikTok  Designed Templates for Visual Impact</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>[Updated] 2024 Approved  Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-innovative-and-striking-pfp-designs-for-standout-profiles/"><u>[Updated] 2024 Approved  Innovative and Striking PFP Designs for Standout Profiles</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-swapping-out-your-tiktok-handle/"><u>[Updated] 2024 Approved  Unlocking the Secrets to Swapping Out Your TikTok Handle</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-eating-entertainment-tiktoks-top-culinary-shows/"><u>[Updated] Eating Entertainment  TikTok's Top Culinary Shows</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-pro-tips-for-efficient-and-effective-use-of-siri-on-tiktok/"><u>[Updated] In 2024, Pro Tips for Efficient and Effective Use of Siri on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-teaming-up-for-duet-video-on-tiktok/"><u>[Updated] In 2024, Teaming Up for Duet Video on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-inadvertent-tiktok-redownload-whats-next-in-2024/"><u>[Updated] Inadvertent TikTok Redownload – What's Next, In 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-smooth-vibes-the-ultimate-list-of-serene-country-tracks-to-groove-to-tiktok-for-2024/"><u>[Updated] Smooth Vibes  The Ultimate List of Serene Country Tracks to Groove To (TikTok) for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-complete-roadmap-to-online-tiktok-streaming-from-desktop-for-2024/"><u>[Updated] The Complete Roadmap to Online TikTok Streaming From Desktop for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-craziest-tiktok-games-worth-playing/"><u>[Updated] Top 10 Craziest TikTok Games Worth Playing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-choreographing-an-impactful-tiktok-finale-dance/"><u>2024 Approved  Choreographing an Impactful TikTok Finale Dance</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-discover-the-best-10-free-tiktok-video-editing-apps-for-mac/"><u>2024 Approved  Discover the Best 10 FREE TikTok Video Editing Apps for Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78t to Roku | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ace-your-internet-coverage-the-leading-wi-fi-boosters-reviewed/"><u>Ace Your Internet Coverage: The Leading Wi-Fi Boosters Reviewed</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/beatniks-guide-to-music-enhanced-snapchats/"><u>Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/boost-your-brand-with-snapchats-business-features/"><u>Boost Your Brand with Snapchat's Business Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/developing-variants/"><u>Developing Variants</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/and-grins-techniques-in-parody-production-for-2024/"><u>Gags and Grins  Techniques in Parody Production for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-choreographing-a-memorable-tiktok-fade-out/"><u>In 2024, Choreographing a Memorable TikTok Fade-Out</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-crafting-social-stardom-30-ingenious-tiktok-nicknames-to-consider/"><u>In 2024, Crafting Social Stardom  30 Ingenious TikTok Nicknames to Consider</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xr-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XR In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>In 2024, Synchronized Soundtracks  The Year’s Most Recurring TikTok Songs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>Making a Mark  Jujutsu Kaisen on the TikTok Scene</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-tiktok-web-a-must-do-list-for-mac-users-for-2024/"><u>Navigating TikTok Web  A Must-Do List for Mac Users for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/recover-lost-display-settings-easy-way/"><u>Recover Lost Display Settings, Easy Way</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-the-mystery-printer-works-after-win-10-patch/"><u>Unraveling the Mystery: Printer Works After Win 10 Patch</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>Updated In 2024, Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-amplify-video-messages-top-5-ways-to-craft-powerful-tiktok-captions/"><u>[New] In 2024, Amplify Video Messages Top 5 Ways to Craft Powerful TikTok Captions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-innovate-or-fall-behind-rejuvenating-your-tiktok-videos-using-mac-techniques/"><u>[New] In 2024, Innovate or Fall Behind Rejuvenating Your TikTok Videos Using Mac Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-scriptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[New] Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-video-quality-incorporating-bb-and-lc-elements-in-fb-for-2024/"><u>[Updated] Elevating Video Quality Incorporating BB and LC Elements in FB for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-switching-from-heic-to-jpg-transfer-between-your-iphone-ipad-and-mac/"><u>Easy Steps: Switching From HEIC to JPG Transfer Between Your iPhone, iPad & Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y55s 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-wav-encoders-simplify-your-audio-file-conversion-from-amraaccdampegmov-to-wav/"><u>Leading WAV Encoders: Simplify Your Audio File Conversion - From AMR/AAC/CDA/MPEG/MOV to WAV</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/rapid-reclamation-of-elusive-videos/"><u>Rapid Reclamation of Elusive Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/spotlight-innovative-tiktok-expressions/"><u>Spotlight Innovative TikTok Expressions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-lenovo-ideapad-in-focus-how-quality-build-meets-basic-specs-at-great-value/"><u>The Lenovo Ideapad in Focus: How Quality Build Meets Basic Specs at Great Value</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-solving-finals-not-loading-issue/"><u>Troubleshooting Steps: Solving 'Finals Not Loading' Issue</u></a></li>
 </ul></div>
+

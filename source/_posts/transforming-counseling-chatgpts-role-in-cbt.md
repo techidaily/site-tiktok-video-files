@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-09-09T00:37:48.741Z
-updated: 2024-09-10T00:37:48.741Z
+date: 2024-09-11T19:01:47.238Z
+updated: 2024-09-14T23:56:36.641Z
 tags:
   - chatgpt
   - open-ai
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Transforming Counseling: ChatGPT's Role in CBT"
 thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f103127dc57e6f31d9323935.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Generative AI and Its Potential Role in Propagating Disinformation Tactics
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -65,26 +47,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -96,12 +67,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -118,12 +83,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -135,20 +94,24 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,46 +122,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-joining-friends-showtime-on-tiktok-with-ease/"><u>[New] 2024 Approved  Joining Friends’ Showtime on TikTok with Ease</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-by-step-to-faster-tiktok-videos/"><u>[New] 2024 Approved  Step-by-Step to Faster TikTok Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-bridge-the-gap-to-your-friends-live-broadcast/"><u>[New] Bridge the Gap to Your Friend's Live Broadcast</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-discovering-the-newest-tiktok-songs-that-excite-us/"><u>[New] Discovering the Newest TikTok Songs that Excite Us</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-elevating-your-tiktok-game-with-effective-use-of-hashes-for-2024/"><u>[New] Elevating Your TikTok Game with Effective Use of Hashes for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-leading-the-charge-top-10-gaming-bloggers-on-tiktok/"><u>[New] In 2024, Leading The Charge  Top 10 Gaming Bloggers on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-twists-that-tell-stories-mastering-the-art-and-technique-of-spinning-visuals-for-maximum-impact-on-social-media-platforms/"><u>[New] In 2024, Twists That Tell Stories  Mastering the Art and Technique of Spinning Visuals for Maximum Impact on Social Media Platforms</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-maximizing-impact-with-tiktok-video-uploads-from-pcmac-for-2024/"><u>[New] Maximizing Impact with TikTok Video Uploads From PC/Mac for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-30-innovative-anime-concepts-for-viral-video-creators/"><u>[New] Top 30 Innovative Anime Concepts for Viral Video Creators</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-elevate-your-vision-integrating-high-quality-voiceover-into-videos/"><u>[Updated] 2024 Approved  Elevate Your Vision  Integrating High-Quality Voiceover Into Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-nocturnal-notions-for-iphone-photographers/"><u>[Updated] 2024 Approved  Nocturnal Notions for iPhone Photographers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[Updated] 2024 Approved  Streamline Your TikTok Experience  4 Desktop Broadcast Strategies</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-switch-to-picture-in-picture-while-watching-youtube/"><u>[Updated] 2024 Approved  Switch to Picture in Picture While Watching YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlocking-tiktok-the-ultimate-guide-to-joining-lives/"><u>[Updated] 2024 Approved  Unlocking TikTok  The Ultimate Guide to Joining Lives</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-avoiding-the-hashtag-void-strategies-for-tiktok-success/"><u>[Updated] Avoiding the Hashtag Void  Strategies for TikTok Success</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-country-calm-a-curated-list-of-soothing-tunes-to-dance-and-unwind-on-tiktok-for-2024/"><u>[Updated] Country Calm  A Curated List of Soothing Tunes to Dance & Unwind On TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/1716483956929-updated-how-to-join-someones-live-on-tiktok-as-a-guest-for-2024/"><u>[Updated] How to Join Someone’s Live on TikTok as a Guest for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-chucklesome-tiktok-riddles/"><u>[Updated] In 2024, 10 Chucklesome TikTok Riddles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adding-realism-to-portraits-applying-motion-blur-in-picsart/"><u>[Updated] In 2024, Adding Realism to Portraits  Applying Motion Blur in Picsart</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-easy-steps-to-audit-your-favorite-tiktok-sessions/"><u>[Updated] In 2024, Easy Steps to Audit Your Favorite TikTok Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glam-up-video-images-integrating-shimmering-neons/"><u>[Updated] In 2024, Glam up Video Images  Integrating Shimmering Neons</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-breaking-down-barriers-to-pc-livestreams-on-tiktok/"><u>2024 Approved  Breaking Down Barriers to PC Livestreams on TikTok</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/connecting-with-real-time-tiktoks-practical-guide-for-2024/"><u>Connecting with Real-Time TikToks  Practical Guide for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-metas-blueprint-for-instagram-and-fb-access/"><u>Decoding Meta's Blueprint for Instagram & FB Access</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>Effortless Audio Downloads  These 24 Tools Split YouTube Sounds for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/enhancing-gaming-experience-minecraft-recordings-made-easy-for-2024/"><u>Enhancing Gaming Experience  Minecraft Recordings Made Easy for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/explore-the-latest-trends-with-these-snapchat-ideas/"><u>Explore the Latest Trends with These Snapchat Ideas</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-x6-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco X6 to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-c55-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme C55 Phone that is Locked?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-12-mini-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 12 mini online without jailbreak</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-upside-down-videos-in-your-instagram-feed/"><u>In 2024, Avoiding Upside-Down Videos in Your Instagram Feed</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-hot-dishes-from-hot-tiktokers/"><u>In 2024, Hot Dishes From Hot TikTokers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>In 2024, Integrate Spotify and YouTube  Top 5 Playlist-to-Channel Converters Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-play-advanced-techniques-to-resolve-sims-4-lags-on-pc-2024-insights/"><u>Mastering Smooth Play: Advanced Techniques to Resolve Sims #4 Lags on PC (2024 Insights)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/proactive-preservation-ios-photos-to-your-snap-story/"><u>Proactive Preservation  IOS Photos to Your Snap Story</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors/"><u>PS5 Elite Gaming Screens  Top 5 HDMI 2.1 Ultra High-Res Monitors</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/speed-up-snap-retrieval-methods/"><u>Speed Up Snap Retrieval Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/stand-out-with-these-pfp-gems-for-tiktok-profiles-for-2024/"><u>Stand Out with These PFP Gems for TikTok Profiles for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tailoring-medical-messages-in-social-media-ads-for-2024/"><u>Tailoring Medical Messages in Social Media Ads for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-tiktok-emoji-guide-discover-top-7-plus-clandestine-icons/"><u>The Ultimate TikTok Emoji Guide – Discover Top 7 + Clandestine Icons</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unleashing-viral-potential-a-curated-list-of-tiktok-usernames/"><u>Unleashing Viral Potential  A Curated List of TikTok Usernames</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-nextgen-hexacopters-the-definitive-ten/"><u>[New] 2024 Approved NextGen Hexacopters The Definitive Ten</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-budding-buyers-guide-monetization-platforms-for-novice-channels/"><u>[Updated] Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[Updated] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-marketing-automation-with-cookiebot-integration/"><u>Enhanced Marketing Automation with Cookiebot Integration</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/exploring-tech-with-toms-hardware-essentials/"><u>Exploring Tech with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/how-project-natick-outperformed-traditional-data-centers-in-reducing-server-malfunctions-insights-from-microsofts-underwater-endeavor/"><u>How Project Natick Outperformed Traditional Data Centers in Reducing Server Malfunctions - Insights From Microsoft's Underwater Endeavor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/1723262360181-introducing-asus-rog-nuc-the-budget-gaming-powerhouse-starts-at-just-1629/"><u>Introducing Asus ROG NUC: The Budget Gaming Powerhouse Starts at Just $1,629</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/micron-introduces-high-performance-ddr5-8800-modules-for-intel-xeon-6th-generation-systems/"><u>Micron Introduces High-Performance DDR5-8800 Modules for Intel Xeon 6Th Generation Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-cool-tips-for-insta-collage-creation-for-2024/"><u>Quick & Cool Tips for Insta Collage Creation for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-resource-for-advanced-hardware-insights-toms-hardware/"><u>The Ultimate Resource for Advanced Hardware Insights - Tom's Hardware</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/troubleshoot-steam-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam Remote Play Issues with Easy Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-issues-in-your-iphones-screen-mirroring-feature/"><u>Ultimate Guide: Resolving Issues in Your iPhone's Screen Mirroring Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-of-your-pcs-print-job-records-a-comprehensive-walkthrough-for-windows-10-users/"><u>Unlocking the Secrets of Your PC's Print Job Records - A Comprehensive Walkthrough for Windows 10 Users</u></a></li>
 </ul></div>
+

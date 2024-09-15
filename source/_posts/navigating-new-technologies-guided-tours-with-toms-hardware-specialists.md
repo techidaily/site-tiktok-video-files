@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Technologies: Guided Tours with Tom's Hardware Specialists"
-date: 2024-09-09T00:37:48.239Z
-updated: 2024-09-10T00:37:48.239Z
+date: 2024-09-12T22:51:48.143Z
+updated: 2024-09-14T21:28:04.924Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe64893bd392e2b875addd5c7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource
 
 Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs like this are commonly described as having adopted the[MoDT](https://www.tomshardware.com/news/intel-raptor-lake-mobile-chips-get-soldered-to-micro-atx-motherboards) (Mobile on Desktop) hybrid design.[Mini PCs](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-g7-pt-touted-as-worlds-first-amd-advantage-mini-pc-packs-an-amd-r9-7945hx-and-rx-7600m-xt) and[All-in-Ones](https://www.tomshardware.com/tag/all-in-one-pcs) were the first to make MoDT popular, but they also usually used mobile GPUs (or just integrated graphics). In contrast, Lenovo’s new Legion 7000K PC series, now[available in China](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fitem.lenovo.com.cn%2Fproduct%2F1037096.html) , come in sizable tower cases and are sold with powerful Nvidia[GeForce RTX 40](https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know) series GPUs pre-installed.
@@ -23,12 +17,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Looking more closely at the new Legion 7000K machines, we see that they come with a choice between two pretty strong Intel Raptor Lake Refresh mobile CPUs. The most powerful option is the[Core i9-14900HX](https://www.tomshardware.com/pc-components/cpus/intel-unleashes-14th-gen-raptor-lake-refresh-hx-series-laptops-cpus-refreshed-chips-with-up-to-24-cores-58-ghz-boost-clock-and-192gb-ddr5-support) , with 24C/32C, clock speeds up to 5.8 GHz, and 36MB Smart Cache. This powerful chip can be quite thrifty with its 55W base power, but also has a max turbo power of a laptop-melting 157W. In[Geekbench](https://browser.geekbench.com/processor-benchmarks) nT rankings, for example, the performance of this CPU sits snugly between the Core i9-13900 and the Ryzen 9 PRO 7945 desktop chips – so it isn’t a lightweight.
@@ -41,24 +29,12 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Another spec of the Legion 7000K gaming desktop that users will have to decide upon is what GPU to choose. The product page allows the choice of RTX 4060 / Ti, RTX 4070 Ti / Super. As with a traditional desktop PC, users can upgrade at any time later.
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,8 +53,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,38 +62,26 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tasty-tiktoks-worlds-best-food-vloggers/"><u>[New] 2024 Approved  Tasty TikToks  World's Best Food Vloggers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tiktok-stitching-demos-for-beginners/"><u>[New] 2024 Approved  TikTok Stitching Demos for Beginners</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-banishing-the-darkness-tips-for-a-bright-screen-on-obs-for-2024/"><u>[New] Banishing the Darkness  Tips for a Bright Screen on OBS for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-beyond-the-blue-feed-top-5-platforms-excluding-tiktok-for-2024/"><u>[New] Beyond the Blue Feed  Top 5 Platforms Excluding TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-crossing-the-line-free-verifying-video-rights-on-tiktok-for-2024/"><u>[New] Crossing the Line-Free  Verifying Video Rights on TikTok for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-inspiration-unleashed-list-of-10-motivating-flicks/"><u>[New] Inspiration Unleashed  List of 10 Motivating Flicks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-premier-tiktok-gamers-to-follow/"><u>[New] Premier TikTok Gamers to Follow</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[Updated] 2024 Approved  Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-imitation-for-a-unique-and-authentic-tiktok-presence/"><u>[Updated] 2024 Approved  Mastering the Art of Imitation for a Unique and Authentic TikTok Presence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-studio-lights-for-online-filmmakers-for-2024/"><u>[Updated] Cutting-Edge Studio Lights for Online Filmmakers for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-creating-popular-jujutsu-kaisen-tiktok-content/"><u>[Updated] In 2024, Creating Popular Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-maximizing-tiktok-video-velocity-effectively-for-2024/"><u>[Updated] Maximizing TikTok Video Velocity Effectively for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-streamlining-tiktok-videos-chromeandroidios-junctions/"><u>[Updated] Streamlining TikTok Videos  Chrome/Android/iOS Junctions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-right-move-copyright-validation-before-posting-on-tiktok-for-2024/"><u>[Updated] The Right Move  Copyright Validation Before Posting on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-commanding-attention-with-the-most-powerful-tiktok-caption-strategies/"><u>2024 Approved  Commanding Attention with the Most Powerful TikTok Caption Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-blueprint-for-earning-money-on-tiktok-8-strategies/"><u>2024 Approved  The Ultimate Blueprint for Earning Money on TikTok (8 Strategies)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-30-tiktok-usernames-for-higher-engagement-and-followers/"><u>2024 Approved  Top 30 TikTok Usernames for Higher Engagement and Followers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-deep-dive-into-yis-4k-capabilities-for-action-filmmaking/"><u>A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/aquasound-test-unwavering-clearcut-waves/"><u>AquaSound Test - Unwavering Clearcut Waves</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-5-youtube-video-editor-alternatives-for-2024/"><u>Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-every-moment-mastering-snapchat-photo-edits/"><u>Elevate Every Moment  Mastering Snapchat Photo Edits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/experts-guide-to-tiktok-character-variants/"><u>Expert's Guide to TikTok Character Variants</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-mp4-and-mov-videos-a-step-by-step-guide-with-vlc-media-player/"><u>Fixing Damaged MP4 & MOV Videos: A Step-by-Step Guide with VLC Media Player</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/from-choreographies-to-filters-a-comparison-of-content-creation-on-tiktok-and-snap/"><u>From Choreographies to Filters  A Comparison of Content Creation on TikTok & Snap</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 15 Plus</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-v30-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme V30 FRP Without Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>In 2024, The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok/"><u>Peaceful Rhythm  The Best Chill Country Music for Relaxing Dance Parties on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-fixes-to-fasten-tiktok-video-speed-for-2024/"><u>Quick Fixes to Fasten TikTok Video Speed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlined-online-gif-conversion-for-videos-top-5/"><u>Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-rated-support-center-grossing-a-245100-score/"><u>Top-Rated Support Center - Grossing a 245/100 Score</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unraveling-the-secrets-behind-tiktoks-pfp-emoji-for-2024/"><u>Unraveling the Secrets Behind TikTok's PFP Emoji for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated 2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clickbait-crafting-secrets-to-facebooks-favorites/"><u>[New] 2024 Approved Clickbait Crafting Secrets to Facebook's Favorites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>[New] Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unraveling-the-mechanics-auto-play-yourtube-videos-on-fb-platform/"><u>[Updated] 2024 Approved Unraveling the Mechanics Auto-Play YourTube Videos on FB Platform</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unraveling-the-mystery-what-does-pfp-mean-in-tiktok/"><u>[Updated] 2024 Approved Unraveling the Mystery What Does PFP Mean in TikTok?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-95-sharp-humor-in-tiktoks-best-joke-threads/"><u>[Updated] 95 Sharp Humor in TikTok's Best Joke Threads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-detailed-evaluation-of-screenflow-pro-mac-edition-for-2024/"><u>[Updated] Detailed Evaluation of ScreenFlow Pro Mac Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-snip-and-save-from-youtube-the-ultimate-guide/"><u>[Updated] How to Snip and Save From YouTube The Ultimate Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-joined-melodies-our-tiktok-duet/"><u>[Updated] Joined Melodies Our TikTok Duet</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlocking-the-mystery-of-pfp-a-tiktok-perspective-for-2024/"><u>[Updated] Unlocking the Mystery of 'PFP' A TikTok Perspective for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-weaving-a-memorable-tiktok-outro-narrative-for-2024/"><u>[Updated] Weaving A Memorable TikTok Outro Narrative for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>In 2024, TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-steams-voice-call-feature-when-it-wont-work-properly/"><u>Repair Steam's Voice Call Feature When It Won't Work Properly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-dominating-youtube-search-results-through-seo-for-2024/"><u>Strategies for Dominating YouTube Search Results Through SEO for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats/"><u>Updated DVD to Digital How to Convert DVD to Digital Video File Formats?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
