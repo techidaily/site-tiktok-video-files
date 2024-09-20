@@ -1,7 +1,7 @@
 ---
 title: "Exploring Creative Imagery: Utilizing DALL-E 3 on Microsoft Bing at No Cost"
-date: 2024-09-07T18:10:37.397Z
-updated: 2024-09-14T17:35:12.862Z
+date: 2024-09-13T19:44:37.993Z
+updated: 2024-09-19T20:36:29.892Z
 tags:
   - chatgpt
   - open-ai
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 **Winner:** ChatGPT performs better in basic math.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
  While chatbots are stereotyped for their bland, soulless responses, today's generative AI chatbots have made significant progress in creativity. To test the creativity of all three chatbots, we prompted each chatbot to simulate a conversation between two people arguing about going to space.
@@ -128,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
@@ -135,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -145,10 +152,10 @@ And here's the second part:
 ![Bard AI self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-ai-self-description.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Up next, we tried Bing AI. For some reason, the chatbot bluntly refused to describe itself. It even said it might be a good time to change the topic of the conversation. Strange.
@@ -163,13 +170,6 @@ And here's the second part:
 
 **Winner:** ChatGPT seems the most creative when comparing ChatGPT vs. Bing AI. vs. Bard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Bing AI vs. Bard: Safety
 
  AI chatbots are incredibly powerful. Unfortunately, just as they can be used for good, they can also be used for nefarious purposes.[Criminals are already using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . How safe are these AI chatbots as tools for the public? Which of them is the easiest to game? We tried to trick each chatbot into taking on an alter-ego and then asked them to do "bad stuff."
@@ -182,13 +182,6 @@ And here's the second part:
 
 ![microsoft bing chat refuses to write keylogger malware april 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-bing-chat-refuses-to-write-keylogger-malware-april-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We then moved on to ChatGPT. Unsurprisingly, ChatGPT was the most detailed when giving instructions on how to build malware. It was also able to write code to that effect, even if it wasn't exactly ready to deploy. However, OpenAI has clearly plugged a lot of loopholes since we last poked for safety flaws on ChatGPT. However, malicious actors who poke hard and long enough might be able to use ChatGPT to truly create scary malware.
 
  All in all, Bing AI was the hardest to trick into doing unethical things. Bard was hard as well, but with a little tinkering, the chatbot completely threw its safety measures out of the window. ChatGPT running on the GPT-4 model was challenging to trick as well, but it was the easiest to trick of the three.
@@ -196,6 +189,13 @@ And here's the second part:
 **Winner** : We'll call this a tie between Google Bard and Bing AI.
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
@@ -218,14 +218,18 @@ And here's the second part:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-instagrams-max-video-length-rule/"><u>[New] 2024 Approved Decoding Instagram's Max Video Length Rule</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-initial-cinematic-recording-dissection/"><u>[New] In 2024, Initial Cinematic Recording Dissection</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-make-your-mark-with-the-hottest-tiktok-tags-and-trends-now/"><u>[New] Make Your Mark with the Hottest TikTok Tags & Trends Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-building-personalized-instagram-feed-outlines-for-2024/"><u>[Updated] Building Personalized Instagram Feed Outlines for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-clearance-checking-guidelines-for-pre-upload-to-tiktok/"><u>[Updated] Clearance-Checking Guidelines for Pre-Upload to TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/essential-tips-for-navigating-discord-spoilers/"><u>Essential Tips for Navigating Discord Spoilers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/farewell-to-printer-frustration-win-10s-solution-found/"><u>Farewell to Printer Frustration: Win 10'S Solution Found</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-iphone-photos-discover-prime-angles-for-perfect-shots-for-2024/"><u>Mastering iPhone Photos Discover Prime Angles for Perfect Shots for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/right-now-these-are-the-top-sports-movie-picks-for-viewers/"><u>Right Now, These Are the Top Sports Movie Picks for Viewers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-audiophiles-recorder-review/"><u>[Updated] Audiophile's Recorder Review</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-cutting-edge-tiktok-techniques-for-new-video-borders/"><u>[Updated] In 2024, Cutting-Edge TikTok Techniques for New Video Borders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unveiling-your-own-distinctive-tiktok-stream-key/"><u>[Updated] In 2024, Unveiling Your Own Distinctive TikTok Stream Key</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-syncopated-sing-sessions-tiktok-style-for-2024/"><u>[Updated] Syncopated Sing-Sessions TikTok Style for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-pova-5-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Pova 5 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/ace-message-management-on-discord-with-easy-pins/"><u>Ace Message Management on Discord with Easy Pins</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhance-snaps-with-cultural-pop-culture-learn-anime-on-snapchat/"><u>Enhance Snaps with Cultural Pop-Culture Learn Anime On Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-versatility-of-magix-designer/"><u>Exploring the Versatility of MAGIX Designer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-music-movement-between-services/"><u>In 2024, Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/securing-permanent-distance-from-tiktok-domain-for-2024/"><u>Securing Permanent Distance From TikTok Domain for 2024</u></a></li>
 </ul></div>
 

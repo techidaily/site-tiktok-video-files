@@ -1,7 +1,7 @@
 ---
 title: Mastering MapleStory Troubleshooting – Fix Crashes on Windows 11 for Gamers
-date: 2024-09-09T01:43:43.724Z
-updated: 2024-09-14T17:23:10.662Z
+date: 2024-09-15T20:20:36.853Z
+updated: 2024-09-20T01:32:53.875Z
 tags:
   - win11
   - win10
@@ -110,10 +110,10 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
@@ -125,18 +125,19 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -147,10 +148,10 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
@@ -181,17 +182,20 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unlock-tiktok-secrets-with-top-7-emojis-list/"><u>[New] 2024 Approved Unlock TikTok Secrets with Top 7 Emojis List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-vivid-viewpoints-choosing-between-code-and-circuitry/"><u>[New] In 2024, Vivid Viewpoints Choosing Between Code and Circuitry</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-streamline-your-content-with-optimal-tiktok-intro-strategies-mac-for-2024/"><u>[New] Streamline Your Content with Optimal TikTok Intro Strategies (Mac) for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-unsung-heros-guide-to-tiktok-live-participation/"><u>[Updated] 2024 Approved The Unsung Hero's Guide to TikTok Live Participation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhanced-mac-technology-video-plus-sound-record-for-2024/"><u>[Updated] Enhanced Mac Technology Video + Sound Record for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-maximizing-apple-podcast-listing-chances/"><u>2024 Approved Guide Maximizing Apple Podcast Listing Chances</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/best-practices-for-transforming-tiktok-content-into-gifs-for-2024/"><u>Best Practices for Transforming TikTok Content Into GIFs for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-lava-blaze-2-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Lava Blaze 2 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-s24-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy S24 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transform-your-video-creation-with-winxvideo-ai-the-ultimate-solution-for-capturing-enhancing-and-editing-media/"><u>Transform Your Video Creation with WinxVideo AI - The Ultimate Solution for Capturing, Enhancing, and Editing Media</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-u23-by-fonelab-android-recover-video/"><u>Undeleted lost videos from U23</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10-reset-failures-expert-fixes-for-pc-restoration-errors-in-depth-guide/"><u>Winning Against Windows 10 Reset Failures: Expert Fixes for PC Restoration Errors [In-Depth Guide]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/arn-while-playing-games-online-for-2024/"><u>[New] Earn While Playing Games Online for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-add-meaning-with-texts-the-ultimate-tiktok-guide/"><u>[New] In 2024, Add Meaning with Texts The Ultimate TikTok Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-captivating-anime-concepts-that-topped-the-tiktok-list/"><u>[Updated] 2024 Approved Captivating Anime Concepts that Topped the TikTok List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-digital-frontier-leaders-the-quintessential-cloud-picks-for-your-needs/"><u>[Updated] Digital Frontier Leaders The Quintessential Cloud Picks for Your Needs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>[Updated] In 2024, A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-your-tiktok-game-techniques-for-desktop-creation/"><u>[Updated] In 2024, Elevating Your TikTok Game Techniques for Desktop Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-cards-and-markup-tips/"><u>[Updated] Mastering YouTube Cards & Markup Tips</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-optimized-processes-for-effective-live-streaming-on-computer-for-2024/"><u>[Updated] Optimized Processes for Effective Live Streaming on Computer for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-your-personalized-blueprint-to-livestreaming-on-tiktok-via-desktop-for-2024/"><u>[Updated] Your Personalized Blueprint to Livestreaming on TikTok via Desktop for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-crafting-engaging-tiktok-tracks-with-visuals/"><u>In 2024, Crafting Engaging TikTok Tracks with Visuals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-places-to-go-the-best-online-hubs-for-text-effects/"><u>In 2024, Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-an-upward-trajectory-for-gpu-fees-expected/"><u>Is an Upward Trajectory for GPU Fees Expected?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oneplus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with OnePlus? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
 </ul></div>
 

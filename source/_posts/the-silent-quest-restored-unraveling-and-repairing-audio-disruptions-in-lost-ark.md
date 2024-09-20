@@ -1,7 +1,7 @@
 ---
 title: "The Silent Quest Restored: Unraveling and Repairing Audio Disruptions in Lost Ark"
-date: 2024-09-11T23:11:32.165Z
-updated: 2024-09-14T21:26:28.675Z
+date: 2024-09-16T06:53:37.015Z
+updated: 2024-09-20T07:54:13.507Z
 tags:
   - win11
   - win10
@@ -107,26 +107,28 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
-3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
+3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -138,13 +140,6 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable overlays
 
  The overlay gives you access to features and apps without having to leave the game. However, some players report that the feature could interfere with their gameplay and even block game files.
@@ -152,13 +147,6 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -173,10 +161,10 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
@@ -188,6 +176,20 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.
@@ -213,19 +215,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mirrorless-mastery-10-best-stabilizing-choices/"><u>[New] 2024 Approved Mirrorless Mastery 10 Best Stabilizing Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-solo-podcast-production-for-top-spots/"><u>[New] Mastering Solo Podcast Production for Top Spots</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-live-event-success-expertly-selecting-5-recording-hardware/"><u>[Updated] Live Event Success Expertly Selecting 5 Recording Hardware</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[Updated] Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-tricks-to-embrace-cameras-motion-artistry/"><u>2024 Approved IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discovering-your-dream-prebuilt-gaming-system-a-buyers-guide/"><u>Discovering Your Dream Prebuilt Gaming System: A Buyer's Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhancing-ai-efficiency-discovering-tsmcs-innovative-128-tbps-silicon-photonic-interconnect-technology/"><u>Enhancing AI Efficiency: Discovering TSMC's Innovative 12.8 Tbps Silicon Photonic Interconnect Technology</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snappy-business-ideas-for-profit/"><u>In 2024, Snappy Business Ideas for Profit</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-components-the-ultimate-guide-by-toms-electronics/"><u>Mastering Components: The Ultimate Guide by Tom's Electronics</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/pioneering-hardware-reviews-and-tips-from-toms-devices-guide/"><u>Pioneering Hardware Reviews and Tips From Tom's Devices Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/1723262411529-slash-your-costs-with-the-alienware-bundle-shop-a-34-oled-monitor-and-aurora-r1e-pc-for-700-less-gamers-dream-deal-inside/"><u>Slash Your Costs with the Alienware Bundle: Shop a 34 OLED Monitor & Aurora R1e PC for $700 Less - Gamer's Dream Deal Inside</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube-for-2024/"><u>The Ultimate Platform Showdown Twitch Meets YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-computer-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Latest Computer Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-fifa-2epc-crashing-issues-a-comprehensive-tutorial/"><u>Ultimate Fix for FIFA 2ePC Crashing Issues: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>[New] 2024 Approved Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-chuckles-quickly-efficient-methods-for-exciting-youtube-reaction-videos-3-tips/"><u>[New] In 2024, Capture Chuckles Quickly Efficient Methods for Exciting YouTube Reaction Videos (3 Tips)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-social-snack-spectacle-10-viral-food-trends/"><u>[New] Social Snack Spectacle 10 Viral Food Trends</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevate-your-tiktok-content-with-new-backdrops/"><u>[Updated] In 2024, Elevate Your TikTok Content with New Backdrops</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-tiktok-livestreams-on-your-home-office-desktop-for-2024/"><u>[Updated] Mastering TikTok Livestreams on Your Home Office Desktop for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-master-the-art-of-speedy-tiktok-content/"><u>2024 Approved Master the Art of Speedy TikTok Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-gratuite-convertissez-vos-fichiers-oggtheora-en-format-mov-avec-movavi/"><u>Conversion Vidéo Gratuite - Convertissez Vos Fichiers Ogg/Theora en Format MOV Avec Movavi</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-adapt-to-the-digital-age-mastering-computer-based-live-feeds-on-tiktok/"><u>In 2024, Adapt to the Digital Age Mastering Computer-Based Live Feeds on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-finishing-touch-journalisms-close-call/"><u>In 2024, The Finishing Touch Journalism's Close Call</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unleash-your-creative-voice-on-tiktok-with-this-simple-step-by-step-guide/"><u>In 2024, Unleash Your Creative Voice on TikTok with This Simple Step-By-Step Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mp2mp4-mp3mp4/"><u>MP2到MP4自由下載移動維威 MP3/MP4格式轉檔器 - 免費在線上使用</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-most-inexpensive-video-cameras-reviewed-for-2024/"><u>The Most Inexpensive Video Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/1721477038832-top-10-speedy-solutions-resolving-iphoneipad-widget-issues-instantly/"><u>Top 10 Speedy Solutions: Resolving iPhone/iPad Widget Issues Instantly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-editing-essentials-building-youtube-trailers-in-filmora-for-2024/"><u>Video Editing Essentials Building YouTube Trailers in Filmora for 2024</u></a></li>
 </ul></div>
 

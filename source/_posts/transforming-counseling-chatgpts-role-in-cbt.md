@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-09-11T19:01:47.238Z
-updated: 2024-09-14T23:56:36.641Z
+date: 2024-09-14T20:50:02.230Z
+updated: 2024-09-19T18:57:43.058Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -66,6 +59,13 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -95,10 +95,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -122,20 +122,16 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-nextgen-hexacopters-the-definitive-ten/"><u>[New] 2024 Approved NextGen Hexacopters The Definitive Ten</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-budding-buyers-guide-monetization-platforms-for-novice-channels/"><u>[Updated] Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[Updated] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhanced-marketing-automation-with-cookiebot-integration/"><u>Enhanced Marketing Automation with Cookiebot Integration</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/exploring-tech-with-toms-hardware-essentials/"><u>Exploring Tech with Tom's Hardware Essentials</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/how-project-natick-outperformed-traditional-data-centers-in-reducing-server-malfunctions-insights-from-microsofts-underwater-endeavor/"><u>How Project Natick Outperformed Traditional Data Centers in Reducing Server Malfunctions - Insights From Microsoft's Underwater Endeavor</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/1723262360181-introducing-asus-rog-nuc-the-budget-gaming-powerhouse-starts-at-just-1629/"><u>Introducing Asus ROG NUC: The Budget Gaming Powerhouse Starts at Just $1,629</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/micron-introduces-high-performance-ddr5-8800-modules-for-intel-xeon-6th-generation-systems/"><u>Micron Introduces High-Performance DDR5-8800 Modules for Intel Xeon 6Th Generation Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-and-cool-tips-for-insta-collage-creation-for-2024/"><u>Quick & Cool Tips for Insta Collage Creation for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-resource-for-advanced-hardware-insights-toms-hardware/"><u>The Ultimate Resource for Advanced Hardware Insights - Tom's Hardware</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/troubleshoot-steam-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam Remote Play Issues with Easy Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-issues-in-your-iphones-screen-mirroring-feature/"><u>Ultimate Guide: Resolving Issues in Your iPhone's Screen Mirroring Feature</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-of-your-pcs-print-job-records-a-comprehensive-walkthrough-for-windows-10-users/"><u>Unlocking the Secrets of Your PC's Print Job Records - A Comprehensive Walkthrough for Windows 10 Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-from-vines-to-plates-15-must-try-tiktok-food-creations/"><u>[New] In 2024, From Vines to Plates 15 Must-Try TikTok Food Creations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-iphone-podcast-audio-enjoyment/"><u>[New] Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exemplary-melodies-set-for-visual-narratives/"><u>[Updated] Exemplary Melodies Set for Visual Narratives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>2024 Approved The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-online-hubs-capturing-sky-in-high-dynamic-range/"><u>Best Online Hubs Capturing Sky in High Dynamic Range</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p55plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P55+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/learn-how-to-craft-engaging-tiktok-captions-quickly/"><u>Learn How to Craft Engaging TikTok Captions Quickly</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-one-left-behind-facebook-group-membership-shout-outs/"><u>No One Left Behind: Facebook Group Membership Shout-Outs</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-complete-mac-powered-guide-to-ootd-videography/"><u>The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-filmora-for-free-no-hidden-fees-or-malware/"><u>Updated Get Filmora for Free No Hidden Fees or Malware</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30T? | Dr.fone</u></a></li>
 </ul></div>
 

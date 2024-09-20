@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome a Frozen State in Civilization V: Cold War Edition"
-date: 2024-09-13T18:58:39.750Z
-updated: 2024-09-14T18:58:25.736Z
+date: 2024-09-16T06:46:10.098Z
+updated: 2024-09-20T06:37:22.277Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -85,23 +78,24 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -142,13 +136,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -168,6 +155,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -178,16 +172,30 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -213,18 +221,16 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-enhance-video-speed-in-minutes-on-tiktok-filming-for-2024/"><u>[New] Enhance Video Speed in Minutes on TikTok Filming for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>[Updated] 2024 Approved Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-from-watcher-to-participant-tiktok-live-integration-for-2024/"><u>[Updated] From Watcher to Participant TikTok Live Integration for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-infiltrate-a-tiktok-livestream-with-precision/"><u>[Updated] In 2024, Infiltrate a TikTok Livestream With Precision</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-50plus-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>2024 Approved 50+ TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-milestones-gpt-5-launch-predictions/"><u>Artificial Intelligence Milestones: GPT-5 Launch Predictions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/av1/"><u>AV1形式に変換してビデオをエンコードする詳細ガイド</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-long-lasting-power-with-our-test-on-the-27000mah-chargetech-bank/"><u>Experience Long-Lasting Power with Our Test on the 27000mAh ChargeTech Bank</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixes-for-silent-gpu-fan-failure/"><u>Fixes for Silent GPU Fan Failure</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y77t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y77t</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-sync-your-ideas-on-mematic/"><u>In 2024, Seamlessly Sync Your Ideas on Mematic</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-meaning-behind-pfp-in-todays-tiktok-world-for-2024/"><u>The Meaning Behind PFP in Today's TikTok World for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-experts-choice-extracting-youtube-video-intros-online-for-2024/"><u>[New] Expert's Choice Extracting Youtube Video Intros Online for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-revolutionize-your-social-media-game-with-top-20-tiktok-caption-strategies/"><u>[Updated] In 2024, Revolutionize Your Social Media Game with Top 20 TikTok Caption Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-innovative-loop-techniques-elevate-your-instagram-content/"><u>[Updated] Innovative Loop Techniques Elevate Your Instagram Content</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement-for-2024/"><u>[Updated] The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unique-edge-innovative-approaches-for-tiktok-pfps/"><u>[Updated] Unique Edge Innovative Approaches for TikTok PFPs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ae-text-excellence-discover-our-best-10-ideas-for-2024/"><u>AE Text Excellence Discover Our Best 10 Ideas for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone XR? Heres the Best Fixes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-social-media-power-players-face-off-will-likes-triumph-over-tiktok/"><u>In 2024, Social Media Power Players Face-Off Will Likes Triumph over TikTok?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-transforming-vision-into-visual-impact-on-tiktok-via-templates/"><u>In 2024, Transforming Vision Into Visual Impact on TikTok via Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/symphonic-stats-adding-melodies-to-whatsapp/"><u>Symphonic Stats Adding Melodies to WhatsApp</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-absence-of-vibration-solutions-in-silent-and-ring-modes/"><u>Troubleshooting iPhone's Absence of Vibration: Solutions in Silent and Ring Modes</u></a></li>
 </ul></div>
 

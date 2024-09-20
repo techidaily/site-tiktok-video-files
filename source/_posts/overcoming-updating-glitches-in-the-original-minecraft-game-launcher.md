@@ -1,7 +1,7 @@
 ---
 title: Overcoming Updating Glitches in the Original Minecraft Game Launcher
-date: 2024-09-11T20:36:06.561Z
-updated: 2024-09-14T20:09:14.066Z
+date: 2024-09-14T17:12:43.933Z
+updated: 2024-09-19T21:22:18.523Z
 tags:
   - win11
   - win10
@@ -90,32 +90,32 @@ Here’s how to update drivers with Driver Easy:
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
 
@@ -135,6 +135,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
 
 ## 6\. Optimize in-game settings
@@ -147,10 +154,10 @@ Here’s how to update drivers with Driver Easy:
 2. Under the**VIDEO** tab, adjust the following settings:  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
@@ -158,13 +165,6 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -187,15 +187,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-audience-captivation-at-its-peak-top-20-tiktok-caption-ideas/"><u>[Updated] In 2024, Audience Captivation at Its Peak Top 20 TikTok Caption Ideas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tricks-to-flawless-screen-casting-on-mobile-and-desktop/"><u>[Updated] Tricks to Flawless Screen Casting on Mobile and Desktop</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-exceptional-tiktok-pfp-creations-that-command-attention/"><u>2024 Approved Exceptional TikTok PFP Creations that Command Attention</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/a-step-by-step-guide-to-snapchats-boomerang-magic/"><u>A Step-by-Step Guide to Snapchat's Boomerang Magic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-real-world-dialogues-enhance-chatgpts-knowledge-base/"><u>Do Real-World Dialogues Enhance ChatGPT’s Knowledge Base?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastery-unleashed-board-games-and-visual-creation-through-my-bots-techniques/"><u>Mastery Unleashed: Board Games & Visual Creation Through My Bots Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722986621525-solve-your-pcs-minecraft-dungeon-crash-problem-with-these-easy-fixes/"><u>Solve Your PC's Minecraft Dungeon Crash Problem with These Easy Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-up-your-game-secure-your-intel-z270-gaming-pro-carbon-drivers-here-for-free/"><u>Step-Up Your Game: Secure Your Intel Z270 Gaming Pro Carbon Drivers Here for FREE</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/transition-tips-accessing-nook-digital-novels-on-your-kobo-reader/"><u>Transition Tips: Accessing Nook Digital Novels on Your Kobo Reader</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-innovating-your-ultimate-tiktok-seal/"><u>[New] 2024 Approved Innovating Your Ultimate TikTok Seal</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>[New] 2024 Approved Revamp Your TikTok Videos Insightful Strategies for Backdrop Changes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-pubg-tones-in-minutes/"><u>[New] Mastering PUBG Tones in Minutes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting/"><u>[Updated] From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-foodie-frenzy-tiktoks-most-shared-meals-and-munchies/"><u>[Updated] In 2024, Foodie Frenzy TikTok's Most Shared Meals and Munchies</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-essential-skills-to-skyrocket-your-tiktok-game-on-devices/"><u>2024 Approved Essential Skills to Skyrocket Your TikTok Game on Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhancing-visual-storytelling-in-tiktok-the-role-of-narration-for-2024/"><u>Enhancing Visual Storytelling in TikTok The Role of Narration for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/find-your-inner-peace-with-tiktoks-best-country-tracks-for-2024/"><u>Find Your Inner Peace with TikTok's Best Country Tracks for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-a2-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi A2 FRP Locks</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a23-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A23 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-se-2022-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone SE (2022) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proliferate-profits-with-these-top-5-video-aids/"><u>In 2024, Proliferate Profits with These Top 5 Video Aids</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unwind-online-top-ten-virtual-retreats-to-calm-your-mind-and-enhance-wellbeing-for-2024/"><u>New Unwind Online Top Ten Virtual Retreats to Calm Your Mind and Enhance Wellbeing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008618059-solve-cs-go-not-starting-discover-effective-strategies-here/"><u>Solve CS: GO Not Starting? Discover Effective Strategies Here</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-11-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 11 Pro Before the Plan Expires</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-09-12T22:40:24.629Z
-updated: 2024-09-15T01:35:29.088Z
+date: 2024-09-18T17:30:31.668Z
+updated: 2024-09-19T21:20:45.051Z
 tags:
   - win11
   - win10
@@ -104,28 +104,21 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -136,6 +129,14 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the**Windows Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
@@ -143,6 +144,19 @@ Here’s how:
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -158,22 +172,15 @@ For example, you can follow these steps to disable Steam overlay:
 
 If the crashing reappears, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
@@ -201,15 +208,19 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-5-proven-techniques-for-live-streaming-on-tiktok-desktop/"><u>[Updated] 2024 Approved 5 Proven Techniques for Live Streaming on TikTok Desktop</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-mac-screen-capture-tips-and-shortcuts-guide/"><u>[Updated] In 2024, Quick Mac Screen Capture Tips and Shortcuts Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-posts-with-these-instagram-filters-hacks/"><u>2024 Approved Elevate Your Posts with These Instagram Filters Hacks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y27s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y27s</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveiling-the-art-of-reshaping-your-tiktok-avatar/"><u>In 2024, Unveiling the Art of Reshaping Your TikTok Avatar</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-analysis-the-hottest-2023-trends-for-2024/"><u>Infographic Analysis The Hottest 2023 Trends for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Samsung Galaxy F54 5G.</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/rhythmic-rendezvous-combining-beat-and-visuals-on-tiktok/"><u>Rhythmic Rendezvous Combining Beat and Visuals on TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube/"><u>[New] 2024 Approved Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-xbox-live-streaming/"><u>[New] In 2024, The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-mastering-tiktoks-economy-with-these-8-profitable-methods-for-2024/"><u>[New] Mastering TikTok's Economy with These 8 Profitable Methods for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-rhythm-route-developing-dynamic-tiktok-dances-on-a-mac-for-2024/"><u>[New] The Rhythm Route Developing Dynamic TikTok Dances on a Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bizarre-tiktok-quests-the-10-most-hilarious-games-to-try-now-for-2024/"><u>[Updated] Bizarre TikTok Quests The 10 Most Hilarious Games to Try Now for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-stardews-ultimate-game-changing-mods-a-curated-list/"><u>[Updated] In 2024, Stardew's Ultimate Game-Changing Mods A Curated List</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-an-engaging-tiktok-closing-credits/"><u>2024 Approved Crafting An Engaging TikTok Closing Credits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-exploring-the-full-features-sony-fdr-x1000-model/"><u>2024 Approved Exploring the Full Features Sony FDR-X1000 Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-stories-with-chatgpt-6-innovative-techniques/"><u>Craft Stories with ChatGPT: 6 Innovative Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-11x-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme 11X 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-page-could-not-be-loaded-error-in-the-microsoft-store-for-windows/"><u>How to Fix the Page Could Not Be Loaded Error in the Microsoft Store for Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-techniques-for-slow-mo-tiktok-content-creation/"><u>In 2024, Essential Techniques for Slow Mo TikTok Content Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-art-of-instagram-cultivating-a-robust-following/"><u>In 2024, The Art of Instagram Cultivating a Robust Following</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-secure-socket-layer-discrepancies-in-microsoft-windows/"><u>Resolving Secure Socket Layer Discrepancies in Microsoft Windows</u></a></li>
 </ul></div>
 
