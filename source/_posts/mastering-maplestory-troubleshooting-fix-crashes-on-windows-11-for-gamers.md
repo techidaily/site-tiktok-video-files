@@ -1,7 +1,7 @@
 ---
 title: Mastering MapleStory Troubleshooting – Fix Crashes on Windows 11 for Gamers
-date: 2024-09-15T20:20:36.853Z
-updated: 2024-09-20T01:32:53.875Z
+date: 2024-09-19T22:20:55.270Z
+updated: 2024-09-25T22:51:57.757Z
 tags:
   - win11
   - win10
@@ -92,6 +92,13 @@ It may take some time to complete the verifying process.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finished updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
@@ -110,10 +117,10 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
@@ -127,13 +134,20 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -148,10 +162,10 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
@@ -180,5 +194,26 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] 2024 Approved Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mistake-reversed-quick-steps-for-a-stolen-tiktok-refresh/"><u>[New] 2024 Approved Mistake Reversed Quick Steps for a Stolen TikTok Refresh</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-sketching-the-perfect-end-credits-scene-for-your-tiktok/"><u>[New] 2024 Approved Sketching the Perfect End-Credits Scene for Your TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-sketching-your-signature-tiktok-end-note/"><u>[New] 2024 Approved Sketching Your Signature TikTok End-Note</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-breakthrough-tactics-for-optimal-iptv-screening/"><u>[New] In 2024, Breakthrough Tactics for Optimal IPTV Screening</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-quick-guide-downloading-tiktok-for-mac-users/"><u>[New] In 2024, Quick Guide Downloading TikTok for Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-skyrocket-your-channels-view-count-beyond-ten-hundred/"><u>[New] In 2024, Skyrocket Your Channel's View Count Beyond Ten Hundred</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-orchestrating-a-harmonious-tiktok-finale-for-2024/"><u>[New] Orchestrating a Harmonious TikTok Finale for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-save-your-favorite-tiktok-content-securely-on-devices/"><u>[New] Save Your Favorite TikTok Content - Securely on Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>2024 Approved How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/how-to-do-slow-mo-on-tik-tok-step-by-step/"><u>How to Do Slow Mo On Tik Tok? [Step by Step]</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-streaming-prime-gaming-channel-subscription-guide/"><u>Master Streaming: Prime Gaming Channel Subscription Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-your-mac-creating-captivating-style-videography/"><u>Mastering Your Mac Creating Captivating Style Videography</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/social-media-mastery-expanding-business-through-tiktok-techniques-for-2024/"><u>Social Media Mastery Expanding Business Through TikTok Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-for-realistic-photo-motions-in-illustrator/"><u>Techniques for Realistic Photo Motions in Illustrator</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-quick-and-the-funny-with-kinemaster-memes/"><u>The Quick and the Funny with KineMaster Memes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-high-quality-body-cams-for-law-enforcement-2024-edition/"><u>The Ultimate Selection of High-Quality Body Cams for Law Enforcement, 2024 Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-alarm-working-fix-it-now/"><u>Why Isn't My iPhone Alarm Working? Fix It Now</u></a></li>
+<li><a href="https://techidaily.com/will-xperia-10-v-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xperia 10 V play AVCHD mts files?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-09-14T20:50:02.230Z
-updated: 2024-09-19T18:57:43.058Z
+date: 2024-09-20T00:57:24.638Z
+updated: 2024-09-26T00:17:14.161Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,13 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -48,6 +55,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -61,10 +75,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -95,10 +109,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -120,5 +134,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-20-hit-tiktok-rhymes-you-cant-miss-for-2024/"><u>[New] 20 Hit TikTok Rhymes You Can't Miss for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bold-profile-features-for-captivating-your-tiktok-audience-for-2024/"><u>[Updated] Bold Profile Features for Captivating Your TikTok Audience for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essentials-of-animated-visual-communication-for-2024/"><u>[Updated] Essentials of Animated Visual Communication for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-ethical-buying-of-tiktok-clout-increase/"><u>[Updated] Ethical Buying of TikTok Clout Increase</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-emotional-impact-in-personal-youtube-content/"><u>[Updated] In 2024, Crafting Emotional Impact in Personal YouTube Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>[Updated] In 2024, Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-5-applications-efficiently-turning-tiktok-into-a-gif/"><u>[Updated] In 2024, Top 5 Applications Efficiently Turning TikTok Into a GIF</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-door-to-others-tiktok-lives-for-2024/"><u>[Updated] Unlock the Door to Others' TikTok Lives for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-join-the-party-your-guide-to-active-tiktok-streaming/"><u>2024 Approved Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-internet-speech-capture-tools/"><u>2024 Approved Top Internet Speech Capture Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-8t-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 8T 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-decoding-the-language-of-asmr-videos/"><u>In 2024, Decoding the Language of ASMR Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-infuse-originality-in-tiktok-fps-boost-profile-exposure/"><u>In 2024, Infuse Originality in TikTok FPs, Boost Profile Exposure</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-20-hits-must-watch-tiktok-rappers-and-their-tracks/"><u>In 2024, Top 20 Hits Must-Watch TikTok Rappers & Their Tracks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-twinkling-typefaces-the-essence-of-bouncy-text/"><u>In 2024, Twinkling Typefaces The Essence of Bouncy Text</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-the-art-of-tagging-a-list-of-popular-tiktok-hashtags-for-2024/"><u>Mastering the Art of Tagging A List of Popular TikTok Hashtags for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-setup-for-hosting-online-seminars-on-pcmac-for-2024/"><u>Quick Setup for Hosting Online Seminars on PC/Mac for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-asus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Asus Phone</u></a></li>
+</ul></div>
 
