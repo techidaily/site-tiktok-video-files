@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Uncover the Art of Participating in TikTok Live Shows"
-date: 2024-09-20T01:26:54.395Z
-updated: 2024-09-26T05:53:46.989Z
+date: 2024-09-28T21:27:34.107Z
+updated: 2024-09-30T22:11:35.118Z
 tags:
   - ai video
   - ai tiktok
@@ -74,6 +74,13 @@ Are you willing to record and edit a live stream on TikTok? If you want to effic
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Along with a screen recorder, Filmora also provides a video editor. If you find flaws in your recorded live stream, the editor of Filmora can help you. By using a video editor, you can enhance your recorded video by adding effects or modifying its speed. There are some advanced editing features that you can explore and use on Filmora. To learn about them, check the below points:
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Editing Features of Wondershare Filmora
 
@@ -151,266 +158,12 @@ When you type hashtag #**booktok on TikTok**, it won't be long before the seven 
 
 ![tiktok books seven husbands](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-seven-husbands.jpg)
 
-### 2.A Court of Thorns and Roses
-
-The popular TikTok book, A Court of Thorns and Roses rose to popularity after being reviewed on TikTok and affectionately referred to as ACOTAR. It is a fantasy series following the life of Feyre as a family struggles to feed themselves during the harsh winter, and she must want to keep them alive. However, as she killed the wrong kind of wolf, life changed forever. This book is spicy due to the adult theme used throughout the books.
-
-![booktok recommendations court thorns](https://images.wondershare.com/filmora/article-images/2022/booktok-recommendations-court-thorns.jpg)
-
-### 3.You and Me on Vacation
-
-You and Me on Vacation are a trendy romance novel from the author of Beach read. Alex and Poppy were best friends after falling out two years ago, and the duo decided to go on the last holiday together to figure things out. So if you are a lover or a fan of second chance romance and friends to lover's stories, then you can add 'You and Me on Vacation' to your list.
-
-![you and me on vacation](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-you-me-vacation.jpg)
-
-### 4.It Ends With Us
-
-It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woman who manages her own business and lives in Boston. Meeting a handsome neurosurgeon called Ryle, she couldn't help but feel like it is good to be accurate, and she struggles to build a relationship with him, who isn't keen on the idea of committing. When her first love suddenly reappears in her life, she has to figure out where a heart truly lies.
-
-![TikTok books It ends with us](https://images.wondershare.com/filmora/article-images/2022/booktok-ends-us.jpg)
-
-### 5.Six of Crows
-
-In this novel, Six Crows follow teenagers living in the city of Ketterdam inspired by Amsterdam in the Dutch Republic era. The story navigates the dangerous city and commits to an unstable East, which follows the different perspectives of Kaz Brekker and his crew. If you're a person who enjoys complex character relationships, slow-building romance, and world-building, then this story is for you.
-
-![Booktok Six Crows](https://images.wondershare.com/filmora/article-images/2022/booktok-six-crows.jpg)
-
-### 6.The Cruel Prince
-
-The Cruel Prince is the folk of the air series that follows Jude and assistance who see their parents getting murdered in front of them. If you're a fan of fairy fantasy, this series is for you.
-
-### 7.Red Queen
-
-Red Queen is in a world divided by blood (silver or red). Mare Barrow is a seventeen-year-old red girl that finds herself working in the silver palace, and in this series, she discovers that she possesses a deadly power of home despite our red blood.
-
-### 8.The Midnight Library
-
-The Midnight Library by Matt Haig features a lady called Nora seed, who lives an ordinary and boring life. One night loneliness and despair, which is when she committed suicide, and she wakes up to find herself in a kind of limbo presented to her as a library.
-
-### 9.The Hating Game
-
-The Hating Game features Josh and Lucy, too young publishing executives who work together and eat each other. The novel is an enemy to lover romance that any hopeless romantic is bound to love.
-
-### 10.A Good Girl's Guide to Murder
-
-The novel is an addictive must-read mystery with shades of making a murderer about an investigation turned obsession. The story comes packed with twists and turns and an unpredictable ending.
-
-![tiktok books girls guide murder](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-girls-guide-murder.jpg)
-
-### 11.They Both Die at the End
-
-This novel is by Adam Silvera, who reminds us that there is no life without death and no love without loss. This is a devastating yet uplifting story about two people whose lives change after an Unforgettable day.
-
-### 12.You've Reached Sam
-
-The BookTok on TikTok novel is about a 17-year-old Julie Clark who has her future planned out and moved out of a small town with her boyfriend, Sam. They both attended a college in the city and spent a summer in Japan, but everything changed when Sam died.
-
-### 13.Verity
-
-The story is about Lowen Ashleigh, a struggling writer on the brink of financial ruin when she accepted a job offer of a lifetime. Jeremy Crawford, who is the husband of one of the best-selling author Verity Crawford has hired Lowen to complete the remaining book that his injured wife was unable to complete.
-
-### 14.Archenemies
-
-Another TikTok book is about the stories about Nova, whose double life is about to get a lot more complicated, find out in this series and feel the thrill that gets infilled with this book.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 15.From Blood and Ash
-
-This BookTok recommendation story is captivating and action-packed. Perfect for readers interested in addictive, sexy, and unexpected sentences.
-
-![booktok blood ash](https://images.wondershare.com/filmora/article-images/2022/booktok-blood-ash.jpg)
-
-## Part 3: How to Promote Your Books on TikTok \[for Authors\]
-
-There are presently more than 1 billion users on TikTok, and among these users, there are thousands of books lovers and authors who are doing great on the platform. Therefore, are you ready to promote your TikTok books to read? Keep reading to discover how to do it:
-
-* Actively discover what other authors and people in the reading community are doing or looking for. You can follow other authors to watch their videos and engage in them like commenting, sharing, and liking.
-* Share an unboxing video of you and your books when they arrive, and also post a cover review video as this gets your followers excited about your new book.
-* Make a short video summarizing the synopsis of your book to give your views as a snippet of what is to come.
-* Take advantage of TikTok trends. This provides endless opportunities to take advantage of this trend or challenge to promote your book.
-* Post regularly and create videos to share any events. Your participation in this will keep your viewers excited about new content.
-* Also, don't forget to use the hashtag to help you discover new videos. Must research Hashtag application.
-
-### Conclusion
-
-There are many popular BookTok books available on TikTok, and these books are easily accessible to your TikTok audience. This article provides a BookTok book list recommendation for readers on TikTok. You can create and post BookTok videos directly on TikTok. Besides, Filmora, the wonder tool from Wondershare, can be valuable in editing BookTok videos because of its auto reframe exclusive feature that lets you automatically convert horizontal TikTok videos into vertical videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-TikTok's popularity boomed the internet during the lockdown as many people turned to the platform as a distraction. Many different creators use the forum, from dancers, chefs, and reading enthusiasts. **TikTok books**, nicknamed BookTok dedicated to reviewing the latest books and influencing a generation of readers so much that the list of bestsellers is now full of novels that became popular through recommendations on BookTok.
-
-This article will give a list of TikTok book recommendations for everyone from different aspects of reading.
-
-#### In this article
-
-01 [What is BookTok?](#part1)
-
-02 [15 Popular Booktok Books Worth Reading](#part2)
-
-03 [How to Promote Your Books on TikTok \[for Authors\]](#part3)
-
-## Part 1: What is BookTok?
-
-BookTok is a sub-community on the TikTok application focused on literature and books. BookTok creators make videos discussing joking and reviewing the books they read. Although these **popular TikTok books** range in the genre, many creators focus on young adult fiction books, romance novels, and young adult fantasy. When you #BookTok on TikTok, there are currently over 30 billion views for videos related to reviewing, recommending, and reading. BookTok is the fastest book club, a mixture of dark academia and the Tumblr Fan-Fiction scene. **BookTok on TikTok** is a new way for teen readers to meet and connect.
-
-![booktok books](https://images.wondershare.com/filmora/article-images/2022/booktok-books.jpg)
-
-## Part 2: 15 Popular Booktok Books Worth Reading
-
-This section will give you 15 BookTok recommendation lists that you can choose from as a lover of TikTok who is a reader:
-
-### 1.The Seven Husbands of Evelyn Hugo
-
-When you type hashtag #**booktok on TikTok**, it won't be long before the seven husbands of Evelyn Hugo are recommended as the book follows the Hollywood star Evelyn Hugo as she recalls her life journey in terms of Monique Grant as a Young Journalist. The twist and turn of the book make the book an unforgettable read.
-
-![tiktok books seven husbands](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-seven-husbands.jpg)
-
-### 2.A Court of Thorns and Roses
-
-The popular TikTok book, A Court of Thorns and Roses rose to popularity after being reviewed on TikTok and affectionately referred to as ACOTAR. It is a fantasy series following the life of Feyre as a family struggles to feed themselves during the harsh winter, and she must want to keep them alive. However, as she killed the wrong kind of wolf, life changed forever. This book is spicy due to the adult theme used throughout the books.
-
-![booktok recommendations court thorns](https://images.wondershare.com/filmora/article-images/2022/booktok-recommendations-court-thorns.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 3.You and Me on Vacation
-
-You and Me on Vacation are a trendy romance novel from the author of Beach read. Alex and Poppy were best friends after falling out two years ago, and the duo decided to go on the last holiday together to figure things out. So if you are a lover or a fan of second chance romance and friends to lover's stories, then you can add 'You and Me on Vacation' to your list.
-
-![you and me on vacation](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-you-me-vacation.jpg)
-
-### 4.It Ends With Us
-
-It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woman who manages her own business and lives in Boston. Meeting a handsome neurosurgeon called Ryle, she couldn't help but feel like it is good to be accurate, and she struggles to build a relationship with him, who isn't keen on the idea of committing. When her first love suddenly reappears in her life, she has to figure out where a heart truly lies.
-
-![TikTok books It ends with us](https://images.wondershare.com/filmora/article-images/2022/booktok-ends-us.jpg)
-
-### 5.Six of Crows
-
-In this novel, Six Crows follow teenagers living in the city of Ketterdam inspired by Amsterdam in the Dutch Republic era. The story navigates the dangerous city and commits to an unstable East, which follows the different perspectives of Kaz Brekker and his crew. If you're a person who enjoys complex character relationships, slow-building romance, and world-building, then this story is for you.
-
-![Booktok Six Crows](https://images.wondershare.com/filmora/article-images/2022/booktok-six-crows.jpg)
-
-### 6.The Cruel Prince
-
-The Cruel Prince is the folk of the air series that follows Jude and assistance who see their parents getting murdered in front of them. If you're a fan of fairy fantasy, this series is for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 7.Red Queen
-
-Red Queen is in a world divided by blood (silver or red). Mare Barrow is a seventeen-year-old red girl that finds herself working in the silver palace, and in this series, she discovers that she possesses a deadly power of home despite our red blood.
-
-### 8.The Midnight Library
-
-The Midnight Library by Matt Haig features a lady called Nora seed, who lives an ordinary and boring life. One night loneliness and despair, which is when she committed suicide, and she wakes up to find herself in a kind of limbo presented to her as a library.
-
-### 9.The Hating Game
-
-The Hating Game features Josh and Lucy, too young publishing executives who work together and eat each other. The novel is an enemy to lover romance that any hopeless romantic is bound to love.
-
-### 10.A Good Girl's Guide to Murder
-
-The novel is an addictive must-read mystery with shades of making a murderer about an investigation turned obsession. The story comes packed with twists and turns and an unpredictable ending.
-
-![tiktok books girls guide murder](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-girls-guide-murder.jpg)
-
-### 11.They Both Die at the End
-
-This novel is by Adam Silvera, who reminds us that there is no life without death and no love without loss. This is a devastating yet uplifting story about two people whose lives change after an Unforgettable day.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 12.You've Reached Sam
-
-The BookTok on TikTok novel is about a 17-year-old Julie Clark who has her future planned out and moved out of a small town with her boyfriend, Sam. They both attended a college in the city and spent a summer in Japan, but everything changed when Sam died.
-
-### 13.Verity
-
-The story is about Lowen Ashleigh, a struggling writer on the brink of financial ruin when she accepted a job offer of a lifetime. Jeremy Crawford, who is the husband of one of the best-selling author Verity Crawford has hired Lowen to complete the remaining book that his injured wife was unable to complete.
-
-### 14.Archenemies
-
-Another TikTok book is about the stories about Nova, whose double life is about to get a lot more complicated, find out in this series and feel the thrill that gets infilled with this book.
-
-### 15.From Blood and Ash
-
-This BookTok recommendation story is captivating and action-packed. Perfect for readers interested in addictive, sexy, and unexpected sentences.
-
-![booktok blood ash](https://images.wondershare.com/filmora/article-images/2022/booktok-blood-ash.jpg)
-
-## Part 3: How to Promote Your Books on TikTok \[for Authors\]
-
-There are presently more than 1 billion users on TikTok, and among these users, there are thousands of books lovers and authors who are doing great on the platform. Therefore, are you ready to promote your TikTok books to read? Keep reading to discover how to do it:
-
-* Actively discover what other authors and people in the reading community are doing or looking for. You can follow other authors to watch their videos and engage in them like commenting, sharing, and liking.
-* Share an unboxing video of you and your books when they arrive, and also post a cover review video as this gets your followers excited about your new book.
-* Make a short video summarizing the synopsis of your book to give your views as a snippet of what is to come.
-* Take advantage of TikTok trends. This provides endless opportunities to take advantage of this trend or challenge to promote your book.
-* Post regularly and create videos to share any events. Your participation in this will keep your viewers excited about new content.
-* Also, don't forget to use the hashtag to help you discover new videos. Must research Hashtag application.
-
-### Conclusion
-
-There are many popular BookTok books available on TikTok, and these books are easily accessible to your TikTok audience. This article provides a BookTok book list recommendation for readers on TikTok. You can create and post BookTok videos directly on TikTok. Besides, Filmora, the wonder tool from Wondershare, can be valuable in editing BookTok videos because of its auto reframe exclusive feature that lets you automatically convert horizontal TikTok videos into vertical videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-TikTok's popularity boomed the internet during the lockdown as many people turned to the platform as a distraction. Many different creators use the forum, from dancers, chefs, and reading enthusiasts. **TikTok books**, nicknamed BookTok dedicated to reviewing the latest books and influencing a generation of readers so much that the list of bestsellers is now full of novels that became popular through recommendations on BookTok.
-
-This article will give a list of TikTok book recommendations for everyone from different aspects of reading.
-
-#### In this article
-
-01 [What is BookTok?](#part1)
-
-02 [15 Popular Booktok Books Worth Reading](#part2)
-
-03 [How to Promote Your Books on TikTok \[for Authors\]](#part3)
-
-## Part 1: What is BookTok?
-
-BookTok is a sub-community on the TikTok application focused on literature and books. BookTok creators make videos discussing joking and reviewing the books they read. Although these **popular TikTok books** range in the genre, many creators focus on young adult fiction books, romance novels, and young adult fantasy. When you #BookTok on TikTok, there are currently over 30 billion views for videos related to reviewing, recommending, and reading. BookTok is the fastest book club, a mixture of dark academia and the Tumblr Fan-Fiction scene. **BookTok on TikTok** is a new way for teen readers to meet and connect.
-
-![booktok books](https://images.wondershare.com/filmora/article-images/2022/booktok-books.jpg)
-
-## Part 2: 15 Popular Booktok Books Worth Reading
-
-This section will give you 15 BookTok recommendation lists that you can choose from as a lover of TikTok who is a reader:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 1.The Seven Husbands of Evelyn Hugo
-
-When you type hashtag #**booktok on TikTok**, it won't be long before the seven husbands of Evelyn Hugo are recommended as the book follows the Hollywood star Evelyn Hugo as she recalls her life journey in terms of Monique Grant as a Young Journalist. The twist and turn of the book make the book an unforgettable read.
-
-![tiktok books seven husbands](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-seven-husbands.jpg)
 
 ### 2.A Court of Thorns and Roses
 
@@ -429,13 +182,6 @@ You and Me on Vacation are a trendy romance novel from the author of Beach read.
 It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woman who manages her own business and lives in Boston. Meeting a handsome neurosurgeon called Ryle, she couldn't help but feel like it is good to be accurate, and she struggles to build a relationship with him, who isn't keen on the idea of committing. When her first love suddenly reappears in her life, she has to figure out where a heart truly lies.
 
 ![TikTok books It ends with us](https://images.wondershare.com/filmora/article-images/2022/booktok-ends-us.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5.Six of Crows
 
@@ -538,12 +284,139 @@ The popular TikTok book, A Court of Thorns and Roses rose to popularity after be
 
 ![booktok recommendations court thorns](https://images.wondershare.com/filmora/article-images/2022/booktok-recommendations-court-thorns.jpg)
 
+### 3.You and Me on Vacation
+
+You and Me on Vacation are a trendy romance novel from the author of Beach read. Alex and Poppy were best friends after falling out two years ago, and the duo decided to go on the last holiday together to figure things out. So if you are a lover or a fan of second chance romance and friends to lover's stories, then you can add 'You and Me on Vacation' to your list.
+
+![you and me on vacation](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-you-me-vacation.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 4.It Ends With Us
+
+It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woman who manages her own business and lives in Boston. Meeting a handsome neurosurgeon called Ryle, she couldn't help but feel like it is good to be accurate, and she struggles to build a relationship with him, who isn't keen on the idea of committing. When her first love suddenly reappears in her life, she has to figure out where a heart truly lies.
+
+![TikTok books It ends with us](https://images.wondershare.com/filmora/article-images/2022/booktok-ends-us.jpg)
+
+### 5.Six of Crows
+
+In this novel, Six Crows follow teenagers living in the city of Ketterdam inspired by Amsterdam in the Dutch Republic era. The story navigates the dangerous city and commits to an unstable East, which follows the different perspectives of Kaz Brekker and his crew. If you're a person who enjoys complex character relationships, slow-building romance, and world-building, then this story is for you.
+
+![Booktok Six Crows](https://images.wondershare.com/filmora/article-images/2022/booktok-six-crows.jpg)
+
+### 6.The Cruel Prince
+
+The Cruel Prince is the folk of the air series that follows Jude and assistance who see their parents getting murdered in front of them. If you're a fan of fairy fantasy, this series is for you.
+
+### 7.Red Queen
+
+Red Queen is in a world divided by blood (silver or red). Mare Barrow is a seventeen-year-old red girl that finds herself working in the silver palace, and in this series, she discovers that she possesses a deadly power of home despite our red blood.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 8.The Midnight Library
+
+The Midnight Library by Matt Haig features a lady called Nora seed, who lives an ordinary and boring life. One night loneliness and despair, which is when she committed suicide, and she wakes up to find herself in a kind of limbo presented to her as a library.
+
+### 9.The Hating Game
+
+The Hating Game features Josh and Lucy, too young publishing executives who work together and eat each other. The novel is an enemy to lover romance that any hopeless romantic is bound to love.
+
+### 10.A Good Girl's Guide to Murder
+
+The novel is an addictive must-read mystery with shades of making a murderer about an investigation turned obsession. The story comes packed with twists and turns and an unpredictable ending.
+
+![tiktok books girls guide murder](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-girls-guide-murder.jpg)
+
+### 11.They Both Die at the End
+
+This novel is by Adam Silvera, who reminds us that there is no life without death and no love without loss. This is a devastating yet uplifting story about two people whose lives change after an Unforgettable day.
+
+### 12.You've Reached Sam
+
+The BookTok on TikTok novel is about a 17-year-old Julie Clark who has her future planned out and moved out of a small town with her boyfriend, Sam. They both attended a college in the city and spent a summer in Japan, but everything changed when Sam died.
+
+### 13.Verity
+
+The story is about Lowen Ashleigh, a struggling writer on the brink of financial ruin when she accepted a job offer of a lifetime. Jeremy Crawford, who is the husband of one of the best-selling author Verity Crawford has hired Lowen to complete the remaining book that his injured wife was unable to complete.
+
+### 14.Archenemies
+
+Another TikTok book is about the stories about Nova, whose double life is about to get a lot more complicated, find out in this series and feel the thrill that gets infilled with this book.
+
+### 15.From Blood and Ash
+
+This BookTok recommendation story is captivating and action-packed. Perfect for readers interested in addictive, sexy, and unexpected sentences.
+
+![booktok blood ash](https://images.wondershare.com/filmora/article-images/2022/booktok-blood-ash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: How to Promote Your Books on TikTok \[for Authors\]
+
+There are presently more than 1 billion users on TikTok, and among these users, there are thousands of books lovers and authors who are doing great on the platform. Therefore, are you ready to promote your TikTok books to read? Keep reading to discover how to do it:
+
+* Actively discover what other authors and people in the reading community are doing or looking for. You can follow other authors to watch their videos and engage in them like commenting, sharing, and liking.
+* Share an unboxing video of you and your books when they arrive, and also post a cover review video as this gets your followers excited about your new book.
+* Make a short video summarizing the synopsis of your book to give your views as a snippet of what is to come.
+* Take advantage of TikTok trends. This provides endless opportunities to take advantage of this trend or challenge to promote your book.
+* Post regularly and create videos to share any events. Your participation in this will keep your viewers excited about new content.
+* Also, don't forget to use the hashtag to help you discover new videos. Must research Hashtag application.
+
+### Conclusion
+
+There are many popular BookTok books available on TikTok, and these books are easily accessible to your TikTok audience. This article provides a BookTok book list recommendation for readers on TikTok. You can create and post BookTok videos directly on TikTok. Besides, Filmora, the wonder tool from Wondershare, can be valuable in editing BookTok videos because of its auto reframe exclusive feature that lets you automatically convert horizontal TikTok videos into vertical videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+TikTok's popularity boomed the internet during the lockdown as many people turned to the platform as a distraction. Many different creators use the forum, from dancers, chefs, and reading enthusiasts. **TikTok books**, nicknamed BookTok dedicated to reviewing the latest books and influencing a generation of readers so much that the list of bestsellers is now full of novels that became popular through recommendations on BookTok.
+
+This article will give a list of TikTok book recommendations for everyone from different aspects of reading.
+
+#### In this article
+
+01 [What is BookTok?](#part1)
+
+02 [15 Popular Booktok Books Worth Reading](#part2)
+
+03 [How to Promote Your Books on TikTok \[for Authors\]](#part3)
+
+## Part 1: What is BookTok?
+
+BookTok is a sub-community on the TikTok application focused on literature and books. BookTok creators make videos discussing joking and reviewing the books they read. Although these **popular TikTok books** range in the genre, many creators focus on young adult fiction books, romance novels, and young adult fantasy. When you #BookTok on TikTok, there are currently over 30 billion views for videos related to reviewing, recommending, and reading. BookTok is the fastest book club, a mixture of dark academia and the Tumblr Fan-Fiction scene. **BookTok on TikTok** is a new way for teen readers to meet and connect.
+
+![booktok books](https://images.wondershare.com/filmora/article-images/2022/booktok-books.jpg)
+
+## Part 2: 15 Popular Booktok Books Worth Reading
+
+This section will give you 15 BookTok recommendation lists that you can choose from as a lover of TikTok who is a reader:
+
+### 1.The Seven Husbands of Evelyn Hugo
+
+When you type hashtag #**booktok on TikTok**, it won't be long before the seven husbands of Evelyn Hugo are recommended as the book follows the Hollywood star Evelyn Hugo as she recalls her life journey in terms of Monique Grant as a Young Journalist. The twist and turn of the book make the book an unforgettable read.
+
+![tiktok books seven husbands](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-seven-husbands.jpg)
+
+### 2.A Court of Thorns and Roses
+
+The popular TikTok book, A Court of Thorns and Roses rose to popularity after being reviewed on TikTok and affectionately referred to as ACOTAR. It is a fantasy series following the life of Feyre as a family struggles to feed themselves during the harsh winter, and she must want to keep them alive. However, as she killed the wrong kind of wolf, life changed forever. This book is spicy due to the adult theme used throughout the books.
+
+![booktok recommendations court thorns](https://images.wondershare.com/filmora/article-images/2022/booktok-recommendations-court-thorns.jpg)
 
 ### 3.You and Me on Vacation
 
@@ -562,6 +435,13 @@ It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woma
 In this novel, Six Crows follow teenagers living in the city of Ketterdam inspired by Amsterdam in the Dutch Republic era. The story navigates the dangerous city and commits to an unstable East, which follows the different perspectives of Kaz Brekker and his crew. If you're a person who enjoys complex character relationships, slow-building romance, and world-building, then this story is for you.
 
 ![Booktok Six Crows](https://images.wondershare.com/filmora/article-images/2022/booktok-six-crows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6.The Cruel Prince
 
@@ -597,16 +477,136 @@ The BookTok on TikTok novel is about a 17-year-old Julie Clark who has her futur
 
 The story is about Lowen Ashleigh, a struggling writer on the brink of financial ruin when she accepted a job offer of a lifetime. Jeremy Crawford, who is the husband of one of the best-selling author Verity Crawford has hired Lowen to complete the remaining book that his injured wife was unable to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 14.Archenemies
 
 Another TikTok book is about the stories about Nova, whose double life is about to get a lot more complicated, find out in this series and feel the thrill that gets infilled with this book.
 
+### 15.From Blood and Ash
+
+This BookTok recommendation story is captivating and action-packed. Perfect for readers interested in addictive, sexy, and unexpected sentences.
+
+![booktok blood ash](https://images.wondershare.com/filmora/article-images/2022/booktok-blood-ash.jpg)
+
+## Part 3: How to Promote Your Books on TikTok \[for Authors\]
+
+There are presently more than 1 billion users on TikTok, and among these users, there are thousands of books lovers and authors who are doing great on the platform. Therefore, are you ready to promote your TikTok books to read? Keep reading to discover how to do it:
+
+* Actively discover what other authors and people in the reading community are doing or looking for. You can follow other authors to watch their videos and engage in them like commenting, sharing, and liking.
+* Share an unboxing video of you and your books when they arrive, and also post a cover review video as this gets your followers excited about your new book.
+* Make a short video summarizing the synopsis of your book to give your views as a snippet of what is to come.
+* Take advantage of TikTok trends. This provides endless opportunities to take advantage of this trend or challenge to promote your book.
+* Post regularly and create videos to share any events. Your participation in this will keep your viewers excited about new content.
+* Also, don't forget to use the hashtag to help you discover new videos. Must research Hashtag application.
+
+### Conclusion
+
+There are many popular BookTok books available on TikTok, and these books are easily accessible to your TikTok audience. This article provides a BookTok book list recommendation for readers on TikTok. You can create and post BookTok videos directly on TikTok. Besides, Filmora, the wonder tool from Wondershare, can be valuable in editing BookTok videos because of its auto reframe exclusive feature that lets you automatically convert horizontal TikTok videos into vertical videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+TikTok's popularity boomed the internet during the lockdown as many people turned to the platform as a distraction. Many different creators use the forum, from dancers, chefs, and reading enthusiasts. **TikTok books**, nicknamed BookTok dedicated to reviewing the latest books and influencing a generation of readers so much that the list of bestsellers is now full of novels that became popular through recommendations on BookTok.
+
+This article will give a list of TikTok book recommendations for everyone from different aspects of reading.
+
+#### In this article
+
+01 [What is BookTok?](#part1)
+
+02 [15 Popular Booktok Books Worth Reading](#part2)
+
+03 [How to Promote Your Books on TikTok \[for Authors\]](#part3)
+
+## Part 1: What is BookTok?
+
+BookTok is a sub-community on the TikTok application focused on literature and books. BookTok creators make videos discussing joking and reviewing the books they read. Although these **popular TikTok books** range in the genre, many creators focus on young adult fiction books, romance novels, and young adult fantasy. When you #BookTok on TikTok, there are currently over 30 billion views for videos related to reviewing, recommending, and reading. BookTok is the fastest book club, a mixture of dark academia and the Tumblr Fan-Fiction scene. **BookTok on TikTok** is a new way for teen readers to meet and connect.
+
+![booktok books](https://images.wondershare.com/filmora/article-images/2022/booktok-books.jpg)
+
+## Part 2: 15 Popular Booktok Books Worth Reading
+
+This section will give you 15 BookTok recommendation lists that you can choose from as a lover of TikTok who is a reader:
+
+### 1.The Seven Husbands of Evelyn Hugo
+
+When you type hashtag #**booktok on TikTok**, it won't be long before the seven husbands of Evelyn Hugo are recommended as the book follows the Hollywood star Evelyn Hugo as she recalls her life journey in terms of Monique Grant as a Young Journalist. The twist and turn of the book make the book an unforgettable read.
+
+![tiktok books seven husbands](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-seven-husbands.jpg)
+
+### 2.A Court of Thorns and Roses
+
+The popular TikTok book, A Court of Thorns and Roses rose to popularity after being reviewed on TikTok and affectionately referred to as ACOTAR. It is a fantasy series following the life of Feyre as a family struggles to feed themselves during the harsh winter, and she must want to keep them alive. However, as she killed the wrong kind of wolf, life changed forever. This book is spicy due to the adult theme used throughout the books.
+
+![booktok recommendations court thorns](https://images.wondershare.com/filmora/article-images/2022/booktok-recommendations-court-thorns.jpg)
+
+### 3.You and Me on Vacation
+
+You and Me on Vacation are a trendy romance novel from the author of Beach read. Alex and Poppy were best friends after falling out two years ago, and the duo decided to go on the last holiday together to figure things out. So if you are a lover or a fan of second chance romance and friends to lover's stories, then you can add 'You and Me on Vacation' to your list.
+
+![you and me on vacation](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-you-me-vacation.jpg)
+
+### 4.It Ends With Us
+
+It Ends With Us is a romance novel by Collen Hoover. Lily is an independent woman who manages her own business and lives in Boston. Meeting a handsome neurosurgeon called Ryle, she couldn't help but feel like it is good to be accurate, and she struggles to build a relationship with him, who isn't keen on the idea of committing. When her first love suddenly reappears in her life, she has to figure out where a heart truly lies.
+
+![TikTok books It ends with us](https://images.wondershare.com/filmora/article-images/2022/booktok-ends-us.jpg)
+
+### 5.Six of Crows
+
+In this novel, Six Crows follow teenagers living in the city of Ketterdam inspired by Amsterdam in the Dutch Republic era. The story navigates the dangerous city and commits to an unstable East, which follows the different perspectives of Kaz Brekker and his crew. If you're a person who enjoys complex character relationships, slow-building romance, and world-building, then this story is for you.
+
+![Booktok Six Crows](https://images.wondershare.com/filmora/article-images/2022/booktok-six-crows.jpg)
+
+### 6.The Cruel Prince
+
+The Cruel Prince is the folk of the air series that follows Jude and assistance who see their parents getting murdered in front of them. If you're a fan of fairy fantasy, this series is for you.
+
+### 7.Red Queen
+
+Red Queen is in a world divided by blood (silver or red). Mare Barrow is a seventeen-year-old red girl that finds herself working in the silver palace, and in this series, she discovers that she possesses a deadly power of home despite our red blood.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 8.The Midnight Library
+
+The Midnight Library by Matt Haig features a lady called Nora seed, who lives an ordinary and boring life. One night loneliness and despair, which is when she committed suicide, and she wakes up to find herself in a kind of limbo presented to her as a library.
+
+### 9.The Hating Game
+
+The Hating Game features Josh and Lucy, too young publishing executives who work together and eat each other. The novel is an enemy to lover romance that any hopeless romantic is bound to love.
+
+### 10.A Good Girl's Guide to Murder
+
+The novel is an addictive must-read mystery with shades of making a murderer about an investigation turned obsession. The story comes packed with twists and turns and an unpredictable ending.
+
+![tiktok books girls guide murder](https://images.wondershare.com/filmora/article-images/2022/tiktok-books-girls-guide-murder.jpg)
+
+### 11.They Both Die at the End
+
+This novel is by Adam Silvera, who reminds us that there is no life without death and no love without loss. This is a devastating yet uplifting story about two people whose lives change after an Unforgettable day.
+
+### 12.You've Reached Sam
+
+The BookTok on TikTok novel is about a 17-year-old Julie Clark who has her future planned out and moved out of a small town with her boyfriend, Sam. They both attended a college in the city and spent a summer in Japan, but everything changed when Sam died.
+
+### 13.Verity
+
+The story is about Lowen Ashleigh, a struggling writer on the brink of financial ruin when she accepted a job offer of a lifetime. Jeremy Crawford, who is the husband of one of the best-selling author Verity Crawford has hired Lowen to complete the remaining book that his injured wife was unable to complete.
+
+### 14.Archenemies
+
+Another TikTok book is about the stories about Nova, whose double life is about to get a lot more complicated, find out in this series and feel the thrill that gets infilled with this book.
 
 ### 15.From Blood and Ash
 
@@ -644,18 +644,24 @@ There are many popular BookTok books available on TikTok, and these books are ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nique-conversation-starters-for-streaming/"><u>[New] Unique Conversation Starters for Streaming</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-make-money-on-tiktok-in-8-ways/"><u>[Updated] How to Make Money on TikTok in 8 Ways</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>[Updated] Quick Guide Capturing Time-Lapses on Samsung Devices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement-for-2024/"><u>[Updated] The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-playbook-for-professional-level-xbox-recording-for-2024/"><u>[Updated] The Ultimate Playbook for Professional-Level Xbox Recording for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/eye-on-video-the-premier-cameras-excellence-for-2024/"><u>Eye on Video The Premier Cameras Excellence for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-vivo-s17t-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Vivo S17t?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/illuminate-your-gameplay-eradicating-black-screens-in-fortnite-for-windows-users/"><u>Illuminate Your Gameplay: Eradicating Black Screens in Fortnite for Windows Users</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-social-media-power-players-face-off-will-likes-triumph-over-tiktok/"><u>In 2024, Social Media Power Players Face-Off Will Likes Triumph over TikTok?</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop-for-2024/"><u>Mastering HDR Photos Advanced Techniques in Photoshop for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-path-to-perfected-hevc-recordings-post-corruption/"><u>The Path to Perfected HEVC Recordings Post-Corruption</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-vintage-conversion-the-98-experience/"><u>Windows 11 Vintage Conversion: The ’98 Experience</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>[New] In 2024, Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-innovative-approaches-to-tiktok-lives-from-desktop-devices/"><u>[New] In 2024, Innovative Approaches to TikTok Lives From Desktop Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-pitch-perfect-productions-integrating-songs-in-tiktok-vids-for-2024/"><u>[New] Pitch-Perfect Productions Integrating Songs in TikTok Vids for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-places-to-go-the-best-online-hubs-for-text-effects/"><u>[New] Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-efficient-tiktok-storage-android-iphone-compatibility-guide/"><u>[Updated] 2024 Approved Efficient TikTok Storage Android, iPhone Compatibility Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-perfecting-ultimate-canon-sequence-crafts/"><u>[Updated] 2024 Approved Perfecting Ultimate Canon Sequence Crafts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-exemplary-templates-dominate-social-media-creatives-for-2024/"><u>[Updated] 8 Exemplary Templates Dominate Social Media Creatives for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-discover-tiktoks-10-best-gamers-now/"><u>[Updated] Discover TikTok's 10 Best Gamers Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>[Updated] DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-ethical-buying-of-tiktok-clout-increase/"><u>[Updated] Ethical Buying of TikTok Clout Increase</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-5-applications-efficiently-turning-tiktok-into-a-gif/"><u>[Updated] In 2024, Top 5 Applications Efficiently Turning TikTok Into a GIF</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-join-the-party-your-guide-to-active-tiktok-streaming/"><u>2024 Approved Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy A25 5G Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x5-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco X5 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-layer-on-sony-s3700-blu-ray-play/"><u>New Layer on Sony S3700 Blu-Ray PLAY</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-color-correction-a-step-by-step-guide-to-perfecting-your-footage/"><u>New PowerDirector Color Correction A Step-by-Step Guide to Perfecting Your Footage</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/restoring-a-non-functioning-tiktok-account/"><u>Restoring a Non-Functioning TikTok Account</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-secret-to-stellar-instagram-photos-pro-techniques-uncovered/"><u>The Secret to Stellar Instagram Photos Pro Techniques Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-dota-2-performance-issues/"><u>Ultimate Guide: Solving Dota 2 Performance Issues</u></a></li>
 </ul></div>
 

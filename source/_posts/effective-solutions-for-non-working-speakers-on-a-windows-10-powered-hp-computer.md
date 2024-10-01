@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2024-09-21T20:38:46.389Z
-updated: 2024-09-25T18:27:26.692Z
+date: 2024-09-29T20:19:45.848Z
+updated: 2024-09-30T21:13:52.697Z
 tags:
   - win11
   - win10
@@ -40,21 +40,22 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
@@ -64,13 +65,6 @@ Go with the easy steps to show it.
  1) On the Sound window, right-click on the blank area of the playback device list. Then choose**Show disabled devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
@@ -89,10 +83,10 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
@@ -114,16 +108,10 @@ It has two versions. Have a try on its **[Free Version](https://tools.techidaily
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -151,24 +139,14 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-unlocking-your-personalized-tiktok-hashtag/"><u>[New] In 2024, Mastering Unlocking Your Personalized TikTok Hashtag</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-a-users-ultimate-reference-tiktok-element-guidebook/"><u>[Updated] 2024 Approved A User’s Ultimate Reference TikTok Element Guidebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>[Updated] 2024 Approved Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content-for-2024/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-storytelling-anime-influencers-on-tiktok-for-2024/"><u>[Updated] Mastering Storytelling Anime Influencers on TikTok for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-total-motion-audit-2023/"><u>2024 Approved Total Motion Audit 2023</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/captivating-personal-frames-on-tiktok-top-creative-pfp-concepts-for-2024/"><u>Captivating Personal Frames on TikTok Top Creative PFP Concepts for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/comprehensive-tutorial-for-reducing-video-resolution-from-full-hd-and-hd-to-standard-definition-sd-480p/"><u>Comprehensive Tutorial for Reducing Video Resolution: From Full HD and HD to Standard Definition (SD, 480P)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-success-enhancing-your-sites-visibility/"><u>Cookiebot-Driven Success: Enhancing Your Site's Visibility</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-volume-resolving-airpods-connected-no-audio-in-windows-environments/"><u>How to Restore Volume: Resolving 'AirPods Connected, No Audio' In Windows Environments</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-constructing-an-inspirational-tiktok-end-screen/"><u>In 2024, Constructing An Inspirational TikTok End Screen</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-immediate-harmony-views-on-xigua-video/"><u>In 2024, Immediate Harmony Views on Xigua Video</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveil-authenticity-premier-marker-eraser-tools/"><u>In 2024, Unveil Authenticity Premier Marker Eraser Tools</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-buds-pro-2-whats-next-latest-rumors-on-launch-cost-and-advanced-features-revealed/"><u>Pixel Buds Pro 2 - What's Next? Latest Rumors on Launch, Cost & Advanced Features Revealed!</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/singing-siblings-shine-on-tiktok-for-2024/"><u>Singing Siblings Shine on TikTok for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/snap-inspiration-selecting-stunning-ig-visuals/"><u>Snap Inspiration! Selecting Stunning IG Visuals</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-fixes-what-to-do-when-your-iphone-ignores-call-notifications/"><u>Top 11 Fixes: What To Do When Your iPhone Ignores Call Notifications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-extracting-vimeo-videos-for-mp3-playback/"><u>[New] 2024 Approved Extracting Vimeo Videos for MP3 Playback</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[New] 2024 Approved Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pros-picks-premium-10-windows-11-webcam-recorders/"><u>[New] 2024 Approved Pro's Picks Premium 10 Windows 11 Webcam Recorders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-find-your-zen-the-best-tiktok-country-songs-for-peace/"><u>[New] Find Your Zen The Best TikTok Country Songs for Peace</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] In 2024, Spotlight Series The Best Gamers on TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>[Updated] In 2024, Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/absurd-adventures-a-compilation-of-extraordinary-tiktok-games-for-2024/"><u>Absurd Adventures A Compilation of Extraordinary TikTok Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-minimizing-motion-blur-in-media-creation/"><u>In 2024, Minimizing Motion Blur in Media Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reach-new-heights-top-7-applications-turning-your-art-into-nfts/"><u>Reach New Heights Top 7 Applications Turning Your Art Into NFTs</u></a></li>
 </ul></div>
 
