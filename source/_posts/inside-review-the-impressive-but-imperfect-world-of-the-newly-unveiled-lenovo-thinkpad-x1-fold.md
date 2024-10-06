@@ -1,7 +1,7 @@
 ---
 title: "Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
-date: 2024-09-24T22:35:00.416Z
-updated: 2024-09-30T16:09:34.873Z
+date: 2024-09-30T02:20:13.668Z
+updated: 2024-10-06T07:02:16.474Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
@@ -68,6 +68,13 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Beautiful, with room for improvements**
 
  It shouldn’t come as a surprise that the Apple iMac 21.5-inch 4K is a[beautiful machine](https://www.lifewire.com/best-desktop-pcs-4045927) from top to bottom. Before even turning it on, the design of the computer a striking, aluminum-clad body that’s still subtle enough that it will blend in with nearly any office or home environment.
@@ -84,6 +91,13 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -91,13 +105,6 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -111,7 +118,21 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
 
@@ -144,10 +165,10 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: Everything you need and nothing more**
@@ -158,25 +179,11 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -197,10 +204,10 @@ Lifewire / Gannon Burgett
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -208,13 +215,6 @@ Lifewire / Gannon Burgett
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -247,15 +247,15 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-comparative-study-single-vs-multi-camera-tech-today/"><u>[New] Comparative Study Single Vs. Multi-Camera Tech Today</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[New] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-high-quality-tiktok-editors-ranked-1-10-on-windows/"><u>[New] In 2024, High-Quality TikTok Editors Ranked #1-10 on Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-streamline-operations-ranking-the-top-8-facebook-task-managers-for-2024/"><u>[New] Streamline Operations Ranking the Top 8 Facebook Task Managers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-to-extract-sound-from-vimeo-videos/"><u>[Updated] Techniques to Extract Sound From Vimeo Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-ultimate-guide-top-free-youtube-video-openers-for-2024/"><u>[Updated] Ultimate Guide Top Free YouTube Video Openers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/compatible-formats-how-to-cast-any-video-on-your-tv-with-google-chromecast/"><u>Compatible Formats: How to Cast Any Video on Your TV with Google Chromecast</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/exploring-options-a-treasure-hunt-for-your-tiktok-symbol-for-2024/"><u>Exploring Options A Treasure Hunt for Your TikTok Symbol for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-guide-to-boost-your-tiktok-production-speed/"><u>Quick Guide to Boost Your TikTok Production Speed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] 2024 Approved Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-next-gen-film-viewers-guide-youtubes-top-choices/"><u>[New] 2024 Approved Next-Gen Film Viewers' Guide YouTube's Top Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>[Updated] 2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-wireless-network-with-netgear-nighthawk-x4-mesh-extender-an-in-depth-review/"><u>Enhancing Your Wireless Network with Netgear Nighthawk X4 Mesh Extender - An In-Depth Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-authentic-follower-acquisition-on-tiktok/"><u>In 2024, Authentic Follower Acquisition on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-discovering-gems-20-underrated-tiktok-raps/"><u>In 2024, Discovering Gems 20 Underrated TikTok Raps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-nord-ce-3-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Nord CE 3 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/secrets-unveiled-creating-standout-tiktok-intros-on-mac/"><u>Secrets Unveiled Creating Standout TikTok Intros on Mac</u></a></li>
 </ul></div>
 

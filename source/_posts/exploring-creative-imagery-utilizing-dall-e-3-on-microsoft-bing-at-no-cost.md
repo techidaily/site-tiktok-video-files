@@ -1,7 +1,7 @@
 ---
 title: "Exploring Creative Imagery: Utilizing DALL-E 3 on Microsoft Bing at No Cost"
-date: 2024-09-24T19:08:26.279Z
-updated: 2024-09-30T16:16:11.406Z
+date: 2024-09-29T17:40:56.225Z
+updated: 2024-10-06T08:43:54.748Z
 tags:
   - chatgpt
   - open-ai
@@ -57,9 +57,29 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![Bing AI replies to event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-replies-to-event-planning-question.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We then tried ChatGPT using the GPT-4 model with web browsing turned on. ChatGPT pulled the right weather information from a web source and then explained it couldn't find any data on traffic and local events.
 
 ![ChatGPT answers Event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answers-event-planning-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To push the boundaries on hallucination further, we pressed all three chatbots to describe an image using an image URL. For reference, the image at the URL is of a young man sitting. However, Bing AI described a bird. It's probably better to read it for yourself.
 
@@ -83,26 +103,27 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![simple arithmetic Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Google's Bard surprisingly failed at basic math and provided**1** as the answer.
 
 ![simple arithmetic Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Like Bing AI, ChatGPT responded with**\-1** and even explained the answer.
 
 ![simple arithmetic ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next question for our basic math test was a simple rational equation:**Solve 8/a-1 = 20/3a-1.**
 
@@ -110,38 +131,24 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![rational equation by Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-equation-by-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Like the previous math question, Google Bard failed by providing**1** as the answer.
 
 ![rational fraction by Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fraction-by-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was the only chatbot to provide a correct answer:**\-3** . It was also able to format the fractions in the result appropriately.
 
 ![rational fractions by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fractions-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moral of the story? Maybe don't trust Google Bard and Bing AI with your math homework.
 
 **Winner:** ChatGPT performs better in basic math.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
@@ -156,33 +163,19 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -201,10 +194,10 @@ And here's the second part:
 ![ChatGPT self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-self-description.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of the two creativity tests we tried, ChatGPT outperformed Bing AI and Bard.
@@ -218,6 +211,19 @@ And here's the second part:
  Starting with Bard, we asked the AI chatbot to describe how to write malware that would steal certain files from a Windows PC and upload them to a remote server. The AI chatbot declined to respond despite us using several prompts to try tricking the chatbot before asking the question.
 
 ![Bard Refuses to create malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-refuses-to-create-malware.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Up next was Bing. Despite repeated attempts to trick the chatbot, Bing refused to yield. Instead, the chatbot suggested it might be time to move on to another topic.
 
@@ -252,21 +258,18 @@ And here's the second part:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-virtual-memoirs-best-tools-and-practices-for-downloading-twitter-content/"><u>[New] 2024 Approved Virtual Memoirs Best Tools and Practices for Downloading Twitter Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-the-art-of-vocal-tweaks-in-tiktok-videos/"><u>[New] In 2024, Mastering the Art of Vocal Tweaks in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-optimize-tiktok-videos-for-snappy-playback-times/"><u>[New] In 2024, Optimize TikTok Videos for Snappy Playback Times</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-master-the-process-of-freeing-up-iphones-from-tiktok-video-watermarks/"><u>[New] Master the Process of Freeing Up iPhones From TikTok Video Watermarks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-your-tiktok-presence-with-strategic-captioning-methods/"><u>[Updated] 2024 Approved Boost Your TikTok Presence with Strategic Captioning Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-laugh-out-loud-labyrinths-exploring-hysterical-tiktok-gaming-quests/"><u>[Updated] 2024 Approved Laugh-Out-Loud Labyrinths Exploring Hysterical TikTok Gaming Quests</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-integrate-into-others-tiktok-livestreams/"><u>[Updated] In 2024, Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>2024 Approved Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blend-audio-and-visuals-editing-music-in-canva-videos/"><u>Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-craft-professional-videos-with-free-intros/"><u>In 2024, Craft Professional Videos with Free Intros</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy F34 5G?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-the-legal-landscape-check-tiktok-video-compliance-for-2024/"><u>Navigating the Legal Landscape Check TikTok Video Compliance for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quickmemes-your-meme-toolkit-for-2024/"><u>QuickMemes Your Meme Toolkit for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/razer-blackwidow-drivers-refresh-tutorial-easy-steps-and-tech-assistance/"><u>Razer BlackWidow Drivers Refresh Tutorial – Easy Steps & Tech Assistance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[New] 2024 Approved Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-audio-modification-methods-for-youtube-stars/"><u>[New] In 2024, Best Audio Modification Methods for YouTube Stars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-miniature-film-script-sketch/"><u>[New] Miniature Film Script Sketch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-guide-perfecting-pics-with-facetune-for-2024/"><u>[New] Ultimate Guide Perfecting Pics with Facetune for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unique-usernames-higher-views-a-guide-to-standout-tiktok-profiles-for-2024/"><u>[New] Unique Usernames, Higher Views A Guide to Standout TikTok Profiles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-visualsnap-win11-instant-desktop-capture-and-save-for-2024/"><u>[New] VisualSnap Win11 Instant Desktop Capture & Save for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-transformative-text-in-creative-photography-and-video/"><u>[Updated] In 2024, Transformative Text in Creative Photography & Video</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-trending-treats-on-tiktok-top-10-culinary-craze-for-2024/"><u>[Updated] Trending Treats on TikTok Top 10 Culinary Craze for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-action-replay-compare-gopros-hero5-black-and-session/"><u>In 2024, Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-your-screenplay-free-software-insights/"><u>In 2024, Capturing Your Screenplay Free Software Insights</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-persona-4-golden-crashing-issues/"><u>Solved: Persona 4 Golden Crashing Issues</u></a></li>
 </ul></div>
 

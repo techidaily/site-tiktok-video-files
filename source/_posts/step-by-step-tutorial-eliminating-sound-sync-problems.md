@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Eliminating Sound Sync Problems"
-date: 2024-09-27T22:27:20.605Z
-updated: 2024-09-30T16:50:12.522Z
+date: 2024-10-01T01:16:23.790Z
+updated: 2024-10-05T20:00:45.495Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Mic testing in Windows audio settings
@@ -56,20 +56,13 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
@@ -82,16 +75,22 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -100,6 +99,14 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
@@ -110,10 +117,10 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
@@ -137,16 +144,10 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
@@ -171,20 +172,20 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-creative-anime-characters-and-scenes-for-viral-tiktoks/"><u>[New] 2024 Approved Creative Anime Characters & Scenes for Viral TikToks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android-for-2024/"><u>[New] Crafting Audio Identity The Art of Adding Your Own Tones to Android for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-gain-more-traction-on-tiktok-a-compendium-of-unique-username-concepts/"><u>[New] In 2024, Gain More Traction on TikTok A Compendium of Unique Username Concepts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-real-time-music-sessions-on-douyin/"><u>[New] In 2024, Real-Time Music Sessions on Douyin</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-budget-friendly-edits-made-easy-with-vimeos-free-tools/"><u>[Updated] In 2024, Budget-Friendly Edits Made Easy with Vimeo's Free Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-installing-tiktok-your-path-to-joyful-macbook-experience/"><u>[Updated] In 2024, Installing TikTok Your Path to Joyful MacBook Experience</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Live Participation in TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-laying-down-an-elegant-tiktok-credits-panel-for-2024/"><u>[Updated] Laying Down an Elegant TikTok Credits Panel for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>2024 Approved Fusion Feats Mixing Genres in the World's Most Engaging TikToks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>2024 Approved The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tips-for-successful-video-game-broadcasting/"><u>2024 Approved Tips for Successful Video Game Broadcasting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cutting-edge-platforms-for-digital-transformation-into-nft-tokens-for-2024/"><u>Cutting-Edge Platforms for Digital Transformation Into NFT Tokens for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/insta-speedsters-playbook-power-through-video-and-likes/"><u>Insta Speedster's Playbook Power Through Video and Likes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-boost-creativity-on-tiktok-top-10-free-edits-for-mac-users/"><u>[New] Boost Creativity on TikTok - Top 10 Free Edits for Mac Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-pinpointing-your-own-signature-tiktok-tag/"><u>[New] In 2024, Pinpointing Your Own Signature TikTok Tag</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-top-5-tips-for-tiktok-success-on-mac/"><u>[New] Top 5 Tips for TikTok Success on Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-secrets-of-creating-a-bespoke-tiktok-hashtag/"><u>[Updated] 2024 Approved Secrets of Creating a Bespoke TikTok Hashtag</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-clearance-check-tiktok-videos-before-publishing/"><u>[Updated] How to Clearance-Check TikTok Videos Before Publishing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-analyzing-the-financial-gains-of-podcasting/"><u>2024 Approved Analyzing the Financial Gains of Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/briskly-building-your-own-google-collages-for-2024/"><u>Briskly Building Your Own Google Collages for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-free-windows-8-amd-radeon-gpu-drivers/"><u>Download Free Windows 8 AMD Radeon GPU Drivers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/fostering-fandom-creating-jujutsu-kaisen-content-for-tiktok-for-2024/"><u>Fostering Fandom Creating Jujutsu Kaisen Content for TikTok for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y100-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y100 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-face-forward-influential-beauty-guides/"><u>In 2024, The Face Forward Influential Beauty Guides</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/peak-content-performance-the-ultimate-list-of-powerful-tiktok-captions/"><u>Peak Content Performance The Ultimate List of Powerful TikTok Captions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007106746-spellbreak-pc-woes-heres-your-ultimate-guide-to-uninterrupted-gaming/"><u>Spellbreak PC Woes? Here's Your Ultimate Guide to Uninterrupted Gaming!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy Z Fold 5 Device</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mp4-10-top-5/"><u>모두에게 영감을 주는 유튜브 MP4 제작을 위한 신제품인 10가지 추출기 - TOP 5</u></a></li>
 </ul></div>
 

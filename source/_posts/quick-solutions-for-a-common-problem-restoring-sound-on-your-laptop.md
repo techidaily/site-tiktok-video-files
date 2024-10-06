@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for a Common Problem - Restoring Sound on Your Laptop
-date: 2024-09-24T20:23:37.890Z
-updated: 2024-09-30T18:28:08.414Z
+date: 2024-10-03T04:40:21.479Z
+updated: 2024-10-06T03:46:01.907Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -46,24 +39,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -87,9 +66,24 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Check your audio settings**
 
@@ -99,28 +93,21 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -129,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
@@ -153,17 +140,37 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -199,19 +206,16 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-crafting-a-distinctive-image-with-creative-personal-frames-on-tiktok/"><u>[New] Crafting a Distinctive Image with Creative Personal Frames on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-transform-into-a-live-stream-enthusiast-on-tiktok/"><u>[New] In 2024, Transform Into a Live-Stream Enthusiast on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>[New] The Ultimate Playbook of IGTV Mastery Top 10 Branding Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-combining-youtube-tunes-and-film-vectors/"><u>[Updated] Combining YouTube Tunes and Film Vectors</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-the-rhythmic-future-tiktoks-most-iconic-rap-songs/"><u>[Updated] In 2024, The Rhythmic Future TikTok's Most Iconic Rap Songs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-journey-into-the-creative-realm-top-25-tiktok-anime-ideas-for-2024/"><u>[Updated] Journey Into the Creative Realm Top 25 TikTok Anime Ideas for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>[Updated] Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-release-date-and-specs-of-amazfit-helio-ring-with-price-points/"><u>Breaking Down the Release Date and Specs of Amazfit Helio Ring with Price Points</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-setup-for-pioneer-djs-ddj-sx2-controller-get-the-driver-now/"><u>Effortless Setup for Pioneer DJ's DDJ-SX2 Controller - Get the Driver Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>In 2024, Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-huntings-top-5-best-video-recorders/"><u>In 2024, Hunting's Top 5 Best Video Recorders</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok/"><u>In 2024, Take Control How to Involve Yourself in a Friend's Live on TikTok</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/wonderfox-the-ultimate-dvd-and-hd-video-ripper-and-converter-toolkit-for-hassle-free-media-management/"><u>WonderFox: The Ultimate DVD & HD Video Ripper and Converter Toolkit for Hassle-Free Media Management</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-easily-alter-tiktok-audio-the-no-frills-guide-to-vocal-changes/"><u>[New] 2024 Approved Easily Alter TikTok Audio The No-Frills Guide to Vocal Changes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-dive-deep-into-tiktoks-pfp-symbol-your-complete-guide-for-2024/"><u>[New] Dive Deep Into TikTok’s PFP Symbol - Your Complete Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>[Updated] 2024 Approved Fusion Feats Mixing Genres in the World's Most Engaging TikToks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-joined-melodies-our-tiktok-duet/"><u>[Updated] 2024 Approved Joined Melodies Our TikTok Duet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-value-packed-skyspace-service-big-data-at-low-cost-for-2024/"><u>[Updated] Value-Packed SkySpace Service Big Data at Low Cost for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-range-best-webcam-standers/"><u>2024 Approved Prime Range Best Webcam Standers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-mobile-game-skills-a-deep-dive-into-kinemaster-review/"><u>Elevate Your Mobile Game Skills A Deep Dive Into KineMaster Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-dancing-off-dossiers-top-country-hits-from-tiktok/"><u>In 2024, Dancing Off Dossiers Top Country Hits From TikTok</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/netflix-and-roku-woes-expert-advice-for-restoring-seamless-streaming/"><u>Netflix and Roku Woes? Expert Advice for Restoring Seamless Streaming</u></a></li>
+<li><a href="https://win-web.techidaily.com/startling-insights-from-microsoft-on-achieving-authentic-worker-joy/"><u>Startling Insights From Microsoft on Achieving Authentic Worker Joy</u></a></li>
 </ul></div>
 

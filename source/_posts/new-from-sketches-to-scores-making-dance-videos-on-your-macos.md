@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Sketches to Scores  Making Dance Videos on Your MacOS\""
-date: 2024-08-26T02:55:05.906Z
-updated: 2024-08-27T02:55:05.906Z
+date: 2024-10-04T04:33:37.509Z
+updated: 2024-10-05T23:18:26.476Z
 tags:
   - ai video
   - ai tiktok
@@ -67,6 +67,13 @@ Using the motion tracking function is extremely easy. Here is how you do it:
 
 ![32import media](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.import-media.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7.Once you choose your object, you simply need to drag that object to the track above your footage.
 
 8.Next, you will need to place the object where you want it to be concerning the subject in the preview box. Make sure that you drag the edge of it on the timeline to match it with the timeline of your subject.
@@ -270,49 +277,53 @@ Using the motion tracking function is extremely easy. Here is how you do it:
 2.Now you will want to check that the main body of the subject is in the entire frame. If it is not, then you will need to cut and trim the video accordingly.
 
 3.The next step is to start the motion tracking. For this, you will need to make sure that your play head is at the point from where you want to start your motion tracking. The tracking will only start wherever your play head is.
+
+![32motion track](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.motion-track.jpg)
+
+4.Once that is done, you can open the tool used for motion tracking from the timeline toolbar. You can also do it by double-clicking your clip to find the motion tracking function in the editing menu.
+
+5.When you have done that, the motion tracking box will appear in the preview. Move and resize it according to the subject that you wish to track. Then, select the “render-effect” option so that Filmora can analyze the video.
+
+![32box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
+
+6.Now you can add the object you want to have to follow the track. You can choose that from the title menu or add a new image from your Mac.
+
+![32import media](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.import-media.jpg)
+
+7.Once you choose your object, you simply need to drag that object to the track above your footage.
+
+8.Next, you will need to place the object where you want it to be concerning the subject in the preview box. Make sure that you drag the edge of it on the timeline to match it with the timeline of your subject.
+
+9.When it has been set up, you will need to double-click the footage you have added the tracking function to and go to the motion tracking menu.
+
+10.The drop-down menu will show all the texts and images or animations available. Select the one you want to see.
+
+11.Adjust the size of your object and voila!! You are done.
+
+With these easy steps, you have managed to make a normal Tik Tok Dance challenge into a unique and zestful piece of art.
+
+## Other Visual Effects For Your Tik Tok Dance
+
+Other than motion tracking several other effects can make your Tik Tok dance alluring and special. Here are some of them.
+
+### Green Screen for TikTok Dance
+
+This is also one of the most famous effects that are used for the Tik Tok dance challenge. Green Screen in a built-in app effect that allows you to add any background to your current video. Tik Tok provides some default backgrounds to its users but you can also choose from your camera roll.
+
+![green screen tik tok effect](https://images.wondershare.com/filmora/Mac-articles/green-screen-tik-tok-effect.jpg)
+
+### Disco effects for TikTok Dance
+
+This is another one of the extremely fun built-in effects that allow you to add disco lights to your amazing Tik Tok dance.
+
+ ![add disco effect to your tik tok](https://images.wondershare.com/filmora/Mac-articles/add-disco-effect-to-your-tik-tok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![32motion track](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.motion-track.jpg)
-
-4.Once that is done, you can open the tool used for motion tracking from the timeline toolbar. You can also do it by double-clicking your clip to find the motion tracking function in the editing menu.
-
-5.When you have done that, the motion tracking box will appear in the preview. Move and resize it according to the subject that you wish to track. Then, select the “render-effect” option so that Filmora can analyze the video.
-
-![32box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
-
-6.Now you can add the object you want to have to follow the track. You can choose that from the title menu or add a new image from your Mac.
-
-![32import media](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.import-media.jpg)
-
-7.Once you choose your object, you simply need to drag that object to the track above your footage.
-
-8.Next, you will need to place the object where you want it to be concerning the subject in the preview box. Make sure that you drag the edge of it on the timeline to match it with the timeline of your subject.
-
-9.When it has been set up, you will need to double-click the footage you have added the tracking function to and go to the motion tracking menu.
-
-10.The drop-down menu will show all the texts and images or animations available. Select the one you want to see.
-
-11.Adjust the size of your object and voila!! You are done.
-
-With these easy steps, you have managed to make a normal Tik Tok Dance challenge into a unique and zestful piece of art.
-
-## Other Visual Effects For Your Tik Tok Dance
-
-Other than motion tracking several other effects can make your Tik Tok dance alluring and special. Here are some of them.
-
-### Green Screen for TikTok Dance
-
-This is also one of the most famous effects that are used for the Tik Tok dance challenge. Green Screen in a built-in app effect that allows you to add any background to your current video. Tik Tok provides some default backgrounds to its users but you can also choose from your camera roll.
-
-![green screen tik tok effect](https://images.wondershare.com/filmora/Mac-articles/green-screen-tik-tok-effect.jpg)
-
-### Disco effects for TikTok Dance
-
-This is another one of the extremely fun built-in effects that allow you to add disco lights to your amazing Tik Tok dance.
-
- ![add disco effect to your tik tok](https://images.wondershare.com/filmora/Mac-articles/add-disco-effect-to-your-tik-tok.jpg)
 
 ### Double Screen Effect for TikTok Dance
 
@@ -428,6 +439,13 @@ This is another one of the extremely fun built-in effects that allow you to add 
 
 ![double screen effect in tik tok](https://images.wondershare.com/filmora/Mac-articles/double-screen-effect-in-tik-tok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Trio Effect for TikTok Dance
 
 This effect allows you to make two other clones of yourself. Now imagine three of you dancing together on some good choreography. Sounds sensational; doesn’t it? When using trio, both of your clones will be doing the same moves, you cannot assign different moves to your clones.
@@ -449,6 +467,13 @@ All of this can be achieved with just one top of the line video editing software
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -497,6 +522,13 @@ Step1 Open your TikTok app to begin the process. Select the "Plus" icon and choo
 
 ![choose live option](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Now tap on the "Go Live" option that will open a new window. Now you can see your Stream Key and Server URL. Press the "Copy" option given next to these two options. Afterward, you can share your stream key and server URL with your PC, which will be used later.
 
 ![copy server url and stream key](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-2.jpg)
@@ -529,9 +561,6 @@ Therefore, OBS is a famous streaming tool that ensures great quality in live str
 
 Step1 Download and install OBS on your PC successfully. Once done, go to the "Controls" section and click on "Settings." A new window will pop up from which click on the "Stream" option given on the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open obs settings](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-3.jpg)
 
 Step2 On the "Service" box, choose "Custom" to proceed. Now enter the stream key and server URL you have gotten before. Once done with all requirements, click on the "Apply" option.
@@ -560,17 +589,18 @@ Moreover, it also supports multi-streaming, through which you can go live on var
 
 Step1 Launch XSplit Broadcaster on your PC and navigate to the "Broadcast" button displayed on top. Afterward, click on "Set up a new output" to proceed with the TikTok live stream process.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select set up a new output](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-7.jpg)
 
 Step2 Now tap on "Custom RTMP," which will redirect you to a new window. Here, you can add your streaming key and server URL to continue. You can also add information, such as name, channel, etc., to this window. Once done, press the "OK" button.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit custom rtmp properties](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 4: With TikTok Live Studio Software
 
@@ -590,9 +620,6 @@ Step3 Now, you can see your PC screen along with your webcam. You can modify the
 
 ![edit start live settings](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tips: Easily Record and Edit Your Stream with Filmora
 
 Have you ever used a screen recorder to capture your live streaming? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the most compatible tool that offers a premium screen recorder and editor. The screen recorder in this platform can record a selected area with high audio and video quality. Along with capturing your live streaming session, you can use Pen to demonstrate in an enhanced way.
@@ -633,6 +660,19 @@ Step2 Now tap on the "Go Live" option that will open a new window. Now you can s
 
 There are various advantages of going live on TikTok with a PC. By doing so, you can ensure a better quality of your live streaming session. To learn more, let's discuss the details.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Great Stability
 
 Holding a mobile phone for live streams can be hectic and tiring. Moreover, it won't offer camera stability, and the end result can be shaky. By using a computer, you don't have to hold anything. With great stability and ease, you can conduct live streams for a longer run.
@@ -662,6 +702,13 @@ Step1 Download and install OBS on your PC successfully. Once done, go to the "Co
 Step2 On the "Service" box, choose "Custom" to proceed. Now enter the stream key and server URL you have gotten before. Once done with all requirements, click on the "Apply" option.
 
 ![adjust the obs stream settings](https://images.wondershare.com/filmora/article-images/2022/12/tiktok-live-from-computer-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 2: With Streamlabs
 
@@ -738,9 +785,22 @@ Live streaming on TikTok is a new technique to target audiences effortlessly. Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breaking-the-mold-with-original-tiktok-profile-photos/"><u>[New] In 2024, Breaking the Mold with Original TikTok Profile Photos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-savory-selections-international-foodie-frenzy-on-tiktok/"><u>[New] In 2024, Savory Selections International Foodie Frenzy on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>[New] Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac-for-2024/"><u>[Updated] Click and Groove An Insider's Guide to Making TikTok Dance Videos for Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-the-art-of-editing-crafting-tiktok-success-stories-on-mac/"><u>[Updated] In 2024, The Art of Editing Crafting TikTok Success Stories on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lighten-the-digital-landscape-kapwings-meme-builder/"><u>2024 Approved Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bots-separating-truth-from-ai-mythology/"><u>Beyond Bots: Separating Truth From AI Mythology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs35-headset-mic-wont-work-on-windows-diagnosis-and-fixes/"><u>Corsair HS35 Headset Mic Won't Work on Windows: Diagnosis and Fixes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/speeding-up-tiktoks-simple-techniques-for-faster-videos/"><u>Speeding Up TikToks Simple Techniques for Faster Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-to-rectify-dells-sound-driver-complications-in-windows-7-environments/"><u>Step-by-Step Instructions to Rectify Dell's Sound Driver Complications in Windows 7 Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-handling-rar-compressed-files-using-linux-commands/"><u>Step-by-Step Tutorial: Handling RAR Compressed Files Using Linux Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-world-leaders-in-technology-share-their-thoughts-on-ai-progress/"><u>Top 10 World Leaders in Technology Share Their Thoughts on AI Progress</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-smart-tvs-what-does-it-mean-to-have-a-tv-with-internet-capabilities/"><u>Understanding Smart TVs: What Does It Mean to Have a TV with Internet Capabilities?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/shing-the-full-potential-of-your-channel-in-studio/"><u>Unleashing the Full Potential of Your Channel in Studio</u></a></li>
+</ul></div>
 

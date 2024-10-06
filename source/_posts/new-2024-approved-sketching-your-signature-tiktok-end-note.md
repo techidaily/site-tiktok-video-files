@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Sketching Your Signature TikTok End-Note\""
-date: 2024-09-28T20:13:52.760Z
-updated: 2024-09-30T16:34:51.916Z
+date: 2024-09-30T08:47:44.656Z
+updated: 2024-10-06T06:17:31.325Z
 tags:
   - ai video
   - ai tiktok
@@ -83,6 +83,13 @@ Step2 Install the software on your PC, launch it, click the **New Project** opti
 
 ![importing file to filmora](https://images.wondershare.com/filmora/article-images/2022/11/importing-file-to-filmora.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Drag your video and drop it in the **Timeline** to start the editing process. Now, add photos, effects, titles, and music to your TikTok outro clip in the end. You can also apply transitions between your video clips.
 
 Step4 Review your video and make the necessary outro adjustments in the Timeline. Finally, click the **"Export"** option and save the video on your mobile device and upload it on TikTok afterward.
@@ -92,13 +99,6 @@ Step4 Review your video and make the necessary outro adjustments in the Timeline
 Although Filmora is one of the best desktop video editors to create TikTok outros on your Windows or Mac computer, there are several other great online editors to make a quick outro without hiring a costly video production service.
 
 To know more about these editors, read [Best 10 TikTok Video Editors to Make a TikTok Video \[Online/Windows/PC\]](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,13 +131,6 @@ Step1 First, launch a browser on your PC, visit the official [Wondershare Filmor
 Step2 Install the software on your PC, launch it, click the **New Project** option on the main dashboard, and use the **"Click here to import Media"** option or drag and drop your file to import it.
 
 ![importing file to filmora](https://images.wondershare.com/filmora/article-images/2022/11/importing-file-to-filmora.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Drag your video and drop it in the **Timeline** to start the editing process. Now, add photos, effects, titles, and music to your TikTok outro clip in the end. You can also apply transitions between your video clips.
 
@@ -203,23 +196,9 @@ Installing BlueStacks might be slightly complicated, so in this article, we are 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Fastest Way to Download TikTok on Your Laptops
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
@@ -281,13 +260,6 @@ There could be a few reasons for slow BlueStacks on your computer. However, the 
 
 You can do a couple of things to stop your BlueStacks from lagging. First, turn on the “Virtualization.” Second, ensure you have allocated your CPU cores and RAM details in BlueStacks settings. Third, go to “Control Panel” and set your laptop/PC to “High Performance.” Fourth, you must have GPU drivers installed in your system. Fifth, close all other programs when using BlueStacks to make sure the RAM supports your emulator. And lastly, try to have an updated and correctly installed antivirus (if any).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q5\. Why won’t TikTok Work on BlueStacks 5?
 
 You are required to download the latest version of BlueStacks to run TikTok. Next, make sure you have installed “Pie 64-bit Instance” from your BlueStacks “Multi-instance Manager.” Once done, open the Play Store, search for TikTok, download the app, and run.
@@ -297,6 +269,13 @@ _**Note:** If you are using Nougat 64-bit/32-bit you won’t be able to run TikT
 ### Q6\. Does BlueStacks damage the PC?
 
 Not at all! The creators of BlueStacks claim that this emulator is entirely safe for MAC and PC users.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q7\. Can I run BlueStacks 5 on a PC with 2GB RAM?
 
@@ -323,6 +302,13 @@ Undoubtedly, TikTok is a trending app nowadays. It does not just let you share y
 Yes, you heard that right! You can download TikTok or any other Android application using the emulator BlueStacks. However, at the moment, the TikTok app is only available for smartphones, which means that you can't use it from a computer. However, you can install the BlueStacks emulator that lets you use apps from the Google Play Store on Windows and Mac operating systems.
 
 ![Download TikTok on Computer](https://images.wondershare.com/filmora/article-images/download-tiktok-on-computer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Installing BlueStacks might be slightly complicated, so in this article, we are going to take you through the installation process of this emulator, and we'll show you how to install **TikTok on PC and Mac**. Let's have a look at how you can use TikTok on computers.
 
@@ -412,6 +398,13 @@ _**Note:** If you are using Nougat 64-bit/32-bit you won’t be able to run TikT
 
 Not at all! The creators of BlueStacks claim that this emulator is entirely safe for MAC and PC users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q7\. Can I run BlueStacks 5 on a PC with 2GB RAM?
 
 You must have at least 4GB RAM with 5GB free disk space to run BlueStacks 5 on your system.
@@ -453,16 +446,10 @@ Installing BlueStacks might be slightly complicated, so in this article, we are 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Fastest Way to Download TikTok on Your Laptops
@@ -470,13 +457,6 @@ Installing BlueStacks might be slightly complicated, so in this article, we are 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This method is probably the fastest way to download TikTok because you don't have to download any emulator. Actually, all you have to do is add a free extension to Google Chrome - [**Mobile TikTok & Downloader**](https://chrome.google.com/webstore/detail/mobile-tiktok-downloader/jdjgnjieephgfljfnfplfebalfecmghl?hl=en), so that you can swipe through the trendiest videos, explore various kinds of sounds, find the most popular hashtags, and more.
 
@@ -620,6 +600,13 @@ If the **System Extension** blocked message from appearing on the screen, choose
 
 In order to install the TikTok app on your Mac, you'll have to create a Google account if you don't have one. Once you sign in with your Google account, you can proceed to install the app on your computer. The steps for installing TikTok on PC and Mac computers are the same, so you just need to find the app in the Google Play Store and click on the **Install** button. You can access the TikTok app from the **My Apps** tab in the BlueStack emulator whenever you want to create a new video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edit TikTok Videos with Excellent Video Editor
 
 After installing the TikTok app on your personal computer, why not start using it right after you finish [editing your videos](https://tools.techidaily.com/wondershare/filmora/download/)? Just download an amazing TikTok video editor for free - **Filmora** now and make yourself a superstar on TikTok.
@@ -635,10 +622,10 @@ TikTok offers an easy and fun way to create short music videos that have cool fi
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q1\. What is an Emulator?
@@ -656,6 +643,13 @@ There could be a few reasons for slow BlueStacks on your computer. However, the 
 ### Q4\. How do I stop BlueStacks from lagging?
 
 You can do a couple of things to stop your BlueStacks from lagging. First, turn on the “Virtualization.” Second, ensure you have allocated your CPU cores and RAM details in BlueStacks settings. Third, go to “Control Panel” and set your laptop/PC to “High Performance.” Fourth, you must have GPU drivers installed in your system. Fifth, close all other programs when using BlueStacks to make sure the RAM supports your emulator. And lastly, try to have an updated and correctly installed antivirus (if any).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q5\. Why won’t TikTok Work on BlueStacks 5?
 
@@ -698,24 +692,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-a-beginners-guide-the-essentials-of-using-tiktok-macos-for-2024/"><u>[New] A Beginner's Guide The Essentials of Using TikTok (macOS) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-dive-deep-into-tiktoks-pfp-symbol-your-complete-guide/"><u>[New] Dive Deep Into TikTok’s PFP Symbol - Your Complete Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-aspect-ratio-guide-to-enhanced-facebook-viewing/"><u>[New] In 2024, Aspect Ratio Guide to Enhanced Facebook Viewing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos-for-2024/"><u>[New] Unlock Creative Expression Adding Descriptive Texts to Your TikTok Videos for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-crafting-a-unique-identity-with-creative-tiktok-pfps/"><u>[Updated] 2024 Approved Crafting a Unique Identity with Creative TikTok PFPs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-exploring-live-sessions-guesting-basics-of-tiktok-for-2024/"><u>[Updated] Exploring Live Sessions Guesting Basics of TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-blend-in-as-an-audience-member-on-tiktok/"><u>[Updated] How to Blend in as an Audience Member on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-creating-a-memorable-tiktok-end-credits/"><u>[Updated] In 2024, Creating a Memorable TikTok End Credits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-gastronomic-globe-trotters-worlds-best-recipes-on-tiktok/"><u>[Updated] In 2024, Gastronomic Globe-Trotters World's Best Recipes on TikTok</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g73-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G73 5G</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-breaking-down-this-years-latest-tiktok-sensation/"><u>2024 Approved Breaking Down This Year's Latest TikTok Sensation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-apps-to-enhance-your-fitbit-smartwatch-experience/"><u>Essential Apps to Enhance Your Fitbit Smartwatch Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-se-2020-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone SE (2020) with 3 Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-protecting-posts-copyright-verification-for-tiktokers/"><u>In 2024, Protecting Posts Copyright Verification for TikTokers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-mastery-a-2023-elements-compendium/"><u>In 2024, TikTok Mastery A 2023 Elements Compendium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-look-at-toms-hardware-discoveries/"><u>Mastering Technology: Inside Look at Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-gaming-experience-on-windows-with-codmw2-addressing-lag-dropped-fps-and-stutter-issues/"><u>Optimize Gaming Experience on Windows with CoD:MW2 - Addressing Lag, Dropped FPS & Stutter Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/prepping-pc-enabling-tpm-secure-boot-with-windows-11/"><u>Prepping PC: Enabling TPM, Secure Boot with Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-with-virtualbox-deps-before-the-big-setup/"><u>Winning with VirtualBox: Deps Before the Big Setup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-innovate-content-dissemination-youtube-to-facebook-methods/"><u>[New] 2024 Approved Innovate Content Dissemination YouTube-to-Facebook Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-dos-and-donts-of-creating-an-authentic-tiktok-version-of-ourselves/"><u>[New] 2024 Approved The Dos and Don'ts of Creating an Authentic TikTok Version of Ourselves</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-harmonizing-in-tiktoks-duo-videos/"><u>[New] Harmonizing in TikTok's Duo Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-master-adding-youtube-videos-to-gslides-a-step-by-step-guide/"><u>[New] In 2024, Master Adding YouTube Videos to GSlides A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>[New] In 2024, Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-art-of-eating-10-social-media-staples-for-2024/"><u>[New] The Art of Eating 10 Social Media Staples for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unwind-with-our-top-10-serene-games-for-2024/"><u>[New] Unwind With Our Top 10 Serene Games for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>[Updated] Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-master-the-art-of-rapid-tiktok-videos-for-2024/"><u>[Updated] Master the Art of Rapid TikTok Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-websites-unveiled-where-you-grab-your-ringtone-favorites/"><u>[Updated] Websites Unveiled Where You Grab Your Ringtone Favorites</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/20-hit-tiktok-rhymes-you-cant-miss/"><u>20 Hit TikTok Rhymes You Can't Miss</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discovering-the-most-influential-tiktok-trends/"><u>Discovering the Most Influential TikTok Trends</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-sony-xperia-5-v-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Sony Xperia 5 V Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-stability-essentials-for-youtube-videographers/"><u>Professional Stability Essentials for YouTube Videographers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/regaining-exclusive-snap-privacy/"><u>Regaining Exclusive Snap Privacy</u></a></li>
 </ul></div>
 
