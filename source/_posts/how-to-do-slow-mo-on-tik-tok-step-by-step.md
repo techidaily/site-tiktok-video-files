@@ -1,7 +1,7 @@
 ---
 title: "How to Do Slow Mo On Tik Tok? [Step by Step]"
-date: 2024-07-29T13:02:09.281Z
-updated: 2024-07-30T13:02:09.281Z
+date: 2024-10-07T00:59:46.382Z
+updated: 2024-10-11T18:31:37.144Z
 tags:
   - ai video
   - ai tiktok
@@ -51,14 +51,6 @@ In this section, we'll go through how to record a TikTok video with the slow-mo 
 
 **Step 3:** Next to selecting the desired speed, you must go to the following screen. It is possible to see a **Check Mark** option appear in the right-hand corner of the screen, as seen in the illustration. Tap on it once to advance to the next stage.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
 
 **Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
@@ -91,9 +83,140 @@ Step 2: To use this feature, you must browse the Time Effects part of the effect
 
 **(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
 
+## Part 3: How to Slow Down Tik Tok Videos Online for Free?
+
+### Kapwing
+
+In a couple of seconds, Kapwing can speed up and slow down short videos. Slo-mo, timelapse, and hyperspeed films may be made with no editing skills then shared on social networking websites like YouTube.
+
+Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are all supported formats by Kapwing. As slow as 0.25x for a slow-motion movie and as much as 4x for an enhanced video are available. Let's give you a step-by-step illustration:
+
+**Step 1:** On TikTok, find the video you want to slow down and click on. You have the option of slowing down videos from other people's profiles and those from your profile. **Copy the URL** that appears when you click the **Share** button.
+
+**Step 2:** This is where Kapwing comes in, and we utilize it on our PC using Chrome to accomplish our objective. Visit <https://www.kapwing.com/> and copy the URL of the TikTok video and paste it into Kapwing.
+
+**Step 3:** Go to the Speed section, and use the – and + buttons to make the video slow down or speed up. After selecting "**slow-motion**" as your preferred speed, press the "**play**" button to begin watching the movie. If the video moves too slowly, click on the **Plus** sign and keep rewatching it until you're satisfied with the pace.
+
+![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
+
+![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
+
+_For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
+
+## Part 4: How to Slow TikTok Video And Song Using Filmora?
+
+In principle, TikTok can meet the majority of users' video creation, editing, and sharing requirements. While the TikTok app can produce high-quality videos, it may fall short when it comes to adding unique effects to your videos.
+
+Then you'll want the assistance of a professional video editing program to complete your project. Also, you must know about [online TikTok downloaders without watermarks](https://tools.techidaily.com/wondershare/filmora/download/). But what if you wish to enhance and refine these videos? We want to offer to you Filmora Video Editor to make a slow-motion TikTok video as quickly and simply as possible.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1**: Launch the Filmora Video Editor, with its aspect ratio set to 9:16 since it’s downloaded the TikTok video. Then, to access the editing panel, choose "**New Project**" from the menu bar.
+
+![wondershare filmora start interface](https://images.wondershare.com/filmora/article-images/wondershare-filmora-start-interface.jpg)
+
+**Step 2**: Drag and drag the video right into the interface to edit it. Alternatively, you can choose "**Add files**" from the drop-down menu by clicking the **"+"** button. Using the media library, drag and drop the video you wish to slow down onto the timeline once added to the project.
+
+![add tiktok video to timeline](https://images.wondershare.com/filmora/article-images/add-tiktok-video-to-timeline.jpg)
+
+**Step 3:** To access the speed control panel, pick the video on the timeline and right-click on it, then choose "**Speed**" from the context menu, and then select **Speed and Duration** option.
+
+![filmora speed options](https://images.wondershare.com/filmora/article-images/filmora-speed-options.jpg)
+
+You may adjust the video speed by **_dragging the slider_** to the right or left as needed.
+
+![custom speed window](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
+
+**Note**: The Filmora Video Editor enables you to modify the **_playback speed_** to as little as **TEN** times slower than the actual speed of the video.
+
+After that, you may use various editing tools to create your video one-of-a-kind and spectacular, depending on your requirements.
+
+**Step 5**: It's time to save your modified movie clip to your device. Click the Export button to save the video to your local or share to YouTube or Vimeo directly.
+
+**Conclusion**
+
+Well, now you know how you can add the slo-mo effect on **Slow Motion TikTok** videos. We have covered the most straightforward steps with their respective screenshots that will give you a proper illustration to help you make and apply slow-motion effects to your videos. In the end, for PC users, you can even use Wondershare Filmora to apply slow-motion effects to your videos on PC. It's one of the best and most easy-to-use software for PC users.
+
+02 [How o Add Slow-Mo Effects After Recording Videos on Tik Tok?](#part2)
+
+03 [How to Slow Down Tik Tok Videos Online for Free?](#part3)
+
+04 [How to Slow TikTok Video And Song Using Filmora?](#part4)
+
+## Part 1: How to Record Tik Tok Video Wit Slow Motion Effects?
+
+TikTok videos may benefit from adding effects, which is a simple process. You may do it during the recording process or after the fact in post-production. One viral effect is slow-motion. You can use this to create some quite amusing videos, particularly when combined with other effects.
+
+In this section, we'll go through how to record a TikTok video with the slow-mo effect.
+
+**Step 1**: The first step is to **Open Tik Tok**, which can be accomplished by searching for the program on your smartphone. When you first launch TikTok, it will open in the feed area by default, as seen below. Navigation to the new video screen requires one press on the **\+ symbol** at the bottom of your screen, as seen in the image below before it will appear.
+
+![tiktok record video button](https://images.wondershare.com/filmora/article-images/tiktok-record-video-button.jpg)
+
+**Note**: You will be taken to the recording area, where your phone's camera will be launched immediately.
+
+**Step 2:** When you first access the new video area, a bar displaying the various recording speeds displays, as seen in the screenshot below. It is necessary to pick the slowest feasible speed.
+
+**Tip:** You may also select the video's pace based on your preferences and how sluggish you want to make the movie seem.
+
+![tiktok video recording speed option](https://images.wondershare.com/filmora/article-images/tiktok-video-recording-speed-option.jpg)
+
+**Step 3:** Next to selecting the desired speed, you must go to the following screen. It is possible to see a **Check Mark** option appear in the right-hand corner of the screen, as seen in the illustration. Tap on it once to advance to the next stage.
+
+![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
+
+**Note**: Once the video has been recorded and is in a slower speed, it will automatically be recorded in slow motion. You can use this method to record your TikTok videos with a slow-motion effect.
+
+## Part 2: How o Add Slow-Mo Effects After Recording Videos on Tik Tok?
+
+What about the videos you have already recorded on your TikTok application? Can you slow them down too? The following steps illustrate how to apply a slow-motion effect to your TikTok videos once they have been recorded using the app.
+
+It is simple to record a video by simply going to the "Add new" area and selecting the video of your choosing to record. When you've finished recording, choose the next choice from the drop-down menu. Following that, you may proceed with the procedure.
+
+**Step 1**: Once you've arrived at the next screen, you'll need to click on the **Circular clock** symbol to activate the effect. It is located in the bottom left corner of the screen, as seen below.
+
+**Tip:** To access it, click on it. To access the effects, tap on it once. The effects under the **Filter** effects section will be immediately activated.
+
+![tiktok special effects option](https://images.wondershare.com/filmora/article-images/tiktok-special-effects-option.jpg)
+
+Step 2: To use this feature, you must browse the Time Effects part of the effects section. To do so, choose "**Time effects**" from the drop-down menu in the bottom right corner of the screen, as shown by the arrow in the image below. It will provide you with different temporal effects.
+
+![tiktok time effects option](https://images.wondershare.com/filmora/article-images/tiktok-time-effects-option.jpg)
+
+**Step 3:** It is necessary to choose the **Slow Motion** option from the list of alternatives that appears, as shown in the figure below. This will give the video the appearance of being in slow motion.
+
+**Tip**: Changing the length of the slow-motion is accomplished by dragging the green square that appears on the screen. **Drag it** to any portion of the page where you want the slow-motion effect to appear.
+
+![tiktok slow motion effect](https://images.wondershare.com/filmora/article-images/tiktok-slow-motion-effect.jpg)
+
+**Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
+
+**(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
+
 ## Part 3: How to Slow Down Tik Tok Videos Online for Free?
 
 ### Kapwing
@@ -184,210 +307,91 @@ In this section, we'll go through how to record a TikTok video with the slow-mo 
 
 ![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
 
-**Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
-
-**Note**: Once the video has been recorded and is in a slower speed, it will automatically be recorded in slow motion. You can use this method to record your TikTok videos with a slow-motion effect.
-
-## Part 2: How o Add Slow-Mo Effects After Recording Videos on Tik Tok?
-
-What about the videos you have already recorded on your TikTok application? Can you slow them down too? The following steps illustrate how to apply a slow-motion effect to your TikTok videos once they have been recorded using the app.
-
-It is simple to record a video by simply going to the "Add new" area and selecting the video of your choosing to record. When you've finished recording, choose the next choice from the drop-down menu. Following that, you may proceed with the procedure.
-
-**Step 1**: Once you've arrived at the next screen, you'll need to click on the **Circular clock** symbol to activate the effect. It is located in the bottom left corner of the screen, as seen below.
-
-**Tip:** To access it, click on it. To access the effects, tap on it once. The effects under the **Filter** effects section will be immediately activated.
-
-![tiktok special effects option](https://images.wondershare.com/filmora/article-images/tiktok-special-effects-option.jpg)
-
-Step 2: To use this feature, you must browse the Time Effects part of the effects section. To do so, choose "**Time effects**" from the drop-down menu in the bottom right corner of the screen, as shown by the arrow in the image below. It will provide you with different temporal effects.
-
-![tiktok time effects option](https://images.wondershare.com/filmora/article-images/tiktok-time-effects-option.jpg)
-
-**Step 3:** It is necessary to choose the **Slow Motion** option from the list of alternatives that appears, as shown in the figure below. This will give the video the appearance of being in slow motion.
-
-**Tip**: Changing the length of the slow-motion is accomplished by dragging the green square that appears on the screen. **Drag it** to any portion of the page where you want the slow-motion effect to appear.
-
-![tiktok slow motion effect](https://images.wondershare.com/filmora/article-images/tiktok-slow-motion-effect.jpg)
-
-**Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
-
-**(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
-
-## Part 3: How to Slow Down Tik Tok Videos Online for Free?
-
-### Kapwing
-
-In a couple of seconds, Kapwing can speed up and slow down short videos. Slo-mo, timelapse, and hyperspeed films may be made with no editing skills then shared on social networking websites like YouTube.
-
-Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are all supported formats by Kapwing. As slow as 0.25x for a slow-motion movie and as much as 4x for an enhanced video are available. Let's give you a step-by-step illustration:
-
-**Step 1:** On TikTok, find the video you want to slow down and click on. You have the option of slowing down videos from other people's profiles and those from your profile. **Copy the URL** that appears when you click the **Share** button.
-
-**Step 2:** This is where Kapwing comes in, and we utilize it on our PC using Chrome to accomplish our objective. Visit <https://www.kapwing.com/> and copy the URL of the TikTok video and paste it into Kapwing.
-
-**Step 3:** Go to the Speed section, and use the – and + buttons to make the video slow down or speed up. After selecting "**slow-motion**" as your preferred speed, press the "**play**" button to begin watching the movie. If the video moves too slowly, click on the **Plus** sign and keep rewatching it until you're satisfied with the pace.
-
-![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
-
-**Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
-
-![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
-
-_For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
-
-## Part 4: How to Slow TikTok Video And Song Using Filmora?
-
-In principle, TikTok can meet the majority of users' video creation, editing, and sharing requirements. While the TikTok app can produce high-quality videos, it may fall short when it comes to adding unique effects to your videos.
-
-Then you'll want the assistance of a professional video editing program to complete your project. Also, you must know about [online TikTok downloaders without watermarks](https://tools.techidaily.com/wondershare/filmora/download/). But what if you wish to enhance and refine these videos? We want to offer to you Filmora Video Editor to make a slow-motion TikTok video as quickly and simply as possible.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1**: Launch the Filmora Video Editor, with its aspect ratio set to 9:16 since it’s downloaded the TikTok video. Then, to access the editing panel, choose "**New Project**" from the menu bar.
-
-![wondershare filmora start interface](https://images.wondershare.com/filmora/article-images/wondershare-filmora-start-interface.jpg)
-
-**Step 2**: Drag and drag the video right into the interface to edit it. Alternatively, you can choose "**Add files**" from the drop-down menu by clicking the **"+"** button. Using the media library, drag and drop the video you wish to slow down onto the timeline once added to the project.
-
-![add tiktok video to timeline](https://images.wondershare.com/filmora/article-images/add-tiktok-video-to-timeline.jpg)
-
-**Step 3:** To access the speed control panel, pick the video on the timeline and right-click on it, then choose "**Speed**" from the context menu, and then select **Speed and Duration** option.
-
-![filmora speed options](https://images.wondershare.com/filmora/article-images/filmora-speed-options.jpg)
-
-You may adjust the video speed by **_dragging the slider_** to the right or left as needed.
-
-![custom speed window](https://images.wondershare.com/filmora/article-images/custom-speed-window.jpg)
-
-**Note**: The Filmora Video Editor enables you to modify the **_playback speed_** to as little as **TEN** times slower than the actual speed of the video.
-
-After that, you may use various editing tools to create your video one-of-a-kind and spectacular, depending on your requirements.
-
-**Step 5**: It's time to save your modified movie clip to your device. Click the Export button to save the video to your local or share to YouTube or Vimeo directly.
-
-**Conclusion**
-
-Well, now you know how you can add the slo-mo effect on **Slow Motion TikTok** videos. We have covered the most straightforward steps with their respective screenshots that will give you a proper illustration to help you make and apply slow-motion effects to your videos. In the end, for PC users, you can even use Wondershare Filmora to apply slow-motion effects to your videos on PC. It's one of the best and most easy-to-use software for PC users.
-
-02 [How o Add Slow-Mo Effects After Recording Videos on Tik Tok?](#part2)
-
-03 [How to Slow Down Tik Tok Videos Online for Free?](#part3)
-
-04 [How to Slow TikTok Video And Song Using Filmora?](#part4)
-
-## Part 1: How to Record Tik Tok Video Wit Slow Motion Effects?
-
-TikTok videos may benefit from adding effects, which is a simple process. You may do it during the recording process or after the fact in post-production. One viral effect is slow-motion. You can use this to create some quite amusing videos, particularly when combined with other effects.
-
-In this section, we'll go through how to record a TikTok video with the slow-mo effect.
-
-**Step 1**: The first step is to **Open Tik Tok**, which can be accomplished by searching for the program on your smartphone. When you first launch TikTok, it will open in the feed area by default, as seen below. Navigation to the new video screen requires one press on the **\+ symbol** at the bottom of your screen, as seen in the image below before it will appear.
-
-![tiktok record video button](https://images.wondershare.com/filmora/article-images/tiktok-record-video-button.jpg)
-
-**Note**: You will be taken to the recording area, where your phone's camera will be launched immediately.
-
-**Step 2:** When you first access the new video area, a bar displaying the various recording speeds displays, as seen in the screenshot below. It is necessary to pick the slowest feasible speed.
-
-**Tip:** You may also select the video's pace based on your preferences and how sluggish you want to make the movie seem.
-
-![tiktok video recording speed option](https://images.wondershare.com/filmora/article-images/tiktok-video-recording-speed-option.jpg)
-
-**Step 3:** Next to selecting the desired speed, you must go to the following screen. It is possible to see a **Check Mark** option appear in the right-hand corner of the screen, as seen in the illustration. Tap on it once to advance to the next stage.
-
-![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
-
-**Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
-
-**Note**: Once the video has been recorded and is in a slower speed, it will automatically be recorded in slow motion. You can use this method to record your TikTok videos with a slow-motion effect.
-
-## Part 2: How o Add Slow-Mo Effects After Recording Videos on Tik Tok?
-
-What about the videos you have already recorded on your TikTok application? Can you slow them down too? The following steps illustrate how to apply a slow-motion effect to your TikTok videos once they have been recorded using the app.
-
-It is simple to record a video by simply going to the "Add new" area and selecting the video of your choosing to record. When you've finished recording, choose the next choice from the drop-down menu. Following that, you may proceed with the procedure.
-
-**Step 1**: Once you've arrived at the next screen, you'll need to click on the **Circular clock** symbol to activate the effect. It is located in the bottom left corner of the screen, as seen below.
-
-**Tip:** To access it, click on it. To access the effects, tap on it once. The effects under the **Filter** effects section will be immediately activated.
-
-![tiktok special effects option](https://images.wondershare.com/filmora/article-images/tiktok-special-effects-option.jpg)
-
-Step 2: To use this feature, you must browse the Time Effects part of the effects section. To do so, choose "**Time effects**" from the drop-down menu in the bottom right corner of the screen, as shown by the arrow in the image below. It will provide you with different temporal effects.
-
-![tiktok time effects option](https://images.wondershare.com/filmora/article-images/tiktok-time-effects-option.jpg)
-
-**Step 3:** It is necessary to choose the **Slow Motion** option from the list of alternatives that appears, as shown in the figure below. This will give the video the appearance of being in slow motion.
-
-**Tip**: Changing the length of the slow-motion is accomplished by dragging the green square that appears on the screen. **Drag it** to any portion of the page where you want the slow-motion effect to appear.
-
-![tiktok slow motion effect](https://images.wondershare.com/filmora/article-images/tiktok-slow-motion-effect.jpg)
-
-**Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
-
-**(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
-
-## Part 3: How to Slow Down Tik Tok Videos Online for Free?
-
-### Kapwing
-
-In a couple of seconds, Kapwing can speed up and slow down short videos. Slo-mo, timelapse, and hyperspeed films may be made with no editing skills then shared on social networking websites like YouTube.
-
-Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are all supported formats by Kapwing. As slow as 0.25x for a slow-motion movie and as much as 4x for an enhanced video are available. Let's give you a step-by-step illustration:
-
-**Step 1:** On TikTok, find the video you want to slow down and click on. You have the option of slowing down videos from other people's profiles and those from your profile. **Copy the URL** that appears when you click the **Share** button.
-
-**Step 2:** This is where Kapwing comes in, and we utilize it on our PC using Chrome to accomplish our objective. Visit <https://www.kapwing.com/> and copy the URL of the TikTok video and paste it into Kapwing.
-
-**Step 3:** Go to the Speed section, and use the – and + buttons to make the video slow down or speed up. After selecting "**slow-motion**" as your preferred speed, press the "**play**" button to begin watching the movie. If the video moves too slowly, click on the **Plus** sign and keep rewatching it until you're satisfied with the pace.
-
-![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
-
-**Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
-
-![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
-
-_For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
-
-## Part 4: How to Slow TikTok Video And Song Using Filmora?
-
-In principle, TikTok can meet the majority of users' video creation, editing, and sharing requirements. While the TikTok app can produce high-quality videos, it may fall short when it comes to adding unique effects to your videos.
-
-Then you'll want the assistance of a professional video editing program to complete your project. Also, you must know about [online TikTok downloaders without watermarks](https://tools.techidaily.com/wondershare/filmora/download/). But what if you wish to enhance and refine these videos? We want to offer to you Filmora Video Editor to make a slow-motion TikTok video as quickly and simply as possible.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1**: Launch the Filmora Video Editor, with its aspect ratio set to 9:16 since it’s downloaded the TikTok video. Then, to access the editing panel, choose "**New Project**" from the menu bar.
-
-![wondershare filmora start interface](https://images.wondershare.com/filmora/article-images/wondershare-filmora-start-interface.jpg)
-
-**Step 2**: Drag and drag the video right into the interface to edit it. Alternatively, you can choose "**Add files**" from the drop-down menu by clicking the **"+"** button. Using the media library, drag and drop the video you wish to slow down onto the timeline once added to the project.
-
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
+
+**Note**: Once the video has been recorded and is in a slower speed, it will automatically be recorded in slow motion. You can use this method to record your TikTok videos with a slow-motion effect.
+
+## Part 2: How o Add Slow-Mo Effects After Recording Videos on Tik Tok?
+
+What about the videos you have already recorded on your TikTok application? Can you slow them down too? The following steps illustrate how to apply a slow-motion effect to your TikTok videos once they have been recorded using the app.
+
+It is simple to record a video by simply going to the "Add new" area and selecting the video of your choosing to record. When you've finished recording, choose the next choice from the drop-down menu. Following that, you may proceed with the procedure.
+
+**Step 1**: Once you've arrived at the next screen, you'll need to click on the **Circular clock** symbol to activate the effect. It is located in the bottom left corner of the screen, as seen below.
+
+**Tip:** To access it, click on it. To access the effects, tap on it once. The effects under the **Filter** effects section will be immediately activated.
+
+![tiktok special effects option](https://images.wondershare.com/filmora/article-images/tiktok-special-effects-option.jpg)
+
+Step 2: To use this feature, you must browse the Time Effects part of the effects section. To do so, choose "**Time effects**" from the drop-down menu in the bottom right corner of the screen, as shown by the arrow in the image below. It will provide you with different temporal effects.
+
+![tiktok time effects option](https://images.wondershare.com/filmora/article-images/tiktok-time-effects-option.jpg)
+
+**Step 3:** It is necessary to choose the **Slow Motion** option from the list of alternatives that appears, as shown in the figure below. This will give the video the appearance of being in slow motion.
+
+**Tip**: Changing the length of the slow-motion is accomplished by dragging the green square that appears on the screen. **Drag it** to any portion of the page where you want the slow-motion effect to appear.
+
+![tiktok slow motion effect](https://images.wondershare.com/filmora/article-images/tiktok-slow-motion-effect.jpg)
+
+**Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
+
+**(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
+
+## Part 3: How to Slow Down Tik Tok Videos Online for Free?
+
+### Kapwing
+
+In a couple of seconds, Kapwing can speed up and slow down short videos. Slo-mo, timelapse, and hyperspeed films may be made with no editing skills then shared on social networking websites like YouTube.
+
+Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are all supported formats by Kapwing. As slow as 0.25x for a slow-motion movie and as much as 4x for an enhanced video are available. Let's give you a step-by-step illustration:
+
+**Step 1:** On TikTok, find the video you want to slow down and click on. You have the option of slowing down videos from other people's profiles and those from your profile. **Copy the URL** that appears when you click the **Share** button.
+
+**Step 2:** This is where Kapwing comes in, and we utilize it on our PC using Chrome to accomplish our objective. Visit <https://www.kapwing.com/> and copy the URL of the TikTok video and paste it into Kapwing.
+
+**Step 3:** Go to the Speed section, and use the – and + buttons to make the video slow down or speed up. After selecting "**slow-motion**" as your preferred speed, press the "**play**" button to begin watching the movie. If the video moves too slowly, click on the **Plus** sign and keep rewatching it until you're satisfied with the pace.
+
+![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
+
+**Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
+
+![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
+
+_For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
+
+## Part 4: How to Slow TikTok Video And Song Using Filmora?
+
+In principle, TikTok can meet the majority of users' video creation, editing, and sharing requirements. While the TikTok app can produce high-quality videos, it may fall short when it comes to adding unique effects to your videos.
+
+Then you'll want the assistance of a professional video editing program to complete your project. Also, you must know about [online TikTok downloaders without watermarks](https://tools.techidaily.com/wondershare/filmora/download/). But what if you wish to enhance and refine these videos? We want to offer to you Filmora Video Editor to make a slow-motion TikTok video as quickly and simply as possible.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1**: Launch the Filmora Video Editor, with its aspect ratio set to 9:16 since it’s downloaded the TikTok video. Then, to access the editing panel, choose "**New Project**" from the menu bar.
+
+![wondershare filmora start interface](https://images.wondershare.com/filmora/article-images/wondershare-filmora-start-interface.jpg)
+
+**Step 2**: Drag and drag the video right into the interface to edit it. Alternatively, you can choose "**Add files**" from the drop-down menu by clicking the **"+"** button. Using the media library, drag and drop the video you wish to slow down onto the timeline once added to the project.
+
 ![add tiktok video to timeline](https://images.wondershare.com/filmora/article-images/add-tiktok-video-to-timeline.jpg)
 
 **Step 3:** To access the speed control panel, pick the video on the timeline and right-click on it, then choose "**Speed**" from the context menu, and then select **Speed and Duration** option.
@@ -413,6 +417,13 @@ Well, now you know how you can add the slo-mo effect on **Slow Motion TikTok** v
 03 [How to Slow Down Tik Tok Videos Online for Free?](#part3)
 
 04 [How to Slow TikTok Video And Song Using Filmora?](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to Record Tik Tok Video Wit Slow Motion Effects?
 
@@ -450,9 +461,6 @@ It is simple to record a video by simply going to the "Add new" area and selecti
 
 **Tip:** To access it, click on it. To access the effects, tap on it once. The effects under the **Filter** effects section will be immediately activated.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tiktok special effects option](https://images.wondershare.com/filmora/article-images/tiktok-special-effects-option.jpg)
 
 Step 2: To use this feature, you must browse the Time Effects part of the effects section. To do so, choose "**Time effects**" from the drop-down menu in the bottom right corner of the screen, as shown by the arrow in the image below. It will provide you with different temporal effects.
@@ -470,6 +478,13 @@ Step 2: To use this feature, you must browse the Time Effects part of the effect
 **(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
 
 ## Part 3: How to Slow Down Tik Tok Videos Online for Free?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Kapwing
 
@@ -559,6 +574,13 @@ Open your TikTok app on your phone to access the "Discover" page, and type "Live
 
 ![search for live videos](https://images.wondershare.com/filmora/article-images/2022/12/join-someone-else-live-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Send a Guest Request
 
 Once you have found your desired live stream, tap on the “Pink Blue Circles” to send a guest request. Now tap on "Request" to give confirmation. By selecting this option, your guest request will be sent. After sending the guest request, wait for the host to accept it.
@@ -591,10 +613,14 @@ Open your TikTok app on your mobile phone. After opening it, tap on the "Live" o
 
 After adding the title, tap on the "Go Live" button. Once the live streaming initiates, you have to press the "Pink Blue Circle" icon from the bottom left corner. It will open a list of the suggested users. Select the preferred user you want to invite and tap on the “Invite” button. Your selected user will have 20 seconds to accept or reject your request.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![invite people to stream](https://images.wondershare.com/filmora/article-images/2022/12/join-someone-else-live-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Easily Record and Edit Someone's Stream with Filmora
 
@@ -626,6 +652,13 @@ Along with a [screen recorder](https://tools.techidaily.com/wondershare/filmora/
 * [**Keyframing**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Do you want to add a dynamic effect to your video? The keyframing feature allows you to add smooth and professional animated effects instantly. It provides 80 preset animation templates you can quickly apply to your video. Moreover, you can also modify the parameters by setting the transparency and view in every keyframe view.
 * [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Are you annoyed by the dull backgrounds in your video? Through the AI portrait feature, you can remove backgrounds from your video with great precision. This feature also offers more than 70 stickers and AI effects that you can apply. Furthermore, it also recognizes the faces in your video through AI technology. With face recognition, you can apply AI stickers easily.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 TikTok has made a significant impact on the social media industry. Due to its high influencing power, many celebrities and famous personalities are now joining TikTok to increase their reach. If you want to invite someone to your TikTok live, this article will help you. We have also provided detailed instructions on **how to join someone's live on TikTok** quickly. Also, in order to edit and screen record live streaming on TikTok, Wondershare Filmora is a highly compatible and functional tool.
@@ -643,9 +676,18 @@ TikTok has made a significant impact on the social media industry. Due to its hi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-giggle-o-meter-rising-top-tiktok-joke-threads-for-laughter-for-2024/"><u>[New] Giggle-O-Meter Rising Top TikTok Joke Threads for Laughter for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-zoom-on-a-chromebook-key-techniques/"><u>[New] Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-final-viewers-interactions-on-yt/"><u>[New] Optimizing Final Viewers' Interactions on YT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-3d-color-grading-tools/"><u>[New] The Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[Updated] 2024 Approved Elevate Your Vlogging Mastering Tripod Angles and Positions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-scripting-a-powerful-tiktok-outro-statement/"><u>[Updated] In 2024, Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads-for-2024/"><u>[Updated] Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-solarmovie-alternatives-watch-movies-online/"><u>2024 Approved Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reconstructed-windows-log-a-guide-to-clearing-defender-data/"><u>Reconstructed Windows Log: A Guide to Clearing Defender Data</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/reviving-classics-top-20-anime-concepts-for-tiktoks-for-2024/"><u>Reviving Classics Top 20 Anime Concepts for TikToks for 2024</u></a></li>
+</ul></div>
 

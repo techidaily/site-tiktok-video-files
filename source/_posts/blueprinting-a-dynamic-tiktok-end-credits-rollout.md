@@ -1,7 +1,7 @@
 ---
 title: "\"Blueprinting a Dynamic TikTok End-Credits Rollout\""
-date: 2024-07-29T13:01:44.187Z
-updated: 2024-07-30T13:01:44.187Z
+date: 2024-10-07T19:22:05.751Z
+updated: 2024-10-11T17:26:36.614Z
 tags:
   - ai video
   - ai tiktok
@@ -33,14 +33,8 @@ An outro is a good chance to thank your viewers for watching, promote your other
 
 Basically, the outro is the last thing your viewers will see, so it's important to make it count!
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![outros template](https://images.wondershare.com/filmora/article-images/2022/11/outros-template.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Elements of an Outro
 
 Here are a few basic elements to include in your outro to keep people engaged:
@@ -62,6 +56,19 @@ To **create a good outro for your TikTok**, follow the below tips:
 * Make your outros visually appealing and make use of colors and/or patterns that are pleasing to the eye.
 * Add positive words and phrases to your outros to have a good impact on your viewers.
 * Use branding elements like your logo or channel name.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. An Excellent Video Editor for Your TikTok Adventure
 
@@ -85,6 +92,19 @@ Step1 First, launch a browser on your PC, visit the official [Wondershare Filmor
 
 ![download and install wondershare filmora software](https://images.wondershare.com/filmora/article-images/2022/11/download-and-install-wondershare-filmora-software.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Install the software on your PC, launch it, click the **New Project** option on the main dashboard, and use the **"Click here to import Media"** option or drag and drop your file to import it.
 
 ![importing file to filmora](https://images.wondershare.com/filmora/article-images/2022/11/importing-file-to-filmora.png)
@@ -93,9 +113,6 @@ Step3 Drag your video and drop it in the **Timeline** to start the editing proce
 
 Step4 Review your video and make the necessary outro adjustments in the Timeline. Finally, click the **"Export"** option and save the video on your mobile device and upload it on TikTok afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. A Bonus Recommendation: TikTok Outro Online Makers
 
 Although Filmora is one of the best desktop video editors to create TikTok outros on your Windows or Mac computer, there are several other great online editors to make a quick outro without hiring a costly video production service.
@@ -167,6 +184,13 @@ So, all you need is a strong editing app, a creative mind, and user-friendly sof
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adding Descriptive Overlays to Your TikTok Clips
 
@@ -328,6 +352,13 @@ Now that you know a little background information on why adding to your TikTok v
 
 ![edit text to video tiktok](https://images.wondershare.com/filmora/article-images/edit-text-to-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Then, choose **Next**, write a title and any other required information, and afterward tap on **Post** to finish the TikTok video production.
 
 ## Part 2: How to Edit and Customize Text on TikTok?
@@ -347,6 +378,13 @@ TikTok allows you to control when your text that appears onscreen. The single co
 **Step 3:** **_Drag the red box_** around the bottom of the timeline to choose when the text should appear.
 
 ![adjust text duration tiktok video](https://images.wondershare.com/filmora/article-images/adjust-text-duration-tiktok-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Tap the **Checkmark** in the bottom right-hand corner once you're done.
 
@@ -514,6 +552,13 @@ But did you know you can use a similar effect to post or share videos on TikTok 
 
 ![add backdrop tiktok video text](https://images.wondershare.com/filmora/article-images/add-backdrop-tiktok-video-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** As a result, we produced a text effect vide a dark backdrop. To save videos to your device's album, click the **Download** symbol.
 
 **Step 5:** To capture video, **Launch the TikTok** application and tap the **\+ icon**. To access the gallery on the smartphone and pick the video to download from Instagram, click **Upload** squares in the touch interface.
@@ -546,11 +591,15 @@ Although adding text to video would need video editing software, you can use a p
 
 ![set tiktok video text duration filmora](https://images.wondershare.com/filmora/article-images/set-tiktok-video-text-duration-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Double-click the **Title frame in** the **Timeline** to bring up a window where you may conduct some simple title editing. You may _type the text_ for your text overlay here and alter the _text's font, color, and size_.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit tiktok video text filmora](https://images.wondershare.com/filmora/article-images/edit-tiktok-video-text-filmora.jpg)
 
 **Conclusion**
@@ -578,6 +627,13 @@ Now that you know a little background information on why adding to your TikTok v
 **Step 3**: Tap the **Text icon (Aa)** at the bottom of the display when TikTok has taken you to the video editing menu.
 
 ![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
 
@@ -649,9 +705,6 @@ But did you know you can use a similar effect to post or share videos on TikTok 
 
 **Step 6:** Lastly, you can add extra elements to the video, such as _filters_ and _stickers,_ before uploading it to your TikTok account.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Add Text to Video in Filmora?
 
 One of the finest methods to tidy up your videos is to add text. Applying text to video allows viewers to see the film in a loud setting while still getting the information they need, which would be ideal for individuals watching the muted Autoplay videos on Facebook's News Feed.
@@ -701,9 +754,20 @@ Nevertheless, based on why you're using TikTok, there are various methods to exp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-easy-steps-to-alter-your-voice-on-the-latest-tiktok-updates/"><u>[New] 2024 Approved Easy Steps to Alter Your Voice on the Latest TikTok Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-video-production-a-compreran-guide-to-screencasting/"><u>[New] In 2024, Navigating Video Production A Compreran Guide to Screencasting</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unlock-the-potential-of-mac-for-top-tier-ootd-tiktoks/"><u>[Updated] In 2024, Unlock the Potential of Mac for Top-Tier OOTD TikToks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>2024 Approved From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>2024 Approved Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-analysis-maximizing-views-on-youtube-for-2024/"><u>Cost Analysis Maximizing Views on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-a-closer-look-at-non-tiktok-apps-leading-the-next-wave/"><u>In 2024, A Closer Look at Non-TikTok Apps Leading the Next Wave</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-official-hp-laserjet-1018-drivers-today-download-now/"><u>Install Official HP LaserJet 1018 Drivers Today – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-quadro-windows-11-drivers-download-and-installation-steps/"><u>Latest NVIDIA Quadro Windows 11 Drivers - Download & Installation Steps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-snapchat-pins-with-ease/"><u>Navigating Snapchat Pins with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-zlibdll-not-found-troubles-essential-tips-and-techniques/"><u>Overcoming zlib.dll Not Found Troubles: Essential Tips and Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/savory-scenes-from-tiktok-kitchens-recipes-to-try-now-for-2024/"><u>Savory Scenes From TikTok Kitchens Recipes to Try Now for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-zero-5g-2023-turbo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Zero 5G 2023 Turbo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+</ul></div>
 

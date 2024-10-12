@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Achieving Massive Props in TikTok Videos"
-date: 2024-07-29T13:03:32.217Z
-updated: 2024-07-30T13:03:32.217Z
+date: 2024-10-08T18:31:07.527Z
+updated: 2024-10-11T18:42:36.593Z
 tags:
   - ai video
   - ai tiktok
@@ -57,9 +57,6 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 
 **Step 3**: Locate and choose the **Big Head effect** from the **Emotions** effect section.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![capcut emotions big head effects](https://images.wondershare.com/filmora/article-images/capcut-emotions-big-head-effects.jpg)
 
 **Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
@@ -78,6 +75,13 @@ Launch Filmora and click on the **Import** tab to select the video file you want
 
 ![import big head source footage](https://images.wondershare.com/filmora/article-images/import-big-head-source-footage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
@@ -91,6 +95,13 @@ For macOS 10.12 or later
  To add the Big Head effect on Filmora, click on the Effects option and select the **AR Stickers** option. Type bubble head in the search bar and then you will see it in the screen. Then, drag and drop the **AR Stickers Bubble** **Head** effect onto the timeline**,** specifically to the portion of the video where you want to add the Big Head filter on the person. As you do that, you will see a Bubble present on the video.
 
 ![add bubble head ar sticker filmora](https://images.wondershare.com/filmora/article-images/add-bubble-head-ar-sticker-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Besides the bubble head effect, there are many more AR stickers available, such as heart eyes, censor bar, emojis, and big eyes. Download the Filmora video editor now and check it yourself.
 
@@ -122,6 +133,13 @@ Drag and drop the video to video track 1 and video track 2 respectively in Filmo
 
 ![add image mask to tiktok video](https://images.wondershare.com/filmora/article-images/add-image-mask-to-tiktok-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, double-click the video with the image mask to adjust the properties. Scroll down to the Video Effects field, and you will see the Image Mask. Click the arrow icon to choose a mask preset, adjust its position and size settings to fit the video.
 
 Tips: You can hide the video in track 1 by clicking the eye icon so you can adjust the video with the image mask conveniently. Click it again then you will see the video.
@@ -151,6 +169,13 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 02 [How to Make a Big Head Effect in CapCut?](#part2)
 
 03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
@@ -308,6 +333,13 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 
 You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
 
 [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare includes the typical overlays, transitions, trimming, as well as the effects that we've grown to expect from the enthusiast-level video editor. It features a user-friendly interface that is clean, minimalistic, and dark. If that wasn't enough, we're sure you'll be pleased to learn that the Filmora program can be used to create the TikTok big head effect in several ways.
@@ -368,9 +400,6 @@ Tips: You can hide the video in track 1 by clicking the eye icon so you can adju
 
 Next, click the video in track 2 again, and then go to the **Transform** tab, use the **Scale** slider to adjust the video size to make a big head effect.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust scale to make big head](https://images.wondershare.com/filmora/article-images/adjust-scale-to-make-big-head.jpg)
 
 Watch the video tutorial below to find out how to use the Image Mask effect to create a video with a big head effect in Filmora.
@@ -427,12 +456,16 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 
 **Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
 
 You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
 
@@ -473,6 +506,13 @@ For macOS 10.12 or later
 In the Effects tab, go to the **Recommended** category, and then you will see the magnify effect. Drag and drop it to the timeline above the video track, and you will see part of the video has been magnified accordingly.
 
 ![add magnify effect tiktok video](https://images.wondershare.com/filmora/article-images/add-magnify-effect-tiktok-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, double click on the effect in the timeline and open the Properties of the magnify effect. From the Properties section, you can adjust the size of the bubble using functions such as the Radius, CenterY, CenterX, Alpha, Zoom rate, etc to get a better video with big head effects.
 
@@ -576,6 +616,13 @@ Another aspect that’s unique to TikTok is the transitions inside movies. The i
 
 This TikTok craze is a wonderful way to have your fuzzy companion included in one of your videos. No, you don’t paint a portrait of your pet, your pet performs the painting portion, how you may ask? it’s fairly easy, all you need is a canvas, some liquid colors of your choosing, a huge plastic bag, and a pet, of course, you will also need a paste-like food that your pet enjoys, peanut butter for instance. Start by covering the canvas with the plastic bag and spread peanut butter on the section covering the canvas, gently remove the canvas from the bag and keep the plastic aside.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Referencing Modern Pop Culture:
 
 Score some likes, comments, and shares by tapping into an already-huge fan following. Trending TV series and movies frequently inspire their TikTok trends. When Squid Game dominated the globe in 2021, it prompted suspense-making instructions, musical mashups, and many tracksuits. This is just one of the millions of instances of how inventive TikTok fans addressed the program.
@@ -584,14 +631,6 @@ Score some likes, comments, and shares by tapping into an already-huge fan follo
 
 This simply possibly be the most widely accepted and least contentious genre ever: the enjoyable video. Like the day-in-the-life films, they are a celebration of the commonplace. So, the likelihood is, you’re already doing something pleasurable to watch. Whether its soap cutting or cake frosting or freezing bubbles, there’s something very relaxing and fulfilling about this type of material.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Passing the Phone:
 
 We're going to top things off with another TikTok trend, this one is a fun way of roasting your friends or family members and, of course, getting them involved in your TikToks. The way these trend works is really simple, you just call out your friend by making funny comments about certain bad habits or characteristics they have and then pass the phone to them because it's their turn to do the same, so it's just a series of taking turns roasting your friends and the best part is that there is no limit to how many people can participate.
@@ -624,9 +663,6 @@ The Love Nwantiti Dance is a dance that is performed by people who love one anot
 
 Many videos will frequently add a #ForYou hashtag to be featured on the page. Just like any other app, getting to the main page is key to landing a popular TikTok video and collecting new followers. Considering TikTok is starting to look at advertising directly in the app, revenue for TikTokers isn’t far off, and leveraging hashtags to trick the system is important to gaining viewers. TikTok virtually runs on hashtags. It’s what makes the app so entertaining. Everything is shared, and everyone is encouraged to join in. Clicking on hashtags, particularly ones that are developed around challenges, is a simple method to find what others are using to get to the ‘For You’ area.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Learn on TikTok:
 
 This TikTok trend is a spectacular method for creators to share their ideas, talents, and life hacks and a chance for viewers to expand their knowledge on particular subjects and discover new items that may aid them in their day-to-day lives. The greatest part is that this trend is for everyone since the number of concepts that may be inferred here is practically never-ending, there might be someone excellent at cooking, someone, whose fighting abilities are good, someone who’s strong at arithmetic, or maybe someone who’s good at mending automobiles.
@@ -648,9 +684,26 @@ From ramping up your posting schedule to taking part in challenges, and optimizi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-top-cinema-teasers-compilation/"><u>[New] Top Cinema Teasers Compilation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-10-standout-applications-mastering-phone-and-computer-conferencing/"><u>[Updated] 10 Standout Applications Mastering Phone & Computer Conferencing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-captivating-anime-concepts-that-topped-the-tiktok-list/"><u>[Updated] 2024 Approved Captivating Anime Concepts that Topped the TikTok List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captivating-stories-in-motion-best-video-theme-choices/"><u>[Updated] Captivating Stories in Motion Best Video Theme Choices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-cutting-edge-tiktok-techniques-for-new-video-borders/"><u>[Updated] In 2024, Cutting-Edge TikTok Techniques for New Video Borders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-your-tiktok-game-techniques-for-desktop-creation/"><u>[Updated] In 2024, Elevating Your TikTok Game Techniques for Desktop Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>[Updated] In 2024, Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unveiling-your-own-distinctive-tiktok-stream-key/"><u>[Updated] In 2024, Unveiling Your Own Distinctive TikTok Stream Key</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-syncopated-sing-sessions-tiktok-style-for-2024/"><u>[Updated] Syncopated Sing-Sessions TikTok Style for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-your-personalized-blueprint-to-livestreaming-on-tiktok-via-desktop-for-2024/"><u>[Updated] Your Personalized Blueprint to Livestreaming on TikTok via Desktop for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/ace-message-management-on-discord-with-easy-pins/"><u>Ace Message Management on Discord with Easy Pins</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-choices-8-edits-suites-for-linux-users/"><u>Best Choices 8 Edits Suites for Linux Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-vivo-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Vivo Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channeling-creativity-get-green-screen-tips-from-youtube-for-2024/"><u>Channeling Creativity Get Green Screen Tips From YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhance-snaps-with-cultural-pop-culture-learn-anime-on-snapchat/"><u>Enhance Snaps with Cultural Pop-Culture Learn Anime On Snapchat</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-x7-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find X7 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/securing-permanent-distance-from-tiktok-domain-for-2024/"><u>Securing Permanent Distance From TikTok Domain for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 5G Device</u></a></li>
+</ul></div>
 
