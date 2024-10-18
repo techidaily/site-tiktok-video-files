@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven Methods for Crafting Big Head Effects in TikTok (3 Approaches) for 2024"
-date: 2024-10-02T22:57:36.964Z
-updated: 2024-10-06T00:32:48.996Z
+date: 2024-10-15T18:30:56.556Z
+updated: 2024-10-17T20:07:30.144Z
 tags:
   - ai video
   - ai tiktok
@@ -149,13 +149,6 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
 The TikTok Big Head effect is an extremely entertaining filter. TikTok is a social media platform that specializes in sharing short video content. Its consumer subscription has surpassed Facebook, Instagram, Twitter, and even Snapchat, and its download percentages are much greater than those of the above said social networking sites.
@@ -191,13 +184,6 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 ![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
 
 You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
 
@@ -260,13 +246,6 @@ Tips: You can hide the video in track 1 by clicking the eye icon so you can adju
 Next, click the video in track 2 again, and then go to the **Transform** tab, use the **Scale** slider to adjust the video size to make a big head effect.
 
 ![adjust scale to make big head](https://images.wondershare.com/filmora/article-images/adjust-scale-to-make-big-head.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Watch the video tutorial below to find out how to use the Image Mask effect to create a video with a big head effect in Filmora.
 
@@ -371,6 +350,13 @@ Now, double click on the effect in the timeline and open the Properties of the m
 ![adjust magnify effect settings](https://images.wondershare.com/filmora/article-images/adjust-magnify-effect-settings.jpg)
 
 **Note:** If you're unable to locate the Magnify option in the Effects tab, please download and install the latest version of Filmora, and then type "Magnify" in the search bar, and the system will directly take you to where the option is present.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Use Mask and Scale to Make a Video with Big Head Effect
 
@@ -556,13 +542,6 @@ However, adding captions is mandatory if you want to make TikTok trend videos fo
 
 Adding captions on TikTok videos can bring you multiple advantages. To learn more about the benefits of adding captions on TikTok, read this section:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Increases Comprehension
 
 It may be possible that viewers won't be able to understand a particular dialogue in your TikTok video. To make your TikTok content more understandable, adding captions can prove to be a great option. Moreover, if some viewers can't turn on the sound of TikTok videos, they can easily read the captions to understand the content.
@@ -583,6 +562,13 @@ If some foreigners can't understand or speak your native language, TikTok captio
 
 There are various ways through which you can generate TikTok captions effortlessly. Read this section to discover multiple and convenient ways to create TikTok captions easily.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1: Auto-Generate Captions with TikTok's Built-in Feature
 
 If you don't want to download video editing software, you can utilize the built-in feature of TikTok to create auto-captions. This will save you from the hassle of launching or accessing a professional subtitle editor. Moreover, it will also save you time and effort from creating subtitles manually. To use the built-in feature of **TikTok automatic captions**, check the following instructions:
@@ -595,6 +581,20 @@ Step2 On the editing mode, locate the "Captions" option from the right side. Aft
 
 ![select the captions option](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 2: Use Auto Captions in CapCut
 
 [CapCut](https://www.capcut.com/) and TikTok are closely related to each other as they both have the same parent company called ByteDance. Thus, using CapCut to create captions for your TikTok videos can bring high-quality results. You can easily download CapCut on Android and iOS devices without any complications. The interface of this tool is clean that allows you to generate subtitles efficiently.
@@ -604,6 +604,13 @@ The auto caption feature in CapCut enables you to produce subtitles instantly. I
 Step1 Download and launch CapCut on your phone. To import, tap on "New Project" and select the video from your phone's gallery. Tap on "Add" to head to the editing mode of CapCut.
 
 ![create a new project](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Afterward, select "Text" options from which you can either choose "Auto Lyrics" or "Auto Captions." Using the Auto Lyrics option, you can generate captions for a song automatically. On the other hand, by using the Auto Captions option, you can transcribe the voice in your video to create subtitles. From the pop-up menus, choose the sound source and language to proceed.
 
@@ -626,23 +633,10 @@ Step2 Now, choose the style for your captions from the available options. Select
 ![add the text manually](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 4: Automatically Add Subtitles to TikTok Videos with Online Editor
@@ -741,13 +735,6 @@ Step2 On the editing mode, locate the "Captions" option from the right side. Aft
 
 ![select the captions option](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 2: Use Auto Captions in CapCut
 
 [CapCut](https://www.capcut.com/) and TikTok are closely related to each other as they both have the same parent company called ByteDance. Thus, using CapCut to create captions for your TikTok videos can bring high-quality results. You can easily download CapCut on Android and iOS devices without any complications. The interface of this tool is clean that allows you to generate subtitles efficiently.
@@ -777,6 +764,13 @@ Step1 Open your TikTok app and create a video to begin. Tap on the "Tick" icon t
 Step2 Now, choose the style for your captions from the available options. Select the color and start writing your captions carefully. Once you are done, you can save and publish your created TikTok video.
 
 ![add the text manually](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 4: Automatically Add Subtitles to TikTok Videos with Online Editor
 
@@ -826,16 +820,16 @@ After completing all the settings, you can click on the "Export" button. Before 
 
 ## Part 4: People Also Want to Know
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to add captions to TikTok?
 
 To add TikTok captions, you can choose the manual or automatic way. TikTok has a built-in auto-generator through which you can add captions automatically. Moreover, there are different offline and online tools, such as Filmora, CapCut, and Veed.io, through which you can add captions on TikTok flawlessly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to add captions to TikTok after posting?
 
@@ -860,17 +854,21 @@ This article has shed light on various ways how to add captions on TikTok effici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] 2024 Approved Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mistake-reversed-quick-steps-for-a-stolen-tiktok-refresh/"><u>[New] 2024 Approved Mistake Reversed Quick Steps for a Stolen TikTok Refresh</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-sketching-the-perfect-end-credits-scene-for-your-tiktok/"><u>[New] 2024 Approved Sketching the Perfect End-Credits Scene for Your TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-beat-breakers-crafting-compelling-video-music-scores/"><u>[New] In 2024, Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transform-your-instagram-vocal-identity-today/"><u>[New] In 2024, Transform Your Instagram Vocal Identity Today</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/7-types-of-color-grading-for-you-to-try-for-2024/"><u>7 Types of Color Grading for You to Try for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-100-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/how-to-do-slow-mo-on-tik-tok-step-by-step/"><u>How to Do Slow Mo On Tik Tok? [Step by Step]</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-your-mac-creating-captivating-style-videography/"><u>Mastering Your Mac Creating Captivating Style Videography</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pixel-panic-solutions-to-black-screen-anomaly-for-windows-players-of-call-of-duty-wwii/"><u>Troubleshooting Pixel Panic: Solutions to Black Screen Anomaly for Windows Players of Call of Duty: WWII</u></a></li>
-<li><a href="https://blog-min.techidaily.com/upcoming-incompatibility-tor-browser-drops-support-for-windows/"><u>Upcoming Incompatibility: Tor Browser Drops Support for Windows #</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>Updated Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[New] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-next-gen-patient-rehabilitation-tools/"><u>[New] 2024 Approved Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-enhance-your-online-presence-4-streaming-methods-for-desktop-users/"><u>[New] In 2024, Enhance Your Online Presence 4 Streaming Methods for Desktop Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-windows-10-game-recording-5-methods-for-2024/"><u>[New] Windows 10 Game Recording [5 Methods] for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-smartphone-selection-for-superior-video-recording/"><u>[Updated] 2024 Approved Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-boosting-video-success-tips-from-top-50plus-quotes-on-tiktok-for-2024/"><u>[Updated] Boosting Video Success Tips From Top 50+ Quotes on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lg-24lh4830-the-superior-choice-for-budget-conscious-consumers-seeking-quality-and-style/"><u>LG 24LH4830 - The Superior Choice for Budget-Conscious Consumers Seeking Quality and Style</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mistrust-in-zerogpt-when-detectors-are-blinded/"><u>Mistrust in ZeroGPT: When Detectors Are Blinded</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-alternatives-to-gopro-studio-for-video-editing/"><u>New 2024 Approved The Ultimate Guide to Alternatives to GoPro Studio for Video Editing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/step-into-style-choosing-and-applying-new-bg-for-tiktok-vids/"><u>Step Into Style Choosing and Applying New BG for TikTok Vids</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-past-images-a-snapchat-journey/"><u>The Art of Past Images A Snapchat Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-genesis-of-machine-minds-chronicles-from-the-birth-of-ai-technology/"><u>The Genesis of Machine Minds: Chronicles From the Birth of AI Technology</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-quintessential-guide-top-5-tiktok-gif-creation-software-for-2024/"><u>The Quintessential Guide Top 5 TikTok GIF Creation Software for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-customization-embedding-text-in-youtube-cards/"><u>Unlocking Customization Embedding Text in YouTube Cards</u></a></li>
 </ul></div>
 
