@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-10-16T23:19:47.842Z
-updated: 2024-10-17T17:52:58.404Z
+date: 2024-10-16T16:15:43.122Z
+updated: 2024-10-23T18:57:27.652Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -79,6 +86,13 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -105,27 +119,20 @@ If this fix failed to solve your issue, please move on to the next one.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -143,14 +150,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -171,20 +178,13 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the crashing reappears, please check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
@@ -192,10 +192,10 @@ If the crashing reappears, please check out the next fix.
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
@@ -223,22 +223,19 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-blueprint-for-effective-metaverse-engagement/"><u>[New] 2024 Approved Blueprint for Effective Metaverse Engagement</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nviolate-disengagement-protocol-for-compact-youtube-clips-for-2024/"><u>[New] Inviolate Disengagement Protocol for Compact YouTube Clips for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-bridging-fashion-and-filmmaking-ootd-tips-for-mac-users/"><u>[Updated] 2024 Approved Bridging Fashion & Filmmaking OOTD Tips for Mac Users</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-dual-identity-approach-for-influential-tiktok-presence/"><u>[Updated] 2024 Approved The Dual Identity Approach for Influential TikTok Presence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-youtube-presence-with-these-8-free-courses-for-2024/"><u>[Updated] Elevate Your YouTube Presence with These 8 Free Courses for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-amplify-your-creative-voice-on-tiktok-designed-themes-for-you/"><u>2024 Approved Amplify Your Creative Voice on TikTok Designed Themes for You</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>2024 Approved The Ultimate TikTok Playbook Driving View Growth and Engagement</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/dynamic-designs-the-hottest-snapchat-filters-explored/"><u>Dynamic Designs The Hottest Snapchat Filters Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-the-missing-dll-file-msvcrt-on-your-computer-system/"><u>Guide to Correcting the Missing DLL File (MSVCRT) on Your Computer System</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-information-for-successful-tiktok-use-on-macos/"><u>In 2024, Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-livestream-immersion-your-playbook/"><u>In 2024, TikTok Livestream Immersion Your Playbook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-tips-for-pop-culture-meme-success/"><u>In 2024, Top Tips for Pop Culture Meme Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-video-converter-professional-and/"><u>MacX Video Converter Professional: 動画&オーディオ一括録画詳細解説 - 使い方をマスターしよう！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-showtime-use-chatgpt-for-insights/"><u>Next Showtime? Use ChatGPT for Insights</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-five-key-factors-leading-to-company-wide-chatgpt-ban-policies/"><u>The Five Key Factors Leading to Company-Wide ChatGPT Ban Policies</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-top-15-latest-innovations-in-tiktok-world-for-2024/"><u>[New] Top 15 Latest Innovations in TikTok World for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-capture-hearts-on-tiktok-designed-templates-for-visual-impact/"><u>[Updated] 2024 Approved Capture Hearts on TikTok Designed Templates for Visual Impact</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>[Updated] Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-eating-entertainment-tiktoks-top-culinary-shows/"><u>[Updated] Eating Entertainment TikTok's Top Culinary Shows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-turning-tiktok-videos-into-gifs-with-best-tools/"><u>[Updated] In 2024, Seamlessly Turning TikTok Videos Into GIFs with Best Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-real-time-photo-sharing-in-google-meet-for-2024/"><u>[Updated] Mastering Real-Time Photo Sharing in Google Meet for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-craziest-tiktok-games-worth-playing/"><u>[Updated] Top 10 Craziest TikTok Games Worth Playing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/beatniks-guide-to-music-enhanced-snapchats/"><u>Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/easy-fix-for-corrupted-jpeg-files-discover-the-power-of-professional-jpeg-restoration-tools/"><u>Easy Fix for Corrupted JPEG Files: Discover the Power of Professional JPEG Restoration Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/fixing-dark-mode-issues-during-recording-for-2024/"><u>Fixing Dark Mode Issues During Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-instant-mp3-conversion-of-fb-video-content/"><u>In 2024, Instant MP3 Conversion of FB Video Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-programming-enhancements-without-chatgpt/"><u>Innovative Programming Enhancements Without ChatGPT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-the-art-of-youtube-thumbnails-on-macos/"><u>Mastering the Art of YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-video-cover-updates-on-facebook-for-2024/"><u>Mastering Video Cover Updates on Facebook for 2024</u></a></li>
 </ul></div>
 

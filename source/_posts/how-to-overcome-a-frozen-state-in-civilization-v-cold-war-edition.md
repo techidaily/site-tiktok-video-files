@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome a Frozen State in Civilization V: Cold War Edition"
-date: 2024-10-13T22:42:17.907Z
-updated: 2024-10-17T22:58:02.233Z
+date: 2024-10-18T16:54:30.247Z
+updated: 2024-10-23T16:25:40.711Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -60,13 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -76,10 +76,10 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
@@ -94,9 +94,36 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -139,13 +166,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -159,20 +179,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -187,13 +200,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -224,22 +230,14 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac-for-2024/"><u>[New] Beat the Competition Designing Unforgettable TikTok Dancing on a Mac for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[New] In 2024, Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-vloggers-ultimate-guide-to-best-gaming-microphones/"><u>[New] In 2024, Vloggers' Ultimate Guide to Best Gaming Microphones</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-revolutionize-tiktok-live-top-techniques-from-desktop-viewers/"><u>[New] Revolutionize TikTok Live Top Techniques From Desktop Viewers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-live-beat-performances-on-shouqi-media/"><u>[Updated] 2024 Approved Live Beat Performances on Shouqi Media</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-captioning-techniques-for-professional-youtube-content/"><u>[Updated] Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>[Updated] Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-content-with-jujutsu-kaisen-on-tiktok-for-2024/"><u>[Updated] Elevate Your Content with Jujutsu Kaisen on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[Updated] In 2024, Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-xs-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone XS Max to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-zero-30-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Zero 30 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professionals-guide-to-outstanding-4k-filmmaking-gear/"><u>In 2024, Professionals' Guide to Outstanding 4K Filmmaking Gear</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-canon-inkjet-drivers-on-windows-11/"><u>Installing Latest Canon Inkjet Drivers on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-six-innovative-full-frame-cinematographers/"><u>Leading Six Innovative Full Frame Cinematographers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/pro-level-insights-for-perfectly-crafted-snaps/"><u>Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
-<li><a href="https://techidaily.com/sign-svd-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .svd file Online with DigiSigner</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965209491-solution-the-most-basic-non-destructive-testing-ndt-method-for-assessing-weld-quality-is-visual-inspection/"><u>Solution: The Most Basic Non-Destructive Testing (NDT) Method for Assessing Weld Quality Is Visual Inspection.</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop/"><u>[New] 2024 Approved Step-by-Step Guide to Initiating a TikTok Stream From Desktop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-create-a-live-stream-online-for-2024/"><u>[New] How to Create a Live Stream Online for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/ensuring-authenticity-and-compliance-in-your-tiktoks-for-2024/"><u>Ensuring Authenticity & Compliance in Your TikToks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-activate-and-utilize-dfu-mode-on-your-iphone-effectively/"><u>How To Activate And Utilize DFU Mode On Your iPhone Effectively</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-beats-at-breakneck-speed-the-fastest-rising-tiktok-hits/"><u>In 2024, Beats at Breakneck Speed The Fastest-Rising TikTok Hits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v29-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V29 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-no-nonsense-guide-to-lively-tiktok-live-visits/"><u>The No-Nonsense Guide to Lively TikTok Live Visits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-tier-mkv-players-macos-edition/"><u>Top-Tier MKV Players MacOS Edition</u></a></li>
 </ul></div>
 

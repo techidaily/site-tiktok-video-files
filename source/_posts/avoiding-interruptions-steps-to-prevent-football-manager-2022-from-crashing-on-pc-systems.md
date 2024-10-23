@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems"
-date: 2024-10-15T18:11:44.949Z
-updated: 2024-10-17T17:16:15.225Z
+date: 2024-10-19T18:49:23.918Z
+updated: 2024-10-23T18:09:58.017Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
@@ -71,13 +64,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
 
@@ -93,25 +79,11 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, relaunch_FM19_ to see if it works correctly. If your problem persists, move on to Fix 3, below.
 
@@ -134,6 +106,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -160,6 +139,13 @@ If your game still crashes, then go ahead with the next fix below.
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Relaunch your game after the process is finished.
 
@@ -216,6 +202,13 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-48-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Launch_FM19_ through Steam.
 
 If you still have the problem, try running your game in Windowed mode.
@@ -228,9 +221,23 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
@@ -243,13 +250,6 @@ If you still have the problem, try running your game in Windowed mode.
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
 
@@ -265,9 +265,29 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -292,22 +312,16 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Football Manager 2019** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-54-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch Steam, then download and install_Football Manager 2019_ .
 
@@ -322,13 +336,6 @@ If the game still crashes, try reinstalling the game launcher.
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -347,13 +354,6 @@ If the game still crashes, try reinstalling the game launcher.
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -384,16 +384,19 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-leveraging-imovie-features-to-upgrade-your-youtube-content-quality/"><u>[New] In 2024, Leveraging iMovie Features to Upgrade Your YouTube Content Quality</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-20-tiktok-captions-for-captivating-viewers/"><u>[Updated] Top 20 TikTok Captions for Captivating Viewers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>2024 Approved Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-iconic-image-improvements-iosandroids-funniest-apps/"><u>2024 Approved Iconic Image Improvements IOS/Android's Funniest Apps</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-elite-circle-unveiling-top-10-gamers-on-tiktok/"><u>2024 Approved The Elite Circle Unveiling Top 10 Gamers on TikTok</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enter-the-world-of-endless-languages-mondly-introduces-vr-learning-platform/"><u>Enter the World of Endless Languages - Mondly Introduces VR Learning Platform</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-and-spotify-are-working-on-something-called-project-boombox/"><u>Facebook and Spotify Are Working on Something Called Project Boombox</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y27-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y27 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-substitute-cinema-classics-ranked-7-1/"><u>In 2024, Substitute Cinema Classics, Ranked #7-1</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-typographic-hurdles-resolving-spacebar-problems-on-windows-11-systems/"><u>Overcoming Typographic Hurdles - Resolving Spacebar Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-photovideo-recovery-on-snapchat/"><u>Quick Photo/Video Recovery on Snapchat</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-professionals-playbook-streaming-live-videos-on-tiktok-from-computer/"><u>[New] 2024 Approved The Professional’s Playbook Streaming Live Videos on TikTok From Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-master-the-craft-refining-title-and-description-in-igtv-videos/"><u>[New] Master the Craft Refining Title & Description in IGTV Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-streamline-markings-ultimate-tiktok-eraser-tools-for-2024/"><u>[New] Streamline Markings Ultimate TikTok Eraser Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-essential-guide-to-snagging-tiktoks-at-lightning-speed-for-2024/"><u>[New] The Essential Guide to Snagging TikToks at Lightning Speed for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-curated-interview-insights-engaging-podcast-audience/"><u>[Updated] 2024 Approved Curated Interview Insights Engaging Podcast Audience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-30-leading-free-platforms-for-exceptional-youtube-intros/"><u>[Updated] 30 Leading Free Platforms for Exceptional YouTube Intros</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[Updated] Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-crafting-unique-pfp-ideas-for-distinctive-tiktok-profiles-for-2024/"><u>[Updated] Crafting Unique PFP Ideas for Distinctive TikTok Profiles for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-watch-9-free-full-length-christmas-movies-on-youtube/"><u>[Updated] In 2024, Watch 9 Free Full Length Christmas Movies On Youtube</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>2024 Approved How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y36-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y36 Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>In 2024, The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-efficient-design-output-using-canva-and-chatgpt-tools/"><u>Mastering the Art of Efficient Design Output Using Canva and ChatGPT Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi A2 | Dr.fone</u></a></li>
 </ul></div>
 

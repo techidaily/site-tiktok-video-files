@@ -1,7 +1,7 @@
 ---
 title: Back to Battle Royale Fun? Experience The Revamped Thrills of Fortnite's New Chapter
-date: 2024-10-13T20:25:30.682Z
-updated: 2024-10-17T16:45:33.966Z
+date: 2024-10-20T17:51:20.740Z
+updated: 2024-10-23T17:22:26.579Z
 categories:
   - BestProducts
 description: This Article Describes Back to Battle Royale Fun? Experience The Revamped Thrills of Fortnite's New Chapter
@@ -43,6 +43,13 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
@@ -79,13 +86,6 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
 ## Comfort: Streamlined but not immune to typical fit issues
@@ -99,10 +99,10 @@ Lifewire / Yoona Wagener
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
@@ -123,6 +123,13 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -134,10 +141,16 @@ Lifewire / Yoona Wagener
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery: Enough juice to last nearly a week
@@ -150,16 +163,16 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -178,13 +191,6 @@ Lifewire / Yoona Wagener
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -217,22 +223,22 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-a-memorable-look-back-experience-on-fb/"><u>[New] In 2024, Crafting a Memorable Look Back Experience on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-instant-mac-screen-savior-free-in-2024/"><u>[New] Instant Mac Screen Savior - Free, In 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-viral-video-blueprint-top-10-tiktok-tricks-for-2024/"><u>[New] Viral Video Blueprint Top 10 TikTok Tricks for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-bending-reality-a-short-history-of-virtual-space/"><u>[Updated] Bending Reality A Short History of Virtual Space</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-carving-a-path-individuality-in-the-face-of-tiktok-influencers-for-2024/"><u>[Updated] Carving a Path Individuality in the Face of TikTok Influencers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cutting-edge-strategies-for-console-recording-on-personal-devices-for-2024/"><u>[Updated] Cutting-Edge Strategies for Console Recording on Personal Devices for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-achieve-impactful-big-head-aesthetics-in-your-tiktoks-3-ways/"><u>[Updated] How To Achieve Impactful Big Head Aesthetics in Your TikToks (3 Ways)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-enhancing-tiktok-experience-with-siri-voice-commands/"><u>2024 Approved Enhancing TikTok Experience with Siri Voice Commands</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/align-video-content-with-instagram-viewer-preferences-for-2024/"><u>Align Video Content with Instagram Viewer Preferences for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/building-a-brand-how-to-harness-snapad-power-in-business/"><u>Building a Brand How to Harness SnapAd Power in Business</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discord-broadcasting-step-by-step-techniques-for-seamless-sessions/"><u>Discord Broadcasting Step-by-Step Techniques for Seamless Sessions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x7-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X7</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-picks-of-literary-stars-shining-on-booktoks-screen/"><u>In 2024, Top Picks of Literary Stars Shining on BookTok's Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-issue-of-minecraft-not-starting-on-windows-pcs/"><u>Troubleshooting Guide: Fixing the Issue of Minecraft Not Starting on Windows PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-x-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone X?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-ultimate-tiktok-live-jump-a-how-to-guide/"><u>[New] 2024 Approved The Ultimate TikTok Live Jump A How-To Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-efficiently-documenting-your-fb-chats-and-meets-for-2024/"><u>[New] Efficiently Documenting Your FB Chats & Meets for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-boost-your-instagram-vids-visibility/"><u>[New] How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-secrets-behind-compelling-captions-for-captivating-tiktok-content/"><u>[Updated] 2024 Approved The Secrets Behind Compelling Captions for Captivating TikTok Content</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-boost-creativity-on-tiktok-top-10-free-edits-for-mac-users-for-2024/"><u>[Updated] Boost Creativity on TikTok - Top 10 Free Edits for Mac Users for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-dive-into-the-world-of-tiktok-loved-novels/"><u>[Updated] Dive Into the World of TikTok-Loved Novels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevating-ad-revenue-through-animated-campaigns-on-facebook/"><u>[Updated] In 2024, Elevating Ad Revenue Through Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-chuckle-census-latest-stars-and-trends-in-tiktok-laughter/"><u>2024 Approved Chuckle Census Latest Stars and Trends in TikTok Laughter</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/anime-inspired-dance-routines-top-20-tiktok-trends/"><u>Anime-Inspired Dance Routines Top 20 TikTok Trends</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/from-idea-to-screenshot-a-mac-guide-to-ootd-tiktoks/"><u>From Idea to Screenshot A Mac Guide to OOTD TikToks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-civi-3-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Civi 3 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>In 2024, Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-uniting-voices-in-a-tiktok-duo/"><u>In 2024, Uniting Voices in a TikTok Duo</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-a1-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A1 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/punpictures-pro-jestjokes-network-for-2024/"><u>PunPictures Pro JestJokes Network for 2024</u></a></li>
 </ul></div>
 

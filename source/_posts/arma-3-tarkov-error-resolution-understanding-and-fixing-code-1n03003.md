@@ -1,7 +1,7 @@
 ---
 title: "Arma 3 Tarkov Error Resolution: Understanding and Fixing Code 1N03003"
-date: 2024-10-10T20:32:32.232Z
-updated: 2024-10-17T18:38:33.549Z
+date: 2024-10-18T19:07:44.125Z
+updated: 2024-10-23T17:13:16.426Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 8. **[Set Affinity for Starcraft 2](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Run Starcraft 2 in windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest game patch
 
@@ -77,18 +84,18 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -102,16 +109,16 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![Open NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-control-panel.jpg)
 2. Expand the**Help** menu, and check the**Debug Mode** option.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset your Starcraft 2 in-game options
 
@@ -128,6 +135,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
@@ -135,10 +149,10 @@ _Note: This method applies only to the_ non-reference model cards_._
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
@@ -149,13 +163,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Select**Properties** on the pop-up menu
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Set Affinity for Starcraft 2
 
@@ -183,10 +190,16 @@ _Note: This method applies only to the_ non-reference model cards_._
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 10: Perform a clean boot
@@ -198,28 +211,21 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
@@ -246,18 +252,22 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-beyond-fbx-cutting-edge-options-for-game-recorders/"><u>[New] Beyond FBX Cutting-Edge Options for Game Recorders</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[New] In 2024, A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>[New] In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-m1-dominance-video-editors-rejoice-in-seamless-experience/"><u>[New] M1 Dominance Video Editors Rejoice in Seamless Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-sharing-videos-tweet-tumble-route/"><u>[Updated] 2024 Approved Sharing Videos Tweet-Tumble Route</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features/"><u>[Updated] Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>2024 Approved A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
-<li><a href="https://article-posts.techidaily.com/experts-recommendations-for-image-watermarking/"><u>Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-narzo-n55-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Narzo N55 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/investment-insights-starting-a-profitable-podcast/"><u>Investment Insights Starting a Profitable Podcast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-gpt-5-on-the-horizon-unveiling-potential-release-dates/"><u>Is GPT-5 on the Horizon? Unveiling Potential Release Dates</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success/"><u>Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-powerpoints-voice-recognition-feature/"><u>Mastering PowerPoint's Voice Recognition Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-web-warriors-championing-screen-recording-tools/"><u>[New] 2024 Approved Web Warriors Championing Screen Recording Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-dissecting-the-best-app-for-video-editing-is-inshot-it/"><u>[New] Dissecting the Best App for Video Editing - Is InShot It?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-jujutsu-kaisens-tiktok-a-creative-journey/"><u>[New] In 2024, Jujutsu Kaisen's TikTok A Creative Journey</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-charting-a-course-to-your-personalized-tiktok-marker/"><u>[Updated] 2024 Approved Charting a Course to Your Personalized TikTok Marker</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-safeguard-creativity-validating-content-for-tiktok-posting/"><u>[Updated] 2024 Approved Safeguard Creativity Validating Content for TikTok Posting</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>[Updated] Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-one-to-a-hundred-a-guide-to-creating-multiple-tiktoks-of-youself-for-2024/"><u>[Updated] From One to a Hundred A Guide to Creating Multiple TikToks of Youself for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-10-most-popular-tiktok-challenges-deserves-a-try/"><u>2024 Approved 10 Most Popular TikTok Challenges Deserves A Try</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhancing-clarity-in-low-quality-facebook-streams/"><u>2024 Approved Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-virtual-music-gatherings/"><u>2024 Approved Premier Virtual Music Gatherings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-dealing-with-persistent-crashes-in-phoenix-point/"><u>Comprehensive Strategies for Dealing with Persistent Crashes in Phoenix Point</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effizienter-kostenloser-h264-player-perfektes-abspielen-von-h264-h2amo-und-mpeg4-videos-ohne-unterbrechungen/"><u>Effizienter Kostenloser H.264-Player - Perfektes Abspielen Von H.264, H.2amo Und MPEG4 Videos Ohne Unterbrechungen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-100-free-windows-screen-capture-guides-and-methods/"><u>In 2024, 100% Free Windows Screen Capture Guides & Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-step-into-the-arena-joining-lives-on-tiktok/"><u>In 2024, Step Into the Arena Joining Lives on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-your-pathway-to-mastering-slow-time-footage-in-tiktok/"><u>In 2024, Your Pathway to Mastering Slow Time Footage in TikTok</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premiere-add-ons-for-firefox-recording-for-2024/"><u>Premiere Add-Ons for Firefox Recording for 2024</u></a></li>
 </ul></div>
 

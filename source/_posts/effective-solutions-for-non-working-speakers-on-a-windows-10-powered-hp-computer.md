@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2024-10-16T21:29:35.882Z
-updated: 2024-10-17T19:05:24.415Z
+date: 2024-10-19T17:51:50.617Z
+updated: 2024-10-23T19:25:36.041Z
 tags:
   - win11
   - win10
@@ -34,18 +34,18 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
@@ -64,10 +64,10 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -78,9 +78,23 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
@@ -89,13 +103,6 @@ Go with the easy steps to show it.
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -106,13 +113,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -139,22 +139,24 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-history-in-action-top-7-engaging-civilization-wars-for-2024/"><u>[New] History in Action Top 7 Engaging Civilization Wars for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-streamlining-vocal-elements-in-tiktok-media-creations/"><u>[New] Streamlining Vocal Elements in TikTok Media Creations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-ig-potential-strategies-for-accumulating-1000plus-likesmonth-for-2024/"><u>[New] Unlocking IG Potential Strategies for Accumulating 1,000+ Likes/Month for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-your-content-quality-the-ultimate-guide-for-impressive-mac-made-tiktok-openers/"><u>[Updated] 2024 Approved Boost Your Content Quality The Ultimate Guide for Impressive Mac-Made TikTok Openers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-boost-your-finances-with-these-8-essential-tiktok-strategies/"><u>[Updated] Boost Your Finances with These 8 Essential TikTok Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>[Updated] In 2024, Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-tiktok-streams-decoded-finding-your-special-hashtag/"><u>[Updated] In 2024, TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-key-points-to-consider-when-navigating-tiktok-web-on-macos/"><u>[Updated] Key Points to Consider When Navigating TikTok Web on macOS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/effective-image-sharing-using-snap-camera-for-microsoft-teams/"><u>Effective Image Sharing Using Snap Camera for Microsoft Teams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/engaging-oratorics-assessment-version-8-for-2024/"><u>Engaging Oratorics Assessment, Version 8 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-find-your-own-tiktok-stream-key/"><u>In 2024, How to Find Your Own TikTok Stream Key</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-trusted-agencies-for-safe-follower-additions/"><u>In 2024, Trusted Agencies for Safe Follower Additions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>In 2024, Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-mystery-understanding-and-using-slug-lines/"><u>In 2024, Unraveling the Mystery Understanding & Using Slug Lines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-users-guide-effortless-steps-to-unpack-rar-archives/"><u>Mac Users Guide: Effortless Steps to Unpack RAR Archives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-guide-converting-mpeg4-to-mpeg2-video-files-on-a-pc/"><u>Quick Guide: Converting MPEG4 to MPEG2 Video Files on a PC</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-captivating-content-conquerors-manual-for-stellar-tiktok-reactions-with-filmora-for-2024/"><u>[New] Captivating Content Conqueror’s Manual for Stellar TikTok Reactions with Filmora for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-secrets-of-crafting-an-exclusive-identifier-on-tiktok/"><u>[New] In 2024, Secrets of Crafting an Exclusive Identifier on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-to-decrease-film-duration-on-macos-for-insta-for-2024/"><u>[New] Techniques to Decrease Film Duration on macOS for Insta for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-avoid-frustration-correct-a-mistaken-tiktok-reset/"><u>[Updated] 2024 Approved Avoid Frustration – Correct a Mistaken TikTok Reset</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-determining-best-free-screen-recorder/"><u>[Updated] 2024 Approved Determining Best Free Screen Recorder</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bite-sized-delights-10-viral-eats-from-tiktok/"><u>[Updated] Bite-Sized Delights 10 Viral Eats From TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-every-second-counts-with-easy-tiktok-grabs/"><u>[Updated] Every Second Counts with Easy TikTok Grabs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-get-your-grip-on-video-transferring-how-to-download-igtv-easily/"><u>[Updated] Get Your Grip on Video Transferring How to Download IGTV Easily</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-humor-highlights-top-20-hilarious-tiktok-jokes-and-riddles/"><u>[Updated] Humor Highlights Top 20 Hilarious TikTok Jokes and Riddles</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-avoid-infringement-checking-your-tiktok-content-for-rights/"><u>2024 Approved Avoid Infringement Checking Your TikTok Content for Rights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-gear-for-youtube-beginners-essential-tech-guide/"><u>2024 Approved Top Gear for YouTube Beginners Essential Tech Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-tips-for-recording-google-voice-dialogues/"><u>Advanced Tips for Recording Google Voice Dialogues</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/como-mover-rapidamente-fotos-del-disco-local-al-dispositivo-usb-en-windows/"><u>Cómo Mover Rápidamente Fotos Del Disco Local Al Dispositivo USB en Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/comparing-the-giants-an-in-depth-guide-to-tiktok-vs-snapchats-functionality/"><u>Comparing the Giants An In-Depth Guide to TikTok vs Snapchat's Functionality</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-analyzing-youtubes-process-for-selective-comment-showcasing/"><u>In 2024, Analyzing YouTube's Process for Selective Comment Showcasing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-make-jujutsu-kaisen-tiktok-video/"><u>In 2024, How to Make Jujutsu Kaisen Tiktok Video?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 
