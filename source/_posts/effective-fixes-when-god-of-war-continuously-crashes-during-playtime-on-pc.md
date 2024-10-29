@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes When God of War Continuously Crashes During Playtime on PC
-date: 2024-10-19T18:51:49.768Z
-updated: 2024-10-23T18:26:36.722Z
+date: 2024-10-23T16:28:29.156Z
+updated: 2024-10-29T08:41:52.685Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ Now you can restart Tower of Fantasy and check the results.
 If the game still crashes, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
@@ -70,13 +70,6 @@ If the game still crashes, take a look at the next fix.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,6 +87,13 @@ If the game still crashes, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
@@ -107,17 +107,17 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
 
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify your Registry (Advanced)
 
@@ -129,24 +129,30 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
@@ -157,10 +163,10 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 If this fix doesn’t give you luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -174,14 +180,14 @@ If this fix doesn’t give you luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -204,24 +210,18 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hannel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[New] Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-from-vines-to-plates-15-must-try-tiktok-food-creations/"><u>[New] In 2024, From Vines to Plates 15 Must-Try TikTok Food Creations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>[New] Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-beat-drops-essential-tiktok-rap-playlists/"><u>[New] The Beat Drops Essential TikTok Rap Playlists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-ae-text-enhancers-guide/"><u>[Updated] 2024 Approved Essential AE Text Enhancers Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-quick-guide-reversing-an-unintended-tiktok-refresh/"><u>[Updated] 2024 Approved Quick Guide Reversing an Unintended TikTok Refresh</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] 2024 Approved Stabilize Your Lens No Trips, Only Tricks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-inadvertent-tiktok-redownload-whats-next-for-2024/"><u>[Updated] Inadvertent TikTok Redownload – What's Next for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-organize-content-streamlined-tips-for-building-your-personal-youtube-watch-later-collection/"><u>[Updated] Organize Content Streamlined Tips for Building Your Personal YouTube Watch Later Collection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories/"><u>[Updated] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-creativity-crafting-tiktok-choreographies-on-macos/"><u>[Updated] Unleash Creativity Crafting TikTok Choreographies on MacOS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/guide-to-accurate-transfer-of-camera-photos-to-social-media-apps/"><u>Guide to Accurate Transfer of Camera Photos to Social Media Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-average-earnings-in-the-world-of-podcasting/"><u>In 2024, Average Earnings in the World of Podcasting</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-playlists-reconfigured-step-by-step-instructions/"><u>In 2024, YouTube Playlists Reconfigured Step-by-Step Instructions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/learn-how-to-craft-engaging-tiktok-captions-quickly/"><u>Learn How to Craft Engaging TikTok Captions Quickly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-video-collaboration-software-guides-for-2024/"><u>Premium Video Collaboration Software Guides for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-complete-mac-powered-guide-to-ootd-videography/"><u>The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/transforming-from-unknown-to-known-utilizing-hashes-for-impact-on-tiktok-for-2024/"><u>Transforming From Unknown to Known Utilizing Hashes for Impact on TikTok for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-importing-audio-steps-for-inshot-video-editing/"><u>[New] 2024 Approved Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[New] Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-flip-clips-android-reversal-technique/"><u>[New] Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[New] In 2024, Maximizing Your Social Reach Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-shades-and-tones-mastering-the-visual-spectrum/"><u>[New] Shades and Tones Mastering the Visual Spectrum</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-zoom-audio-capture-techniques/"><u>[Updated] 2024 Approved Ultimate ZOOM Audio Capture Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-cut-mark-clutter-quickly-tiktok-overlay-remover/"><u>[Updated] In 2024, Cut Mark Clutter Quickly TikTok Overlay Remover</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlocking-top-6-free-tools-to-convert-tiktok-videos-into-mp3-for-2024/"><u>[Updated] Unlocking Top 6 Free Tools to Convert TikTok Videos Into MP3 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creative-command-center-studio-for-youtubers/"><u>2024 Approved Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-90-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor 90 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-employment-can-chatgpt-and-similar-technologies-replace-your-job/"><u>Future of Employment: Can ChatGPT and Similar Technologies Replace Your Job?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-legal-lens-for-tiktoks-pre-upload-rights-and-compliance/"><u>In 2024, Legal Lens for TikToks Pre-Upload Rights & Compliance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-selecting-podcasts-for-iphone-devices/"><u>In 2024, The Art of Selecting Podcasts for iPhone Devices</u></a></li>
 </ul></div>
 

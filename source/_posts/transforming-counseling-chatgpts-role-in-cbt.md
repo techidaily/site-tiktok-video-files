@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-10-16T18:12:22.626Z
-updated: 2024-10-23T18:22:29.972Z
+date: 2024-10-28T03:35:22.282Z
+updated: 2024-10-29T14:33:25.661Z
 tags:
   - chatgpt
   - open-ai
@@ -33,15 +33,34 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -57,10 +76,10 @@ Here's the fictitious article that ChatGPT came up with:
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -75,10 +94,16 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -88,13 +113,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -136,18 +154,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-chuckle-chronicles-spotlighting-top-comedy-creators/"><u>[New] 2024 Approved Chuckle Chronicles Spotlighting Top Comedy Creators</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-elevate-your-broadcast-game-4-innovative-methods-from-desktop-users-on-tiktok/"><u>[New] In 2024, Elevate Your Broadcast Game 4 Innovative Methods From Desktop Users on TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-no-license-plenty-of-melodies-top-10-online-websites/"><u>[New] No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-captivate-and-conquer-with-customized-content-shorts-for-2024/"><u>[Updated] Captivate and Conquer with Customized Content Shorts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-eradicating-extra-green-on-youtube-videos-mac-for-2024/"><u>[Updated] Expert Tips for Eradicating Extra Green on YouTube Videos (Mac) for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-top-10-game-streaming-stars/"><u>[Updated] TikTok's Top 10 Game Streaming Stars</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-strategies-to-fix-gtfo-app-crashes/"><u>Effective Strategies to Fix GTFO App Crashes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-m14-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy M14 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-art-of-visual-anonymity-in-videos/"><u>In 2024, The Art of Visual Anonymity in Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-low-lag-gaming-tips-to-optimize-your-cs-2-experience/"><u>Mastering Low-Lag Gaming: Tips to Optimize Your CS 2 Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-a-darkened-razer-keys-a-comprehensive-solution/"><u>Resolving the Issue of a Darkened Razer Keys - A Comprehensive Solution</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/revolutionize-your-speaking-style-in-snapchat-with-two-easy-methods/"><u>Revolutionize Your Speaking Style in Snapchat with Two Easy Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/voiceover-on-tiktok-enhancing-your-presence-for-2024/"><u>Voiceover on TikTok Enhancing Your Presence for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-choreographing-a-memorable-tiktok-fade-out/"><u>[New] 2024 Approved Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-revolutionizing-content-with-360-degree-footage/"><u>[New] 2024 Approved Revolutionizing Content with 360-Degree Footage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-grandest-meme-makeover-utility/"><u>[New] Grandest Meme Makeover Utility</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-real-time-music-sessions-on-douyin/"><u>[New] In 2024, Real-Time Music Sessions on Douyin</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates-for-2024/"><u>[Updated] From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-installing-tiktok-your-path-to-joyful-macbook-experience/"><u>[Updated] In 2024, Installing TikTok Your Path to Joyful MacBook Experience</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Live Participation in TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-laying-down-an-elegant-tiktok-credits-panel-for-2024/"><u>[Updated] Laying Down an Elegant TikTok Credits Panel for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-av1-a-first-step-for-beginners/"><u>[Updated] Understanding AV1 A First Step for Beginners</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/exclusive-offer-free-alternative-to-qnap-netbackup-software/"><u>Exclusive Offer: Free Alternative to QNAP NetBackup Software!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-sony-xperia-1-v-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Sony Xperia 1 V to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-coredll-errors-on-your-computer-a-step-by-step-tutorial/"><u>Troubleshooting Missing Core.dll Errors on Your Computer - A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

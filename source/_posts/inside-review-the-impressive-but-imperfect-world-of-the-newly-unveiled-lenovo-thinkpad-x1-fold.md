@@ -1,7 +1,7 @@
 ---
 title: "Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
-date: 2024-10-16T19:02:44.281Z
-updated: 2024-10-23T16:51:26.620Z
+date: 2024-10-28T06:11:26.855Z
+updated: 2024-10-29T14:09:19.170Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
@@ -84,13 +84,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -100,10 +93,10 @@ Lifewire / Gannon Burgett
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
@@ -119,19 +112,19 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
@@ -150,18 +143,18 @@ Lifewire / Gannon Burgett
 
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera: Decent built-in option for basic tasks**
 
@@ -171,6 +164,13 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -179,18 +179,18 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -247,20 +247,22 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-explore-our-favorite-minecraft-houses-layouts/"><u>[New] Explore Our Favorite Minecraft Houses Layouts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-foodie-fads-the-tiktok-treat-thats-cooking-up-attention/"><u>[Updated] 2024 Approved Foodie Fads The #Tiktok Treat That's Cooking Up Attention</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-crafting-unique-videos-master-tiktoks-sound-personalization/"><u>[Updated] Crafting Unique Videos Master TikTok's Sound Personalization</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>2024 Approved Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/audio-aesthetics-weaving-tunes-into-snapchat/"><u>Audio Aesthetics Weaving Tunes Into Snapchat</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/breaking-into-the-tiktok-livestream-realm-for-2024/"><u>Breaking Into the TikTok Livestream Realm for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/demystifying-discords-spoiler-functionality/"><u>Demystifying Discord’s Spoiler Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-connectivity-setting-up-bluetooth-sound-systems-with-computers/"><u>Effortless Connectivity: Setting Up Bluetooth Sound Systems with Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-for-inspiration-top-sport-themed-films-available-on-demand/"><u>Get Ready for Inspiration – Top Sport-Themed Films Available on Demand</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-12-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi 12 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/os-melhores-10-aplicativos-de-gravacao-de-dvd-gratis-mais-eficientes-do-mundo/"><u>Os Melhores 10 Aplicativos De Gravação De DVD Grátis Mais Eficientes Do Mundo</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/snapshot-safeguarding-an-easy-tutorial-for-your-phone/"><u>Snapshot Safeguarding An Easy Tutorial for Your Phone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-8-popular-streaming-audio-recorder-that-you-should-know/"><u>Updated 2024 Approved 8 Popular Streaming Audio Recorder That You Should Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-pathway-to-tech-support-booking-an-appointment-with-apples-technicians/"><u>Your Pathway to Tech Support: Booking an Appointment with Apple's Technicians</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[New] 2024 Approved Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-visual-storytelling-on-instagram-with-loops/"><u>[New] Enhancing Visual Storytelling on Instagram With Loops</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-the-power-of-text-in-visuals-uncovering-top-5-caption-strategies-for-tiktok-for-2024/"><u>[New] Explore the Power of Text in Visuals Uncovering Top 5 Caption Strategies for TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-find-your-zen-the-best-tiktok-country-songs-for-peace/"><u>[New] Find Your Zen The Best TikTok Country Songs for Peace</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] In 2024, Spotlight Series The Best Gamers on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-beginners-vlogging-landscape/"><u>[New] Navigating Beginner's Vlogging Landscape</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[New] The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-playlist-tiktoks-hotspots-for-rhythmic-flows-and-beats-for-2024/"><u>[Updated] The Playlist TikTok's Hotspots for Rhythmic Flows and Beats for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>A Tech-Savvy Approach Securely Storing Snapchat Photos on Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/absurd-adventures-a-compilation-of-extraordinary-tiktok-games-for-2024/"><u>Absurd Adventures A Compilation of Extraordinary TikTok Games for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-n3-flip-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find N3 Flip Through Google Earth?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-navigating-the-legal-landscape-check-tiktok-video-compliance/"><u>In 2024, Navigating the Legal Landscape Check TikTok Video Compliance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/photographic-perfection-in-the-palm-of-your-hands-online/"><u>Photographic Perfection in the Palm of Your Hands Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-rtx-3080-glitches-in-games/"><u>Resolving RTX 3080 Glitches in Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/rpg-legacy-meets-innovation-written-by-time/"><u>RPG Legacy Meets Innovation' Written by Time</u></a></li>
 </ul></div>
 
