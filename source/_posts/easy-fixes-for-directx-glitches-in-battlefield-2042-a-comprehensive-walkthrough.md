@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-10-23T08:36:50.951Z
-updated: 2024-10-29T15:04:52.729Z
+date: 2024-11-02T07:17:42.619Z
+updated: 2024-11-04T01:28:31.265Z
 tags:
   - win11
   - win10
@@ -69,14 +69,27 @@ Here’s an example of how to check the game integrity on Steam:
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
@@ -121,6 +134,13 @@ If this fix failed to solve your issue, please move on to the next one.
 
  If this fix doesn’t give you any luck, take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, targeting respectively security issues and performance boost. You should**always keep your system up-to-date** , as it could be a potential fix to your game crashing issue.
@@ -131,21 +151,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -154,10 +160,10 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
@@ -174,24 +180,30 @@ For example, you can follow these steps to disable Steam overlay:
 3. Launch Detroit: Become Human and test your gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -218,18 +230,24 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-novices-introduction-to-av1-codec/"><u>[New] 2024 Approved A Novice's Introduction to AV1 Codec</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-engaging-in-the-moment-of-a-tiktok-life/"><u>[New] Engaging in the Moment of a TikTok Life</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-on-youtube-video-link-for-2024/"><u>[New] How to Add Timestamps on YouTube Video Link for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-exploring-popular-alternatives-to-tiktok-updated-edition/"><u>[Updated] 2024 Approved Exploring Popular Alternatives to TikTok - Updated Edition</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-real-time-music-videos-on-douyin-for-2024/"><u>[Updated] Real-Time Music Videos on Douyin for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-creativity-in-tiktok-top-50plus-inspiring-quotes/"><u>[Updated] Unleash Creativity in TikTok Top 50+ Inspiring Quotes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-a-journey-through-literature-top-books-from-booktik/"><u>2024 Approved A Journey Through Literature Top Books From #Booktik</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unlocking-tiktoks-pfp-secrets/"><u>2024 Approved Unlocking TikTok's PFP Secrets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-flat-to-framed-achieving-realistic-text-effects-in-photoshop-for-2024/"><u>From Flat to Framed Achieving Realistic Text Effects in Photoshop for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-low-end-pc-visual-logging-software/"><u>In 2024, Low-End PC Visual Logging Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-12-4g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 12 4G Phone? Unlock It Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-wi-fi-performance-with-the-netgear-nighthawk-ax8-the-best-mesh-range-extender-supporting-wi-fi-6-technology/"><u>Maximizing Wi-Fi Performance with the Netgear Nighthawk AX8 - The Best Mesh Range Extender Supporting Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated 2024 Approved An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-audio-excellence-premium-recording-mics-ranked/"><u>[New] 2024 Approved Audio Excellence Premium Recording Mics Ranked</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-creating-viral-videos-with-inspiring-tiktok-phrases/"><u>[New] 2024 Approved Creating Viral Videos with Inspiring TikTok Phrases</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-up-your-game-stunning-tiktok-videos-made-simple/"><u>[New] 2024 Approved Step Up Your Game Stunning TikTok Videos Made Simple</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-data-delivery-guide-top-5-methods-to-get-files-on-your-pc-for-2024/"><u>[New] Data Delivery Guide Top 5 Methods to Get Files on Your PC for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-efficient-navigation-of-tiktok-media/"><u>[New] Efficient Navigation of TikTok Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-boost-engagement-sharing-streams-from-twitch-on-fb/"><u>[New] In 2024, Boost Engagement Sharing Streams From Twitch on FB</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-puzzling-out-what-pfp-signifies-on-tiktok/"><u>[New] Puzzling Out What PFP Signifies on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>[New] Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-time-lapse-photography-with-gopro-software/"><u>[New] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlock-creative-potential-in-tiktok-with-voice-modification/"><u>[Updated] 2024 Approved Unlock Creative Potential in TikTok with Voice Modification</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-anime-inspired-filters-and-overlays-for-trendy-tiktok-videos/"><u>[Updated] Anime-Inspired Filters & Overlays for Trendy TikTok Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-craft-a-signature-sound-how-to-modify-voices-for-instagram/"><u>[Updated] Craft a Signature Sound How to Modify Voices for Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterful-cloud-keeping-best-service-picks/"><u>[Updated] Masterful Cloud Keeping Best Service Picks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-world-meal-mastery-favorite-international-creations/"><u>[Updated] World Meal Mastery Favorite International Creations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-navigating-the-launch-of-tiktok-videos-from-pc/"><u>In 2024, Navigating the Launch of TikTok Videos From PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>In 2024, Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/leveraging-tiktok-to-mirror-your-best-features/"><u>Leveraging TikTok to Mirror Your Best Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-playlist-tiktoks-hotspots-for-rhythmic-flows-and-beats-for-2024/"><u>The Playlist TikTok's Hotspots for Rhythmic Flows and Beats for 2024</u></a></li>
 </ul></div>
 

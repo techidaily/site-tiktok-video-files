@@ -1,7 +1,7 @@
 ---
 title: "Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
-date: 2024-10-28T06:11:26.855Z
-updated: 2024-10-29T14:09:19.170Z
+date: 2024-10-29T07:45:47.113Z
+updated: 2024-11-04T01:19:21.448Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
@@ -35,6 +35,13 @@ Lifewire / Gannon Burgett
 [View On Amazon $969](https://www.amazon.com/dp/B072JW4Z9S/?tag=lifewire-onsite-prod-20&ascsubtag=4689108%7Cn4e541e22b8624c9292b46a113b9d60a708%7CB072JW4Z9S)
 
 4
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple iMac 21.5-inch 4K
 
@@ -82,6 +89,13 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Setup Process: One plug and you’re good to go**
@@ -91,13 +105,6 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -111,20 +118,13 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
@@ -143,18 +143,18 @@ Lifewire / Gannon Burgett
 
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Camera: Decent built-in option for basic tasks**
 
@@ -164,13 +164,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -178,13 +171,6 @@ Lifewire / Gannon Burgett
  One of the stand-out benefits of macOS is that you’ll never have to worry about paid upgrades. Apple annually announces and subsequently releases a new operating system, free of charge, to install on Apple computers. In-between major releases Apple will also push out incremental updates, at least two of which we installed during our review process. These incremental installs can be done either manually within the System Preferences applications or be set to install themselves automatically when the computer is plugged in and powered on.
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: The Apple tax is real**
 
@@ -210,11 +196,25 @@ Lifewire / Gannon Burgett
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -247,22 +247,22 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[New] 2024 Approved Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-enhancing-visual-storytelling-on-instagram-with-loops/"><u>[New] Enhancing Visual Storytelling on Instagram With Loops</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-explore-the-power-of-text-in-visuals-uncovering-top-5-caption-strategies-for-tiktok-for-2024/"><u>[New] Explore the Power of Text in Visuals Uncovering Top 5 Caption Strategies for TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-find-your-zen-the-best-tiktok-country-songs-for-peace/"><u>[New] Find Your Zen The Best TikTok Country Songs for Peace</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] In 2024, Spotlight Series The Best Gamers on TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-beginners-vlogging-landscape/"><u>[New] Navigating Beginner's Vlogging Landscape</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[New] The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-playlist-tiktoks-hotspots-for-rhythmic-flows-and-beats-for-2024/"><u>[Updated] The Playlist TikTok's Hotspots for Rhythmic Flows and Beats for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>A Tech-Savvy Approach Securely Storing Snapchat Photos on Devices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/absurd-adventures-a-compilation-of-extraordinary-tiktok-games-for-2024/"><u>Absurd Adventures A Compilation of Extraordinary TikTok Games for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-n3-flip-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find N3 Flip Through Google Earth?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-navigating-the-legal-landscape-check-tiktok-video-compliance/"><u>In 2024, Navigating the Legal Landscape Check TikTok Video Compliance</u></a></li>
-<li><a href="https://fox-access.techidaily.com/photographic-perfection-in-the-palm-of-your-hands-online/"><u>Photographic Perfection in the Palm of Your Hands Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-rtx-3080-glitches-in-games/"><u>Resolving RTX 3080 Glitches in Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/rpg-legacy-meets-innovation-written-by-time/"><u>RPG Legacy Meets Innovation' Written by Time</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-content-ban-know-your-rights-when-videos-get-pulled/"><u>[New] FB Content Ban Know Your Rights When Videos Get Pulled</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>[New] In 2024, Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ensuring-seamless-entry-for-your-show/"><u>[New] In 2024, Ensuring Seamless Entry for Your Show</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-innovative-approaches-to-tiktok-lives-from-desktop-devices/"><u>[New] In 2024, Innovative Approaches to TikTok Lives From Desktop Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-pre-upload-process-on-tiktoks-copyright-policy/"><u>[New] In 2024, Master the Pre-Upload Process on TikTok's Copyright Policy</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-pitch-perfect-productions-integrating-songs-in-tiktok-vids-for-2024/"><u>[New] Pitch-Perfect Productions Integrating Songs in TikTok Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-simplified-social-media-sharing-youtube-to-facebook-for-2024/"><u>[New] Simplified Social Media Sharing YouTube to Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-efficient-tiktok-storage-android-iphone-compatibility-guide/"><u>[Updated] 2024 Approved Efficient TikTok Storage Android, iPhone Compatibility Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mirthful-mayhem-a-top-20-list-of-hilarious-tiktok-jokes-and-riddles/"><u>[Updated] 2024 Approved Mirthful Mayhem A Top 20 List of Hilarious TikTok Jokes & Riddles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-reviving-the-full-screen-in-obs/"><u>[Updated] 2024 Approved Reviving the Full Screen in OBS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-discover-tiktoks-10-best-gamers-now/"><u>[Updated] Discover TikTok's 10 Best Gamers Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>[Updated] Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-closer-look-at-the-aukey-usb-30-hub-quality-usability-and-design-assessment/"><u>A Closer Look at the Aukey USB 3.0 Hub - Quality, Usability, and Design Assessment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-13c-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/restoring-a-non-functioning-tiktok-account/"><u>Restoring a Non-Functioning TikTok Account</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-secrets-to-effective-fb-video-advertising-with-best-practices-for-2024/"><u>Unveiling the Secrets to Effective FB Video Advertising with Best Practices for 2024</u></a></li>
 </ul></div>
 
