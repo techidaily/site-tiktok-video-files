@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2024-10-31T06:14:16.350Z
-updated: 2024-11-04T06:10:28.407Z
+date: 2024-11-06T22:52:58.261Z
+updated: 2024-11-13T04:34:48.383Z
 tags:
   - win11
   - win10
@@ -34,15 +34,42 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -56,20 +83,6 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -79,10 +92,10 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
@@ -106,13 +119,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -139,20 +145,20 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-triumph-over-tiktoks-unseen-ban-barriers/"><u>[New] 2024 Approved Triumph Over TikTok's Unseen Ban Barriers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-make-memories-not-videos-top-10-buzz-creating-tiktok-hacks/"><u>[Updated] 2024 Approved Make Memories, Not Videos! Top 10 Buzz-Creating TikTok Hacks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-20-viral-tiktok-anime-ideas/"><u>[Updated] In 2024, 20 Viral Tiktok Anime Ideas</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-sync-up-to-share-live-moments-on-tiktok/"><u>[Updated] In 2024, Sync Up to Share Live Moments on TikTok</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-top-10-lesser-known-memeliters/"><u>[Updated] In 2024, Unveiling the Top 10 Lesser-Known Memeliters</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-desktop-tiktok-creators-handbook-2023-edition-for-2024/"><u>[Updated] The Desktop TikTok Creator's Handbook 2023 Edition for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-joining/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Joining</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clarity-in-technology-the-top-9-artificial-intelligence-chatbot-fallacies-unraveled/"><u>Clarity in Technology: The Top 9 Artificial Intelligence Chatbot Fallacies Unraveled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-ch340-g-hardware-interface-driver-compatible-with-windows-11/"><u>Get the Newest CH340 G Hardware Interface Driver Compatible with Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-t2x-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo T2x 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-easy-dance-routines-to-follow-with-these-20-country-songs-tiktok/"><u>In 2024, Easy Dance Routines to Follow with These 20 Country Songs (TikTok)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/master-the-pre-upload-process-on-tiktoks-copyright-policy-for-2024/"><u>Master the Pre-Upload Process on TikTok's Copyright Policy for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-youtubes-revenue-tools-for-mobile-creators/"><u>Navigating YouTube's Revenue Tools for Mobile Creators</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-strategies-for-integrating-facebook-live-into-your-site/"><u>Top Strategies for Integrating Facebook Live Into Your Site</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/roadview-networks-navigating-mcn-choices/"><u>[New] Broadview Networks Navigating MCN Choices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-harmonizing-in-tiktoks-duo-videos/"><u>[New] Harmonizing in TikTok's Duo Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-art-of-eating-10-social-media-staples-for-2024/"><u>[New] The Art of Eating 10 Social Media Staples for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-cant-skip-them-10-most-popular-tiktok-tests/"><u>[Updated] 2024 Approved Can't Skip Them 10 Most Popular TikTok Tests</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-macos-manual-for-mixer-live-streaming/"><u>[Updated] 2024 Approved The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>[Updated] Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-master-the-art-of-rapid-tiktok-videos-for-2024/"><u>[Updated] Master the Art of Rapid TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>[Updated] Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discovering-the-most-influential-tiktok-trends/"><u>Discovering the Most Influential TikTok Trends</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>In 2024, Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-look-at-gpt-4-all-the-revolutionary-ai-and-its-working-mechanism/"><u>Inside Look at GPT-4 All – The Revolutionary AI and Its Working Mechanism</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-action-cams-with-exceptional-image-stability/"><u>Premier Action Cams with Exceptional Image Stability</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/regaining-exclusive-snap-privacy/"><u>Regaining Exclusive Snap Privacy</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-11-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 11 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 
