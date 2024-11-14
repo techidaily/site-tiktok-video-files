@@ -1,7 +1,7 @@
 ---
 title: "Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
-date: 2024-11-09T08:38:21.290Z
-updated: 2024-11-13T07:45:00.784Z
+date: 2024-11-06T21:18:40.866Z
+updated: 2024-11-13T19:41:38.217Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
@@ -36,6 +36,13 @@ Lifewire / Gannon Burgett
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
@@ -66,6 +73,13 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Design: Beautiful, with room for improvements**
@@ -82,14 +96,14 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
- Lifewire / Gannon Burgett
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Gannon Burgett
 
 ## **Setup Process: One plug and you’re good to go**
 
@@ -114,10 +128,10 @@ Lifewire / Gannon Burgett
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
@@ -137,10 +151,10 @@ Lifewire / Gannon Burgett
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Network: Fast and reliable**
@@ -157,6 +171,13 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -170,13 +191,6 @@ Lifewire / Gannon Burgett
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -196,31 +210,11 @@ Lifewire / Gannon Burgett
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -253,20 +247,18 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[New] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-practices-apps-and-sites-mastering-photo-framing/"><u>[Updated] Best Practices Apps & Sites - Mastering Photo Framing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-effizientes-verbinden-von-mehreren-mp4-dateien-eine-schritt-fur-schritt-anleitung/"><u>1. 'Effizientes Verbinden Von Mehreren MP4-Dateien: Eine Schritt-Für-Schritt-Anleitung'</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>2024 Approved Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/avoiding-interruptions-steps-to-prevent-football-manager-2022-from-crashing-on-pc-systems/"><u>Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer!</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/intrigue-and-stealth-game-wrap-up-dissecting-the-hitman-3-experience/"><u>Intrigue and Stealth Game Wrap-Up - Dissecting the Hitman 3 Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-line-messaging-service-detailed-app-assessment/"><u>Navigating Through LINE Messaging Service: Detailed App Assessment</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/overcoming-updating-glitches-in-the-original-minecraft-game-launcher/"><u>Overcoming Updating Glitches in the Original Minecraft Game Launcher</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/resolved-overcome-stuttering-glitches-in-fallout-76/"><u>Resolved: Overcome Stuttering Glitches in Fallout 76</u></a></li>
-<li><a href="https://network-issues.techidaily.com/say-goodbye-to-freezes-fixing-video-pause-on-new-os/"><u>Say Goodbye to Freezes: Fixing Video Pause on New OS</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/step-by-step-tutorial-eliminating-sound-sync-problems/"><u>Step-by-Step Tutorial: Eliminating Sound Sync Problems</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-rated-mp4-video-tag-editing-tools-for-windows-and-mac-for-2024/"><u>Top-Rated MP4 Video Tag Editing Tools for Windows and Mac for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/troubleshooting-apex-legends-connectivity-errors-effectively/"><u>Troubleshooting Apex Legends Connectivity Errors Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[New] Precision Flight The New Era with Yuneec Drone Review</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-revolutionize-your-social-media-game-with-top-20-tiktok-caption-strategies/"><u>[Updated] In 2024, Revolutionize Your Social Media Game with Top 20 TikTok Caption Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-guide-to-movie-recording-on-diverse-systems/"><u>[Updated] Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement-for-2024/"><u>[Updated] The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unique-edge-innovative-approaches-for-tiktok-pfps/"><u>[Updated] Unique Edge Innovative Approaches for TikTok PFPs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-auto-clicking-tools-for-android-users-seeking-easy-installations/"><u>Best Auto-Clicking Tools for Android Users Seeking Easy Installations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-connecting-fubotv-for-cable-replacement-on-amazon-fire-tv/"><u>Comprehensive Guide: Connecting FuboTV for Cable Replacement on Amazon Fire TV</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s17e-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S17e</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-social-media-power-players-face-off-will-likes-triumph-over-tiktok/"><u>In 2024, Social Media Power Players Face-Off Will Likes Triumph over TikTok?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-transforming-vision-into-visual-impact-on-tiktok-via-templates/"><u>In 2024, Transforming Vision Into Visual Impact on TikTok via Templates</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209882250-9789083034218-joyfulness-from-looking-in-to-looking-after/"><u>Joyfulness. From looking in to looking after | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for a Common Problem - Restoring Sound on Your Laptop
-date: 2024-11-05T17:30:04.658Z
-updated: 2024-11-13T04:42:49.253Z
+date: 2024-11-12T16:10:29.493Z
+updated: 2024-11-13T16:59:58.817Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -47,22 +40,23 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -90,21 +84,7 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Check your audio settings**
 
@@ -114,28 +94,21 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -144,13 +117,40 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
 
@@ -160,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
@@ -208,21 +208,14 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-identifying-your-one-of-a-kind-tiktok-sequence/"><u>[New] 2024 Approved Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unleashing-potential-the-best-anime-ideas-in-videos/"><u>[New] 2024 Approved Unleashing Potential The Best Anime Ideas in Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>[New] In 2024, Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unraveling-15-trendy-tiktok-stunts-today/"><u>[New] In 2024, Unraveling 15 Trendy TikTok Stunts Today</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[Updated] 2024 Approved Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-5-exceptional-tiktok-to-gif-converter-software-listings-for-2024/"><u>[Updated] 5 Exceptional TikTok to GIF Converter Software Listings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[Updated] Mastering Movie Capture PC, Mac, & Mobile Devices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-freely-downloadable-apps-for-tiktok-video-editing-on-mac-for-2024/"><u>[Updated] Top 10 Freely Downloadable Apps for TikTok Video Editing on Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording/"><u>2024 Approved From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-5-must-know-aspects-of-using-tiktok-macos/"><u>2024 Approved Top 5 Must-Know Aspects of Using TikTok (macOS)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y55s-5g-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y55s 5G (2023) to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laugh-out-loud-with-ease-crafting-memes-in-a-flash-for-2024/"><u>Laugh Out Loud with Ease Crafting Memes in a Flash for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/positive-reactions-in-a-world-of-negative-comments-for-2024/"><u>Positive Reactions in a World of Negative Comments for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revolutionize-streaming-top-converters-transform-4k-content-for-2024/"><u>Revolutionize Streaming Top Converters Transform 4K Content for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-engaging-audiences-with-strategic-language-choices/"><u>[Updated] 2024 Approved Engaging Audiences with Strategic Language Choices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boosting-your-tiktok-following-a-selection-of-engaging-username-ideas/"><u>[Updated] In 2024, Boosting Your TikTok Following - A Selection of Engaging Username Ideas</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-cams-for-clay-character-creation/"><u>[Updated] Master Cams for Clay Character Creation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-master-the-pre-upload-process-on-tiktoks-copyright-policy-for-2024/"><u>[Updated] Master the Pre-Upload Process on TikTok's Copyright Policy for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/by-accident-tiktok-rewind-restore-lost-content-in-2024/"><u>By Accident, TikTok Rewind Restore Lost Content, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-viral-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>In 2024, Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-art-of-image-detection-opposite-on-facebook-networks-for-2024/"><u>The Art of Image Detection Opposite on Facebook Networks for 2024</u></a></li>
 </ul></div>
 

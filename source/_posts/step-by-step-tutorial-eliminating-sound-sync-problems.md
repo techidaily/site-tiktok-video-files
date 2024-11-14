@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Eliminating Sound Sync Problems"
-date: 2024-11-10T20:20:52.707Z
-updated: 2024-11-13T02:33:17.988Z
+date: 2024-11-06T19:26:25.543Z
+updated: 2024-11-14T01:19:22.052Z
 tags:
   - win11
   - win10
@@ -41,28 +41,28 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
@@ -74,24 +74,25 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -104,29 +105,23 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -147,13 +142,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
@@ -180,20 +168,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-viral-visions-the-ultimate-guide-to-tiktok-editing-wonders/"><u>[New] In 2024, Viral Visions The Ultimate Guide to TikTok Editing Wonders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-revolutionizing-channel-presence-the-secret-of-higher-subscriber-numbers/"><u>[Updated] 2024 Approved Revolutionizing Channel Presence The Secret of Higher Subscriber Numbers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-architecting-a-stellar-tiktok-closing-segment-for-2024/"><u>[Updated] Architecting a Stellar TikTok Closing Segment for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-quick-access-installing-and-using-tiktok-app-on-macbook-for-2024/"><u>[Updated] Quick Access Installing and Using TikTok App on MacBook for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-intersection-of-brain-research-and-strategic-business-management-for-2024/"><u>[Updated] The Intersection of Brain Research and Strategic Business Management for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-clandestine-snaps-stealthy-image-recording-hacks-for-snapchat/"><u>2024 Approved Clandestine Snaps Stealthy Image Recording Hacks for Snapchat</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-endless-buffering-solving-photo-booth-freezes/"><u>2024 Approved Endless Buffering Solving Photo Booth Freezes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/90-funniest-2-minute-tiktoks-ever-for-2024/"><u>90 Funniest 2-Minute TikToks Ever for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-gt-neo-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme GT Neo 5 to Another | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>In 2024, Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/key-10-tiktok-filter-techniques-for-memorable-videos-for-2024/"><u>Key 10 TikTok Filter Techniques For Memorable Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prophotomaster-the-ai-enhanced-editing-edge/"><u>ProPhotoMaster The AI-Enhanced Editing Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-compromised-pc-game-files/"><u>Troubleshooting & Repairing Compromised PC Game Files</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-fostering-connection-and-engagement-for-brands-on-tiktok/"><u>[New] In 2024, Fostering Connection and Engagement for Brands on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-professional-tips-to-perfect-igtv-thumbnails-for-2024/"><u>[New] Professional Tips to Perfect IGTV Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-secrets-of-saving-youtube-thumbnails-in-various-formats/"><u>2024 Approved Secrets of Saving Youtube Thumbnails in Various Formats</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unveiling-tiktoks-visual-makeover-techniques/"><u>2024 Approved Unveiling TikTok's Visual Makeover Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-common-windows-11-pitfalls/"><u>Addressing Common Windows 11 Pitfalls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhancing-tiktok-experience-with-siri-voice-commands/"><u>Enhancing TikTok Experience with Siri Voice Commands</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/raphics-leveraging-social-media-videos-for-2024/"><u>Infographics Leveraging Social Media Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mellow-music-playlist-20-tiktok-country-tracks-to-relax-with-for-2024/"><u>Mellow Music Playlist 20 TikTok Country Tracks to Relax With for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-z-flip-5-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy Z Flip 5 Phone? Unlock It Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-unresponsive-gadgets-in-windows-operating-systems-solution-included/"><u>Troubleshoot and Fix Unresponsive Gadgets in Windows Operating Systems (Solution Included)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-20c-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 20C Device</u></a></li>
 </ul></div>
 

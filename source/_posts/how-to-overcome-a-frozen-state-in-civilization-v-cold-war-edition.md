@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome a Frozen State in Civilization V: Cold War Edition"
-date: 2024-11-07T17:14:36.054Z
-updated: 2024-11-12T21:35:10.075Z
+date: 2024-11-06T20:39:37.921Z
+updated: 2024-11-14T01:06:54.630Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developers of Forza Horizon 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -69,10 +83,10 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
@@ -87,23 +101,16 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -144,14 +151,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -171,13 +178,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -191,14 +191,20 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -224,21 +230,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-boost-creativity-on-tiktok-top-10-free-edits-for-mac-users/"><u>[New] Boost Creativity on TikTok - Top 10 Free Edits for Mac Users</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-pinpointing-your-own-signature-tiktok-tag/"><u>[New] In 2024, Pinpointing Your Own Signature TikTok Tag</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-5-tips-for-tiktok-success-on-mac/"><u>[New] Top 5 Tips for TikTok Success on Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716069642143-updated-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders-for-2024/"><u>[Updated] Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders. For 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-clearance-check-tiktok-videos-before-publishing/"><u>[Updated] How to Clearance-Check TikTok Videos Before Publishing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[Updated] In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-jujutsu-kaisen-in-action-making-memorable-tiktok-videos/"><u>2024 Approved Jujutsu Kaisen in Action Making Memorable TikTok Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-itel-p40-frp-bypass-by-drfone-android/"><u>About Itel P40 FRP Bypass</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/complete-guide-to-choosing-an-efficient-mpeg-video-repair-software-for-corrupted-media-fixes/"><u>Complete Guide to Choosing an Efficient MPEG Video Repair Software for Corrupted Media Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-resetting-of-your-macbook-pro-key-steps-unveiled/"><u>Effortless Resetting of Your MacBook Pro - Key Steps Unveiled</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastery-of-close-up-engagement-on-the-web/"><u>Mastery of Close-Up Engagement on the Web</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/peak-content-performance-the-ultimate-list-of-powerful-tiktok-captions/"><u>Peak Content Performance The Ultimate List of Powerful TikTok Captions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-steps-for-changing-m4r-ringtones-into-mp3-audio-files/"><u>Quick Steps for Changing M4R Ringtones Into MP3 Audio Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/selective-selections-notable-sites-for-snagging-snapalert-tunes-for-2024/"><u>Selective Selections Notable Sites for Snagging SnapAlert Tunes for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/uncover-the-art-of-participating-in-tiktok-live-shows/"><u>Uncover the Art of Participating in TikTok Live Shows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-in-action-a-screen-recorders-journey-for-2024/"><u>[New] Capturing in Action A Screen Recorder's Journey for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-uhd-capture-the-15-leaders-for-2024/"><u>[New] Cutting-Edge UHD Capture – The 15 Leaders for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-fabricate-fascinating-face-painting-gifs-on-giphy-for-2024/"><u>[Updated] Fabricate Fascinating Face-Painting Gifs on Giphy for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boost-your-tiktok-video-speed-easy-methods-explored/"><u>[Updated] In 2024, Boost Your TikTok Video Speed Easy Methods Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-breakdown-of-streamlabs-obs-features-and-functions/"><u>[Updated] In 2024, Breakdown of Streamlabs OBS Features and Functions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevate-your-tiktok-presence-with-personalized-voice-settings/"><u>[Updated] In 2024, Elevate Your TikTok Presence with Personalized Voice Settings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-5-methods-for-creating-an-impressive-tiktok-introduction-with-macos/"><u>[Updated] In 2024, Top 5 Methods for Creating an Impressive TikTok Introduction with MacOS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-insiders-path-to-joining-others-tiktok-gigs/"><u>[Updated] The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-rivalry-unveiled-comparing-forefront-ai-and-the-chatgpt-model/"><u>AI Rivalry Unveiled: Comparing Forefront AI and the ChatGPT Model</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/extract-facebooks-most-viewed-videos-anywhere-2023-for-2024/"><u>Extract Facebook's Most Viewed Videos Anywhere, 2023 for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-smart-8-plus-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Smart 8 Plus Lock Screen Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>In 2024, Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>In 2024, Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-c55-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco C55</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quickstart-free-downloadable-video-intros/"><u>In 2024, Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement/"><u>In 2024, The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/noise-reduction-how-to-remove-background-noise-in-audacity-for-2024/"><u>Noise Reduction How to Remove Background Noise in Audacity for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/savory-sessions-tiktoks-top-food-vloggers/"><u>Savory Sessions TikTok's Top Food Vloggers</u></a></li>
 </ul></div>
 

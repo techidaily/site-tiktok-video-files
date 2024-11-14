@@ -1,7 +1,7 @@
 ---
 title: God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer!
-date: 2024-11-07T07:39:38.901Z
-updated: 2024-11-12T16:28:29.455Z
+date: 2024-11-07T19:10:54.783Z
+updated: 2024-11-14T03:12:42.181Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -49,19 +42,6 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -102,6 +82,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
  If the Ultimate Performance option doesn’t appear on the power plan list, follow the steps below to unhide it:
@@ -112,14 +99,20 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -140,6 +133,19 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -164,13 +170,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -189,6 +188,19 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -200,20 +212,20 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -242,14 +254,20 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-viral-video-blueprint-top-10-tiktok-tricks-for-2024/"><u>[New] Viral Video Blueprint Top 10 TikTok Tricks for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/effective-image-sharing-using-snap-camera-for-microsoft-teams/"><u>Effective Image Sharing Using Snap Camera for Microsoft Teams</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exclusive-spotlight-on-tone-treasures-websites/"><u>Exclusive Spotlight on Tone Treasures Websites</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-find-your-own-tiktok-stream-key/"><u>In 2024, How to Find Your Own TikTok Stream Key</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-picks-of-literary-stars-shining-on-booktoks-screen/"><u>In 2024, Top Picks of Literary Stars Shining on BookTok's Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10c-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10C</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-captivating-jujutsu-kaisen-videos-for-tiktok/"><u>[New] 2024 Approved Crafting Captivating Jujutsu Kaisen Videos for TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-from-disjointed-elements-to-a-cohesive-tiktok-narrative/"><u>[New] 2024 Approved From Disjointed Elements to a Cohesive TikTok Narrative</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-top-10-unique-tiktok-filters-sparking-engagement/"><u>[New] 2024 Approved Top 10 Unique TikTok Filters Sparking Engagement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-early-birds-guide-to-youtube-skip-these-8-potential-pitfalls/"><u>[Updated] 2024 Approved The Early Bird's Guide to YouTube Skip These 8 Potential Pitfalls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-gif-galore-mastering-tiktok-visuals-conversion/"><u>[Updated] In 2024, GIF Galore Mastering TikTok Visuals Conversion</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-innovating-your-way-through-tiktok-the-power-of-templated-content/"><u>[Updated] In 2024, Innovating Your Way Through TikTok The Power of Templated Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-and-easy-image-trimming-techniques-for-websites-for-2024/"><u>[Updated] Quick & Easy Image Trimming Techniques for Websites for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-skyrocket-to-fame-with-these-30-innovative-tiktok-nicknames-for-2024/"><u>[Updated] Skyrocket to Fame with These 30 Innovative TikTok Nicknames for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>2024 Approved Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015601033-battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-editing-tricks-for-peak-obs-performance-for-2024/"><u>Essential Editing Tricks for Peak OBS Performance for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-blending-tracks-using-audacity-crossfade-tools/"><u>In 2024, Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-from-ordinary-to-extraordinary-your-pathway-with-tiktok-templates/"><u>In 2024, From Ordinary to Extraordinary Your Pathway with TikTok Templates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-n30-se-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord N30 SE to Protect Your Individual Information</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>In 2024, The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
 </ul></div>
 
