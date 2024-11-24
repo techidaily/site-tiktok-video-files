@@ -1,7 +1,7 @@
 ---
 title: "Mastering Components: The Ultimate Guide by Tom's Electronics"
-date: 2024-11-07T16:55:01.401Z
-updated: 2024-11-13T16:41:31.934Z
+date: 2024-11-20T20:40:47.150Z
+updated: 2024-11-23T22:33:02.131Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
  Pricing-wise, the Ayaneo AM01 is best purchased during the Early Bird window, which is a solid $30 cheaper. Considering the specs and size of the device, the price point is pretty tolerable for what it is, though the best bang for your buck will be found in devices like the LCD[Steam Deck](https://www.tomshardware.com/reviews/steam-deck-valve-gaming-handheld) , used PCs, etc.
 
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -48,29 +52,20 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-chuckle-chronicles-spotlighting-top-comedy-creators/"><u>[New] 2024 Approved Chuckle Chronicles Spotlighting Top Comedy Creators</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-conquer-tiktok-with-proficient-voiceovers/"><u>[New] 2024 Approved Conquer TikTok with Proficient Voiceovers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-feast-frenzy-tiktok-gastronomic-journey/"><u>[New] Feast Frenzy #Tiktok Gastronomic Journey</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-elevate-your-broadcast-game-4-innovative-methods-from-desktop-users-on-tiktok/"><u>[New] In 2024, Elevate Your Broadcast Game 4 Innovative Methods From Desktop Users on TikTok</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-5-exceptional-tiktok-to-gif-converter-software-listings/"><u>[Updated] 5 Exceptional TikTok to GIF Converter Software Listings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-platforms-for-no-cost-media-downloads/"><u>[Updated] Pioneering Platforms for No-Cost Media Downloads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-smooth-transitions-in-inshot-editing/"><u>[Updated] The Path to Smooth Transitions in Inshot Editing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-top-10-game-streaming-stars/"><u>[Updated] TikTok's Top 10 Game Streaming Stars</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-anime-elements-that-make-for-tiktok-success-for-2024/"><u>[Updated] Top Anime Elements That Make For TikTok Success for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effortless-file-management-master-these-8-strategies-for-swiftly-moving-data-to-google-drive/"><u>Effortless File Management: Master These 8 Strategies for Swiftly Moving Data to Google Drive</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-high-speed-computing-on-budget-with-the-latest-raspberry-pi-m2-hatplus-a-comprehensive-review/"><u>Mastering High-Speed Computing on Budget with the Latest Raspberry Pi M.2 HAT+ - A Comprehensive Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/revolutionize-your-speaking-style-in-snapchat-with-two-easy-methods/"><u>Revolutionize Your Speaking Style in Snapchat with Two Easy Methods</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/voiceover-on-tiktok-enhancing-your-presence-for-2024/"><u>Voiceover on TikTok Enhancing Your Presence for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-avoid-watermarks-with-these-iphones-tricks-for-tiktok-videos-for-2024/"><u>[New] Avoid Watermarks with These iPhones Tricks for TikTok Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-fast-tracking-tiktok-filming-the-ultimate-playbook/"><u>[New] Fast-Tracking TikTok Filming The Ultimate Playbook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-munching-memes-10-food-trends-galore-on-tiktok/"><u>[New] Munching Memes 10 Food Trends Galore on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[Updated] 2024 Approved Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-ipodiverse-compreenasol-for-ios-podcast-downloads/"><u>[Updated] Navigating the iPodiverse Compreenasol for iOS Podcast Downloads</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>[Updated] Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-turning-xmlssattml-into-srt-practical-steps/"><u>2024 Approved Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-screenshots-to-art-the-8-best-photo-collage-tools-for-2024/"><u>From Screenshots to Art The 8 Best Photo Collage Tools for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-x8b-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor X8b FRP Without Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/la-mejor-opcion-para-copiar-datos-entre-tarjetas-sd-y-computadoras-equipadas-con-sistemas-operativos-windows/"><u>La Mejor Opción Para Copiar Datos Entre Tarjetas SD Y Computadoras Equipadas Con Sistemas Operativos Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/optimize-tiktok-performance-the-ultimate-toolkit-for-2024/"><u>Optimize TikTok Performance The Ultimate Toolkit for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-your-mic-up-and-running-on-windows-11/"><u>Step-by-Step Solutions: Getting Your Mic Up and Running on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-multiverse-from-crashing-with-these-top-8-fixes/"><u>Stop Multiverse From Crashing with These Top 8 Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-savings-with-beantech-bitwatch-s1-plus-a-detailed-smartwatch-assessment/"><u>Unlocking Savings with Beantech Bitwatch S1 Plus – A Detailed Smartwatch Assessment</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

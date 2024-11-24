@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-11-07T02:59:03.646Z
-updated: 2024-11-13T19:23:53.185Z
+date: 2024-11-19T16:10:40.758Z
+updated: 2024-11-23T20:11:08.506Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -68,15 +72,12 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-01.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
@@ -87,19 +88,6 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -125,15 +113,12 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -142,10 +127,7 @@ If this fix failed to solve your issue, please move on to the next one.
  If this fix doesn’t give you any luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -166,13 +148,6 @@ Here’s how:
 
  If this solution doesn’t work for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable in-game overlays
 
  In-game overlay is a feature that makes it convenient to purchase game items and interact with friends on third party platforms. But in some cases, it might become the cause of instability. If you’re using in-game overlays such as**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable them and see if it fixes your problem.
@@ -183,27 +158,22 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
 
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -230,19 +200,21 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-breaking-through-on-tiktok-personal-branding-and-differentiation-for-2024/"><u>[Updated] Breaking Through on TikTok Personal Branding and Differentiation for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc-for-2024/"><u>[Updated] Unlock the Power of Live Broadcasting with TikTok From PC for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>2024 Approved Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-completion-using-magix-video-pro-x/"><u>2024 Approved From Concept to Completion Using Magix Video Pro X</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-viral-cooking-hits-best-tiktok-dishes/"><u>2024 Approved Viral Cooking Hits Best TikTok Dishes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-hints-for-efficiently-managing-extra-large-files-iphones-and-macs/"><u>In 2024, Expert Hints for Efficiently Managing Extra-Large Files IPhones & Macs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-xs-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone XS Max in the Best Ways</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-leading-gamers-in-tiktok-world/"><u>In 2024, Leading Gamers in TikTok World</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-platform-prowess-twitch-vs-youtube-comparison/"><u>In 2024, The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a24-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A24 Phone? Unlock It Now</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/stellar-tiktok-handles-the-ultimate-guide-to-30-impactful-names-for-2024/"><u>Stellar TikTok Handles The Ultimate Guide to 30 Impactful Names for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/uncovering-ifileversion-details-tips-and-techniques/"><u>Uncovering IFileVersion Details - Tips and Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ace-circular-designs-and-spherical-structures-in-mc/"><u>[New] 2024 Approved Ace Circular Designs & Spherical Structures in MC</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-explore-the-power-of-text-in-visuals-uncovering-top-5-caption-strategies-for-tiktok/"><u>[New] 2024 Approved Explore the Power of Text in Visuals Uncovering Top 5 Caption Strategies for TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-hot-dishes-from-hot-tiktokers/"><u>[New] 2024 Approved Hot Dishes From Hot TikTokers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>[New] Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-of-essential-equipment/"><u>[New] The Ultimate Checklist of Essential Equipment</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-uncover-the-art-of-participating-in-tiktok-live-shows-for-2024/"><u>[New] Uncover the Art of Participating in TikTok Live Shows for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] 2024 Approved The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[Updated] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-itop-insider-review-top-notch-screencast-software-compared/"><u>[Updated] In 2024, ITop Insider Review Top-Notch Screencast Software Compared</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/2024-miomio-pciphoneandroid/"><u>2024 Miomio開始不可能、再生困難、接続不成功の原因と解決法 (PC、iPhone、Android用)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/android-and-ios-leaders-essential-snapchat-video-editing-tools/"><u>Android & iOS Leaders Essential Snapchat Video Editing Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/image-fusion-merging-photos-into-one-masterpiece/"><u>Image Fusion Merging Photos Into One Masterpiece</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-secrets-to-joining-friends-tiktok-live-events/"><u>In 2024, Secrets to Joining Friends' TikTok Live Events</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-slow-wi-fi-woes-uncovering-the-top-7-reasons-for-mobile-internet-delays/"><u>Solve Slow Wi-Fi Woes: Uncovering the Top 7 Reasons for Mobile Internet Delays</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/transform-tiktok-videos-innovative-background-updates-for-2024/"><u>Transform TikTok Videos Innovative Background Updates for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-first-look-at-ai/"><u>Your First Look at AI</u></a></li>
 </ul></div>
 

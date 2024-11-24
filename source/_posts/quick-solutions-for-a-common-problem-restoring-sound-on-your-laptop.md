@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for a Common Problem - Restoring Sound on Your Laptop
-date: 2024-11-12T16:10:29.493Z
-updated: 2024-11-13T16:59:58.817Z
+date: 2024-11-16T18:55:53.896Z
+updated: 2024-11-23T21:47:45.333Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -39,23 +43,13 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
@@ -84,7 +78,15 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Check your audio settings**
 
@@ -95,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
@@ -118,38 +117,23 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
-
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
@@ -158,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
@@ -208,14 +185,20 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-engaging-audiences-with-strategic-language-choices/"><u>[Updated] 2024 Approved Engaging Audiences with Strategic Language Choices</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boosting-your-tiktok-following-a-selection-of-engaging-username-ideas/"><u>[Updated] In 2024, Boosting Your TikTok Following - A Selection of Engaging Username Ideas</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-master-cams-for-clay-character-creation/"><u>[Updated] Master Cams for Clay Character Creation</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-master-the-pre-upload-process-on-tiktoks-copyright-policy-for-2024/"><u>[Updated] Master the Pre-Upload Process on TikTok's Copyright Policy for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/by-accident-tiktok-rewind-restore-lost-content-in-2024/"><u>By Accident, TikTok Rewind Restore Lost Content, In 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-viral-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>In 2024, Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-art-of-image-detection-opposite-on-facebook-networks-for-2024/"><u>The Art of Image Detection Opposite on Facebook Networks for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-how-to-step-into-a-tiktok-event-like-a-pro-for-2024/"><u>[New] How to Step Into a TikTok Event Like a Pro for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breaking-into-livestreaming-steps-to-successfully-begin-on-tiktok-from-desktop/"><u>[New] In 2024, Breaking Into Livestreaming Steps to Successfully Begin on TikTok From Desktop</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-choreographing-an-impactful-tiktok-finale-dance/"><u>[New] In 2024, Choreographing an Impactful TikTok Finale Dance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outubes-edge-design-tips-for-compelling-video-thumbnails/"><u>[New] YouTube's Edge Design Tips for Compelling Video Thumbnails</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-engineering-a-memorable-tiktok-close-screen/"><u>[Updated] 2024 Approved Engineering A Memorable TikTok Close Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>[Updated] 2024 Approved Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-integrating-chroma-keying-into-your-edit-suite/"><u>[Updated] Integrating Chroma Keying Into Your Edit Suite</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username-for-2024/"><u>[Updated] The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/engaging-consumers-effectively-through-snapbiz-insights/"><u>Engaging Consumers Effectively Through SnapBiz Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-5740-printer-software-fast-download-links-inside/"><u>HP OfficeJet 5740 Printer Software - Fast Download Links Inside!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/memetic-masterpieces-behind-the-photo/"><u>Memetic Masterpieces Behind the Photo</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quora-experts-live-snapchat-session/"><u>Quora Experts Live Snapchat Session</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sound-excellence-test-drive-apples-airpods-pro-vs-samsungs-buds-pro/"><u>Sound Excellence Test-Drive: Apple's AirPods Pro Vs. Samsung's Buds Pro</u></a></li>
+<li><a href="https://win-special.techidaily.com/superiores-progrmas-de-respaldo-gratuitos-cobian-alternatives/"><u>Superiores Progrmas De Respaldo Gratuitos Cobian Alternatives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-picks-expert-guidance-from-toms-gear-testing/"><u>Unveiling Top Hardware Picks: Expert Guidance From Tom's Gear Testing</u></a></li>
 </ul></div>
 

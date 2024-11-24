@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2024-11-11T17:55:51.354Z
-updated: 2024-11-14T02:17:17.506Z
+date: 2024-11-17T16:13:04.368Z
+updated: 2024-11-23T20:29:24.427Z
 tags:
   - win11
   - win10
@@ -30,22 +30,13 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
@@ -56,6 +47,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -81,27 +76,21 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -114,10 +103,7 @@ It has two versions. Have a try on its **[Free Version](https://tools.techidaily
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -145,20 +131,24 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-revealed-the-best-videos-from-facebooks-pages/"><u>[Updated] 2024 Approved Revealed The Best Videos From Facebook’s Pages</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-looms-labyrinth-navigating-screen-record-art/"><u>[Updated] In 2024, Loom's Labyrinth Navigating Screen Record Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-make-the-most-of-your-gaming-experience-top-methods-to-document-minecraft-on-mac/"><u>[Updated] In 2024, Make the Most of Your Gaming Experience - Top Methods to Document Minecraft on Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-streamlining-tiktok-videos-chromeandroidios-junctions/"><u>[Updated] Streamlining TikTok Videos Chrome/Android/iOS Junctions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-blueprint-for-earning-money-on-tiktok-8-strategies/"><u>2024 Approved The Ultimate Blueprint for Earning Money on TikTok (8 Strategies)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-30-tiktok-usernames-for-higher-engagement-and-followers/"><u>2024 Approved Top 30 TikTok Usernames for Higher Engagement and Followers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-all-windows-versions-download-konica-minolta-printer-support-software-and-drivers-windows-11-10-8-7/"><u>Compatible with All Windows Versions – Download Konica Minolta Printer Support Software & Drivers (Windows 11, 10, 8, 7)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-every-moment-mastering-snapchat-photo-edits/"><u>Elevate Every Moment Mastering Snapchat Photo Edits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/experts-guide-to-tiktok-character-variants/"><u>Expert's Guide to TikTok Character Variants</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-installation-file-for-brother-hl-l2340dw-multi-function-printer/"><u>Get the Latest Windows Installation File for Brother HL-L2340DW Multi-Function Printer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-reno-10-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Reno 10 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-youtube-profits-ajeys-guidebook/"><u>Mastering YouTube Profits Ajey's Guidebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-zoom-for-fb-live-broadcasts-for-2024/"><u>Mastering Zoom for FB Live Broadcasts for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-fixes-to-fasten-tiktok-video-speed-for-2024/"><u>Quick Fixes to Fasten TikTok Video Speed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-inverting-iphone-video-order/"><u>Step-by-Step Inverting iPhone Video Order</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-art-of-crafting-a-one-of-a-kind-tiktok-marker/"><u>[New] 2024 Approved The Art of Crafting a One-of-a-Kind TikTok Marker</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-direct-rhythm-broadcasts-on-bigolive/"><u>[New] In 2024, Direct Rhythm Broadcasts on BigoLive</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-what-does-pfp-mean-in-tiktok-a-complete-guide/"><u>[New] In 2024, What Does PFP Mean in TikTok?[A Complete Guide]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-understanding-and-utilizing-facebooks-live-feature-a-complete-overview-for-2024/"><u>[New] Understanding and Utilizing Facebook's Live Feature A Complete Overview for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-enhance-videos-on-tiktok-with-effective-captions/"><u>[Updated] 2024 Approved Enhance Videos on TikTok with Effective Captions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-hashtag-heroes-twitters-trending-talk/"><u>[Updated] 2024 Approved Hashtag Heroes Twitter's Trending Talk</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-join-someones-live-on-tiktok-for-2024/"><u>[Updated] How to Join Someone's Live on TikTok for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-screen-recording-via-mobile-devices-a-guide/"><u>[Updated] In 2024, Snapchat Screen Recording via Mobile Devices A Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g13-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Moto G13?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decreasing-decibits-gradually-for-calm-soundscapes-in-lumafusion/"><u>Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>Discord Broadcast Mastery The Ultimate Guide for Novices and Pros</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-tiktok-presence-50plus-trending-tags/"><u>Elevate Your TikTok Presence 50+ Trending Tags</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/from-observer-to-participant-tips-for-guesting-on-tiktoks-for-2024/"><u>From Observer to Participant Tips for Guesting on TikToks for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-5-must-try-websites-for-cost-free-effects/"><u>In 2024, 5 Must-Try Websites for Cost-Free Effects</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-celebrating-tiktoks-top-15-literary-gems/"><u>In 2024, Celebrating TikTok’s Top 15 Literary Gems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Sony Xperia 5 V Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-hp-omnibook-x-extending-workdays-with-its-powerful-16-hour-battery-life-and-innovative-xpower-tech/"><u>The Ultimate Review of HP OmniBook X: Extending Workdays with Its Powerful 16-Hour Battery Life and Innovative XPower Tech</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-premium-pellet-grill-models-reviewed-by-techexperts-zdnet/"><u>Top 5 Premium Pellet Grill Models Reviewed by TechExperts (ZDNet)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028329280-youtube/"><u>YouTubeマイクロソフトスペシャルビデオプレーヤー:音楽や動画を効率的に変換する方法</u></a></li>
 </ul></div>
 

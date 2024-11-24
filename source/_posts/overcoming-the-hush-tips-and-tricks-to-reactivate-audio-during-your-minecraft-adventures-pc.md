@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hush: Tips and Tricks to Reactivate Audio During Your Minecraft Adventures (PC)"
-date: 2024-11-12T17:06:45.490Z
-updated: 2024-11-14T01:50:37.713Z
+date: 2024-11-17T18:15:09.923Z
+updated: 2024-11-23T17:17:20.263Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -43,20 +36,29 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -81,14 +83,15 @@ If the issue remains, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -124,13 +127,6 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -148,13 +144,6 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
@@ -163,16 +152,7 @@ If not, try the next fix.
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
@@ -199,19 +179,24 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-beyond-the-blue-feed-top-5-platforms-excluding-tiktok-for-2024/"><u>[New] Beyond the Blue Feed Top 5 Platforms Excluding TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-meme-madness-discovering-the-most-hilarious-tiktok-challenges-for-2024/"><u>[New] Meme Madness Discovering the Most Hilarious TikTok Challenges for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-scripting-the-final-push-for-your-tiktok-series/"><u>[Updated] 2024 Approved Scripting the Final Push for Your TikTok Series</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[Updated] 2024 Approved Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-taste-of-trending-the-foodie-world-of-tiktok/"><u>[Updated] In 2024, A Taste of Trending The Foodie World of TikTok</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-auditory-interface-win/"><u>[Updated] In 2024, Ultimate Auditory Interface, WIN</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-tiktok-production-zooms-role/"><u>[Updated] Streamlining TikTok Production Zoom's Role</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unparalleled-flexibility-with-our-best-reviewed-light-strips-now-reduced-by-30-shop-on-zdnet/"><u>Experience Unparalleled Flexibility with Our Best Reviewed Light Strips Now Reduced by 30% - Shop on ZDNET!</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/guide-to-silentizing-ambient-sounds-use-of-audacitys-features-for-2024/"><u>Guide to Silentizing Ambient Sounds Use of Audacity's Features for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-12-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi 12 5G Through Google Earth?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>In 2024, Glow-Up Guide 3 Masterful Instagram Highlight Tricks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>In 2024, VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseofs-premier-awards-mwc-showcase/"><u>MakeUseOf's Premier Awards: MWC Showcase</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-scanned-device-on-recent-windows-update/"><u>Reactivating Scanned Device on Recent Windows Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[New] 2024 Approved Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mapping-out-your-ideal-tiktok-conclusion/"><u>[New] 2024 Approved Mapping Out Your Ideal TikTok Conclusion</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-best-animated-ideas-making-waves-on-tiktok/"><u>[New] In 2024, The Best Animated Ideas Making Waves on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-amplifying-audio-with-tiktok-duets/"><u>[Updated] 2024 Approved Amplifying Audio with TikTok Duets</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-piecing-together-an-epic-tiktok-conclusion/"><u>[Updated] 2024 Approved Piecing Together an Epic TikTok Conclusion</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>[Updated] 2024 Approved Reconstructing Your TikTok Identity Step-by-Step Renaming Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-video-grabber-your-gateway-to-all-online-videos/"><u>[Updated] Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-streamline-markings-ultimate-tiktok-eraser-tools/"><u>[Updated] Streamline Markings Ultimate TikTok Eraser Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-practices-where-to-download-text-overlays/"><u>2024 Approved Best Practices Where to Download Text Overlays</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-cut-the-cord-free-tiktok-videos-here/"><u>2024 Approved Cut the Cord - FREE TikTok Videos Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-light-up-your-screen-the-9-most-innovative-camgear-for-video-creators/"><u>2024 Approved Light Up Your Screen The 9 Most Innovative CamGear for Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>2024 Approved Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/down-of-the-top-9-free-branding-platforms-for-youtube-channels/"><u>Breakdown of the Top 9 Free Branding Platforms for YouTube Channels</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuito-convertidor-de-gsm-a-formato-wav-online-herramienta-web-movavi/"><u>Gratuito Convertidor De GSM a Formato WAV Online - Herramienta Web Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-blurry-or-pixellated-videos-on-vlc-a-step-by-step-guide/"><u>How to Fix Blurry or Pixellated Videos on VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature app</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>In 2024, Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleashing-social-potential-maximizing-business-impact-with-tiktok/"><u>Unleashing Social Potential Maximizing Business Impact with TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/yuneec-typhoon-h-examined-a-drone-review-perspective/"><u>Yuneec Typhoon H Examined A Drone Review Perspective</u></a></li>
 </ul></div>
 
