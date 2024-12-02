@@ -1,7 +1,7 @@
 ---
 title: Micron Introduces High-Performance DDR5-8800 Modules for Intel Xeon 6Th Generation Systems
-date: 2024-11-21T21:27:01.784Z
-updated: 2024-11-23T19:58:23.049Z
+date: 2024-11-30T19:26:59.193Z
+updated: 2024-12-01T18:37:19.487Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,15 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-joining-friends-showtime-on-tiktok-with-ease/"><u>[New] 2024 Approved Joining Friends’ Showtime on TikTok with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-becoming-a-filmora-fcc-the-pathway-explained/"><u>[New] In 2024, Becoming a Filmora FCC The Pathway Explained</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-trailer-by-filmora/"><u>[Updated] 2024 Approved How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[Updated] 2024 Approved Streamline Your TikTok Experience 4 Desktop Broadcast Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-chucklesome-tiktok-riddles/"><u>[Updated] In 2024, 10 Chucklesome TikTok Riddles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apex-pcs-the-summit-of-desktop-technology-for-2024/"><u>Apex PCs - The Summit of Desktop Technology for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-galaxy-a54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Galaxy A54 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fabricate-funny-images-on-giphy/"><u>In 2024, Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigating-legal-aspects-of-recording-whatsapp-talks/"><u>Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/proactive-preservation-ios-photos-to-your-snap-story/"><u>Proactive Preservation IOS Photos to Your Snap Story</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-5-proven-techniques-for-live-streaming-on-tiktok-desktop/"><u>[Updated] 2024 Approved 5 Proven Techniques for Live Streaming on TikTok Desktop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-creating-gradual-sound-diminishment-for-2024/"><u>[Updated] Creating Gradual Sound Diminishment for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-the-world-in-hd-with-yis-4k-camera/"><u>[Updated] In 2024, Capturing the World in HD with YI's 4K Camera</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>[Updated] In 2024, Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-perfect-photos-post-edit-top-6-iphone-techniques-to-tidy-up-images/"><u>[Updated] In 2024, Perfect Photos Post-Edit Top 6 iPhone Techniques to Tidy Up Images</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transforming-your-videos-with-captivating-youtube-thumbnails-using-a-mac/"><u>2024 Approved Transforming Your Videos with Captivating Youtube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-11-strategies-to-secure-lasting-gaming-memories/"><u>2024 Approved Windows 11 Strategies to Secure Lasting Gaming Memories</u></a></li>
+<li><a href="https://win-best.techidaily.com/automated-word-recovery-saving-backup-files-with-myrecover/"><u>Automated Word Recovery: Saving Backup Files with MyRecover</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-iphone-photo-composition-methods/"><u>In 2024, Step-by-Step iPhone Photo Composition Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unveiling-the-art-of-reshaping-your-tiktok-avatar/"><u>In 2024, Unveiling the Art of Reshaping Your TikTok Avatar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-display-for-hardware-drives-in-w1011/"><u>No Display for Hardware Drives in W10/11</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/rhythmic-rendezvous-combining-beat-and-visuals-on-tiktok/"><u>Rhythmic Rendezvous Combining Beat and Visuals on TikTok</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Phantom V Flip | Dr.fone</u></a></li>
 </ul></div>
 

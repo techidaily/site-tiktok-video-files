@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-11-19T16:10:40.758Z
-updated: 2024-11-23T20:11:08.506Z
+date: 2024-11-25T01:40:48.143Z
+updated: 2024-12-01T22:55:10.299Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 **[Detroit: Become Human](https://www.epicgames.com/store/en-US/p/detroit-become-human?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=columbine)**  has been out for a while now, but many gamers are still complaining about the**crashing issue** . If you happen to be one of them, you’re in the right place.
 
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game files
@@ -71,10 +75,6 @@ Here’s an example of how to check the game integrity on Steam:
 1. Open your Steam client. Navigate to the**LIBRARY** tab, right-click**Detroit: Become Human** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-01.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
@@ -113,22 +113,18 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -159,17 +155,21 @@ For example, you can follow these steps to disable Steam overlay:
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
 
@@ -200,21 +200,22 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ace-circular-designs-and-spherical-structures-in-mc/"><u>[New] 2024 Approved Ace Circular Designs & Spherical Structures in MC</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-explore-the-power-of-text-in-visuals-uncovering-top-5-caption-strategies-for-tiktok/"><u>[New] 2024 Approved Explore the Power of Text in Visuals Uncovering Top 5 Caption Strategies for TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-hot-dishes-from-hot-tiktokers/"><u>[New] 2024 Approved Hot Dishes From Hot TikTokers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>[New] Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-of-essential-equipment/"><u>[New] The Ultimate Checklist of Essential Equipment</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-uncover-the-art-of-participating-in-tiktok-live-shows-for-2024/"><u>[New] Uncover the Art of Participating in TikTok Live Shows for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] 2024 Approved The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[Updated] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-itop-insider-review-top-notch-screencast-software-compared/"><u>[Updated] In 2024, ITop Insider Review Top-Notch Screencast Software Compared</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/2024-miomio-pciphoneandroid/"><u>2024 Miomio開始不可能、再生困難、接続不成功の原因と解決法 (PC、iPhone、Android用)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/android-and-ios-leaders-essential-snapchat-video-editing-tools/"><u>Android & iOS Leaders Essential Snapchat Video Editing Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/image-fusion-merging-photos-into-one-masterpiece/"><u>Image Fusion Merging Photos Into One Masterpiece</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-secrets-to-joining-friends-tiktok-live-events/"><u>In 2024, Secrets to Joining Friends' TikTok Live Events</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-slow-wi-fi-woes-uncovering-the-top-7-reasons-for-mobile-internet-delays/"><u>Solve Slow Wi-Fi Woes: Uncovering the Top 7 Reasons for Mobile Internet Delays</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/transform-tiktok-videos-innovative-background-updates-for-2024/"><u>Transform TikTok Videos Innovative Background Updates for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-first-look-at-ai/"><u>Your First Look at AI</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[New] 2024 Approved Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>[New] 2024 Approved Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-transition-from-tiktok-to-twitter-sharing/"><u>[New] Navigating the Transition From TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unique-usernames-higher-views-a-guide-to-standout-tiktok-profiles-for-2024/"><u>[New] Unique Usernames, Higher Views A Guide to Standout TikTok Profiles for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-your-initial-vlog-setup-hardware-and-software-for-2024/"><u>[New] Your Initial Vlog Setup Hardware & Software for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-joke-jamboree-on-tiktok-the-best-hilarious-video-threads-for-a-laugh/"><u>[Updated] 2024 Approved Joke Jamboree on TikTok The Best Hilarious Video Threads for a Laugh</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-chromeandroidios-users-guide-to-perfecting-tiktok-video-posts/"><u>[Updated] Chrome/Android/iOS Users' Guide to Perfecting TikTok Video Posts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-hd-webcams-essential-purchasing-tips-for-2024/"><u>[Updated] Top 10 HD Webcams Essential Purchasing Tips for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-trending-treats-on-tiktok-top-10-culinary-craze-for-2024/"><u>[Updated] Trending Treats on TikTok Top 10 Culinary Craze for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-eseguire-un-copia-di-sicurezza-rapida-da-disco-esterno-a-disco-interno/"><u>Come Eseguire Un Copia Di Sicurezza Rapida Da Disco Esterno a Disco Interno</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/detailed-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-your-sound-capture-using-audacity-professionally/"><u>In 2024, Elevating Your Sound Capture Using Audacity Professionally</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/spotting-absent-communications-on-chatface/"><u>Spotting Absent Communications on Chatface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlink-your-gadgets-a-comprehensive-method-to-detach-devices-from-google-home/"><u>Unlink Your Gadgets: A Comprehensive Method to Detach Devices From Google Home</u></a></li>
 </ul></div>
 

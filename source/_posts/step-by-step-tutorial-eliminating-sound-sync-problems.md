@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Eliminating Sound Sync Problems"
-date: 2024-11-17T23:56:41.694Z
-updated: 2024-11-23T18:20:51.512Z
+date: 2024-11-28T19:00:19.593Z
+updated: 2024-12-02T02:18:39.661Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ![mic testing](https://images.drivereasy.com/wp-content/uploads/2019/05/mic1.png)
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There’re two methods to test your microphone
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
@@ -48,14 +56,14 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 4. Select the correct type of your microphone and click**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
@@ -74,10 +82,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
  You can also test your microphone using the built-in**Voice Recorder app** in Windows 10\. Here is how to do it:
@@ -90,17 +94,17 @@ Follow the steps below to test your microphone in Windows audio settings:
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 ---
 
@@ -120,10 +124,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
@@ -150,24 +150,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-budget-friendly-methods-for-youtube-card-creation/"><u>[New] 2024 Approved Budget-Friendly Methods for YouTube Card Creation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-your-inner-animator-easily-share-gifs-on-snapchat/"><u>[New] 2024 Approved Unleash Your Inner Animator Easily Share Gifs on Snapchat</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-protecting-your-digital-memories-how-to-save-tiktok-videos/"><u>[New] In 2024, Protecting Your Digital Memories How to Save TikTok Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-gopro-4k-cinematography-through-editing/"><u>[New] Perfect GoPro 4K Cinematography Through Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[New] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-elite-10-of-tiktok-game-stars/"><u>[Updated] 2024 Approved The Elite 10 of TikTok Game Stars</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-by-chance-tiktok-rewind-how-to-replay-videos/"><u>[Updated] By Chance, TikTok Rewind How to Replay Videos?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[Updated] Comic Corner Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-your-essential-list-of-free-high-quality-online-meeting-software/"><u>2024 Approved Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nubia-red-magic-8s-proplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nubia Red Magic 8S Pro+ Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/boost-your-video-virality-essential-tiktok-lyrics-for-2024/"><u>Boost Your Video Virality Essential TikTok Lyrics for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/from-observer-to-participant-tips-for-guesting-on-tiktoks/"><u>From Observer to Participant Tips for Guesting on TikToks</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-6-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic 6 Phone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-clone-yourself-on-tiktok/"><u>In 2024, How to Clone Yourself on TikTok</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP Without Computer</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-sketching-the-perfect-end-credits-scene-for-your-tiktok/"><u>In 2024, Sketching the Perfect End-Credits Scene for Your TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-tips-for-converting-snapshots-directly-from-the-app/"><u>Quick Tips for Converting Snapshots Directly From the App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcoming-windows-11s-def5-onedrive-error/"><u>Quick-Fix Guide: Overcoming Windows 11'S DEF5 Onedrive Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-invalid-credit-card-notifications-in-ps5/"><u>Resolving Invalid Credit Card Notifications in PS5</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dominating-the-digital-space-5-tips-for-video-visibility-victory-for-2024/"><u>[New] Dominating the Digital Space 5 Tips for Video Visibility Victory for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-viral-visions-the-ultimate-guide-to-tiktok-editing-wonders/"><u>[New] In 2024, Viral Visions The Ultimate Guide to TikTok Editing Wonders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-desktop-and-mobile-capturing-team-video-conferences-for-2024/"><u>[New] Mastering Desktop & Mobile Capturing Team Video Conferences for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expand-your-gaming-library-5-best-xbox-hdds/"><u>[Updated] In 2024, Expand Your Gaming Library 5 Best Xbox HDDs</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-quick-access-installing-and-using-tiktok-app-on-macbook-for-2024/"><u>[Updated] Quick Access Installing and Using TikTok App on MacBook for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/90-funniest-2-minute-tiktoks-ever-for-2024/"><u>90 Funniest 2-Minute TikToks Ever for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-interpret-windows-10s-battery-information-and-improve-your-laptops-longevality/"><u>How to Interpret Windows 10'S Battery Information & Improve Your Laptop's Longevality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>In 2024, Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
 </ul></div>
 

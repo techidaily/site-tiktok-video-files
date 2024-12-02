@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes When God of War Continuously Crashes During Playtime on PC
-date: 2024-11-17T19:32:01.125Z
-updated: 2024-11-23T21:18:12.417Z
+date: 2024-11-28T19:49:10.504Z
+updated: 2024-12-02T03:20:46.573Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
  Tower of Fantasy is finally out. We don’t know if it’s going to be the Genshin Killer, but what we do know is the launch wasn’t that smooth and many PC players are reporting**a crashing issue** . If you happen to be on the same boat, don’t worry. We’ve already got some working fixes for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try all of them. Simply work your way down until you find the one that does the charm.
@@ -31,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Modify config files to fix launching issues
@@ -85,16 +89,12 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run in compatibility mode
 
@@ -105,8 +105,16 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
 
@@ -120,15 +128,11 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
@@ -137,17 +141,9 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -159,6 +155,10 @@ If this fix doesn’t give you luck, take a look at the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -183,22 +183,18 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-alternative-edits-skip-youtube-not-just-content/"><u>[New] 2024 Approved Elite Alternative Edits Skip Youtube, Not Just Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-entering-a-friends-tiktok-live-a-step-by-step-guide/"><u>[New] Entering a Friend's TikTok Live A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-rhythmic-future-tiktoks-most-iconic-rap-songs/"><u>[New] The Rhythmic Future TikTok's Most Iconic Rap Songs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-live-stream-entry-tiktok-edition/"><u>[Updated] 2024 Approved Mastering Live-Stream Entry TikTok Edition</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-ootd-creation-on-a-mac-techniques-for-the-savvy-tiktoker/"><u>[Updated] 2024 Approved OOTD Creation on a Mac Techniques for the Savvy TikToker</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unforgettable-rhythms-the-essential-tiktok-songlist/"><u>[Updated] 2024 Approved Unforgettable Rhythms The Essential TikTok Songlist</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-tiktok-gaming-top-10-gaming-tiktokers/"><u>[Updated] In 2024, Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[Updated] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/conquer-youtube-photos-an-experts-step-by-step-guide/"><u>Conquer YouTube Photos An Expert's Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-yuva-2-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ve-your-channels-meta-description-powerfully-for-2024/"><u>Improve Your Channel's Meta Description Powerfully for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-neo-5-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT Neo 5 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-magic-6-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor Magic 6 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203762665-laptop-microphone-malfunctions-heres-how-you-can-get-it-working-again/"><u>Laptop Microphone Malfunctions? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potentials-youtube-trailers-with-filmora-for-2024/"><u>Unlock Creative Potentials YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac-for-2024/"><u>[New] Beat the Competition Designing Unforgettable TikTok Dancing on a Mac for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging-for-2024/"><u>[New] Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-live-beat-performances-on-shouqi-media/"><u>[Updated] 2024 Approved Live Beat Performances on Shouqi Media</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>[Updated] Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-content-with-jujutsu-kaisen-on-tiktok-for-2024/"><u>[Updated] Elevate Your Content with Jujutsu Kaisen on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[Updated] In 2024, Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-30-youtube-intro-creators-for-spectacular-opening-videos/"><u>2024 Approved Top 30 YouTube Intro Creators for Spectacular Opening Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dive-deep-into-single-platform-livestreaming-with-onestream/"><u>Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-voice-capture-tips-for-desktop-and-laptop-users-of-windows-11/"><u>Easy Voice Capture Tips for Desktop and Laptop Users of Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-for-improved-visual-impairment-support/"><u>Essential iPhone Settings for Improved Visual Impairment Support</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-narzo-60-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme Narzo 60 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/pro-level-insights-for-perfectly-crafted-snaps/"><u>Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Power in a Fish-Tank Chassis: Meet the Geekom Mega Mini - I9 CPU and RTX Cuptures"
-date: 2024-11-18T23:53:36.255Z
-updated: 2024-11-23T19:48:39.456Z
+date: 2024-12-01T01:18:56.189Z
+updated: 2024-12-01T21:26:09.595Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,17 +58,18 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-androvid-video-editor-complete-review/"><u>[New] 2024 Approved AndroVid Video Editor – Complete Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-fullscreen-imprint-of-site/"><u>[New] Fullscreen Imprint of Site</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-exploring-live-sessions-guesting-basics-of-tiktok/"><u>[New] In 2024, Exploring Live Sessions Guesting Basics of TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-seamlessly-step-into-a-tiktok-livestream-a-guide/"><u>[New] Seamlessly Step Into a TikTok Livestream A Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-expert-picks-laptops-that-transform-raw-footage-for-2024/"><u>[Updated] Expert Picks Laptops That Transform Raw Footage for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-blueprinting-a-dynamic-tiktok-end-credits-rollout/"><u>[Updated] In 2024, Blueprinting a Dynamic TikTok End-Credits Rollout</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-draw-attention-with-smoothly-animated-text-on-ig-stories/"><u>[Updated] In 2024, Draw Attention With Smoothly Animated Text on IG Stories</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktok-and-triller-showdown-similarities-and-differences-explored-max-156-chars-for-2024/"><u>[Updated] TikTok and Triller Showdown Similarities & Differences Explored (Max 156 Chars) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-21-innovative-solutions-for-free-recording-of-online-meetings/"><u>2024 Approved 21 Innovative Solutions for Free Recording of Online Meetings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-direct-rhythm-broadcasts-on-bigolive/"><u>In 2024, Direct Rhythm Broadcasts on BigoLive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-your-wedding-countdown-experience-with-these-top-apps-androidios-for-2024/"><u>Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS) for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-complete-manual-on-restoring-information-from-usb-drives-and-external-memory-sticks/"><u>The Complete Manual on Restoring Information From USB Drives and External Memory Sticks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-complete-tiktok-termination-protocol-unveiled/"><u>[New] 2024 Approved Complete TikTok Termination Protocol Unveiled</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unlocking-virality-on-tiktok-through-strategic-hashtags/"><u>[New] 2024 Approved Unlocking Virality on TikTok Through Strategic Hashtags</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-adjusting-screenshots-why-does-imovie-alter-video-sizes/"><u>[New] Adjusting Screenshots Why Does iMovie Alter Video Sizes?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-adobes-art-of-amusement-and-jest-for-2024/"><u>[New] Adobe's Art of Amusement and Jest for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-craft-impressive-content-with-proficient-video-cropping-and-exportation-for-2024/"><u>[New] Craft Impressive Content with Proficient Video Cropping & Exportation for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlocking-secrets-for-superior-asmr-viewing-for-2024/"><u>[New] Unlocking Secrets for Superior ASMR Viewing for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-risks-of-personal-information-exposure-through-chatgpt/"><u>Exploring the Risks of Personal Information Exposure Through ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-poco-x6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Poco X6 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-leap-into-the-spotlight-with-tiktok-lives/"><u>In 2024, Leap Into the Spotlight with TikTok Lives</u></a></li>
+<li><a href="https://facebook.techidaily.com/portals-next-chapter-introducing-the-go-version/"><u>Portal's Next Chapter: Introducing the Go Version</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/secrets-unveiled-creating-standout-tiktok-intros-on-mac/"><u>Secrets Unveiled Creating Standout TikTok Intros on Mac</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30.</u></a></li>
 </ul></div>
 

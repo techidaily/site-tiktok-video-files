@@ -1,7 +1,7 @@
 ---
 title: 'Retrofuturistic' Fanless Mini PC Crafted with a High-Speed USB4 and Expansive Solid State Drives Collection
-date: 2024-11-18T23:31:05.105Z
-updated: 2024-11-23T16:19:03.685Z
+date: 2024-11-28T21:37:30.613Z
+updated: 2024-12-01T18:47:07.326Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/9phkDkvQPJpXRzA7QTKhza-320-80.png
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,19 +58,20 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/9phkDkvQPJpXRzA7QTKhza-320-80.png
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-skyrocketing-fame-here-are-the-top-30-creative-tiktok-usernames/"><u>[New] 2024 Approved Skyrocketing Fame? Here Are the Top 30 Creative TikTok Usernames</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-free-switch-console-simulations/"><u>[New] 2024 Approved Ultimate Free Switch Console Simulations</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-instant-tunes-live-streaming-on-bigolive/"><u>[New] In 2024, Instant Tunes Live Streaming on BigoLive</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-rhyme-and-groove-top-20-rap-sensations-on-tiktok-today/"><u>[Updated] In 2024, Rhyme & Groove Top 20 Rap Sensations on TikTok Today</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>2024 Approved Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-samsung-tv-apps-features-functionality-and-tips-for-optimal-use/"><u>All About Samsung TV Apps: Features, Functionality, and Tips for Optimal Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-drone-artistry-unlocked-first-20-free-lutts-available/"><u>DJI Drone Artistry Unlocked – First 20 Free LUTTs Available</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unleash-your-editing-skills-changing-backdrops-in-3-ways-on-tiktok/"><u>In 2024, Unleash Your Editing Skills Changing Backdrops in 3 Ways on TikTok</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1726220359065-mxfmpg-movavi/"><u>MXF和MPG間的無限量身定制: 網上無障礙轉換工具 - Movavi解構介面</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-guide-to-the-best-7-tiktok-apps-for-success/"><u>The Ultimate Guide to the Best 7 TikTok Apps for Success</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-camera-lighting-equipment-for-professional-photoshoots/"><u>Top Rated Camera Lighting Equipment for Professional Photoshoots</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-audio-problems-in-airpods-deactivating-head-movement-sync/"><u>Troubleshooting Audio Problems in AirPods: Deactivating Head Movement Sync</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-drivers-delight-5-top-race-games/"><u>[New] Ultimate Driver's Delight 5 Top Race Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-adventures-with-panasonic-hx-a1-cam/"><u>[Updated] 2024 Approved Exploring Adventures with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] 2024 Approved Spark Your Audience with Best Video Content Ideas</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/back-to-battle-royale-fun-experience-the-revamped-thrills-of-fortnites-new-chapter/"><u>Back to Battle Royale Fun? Experience The Revamped Thrills of Fortnite's New Chapter</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/effective-solutions-for-non-working-speakers-on-a-windows-10-powered-hp-computer/"><u>Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-ai-visual-editing-software/"><u>Elite AI Visual Editing Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/fixing-the-issue-of-intense-cpu-load-in-cyberpunk-2077-gameplay/"><u>Fixing the Issue of Intense CPU Load in Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://win-online.techidaily.com/free-online-conversion-m4v-a-gif-avec-movavi/"><u>Free Online Conversion : M4V À GIF Avec Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/overcoming-the-hush-tips-and-tricks-to-reactivate-audio-during-your-minecraft-adventures-pc/"><u>Overcoming the Hush: Tips and Tricks to Reactivate Audio During Your Minecraft Adventures (PC)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sonos-s2-update-introduces-simplified-controls-yet-faces-key-drawbacks-revealed-by-zdnets-analysis/"><u>Sonos S2 Update Introduces Simplified Controls, Yet Faces Key Drawbacks Revealed by ZDNet's Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trouble-locating-relocated-files-in-linux-investigate-the-role-of-forward-slashes/"><u>Trouble Locating Relocated Files in Linux? Investigate the Role of Forward Slashes</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/trouble-with-ready-or-not-on-your-pc-expert-tips-to-stop-the-game-from-crashing/"><u>Trouble with Ready or Not on Your PC? Expert Tips to Stop the Game From Crashing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/troubleshoot-steam-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam Remote Play Issues with Easy Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasking-bingchatgpt-coin-schemes-strategies-to-identify-and-steer-clear-from-scams/"><u>Unmasking BingChatGPT Coin Schemes: Strategies to Identify and Steer Clear From Scams</u></a></li>
 </ul></div>
 
