@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-11-25T01:40:48.143Z
-updated: 2024-12-01T22:55:10.299Z
+date: 2024-12-03T17:08:01.738Z
+updated: 2024-12-09T19:34:40.512Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 6. [**Disable in-game overlays**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Disable your controller](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game files
@@ -88,6 +92,10 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -116,10 +124,6 @@ If this fix failed to solve your issue, please move on to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
@@ -135,6 +139,10 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the**Windows Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -154,22 +162,14 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
 
@@ -200,22 +200,20 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[New] 2024 Approved Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>[New] 2024 Approved Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-transition-from-tiktok-to-twitter-sharing/"><u>[New] Navigating the Transition From TikTok to Twitter Sharing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-unique-usernames-higher-views-a-guide-to-standout-tiktok-profiles-for-2024/"><u>[New] Unique Usernames, Higher Views A Guide to Standout TikTok Profiles for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-your-initial-vlog-setup-hardware-and-software-for-2024/"><u>[New] Your Initial Vlog Setup Hardware & Software for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-joke-jamboree-on-tiktok-the-best-hilarious-video-threads-for-a-laugh/"><u>[Updated] 2024 Approved Joke Jamboree on TikTok The Best Hilarious Video Threads for a Laugh</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-chromeandroidios-users-guide-to-perfecting-tiktok-video-posts/"><u>[Updated] Chrome/Android/iOS Users' Guide to Perfecting TikTok Video Posts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-hd-webcams-essential-purchasing-tips-for-2024/"><u>[Updated] Top 10 HD Webcams Essential Purchasing Tips for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-trending-treats-on-tiktok-top-10-culinary-craze-for-2024/"><u>[Updated] Trending Treats on TikTok Top 10 Culinary Craze for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-eseguire-un-copia-di-sicurezza-rapida-da-disco-esterno-a-disco-interno/"><u>Come Eseguire Un Copia Di Sicurezza Rapida Da Disco Esterno a Disco Interno</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/detailed-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-your-sound-capture-using-audacity-professionally/"><u>In 2024, Elevating Your Sound Capture Using Audacity Professionally</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/spotting-absent-communications-on-chatface/"><u>Spotting Absent Communications on Chatface</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlink-your-gadgets-a-comprehensive-method-to-detach-devices-from-google-home/"><u>Unlink Your Gadgets: A Comprehensive Method to Detach Devices From Google Home</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-insta-exiting-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Insta Exiting A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/arma-3-tarkov-error-resolution-understanding-and-fixing-code-1n03003/"><u>Arma 3 Tarkov Error Resolution: Understanding and Fixing Code 1N03003</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210061348-9781250782274-everyday-osho/"><u>Everyday Osho | Free Book</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-does-windows-identify-and-restore-accidentally-deleted-documents/"><u>How Does Windows Identify & Restore Accidentally Deleted Documents?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/how-to-overcome-a-frozen-state-in-civilization-v-cold-war-edition/"><u>How to Overcome a Frozen State in Civilization V: Cold War Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X100 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-composition-techniques-for-eye-catching-fb-ad-content/"><u>In 2024, Composition Techniques for Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/infatuation-inkling-german-flirtations/"><u>Infatuation Inkling: German Flirtations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/intrigue-and-stealth-game-wrap-up-dissecting-the-hitman-3-experience/"><u>Intrigue and Stealth Game Wrap-Up - Dissecting the Hitman 3 Experience</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quick-solutions-for-a-common-problem-restoring-sound-on-your-laptop/"><u>Quick Solutions for a Common Problem - Restoring Sound on Your Laptop</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-silent-quest-restored-unraveling-and-repairing-audio-disruptions-in-lost-ark/"><u>The Silent Quest Restored: Unraveling and Repairing Audio Disruptions in Lost Ark</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/troubleshooting-apex-legends-connectivity-errors-effectively/"><u>Troubleshooting Apex Legends Connectivity Errors Effectively</u></a></li>
+<li><a href="https://solve-help.techidaily.com/tutorial-simples-duplicando-um-ssd-em-outro-maior-no-windows-1011/"><u>Tutorial Simples: Duplicando Um SSD Em Outro Maior No Windows 10/11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-sie-das-problem-mit-dem-datumigkeits-versionsverlauf-in-windows-11-beheben-konnen/"><u>Wie Sie Das Problem Mit Dem Datumigkeits-Versionsverlauf in Windows 11 Beheben Können</u></a></li>
 </ul></div>
 

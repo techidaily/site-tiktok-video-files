@@ -1,7 +1,7 @@
 ---
 title: "Exploring Creative Imagery: Utilizing DALL-E 3 on Microsoft Bing at No Cost"
-date: 2024-11-26T03:24:53.733Z
-updated: 2024-12-02T02:14:02.354Z
+date: 2024-12-03T19:39:42.326Z
+updated: 2024-12-09T19:28:27.416Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![ChatGPT vs Bard vs Bing - Breaking Bad- Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-vs-bard-vs-bing-breaking-bad-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, on a subsequent attempt, Google Bard got the word count right. ​​​​​
 
 ![Google Bard describes Breaking Bard TV show in ten words](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jpg_20230516_175308_0000.jpg)
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 **Winner:** ChatGPT is the most accurate of the three.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Bing AI vs. Bard: AI Hallucination
 
  Closely related to accuracy is[AI hallucination](http://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) , a reoccurring problem for all major conversational AI models. In a nutshell, AI hallucination is when AI models provide made-up information in a rather convincing and confident manner. This could be quite problematic, especially if you make decisions based on this made-up information.
@@ -57,25 +57,25 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![Incorporating live data on Bard prompts 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/incoperating-live-data-on-bard-prompts-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We used the same prompt on Bing AI, and it tried to avoid hallucinations by being as generic as possible.
 
 ![Bing AI replies to event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-replies-to-event-planning-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We then tried ChatGPT using the GPT-4 model with web browsing turned on. ChatGPT pulled the right weather information from a web source and then explained it couldn't find any data on traffic and local events.
 
 ![ChatGPT answers Event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answers-event-planning-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To push the boundaries on hallucination further, we pressed all three chatbots to describe an image using an image URL. For reference, the image at the URL is of a young man sitting. However, Bing AI described a bird. It's probably better to read it for yourself.
 
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We also asked Google Bard to describe the image, and it couldn't have been any more hilarious.
 
@@ -85,11 +85,11 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![ChatGPT refuses to describe image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-refuses-to-describe-image.jpg)
 
-**Winner:** ChatGPT wins.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Winner:** ChatGPT wins.
 
 ## ChatGPT vs. Bing AI vs. Bard: Basic Math
 
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
  Like Bing AI, ChatGPT responded with**\-1** and even explained the answer.
 
 ![simple arithmetic ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The next question for our basic math test was a simple rational equation:**Solve 8/a-1 = 20/3a-1.**
 
@@ -130,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 **Winner:** ChatGPT performs better in basic math.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
@@ -142,16 +138,12 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 ![Creativity test-1 - Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bing-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
 
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
@@ -160,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -174,7 +170,7 @@ And here's the second part:
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
@@ -185,6 +181,10 @@ And here's the second part:
 
 **Winner:** ChatGPT seems the most creative when comparing ChatGPT vs. Bing AI. vs. Bard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Bing AI vs. Bard: Safety
 
  AI chatbots are incredibly powerful. Unfortunately, just as they can be used for good, they can also be used for nefarious purposes.[Criminals are already using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . How safe are these AI chatbots as tools for the public? Which of them is the easiest to game? We tried to trick each chatbot into taking on an alter-ego and then asked them to do "bad stuff."
@@ -192,6 +192,10 @@ And here's the second part:
  Starting with Bard, we asked the AI chatbot to describe how to write malware that would steal certain files from a Windows PC and upload them to a remote server. The AI chatbot declined to respond despite us using several prompts to try tricking the chatbot before asking the question.
 
 ![Bard Refuses to create malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-refuses-to-create-malware.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Up next was Bing. Despite repeated attempts to trick the chatbot, Bing refused to yield. Instead, the chatbot suggested it might be time to move on to another topic.
 
@@ -204,10 +208,6 @@ And here's the second part:
 **Winner** : We'll call this a tie between Google Bard and Bing AI.
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
@@ -230,18 +230,20 @@ And here's the second part:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-slow-motion-on-tiktok-a-step-by-step-guide/"><u>[New] In 2024, Mastering Slow Motion on TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-perfect-text-animation-for-tiktok-a-step-by-step-guide/"><u>[Updated] 2024 Approved Perfect Text Animation for TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-recommendations-superior-voice-modification-tools/"><u>[Updated] Professional Recommendations Superior Voice Modification Tools</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/effortless-navigation-on-google-tv-learn-how-to-establish-connection-unlink-devices-and-refresh-settings-with-ease/"><u>Effortless Navigation on Google TV: Learn How to Establish Connection, Unlink Devices & Refresh Settings with Ease!</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-chrome-based-tiktok-video-submission-for-devices/"><u>In 2024, Chrome-Based TikTok Video Submission for Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-evaluating-auroras-high-dynamic-range-benefits/"><u>In 2024, Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-smooth-gameplay-and-seamless-recordings-by-nvidia/"><u>In 2024, Smooth Gameplay & Seamless Recordings by NVIDIA</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-transform-your-tiktok-videos-stunning-templates-at-hand/"><u>In 2024, Transform Your TikTok Videos Stunning Templates at Hand</u></a></li>
-<li><a href="https://games-able.techidaily.com/insights-into-the-workings-of-xboxs-gaming-cloud/"><u>Insights Into the Workings of Xbox's Gaming Cloud</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-close-up-views-in-google-meet/"><u>Mastering Close-Up Views in Google Meet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-and-easy-gif-to-video-transition-tools-listed/"><u>Quick & Easy GIF-to-Video Transition Tools Listed</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-integrating-onedrive-and-microsoft-id/"><u>Step-by-Step: Integrating OneDrive & Microsoft ID</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tactical-techniques-for-stunning-instagram-puzzle-displays/"><u>[New] 2024 Approved Tactical Techniques for Stunning Instagram Puzzle Displays</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-enhance-video-speed-in-minutes-on-tiktok-filming-for-2024/"><u>[New] Enhance Video Speed in Minutes on TikTok Filming for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>[Updated] 2024 Approved Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-watcher-to-participant-tiktok-live-integration-for-2024/"><u>[Updated] From Watcher to Participant TikTok Live Integration for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-infiltrate-a-tiktok-livestream-with-precision/"><u>[Updated] In 2024, Infiltrate a TikTok Livestream With Precision</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-50plus-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>2024 Approved 50+ TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-sky-depot-for-enterprise-files/"><u>In 2024, Premier Sky Depot for Enterprise Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g402-gamepad-setup-and-installation-guide/"><u>Logitech G402 Gamepad Setup & Installation Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/popular-online-interaction-channels-fb-tweetsphere-pictureplayground-videoshare-youtube/"><u>Popular Online Interaction Channels: FB, Tweetsphere, PicturePlayground, VideoShare (Youtube)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-meaning-behind-pfp-in-todays-tiktok-world-for-2024/"><u>The Meaning Behind PFP in Today's TikTok World for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-college-laptop-alternatives-beyond-apple-and-lenovo-now-at-a-shockingly-affordable-price-exclusive-review/"><u>Top-Performing College Laptop Alternatives Beyond Apple and Lenovo, Now at a Shockingly Affordable Price - Exclusive Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ers-solution-excellent-camera-stabilization-for-2024/"><u>Vloggers' Solution Excellent Camera Stabilization for 2024</u></a></li>
 </ul></div>
 

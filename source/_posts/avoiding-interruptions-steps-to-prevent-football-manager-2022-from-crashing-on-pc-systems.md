@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems"
-date: 2024-11-24T17:49:35.878Z
-updated: 2024-12-02T00:31:02.589Z
+date: 2024-12-03T18:01:53.349Z
+updated: 2024-12-09T19:25:53.069Z
 tags:
   - win11
   - win10
@@ -57,25 +57,17 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
 
@@ -87,17 +79,9 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -128,7 +112,7 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -157,6 +141,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game after the process is finished.
 
  You should now be able to launch your game and actually play! If not, try the fix, below.
@@ -180,6 +168,10 @@ If your game still crashes, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-21.jpg)
 
  Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Set Game Launch Options
 
@@ -205,12 +197,16 @@ If your game still crashes, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
@@ -228,10 +224,6 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
@@ -244,11 +236,19 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
 
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Change the power option
 
@@ -270,16 +270,12 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and your game.
 
 If your game is still unplayable, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall_FM19_ and Steam
@@ -318,6 +314,10 @@ If the game still crashes, try reinstalling the game launcher.
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
@@ -362,16 +362,20 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-7-tiktok-emojis-and-unveiling-hidden-tiktok-charms-for-2024/"><u>[New] Top 7 TikTok Emojis & Unveiling Hidden TikTok Charms for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-harmonizing-chrome-android-ios-for-tiktok-sharing/"><u>[Updated] 2024 Approved Harmonizing Chrome, Android, iOS for TikTok Sharing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-freed-images-public-domain-canvas/"><u>[Updated] Freed Images Public Domain Canvas</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-composing-the-ideal-tiktok-closure-melody/"><u>[Updated] In 2024, Composing the Ideal TikTok Closure Melody</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-efficient-video-sharing-on-twitter-from-smartphones/"><u>[Updated] In 2024, Efficient Video Sharing on Twitter From Smartphones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-dive-deep-accessing-facebooks-story-vault/"><u>2024 Approved Dive Deep Accessing Facebook's Story Vault</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972826161-fast-track-to-typing-get-your-windows-7-keyboard-drivers-now/"><u>Fast Track to Typing: Get Your Windows 7 Keyboard Drivers Now</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-pioneering-tiktok-creations-with-foundational-tools/"><u>In 2024, Pioneering TikTok Creations with Foundational Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/pinpointing-your-unique-tiktok-tagline/"><u>Pinpointing Your Unique TikTok Tagline</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-creditdebit-card/"><u>Top 6 Solutions When Apple Rejects Your Credit/Debit Card</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-business-cloud-data-warehouse/"><u>Top Business Cloud Data Warehouse</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-maximizing-wealth-with-smart-advertising-tactics-on-vimeo/"><u>[New] 2024 Approved Maximizing Wealth with Smart Advertising Tactics on Vimeo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-high-quality-game-stream-videos-with-artificial-intelligence-for-2024/"><u>[Updated] Crafting High-Quality Game Stream Videos with Artificial Intelligence for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-list-of-the-top-software-for-audio-speed-changing-mobile-and-desktop/"><u>2024 Approved List of the Top Software for Audio Speed Changing (Mobile and Desktop)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/gamers-unite-how-to-pick-the-perfect-out-of-box-high-performance-pc-setup-for-you/"><u>Gamers Unite! How to Pick the Perfect Out-of-Box High-Performance PC Setup for You</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/live-streaming-pro-discover-manycam-top-virtual-camera-and-online-broadcasting-solution/"><u>Live Streaming Pro: Discover ManyCam - Top Virtual Camera and Online Broadcasting Solution</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/maximizing-your-machines-performance-expert-tips-from-yl-computing-and-yl-software/"><u>Maximizing Your Machine's Performance: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-the-digital-age-a-journey-through-toms-hardware-expertise/"><u>Navigating the Digital Age: A Journey Through Tom's Hardware Expertise</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/power-through-the-line-beelinks-latest-addition-the-meteor-lake-enabled-gti14-with-integrated-145w-psu-and-pcie-gpu-support/"><u>Power Through the Line: Beelink's Latest Addition, the Meteor Lake-Enabled GTi14 with Integrated 145W PSU and PCIe GPU Support</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/singing-extravaganza-for-less-than-150-discover-the-joy-of-karaokeusas-unforgettable-experience/"><u>Singing Extravaganza for Less Than $150: Discover the Joy of KaraokeUSA's Unforgettable Experience!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/stay-ahead-in-the-tech-race-with-toms-authoritative-hardware-reviews/"><u>Stay Ahead in the Tech Race with Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleash-power-in-a-fish-tank-chassis-meet-the-geekom-mega-mini-i9-cpu-and-rtx-cuptures/"><u>Unleash Power in a Fish-Tank Chassis: Meet the Geekom Mega Mini - I9 CPU and RTX Cuptures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-storytelling-through-scenery/"><u>Unveiling Storytelling Through Scenery</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-top-gear-in-computing-a-deep-dive-by-toms-hardware-team/"><u>Unveiling the Top Gear in Computing - A Deep Dive by Tom's Hardware Team</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-top-rated-educational-animation-software-for-schools/"><u>Updated The Top-Rated Educational Animation Software for Schools</u></a></li>
 </ul></div>
 

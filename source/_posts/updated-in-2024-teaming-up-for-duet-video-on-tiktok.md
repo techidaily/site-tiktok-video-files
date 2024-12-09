@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Teaming Up for Duet Video on TikTok"
-date: 2024-11-20T18:09:08.432Z
-updated: 2024-11-23T16:13:35.336Z
+date: 2024-12-05T17:10:36.199Z
+updated: 2024-12-09T17:03:08.154Z
 tags:
   - ai video
   - ai tiktok
@@ -84,15 +84,15 @@ Step 3: Click on the option “Who Can Duet With Me.” Now you can choose the s
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 So, you must be now ready to create interesting duet videos on the TikTok platform. Get ready to choose your duet partner online and use some eye-catching effects to make your video more popular. Prefer to share your videos on a few other social media platforms to enjoy more engagement online. This is the simplest trick to entertain the public on the internet.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -109,10 +109,6 @@ You might have heard about the TikTok app that people are using popularly these 
 There is no doubt to say that TikTok duet is one of the most popular platforms for gaining more followers and fans online. In this article, we are going to discuss a few tips and tricks to make the best out of **duet videos**. Hope it will help you get started quickly with the TikTok app.
 
 ![Duet Videos on TikTok](https://images.wondershare.com/filmora/article-images/make-duet-videos-on-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Part 1: Why Should I Create Duet Videos?](#part1)
 * [Part 2: How to Make a Duet Video in TikTok?](#part2)
@@ -194,10 +190,6 @@ There is no doubt to say that TikTok duet is one of the most popular platforms f
 * [Part 3: Tips for Making Duet video in TikTok](#part3)
 * [Part 4: FAQs about Making Duet on TikTok](#part4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Should I Create Duet Videos?
 
 If you want to be an influencer on TikTok, the quickest way to become famous is to try and shape a duet challenge, and so does a brand. As a dispensable part of TikTok culture, duet challenges remain special due to its abundant user-generated content, which really encourages you to attend social events.
@@ -209,10 +201,6 @@ Do you want to spread the influence of your brand? Let's see the tutorial below 
 Before creating your duet video, let's see how other people do the popcorn duet.
 
 Those who are eager to learn how to duet in Tik Tok app are advised to go through the steps below:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Creating Duet Video Via TikTok App
 
@@ -363,10 +351,6 @@ How to get that **TikTok Big Head** effect? Would you like to make your head loo
 
 03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Get the Big Head Filter on TikTok?
 
 The TikTok Big Head effect is an extremely entertaining filter. TikTok is a social media platform that specializes in sharing short video content. Its consumer subscription has surpassed Facebook, Instagram, Twitter, and even Snapchat, and its download percentages are much greater than those of the above said social networking sites.
@@ -397,11 +381,19 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 
 ![capcut emotions big head effects](https://images.wondershare.com/filmora/article-images/capcut-emotions-big-head-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
 
 ![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
 
 You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
 
@@ -427,6 +419,10 @@ For macOS 10.12 or later
 
 ![add bubble head ar sticker filmora](https://images.wondershare.com/filmora/article-images/add-bubble-head-ar-sticker-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides the bubble head effect, there are many more AR stickers available, such as heart eyes, censor bar, emojis, and big eyes. Download the Filmora video editor now and check it yourself.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -436,10 +432,6 @@ For Win 7 or later (64-bit)
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Add Magnify Effect to Video
 
@@ -453,133 +445,9 @@ Now, double click on the effect in the timeline and open the Properties of the m
 
 **Note:** If you're unable to locate the Magnify option in the Effects tab, please download and install the latest version of Filmora, and then type "Magnify" in the search bar, and the system will directly take you to where the option is present.
 
-### Method 3: Use Mask and Scale to Make a Video with Big Head Effect
-
-Besides adding magnify effects and bubblehead effects, you can also use the mask preset to create a big head effect in Filmora.
-
-Drag and drop the video to video track 1 and video track 2 respectively in Filmora. Then go to the **Effect** tab, and scroll down to the **Utility** category, and place the Image Mask effect to the video above. Or, you can type _image mask_ in the search bar to locate it quickly.
-
-![add image mask to tiktok video](https://images.wondershare.com/filmora/article-images/add-image-mask-to-tiktok-video.jpg)
-
-Now, double-click the video with the image mask to adjust the properties. Scroll down to the Video Effects field, and you will see the Image Mask. Click the arrow icon to choose a mask preset, adjust its position and size settings to fit the video.
-
-Tips: You can hide the video in track 1 by clicking the eye icon so you can adjust the video with the image mask conveniently. Click it again then you will see the video.
-
-Next, click the video in track 2 again, and then go to the **Transform** tab, use the **Scale** slider to adjust the video size to make a big head effect.
-
-![adjust scale to make big head](https://images.wondershare.com/filmora/article-images/adjust-scale-to-make-big-head.jpg)
-
-Watch the video tutorial below to find out how to use the Image Mask effect to create a video with a big head effect in Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-After creating the video with a big head effect, click the Export button on the screen to save the video on the computer, and then upload it to TikTok from your computer directly.
-
-**Conclusion**
-
-This article demonstrates the steps you need to take to add the **TikTok Big Head** filter to your videos. Remember, the Big Head filter is used to make videos more amusing for entertainment purposes.
-
-Not only TikTok, but different apps such as CapCut on Android and **Wondershare Filmora** on PC can be of great use to you. Especially in Filmora, you get tons of video editing features that unlock your way into the editing world!
-
-02 [How to Make a Big Head Effect in CapCut?](#part2)
-
-03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
-
-## Part 1: How to Get the Big Head Filter on TikTok?
-
-The TikTok Big Head effect is an extremely entertaining filter. TikTok is a social media platform that specializes in sharing short video content. Its consumer subscription has surpassed Facebook, Instagram, Twitter, and even Snapchat, and its download percentages are much greater than those of the above said social networking sites.
-
-The TikTok Big Head effect on TikTok, on the other hand, was so widespread that it began to be used by more prominent 'TikTokers.' Afterward, in a single glance, all users of the social networking in concern began to use it on TikTok live broadcasts. This is how you can use the TikTok Big Head effect:
-
-**Step 1:** Go to TikTok's **Discover** menu to access the Big Head effects.
-
-**Step 2:** Type "**Big Head**" or **_#bighead_** into the search bar and choose the top hashtag**_, #bighead_**. Each TikTok video that employs a Big Head filter would then be displayed.
-
-**Step 3:** To test out a filter, choose one of the numerous videos available and look for the filter's name in the lower-left corner.
-
-**Step 4:** Try pressing on the filter's title, then touch on the **Camera icon** at the bottom of the display to make a TikTok video employing the **Big Head filter** in concern.
-
-Here is a detailed video tutorial about how to make a big head effect in TikTok directly.
-
-## Part 2: How to Make a Big Head Effect in CapCut?
-
-CapCut is a content creation application that lets users apply various stickers, [filters](https://tools.techidaily.com/wondershare/filmora/download/), and effects to their videos. It also has an essential [green screen](https://tools.techidaily.com/wondershare/filmora/download/) function, a zooming capability that acts like a [Ken Burns effect](https://tools.techidaily.com/wondershare/filmora/download/), and many more features.
-
-With the CapCut software, you can quickly enlarge your head in videos. With a single click of the big head effect, your head would instantly become larger than your body. Here's how to do it step by step:
-
-**Step 1**: In the **CapCut** software, create a **New Project** and then upload a video in which you will enlarge your head.
-
-**Step 2**: Click the **Effects** option at the bottom of the display, and then tap the **Facial** or **Body Effects** option.
-
-**Step 3**: Locate and choose the **Big Head effect** from the **Emotions** effect section.
-
-![capcut emotions big head effects](https://images.wondershare.com/filmora/article-images/capcut-emotions-big-head-effects.jpg)
-
-**Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
-
-![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
-
-You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
-
-## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
-
-[Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare includes the typical overlays, transitions, trimming, as well as the effects that we've grown to expect from the enthusiast-level video editor. It features a user-friendly interface that is clean, minimalistic, and dark. If that wasn't enough, we're sure you'll be pleased to learn that the Filmora program can be used to create the TikTok big head effect in several ways.
-
-With all of the characteristics we've discussed so far, you may further customize the Big Head effect with various Filmora effects. Let's show you how:
-
-Launch Filmora and click on the **Import** tab to select the video file you want to use. And then drag and drop the imported media file onto the timeline panel.
-
-![import big head source footage](https://images.wondershare.com/filmora/article-images/import-big-head-source-footage.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### Method 1: Create Big Head with AR Stick Bubble Head Effect in Filmora Video Editor
-
- To add the Big Head effect on Filmora, click on the Effects option and select the **AR Stickers** option. Type bubble head in the search bar and then you will see it in the screen. Then, drag and drop the **AR Stickers Bubble** **Head** effect onto the timeline**,** specifically to the portion of the video where you want to add the Big Head filter on the person. As you do that, you will see a Bubble present on the video.
-
-![add bubble head ar sticker filmora](https://images.wondershare.com/filmora/article-images/add-bubble-head-ar-sticker-filmora.jpg)
-
-Besides the bubble head effect, there are many more AR stickers available, such as heart eyes, censor bar, emojis, and big eyes. Download the Filmora video editor now and check it yourself.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Method 2: Add Magnify Effect to Video
-
-In the Effects tab, go to the **Recommended** category, and then you will see the magnify effect. Drag and drop it to the timeline above the video track, and you will see part of the video has been magnified accordingly.
-
-![add magnify effect tiktok video](https://images.wondershare.com/filmora/article-images/add-magnify-effect-tiktok-video.jpg)
-
-Now, double click on the effect in the timeline and open the Properties of the magnify effect. From the Properties section, you can adjust the size of the bubble using functions such as the Radius, CenterY, CenterX, Alpha, Zoom rate, etc to get a better video with big head effects.
-
-![adjust magnify effect settings](https://images.wondershare.com/filmora/article-images/adjust-magnify-effect-settings.jpg)
-
-**Note:** If you're unable to locate the Magnify option in the Effects tab, please download and install the latest version of Filmora, and then type "Magnify" in the search bar, and the system will directly take you to where the option is present.
 
 ### Method 3: Use Mask and Scale to Make a Video with Big Head Effect
 
@@ -709,9 +577,141 @@ Drag and drop the video to video track 1 and video track 2 respectively in Filmo
 
 ![add image mask to tiktok video](https://images.wondershare.com/filmora/article-images/add-image-mask-to-tiktok-video.jpg)
 
+Now, double-click the video with the image mask to adjust the properties. Scroll down to the Video Effects field, and you will see the Image Mask. Click the arrow icon to choose a mask preset, adjust its position and size settings to fit the video.
+
+Tips: You can hide the video in track 1 by clicking the eye icon so you can adjust the video with the image mask conveniently. Click it again then you will see the video.
+
+Next, click the video in track 2 again, and then go to the **Transform** tab, use the **Scale** slider to adjust the video size to make a big head effect.
+
+![adjust scale to make big head](https://images.wondershare.com/filmora/article-images/adjust-scale-to-make-big-head.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Watch the video tutorial below to find out how to use the Image Mask effect to create a video with a big head effect in Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+After creating the video with a big head effect, click the Export button on the screen to save the video on the computer, and then upload it to TikTok from your computer directly.
+
+**Conclusion**
+
+This article demonstrates the steps you need to take to add the **TikTok Big Head** filter to your videos. Remember, the Big Head filter is used to make videos more amusing for entertainment purposes.
+
+Not only TikTok, but different apps such as CapCut on Android and **Wondershare Filmora** on PC can be of great use to you. Especially in Filmora, you get tons of video editing features that unlock your way into the editing world!
+
+02 [How to Make a Big Head Effect in CapCut?](#part2)
+
+03 [How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]](#part3)
+
+## Part 1: How to Get the Big Head Filter on TikTok?
+
+The TikTok Big Head effect is an extremely entertaining filter. TikTok is a social media platform that specializes in sharing short video content. Its consumer subscription has surpassed Facebook, Instagram, Twitter, and even Snapchat, and its download percentages are much greater than those of the above said social networking sites.
+
+The TikTok Big Head effect on TikTok, on the other hand, was so widespread that it began to be used by more prominent 'TikTokers.' Afterward, in a single glance, all users of the social networking in concern began to use it on TikTok live broadcasts. This is how you can use the TikTok Big Head effect:
+
+**Step 1:** Go to TikTok's **Discover** menu to access the Big Head effects.
+
+**Step 2:** Type "**Big Head**" or **_#bighead_** into the search bar and choose the top hashtag**_, #bighead_**. Each TikTok video that employs a Big Head filter would then be displayed.
+
+**Step 3:** To test out a filter, choose one of the numerous videos available and look for the filter's name in the lower-left corner.
+
+**Step 4:** Try pressing on the filter's title, then touch on the **Camera icon** at the bottom of the display to make a TikTok video employing the **Big Head filter** in concern.
+
+Here is a detailed video tutorial about how to make a big head effect in TikTok directly.
+
+## Part 2: How to Make a Big Head Effect in CapCut?
+
+CapCut is a content creation application that lets users apply various stickers, [filters](https://tools.techidaily.com/wondershare/filmora/download/), and effects to their videos. It also has an essential [green screen](https://tools.techidaily.com/wondershare/filmora/download/) function, a zooming capability that acts like a [Ken Burns effect](https://tools.techidaily.com/wondershare/filmora/download/), and many more features.
+
+With the CapCut software, you can quickly enlarge your head in videos. With a single click of the big head effect, your head would instantly become larger than your body. Here's how to do it step by step:
+
+**Step 1**: In the **CapCut** software, create a **New Project** and then upload a video in which you will enlarge your head.
+
+**Step 2**: Click the **Effects** option at the bottom of the display, and then tap the **Facial** or **Body Effects** option.
+
+**Step 3**: Locate and choose the **Big Head effect** from the **Emotions** effect section.
+
+![capcut emotions big head effects](https://images.wondershare.com/filmora/article-images/capcut-emotions-big-head-effects.jpg)
+
+**Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
+
+![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
+
+You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
+
+## Part 3: How to Add Big Head Effect in Filmora Video Editor? \[3 Ways\]
+
+[Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) by Wondershare includes the typical overlays, transitions, trimming, as well as the effects that we've grown to expect from the enthusiast-level video editor. It features a user-friendly interface that is clean, minimalistic, and dark. If that wasn't enough, we're sure you'll be pleased to learn that the Filmora program can be used to create the TikTok big head effect in several ways.
+
+With all of the characteristics we've discussed so far, you may further customize the Big Head effect with various Filmora effects. Let's show you how:
+
+Launch Filmora and click on the **Import** tab to select the video file you want to use. And then drag and drop the imported media file onto the timeline panel.
+
+![import big head source footage](https://images.wondershare.com/filmora/article-images/import-big-head-source-footage.jpg)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Method 1: Create Big Head with AR Stick Bubble Head Effect in Filmora Video Editor
+
+ To add the Big Head effect on Filmora, click on the Effects option and select the **AR Stickers** option. Type bubble head in the search bar and then you will see it in the screen. Then, drag and drop the **AR Stickers Bubble** **Head** effect onto the timeline**,** specifically to the portion of the video where you want to add the Big Head filter on the person. As you do that, you will see a Bubble present on the video.
+
+![add bubble head ar sticker filmora](https://images.wondershare.com/filmora/article-images/add-bubble-head-ar-sticker-filmora.jpg)
+
+Besides the bubble head effect, there are many more AR stickers available, such as heart eyes, censor bar, emojis, and big eyes. Download the Filmora video editor now and check it yourself.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Method 2: Add Magnify Effect to Video
+
+In the Effects tab, go to the **Recommended** category, and then you will see the magnify effect. Drag and drop it to the timeline above the video track, and you will see part of the video has been magnified accordingly.
+
+![add magnify effect tiktok video](https://images.wondershare.com/filmora/article-images/add-magnify-effect-tiktok-video.jpg)
+
+Now, double click on the effect in the timeline and open the Properties of the magnify effect. From the Properties section, you can adjust the size of the bubble using functions such as the Radius, CenterY, CenterX, Alpha, Zoom rate, etc to get a better video with big head effects.
+
+![adjust magnify effect settings](https://images.wondershare.com/filmora/article-images/adjust-magnify-effect-settings.jpg)
+
+**Note:** If you're unable to locate the Magnify option in the Effects tab, please download and install the latest version of Filmora, and then type "Magnify" in the search bar, and the system will directly take you to where the option is present.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Method 3: Use Mask and Scale to Make a Video with Big Head Effect
+
+Besides adding magnify effects and bubblehead effects, you can also use the mask preset to create a big head effect in Filmora.
+
+Drag and drop the video to video track 1 and video track 2 respectively in Filmora. Then go to the **Effect** tab, and scroll down to the **Utility** category, and place the Image Mask effect to the video above. Or, you can type _image mask_ in the search bar to locate it quickly.
+
+![add image mask to tiktok video](https://images.wondershare.com/filmora/article-images/add-image-mask-to-tiktok-video.jpg)
 
 Now, double-click the video with the image mask to adjust the properties. Scroll down to the Video Effects field, and you will see the Image Mask. Click the arrow icon to choose a mask preset, adjust its position and size settings to fit the video.
 
@@ -773,13 +773,13 @@ With the CapCut software, you can quickly enlarge your head in videos. With a si
 
 ![capcut emotions big head effects](https://images.wondershare.com/filmora/article-images/capcut-emotions-big-head-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: The big head effect may be modified in **_speed_**, **_range_**, and **_intensity_**. Finally, adjust the duration of the Big head effect to match the video's length.
 
 ![capcut big head effect adjust speed range intensity](https://images.wondershare.com/filmora/article-images/capcut-big-head-effect-adjust-speed-range-intensity.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can check the video tutorial below to find out more details in creating big head and small body effect on video with CapCut.
 
@@ -878,18 +878,16 @@ Not only TikTok, but different apps such as CapCut on Android and **Wondershare 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-19-best-anime-inspirations-for-tiktok-stars-for-2024/"><u>[New] 19 Best Anime Inspirations for TikTok Stars for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-a-comprehensible-guide-to-srt-fundamentals/"><u>[New] A Comprehensible Guide to SRT Fundamentals</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breaking-the-mold-with-original-tiktok-profile-photos/"><u>[New] In 2024, Breaking the Mold with Original TikTok Profile Photos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-savory-selections-international-foodie-frenzy-on-tiktok/"><u>[New] In 2024, Savory Selections International Foodie Frenzy on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-transforming-ideas-into-visuals-the-template-method-for-impressive-tiktoks/"><u>[Updated] 2024 Approved Transforming Ideas Into Visuals The Template Method for Impressive TikToks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quietude-creation-garageband-volume-control-methods/"><u>[Updated] Quietude Creation Garageband Volume Control Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-problems-heres-how-you-can-solve-them/"><u>Destiny 2 Voice Chat Problems? Here's How You Can Solve Them!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-best-router-range-extenders-of-2022/"><u>Expert Picks: The Best Router Range Extenders of 202ˈ#2</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fixing-launch-failures-for-farming-simulator-22-expert-tips-and-tricks/"><u>Fixing Launch Failures for Farming Simulator 22: Expert Tips and Tricks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-dvd-decryption-remove-copy-protection-with-winxdvd-for-pc-and-mac-users/"><u>Mastering DVD Decryption: Remove Copy Protection with WinXDVD for PC & Mac Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-9-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 9 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/speeding-up-tiktoks-simple-techniques-for-faster-videos/"><u>Speeding Up TikToks Simple Techniques for Faster Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-video-editors-for-youtube-on-the-houseno-cost-included/"><u>Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-the-art-of-vocal-tweaks-in-tiktok-videos/"><u>[New] In 2024, Mastering the Art of Vocal Tweaks in TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-optimize-tiktok-videos-for-snappy-playback-times/"><u>[New] In 2024, Optimize TikTok Videos for Snappy Playback Times</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-your-tiktok-presence-with-strategic-captioning-methods/"><u>[Updated] 2024 Approved Boost Your TikTok Presence with Strategic Captioning Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac-for-2024/"><u>[Updated] From Amateur to Professional Transform Your Minecraft Recordings with Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-integrate-into-others-tiktok-livestreams/"><u>[Updated] In 2024, Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-windows-edition-toolkit-for-videos/"><u>[Updated] Ultimate Windows Edition Toolkit for Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/exclusive-mp4-uploader-to-facebook-platform-for-2024/"><u>Exclusive MP4 Uploader to Facebook Platform for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-15-plus-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 15 Plus without Apple ID?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Solved: How to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
 </ul></div>
 

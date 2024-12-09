@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Refining Your TikTok End Screen Elements"
-date: 2024-11-18T18:30:47.555Z
-updated: 2024-11-23T16:32:29.109Z
+date: 2024-12-07T16:55:36.904Z
+updated: 2024-12-09T19:40:28.797Z
 tags:
   - ai video
   - ai tiktok
@@ -35,6 +35,10 @@ Basically, the outro is the last thing your viewers will see, so it's important 
 
 ![outros template](https://images.wondershare.com/filmora/article-images/2022/11/outros-template.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Elements of an Outro
 
 Here are a few basic elements to include in your outro to keep people engaged:
@@ -56,10 +60,6 @@ To **create a good outro for your TikTok**, follow the below tips:
 * Make your outros visually appealing and make use of colors and/or patterns that are pleasing to the eye.
 * Add positive words and phrases to your outros to have a good impact on your viewers.
 * Use branding elements like your logo or channel name.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. An Excellent Video Editor for Your TikTok Adventure
 
@@ -134,7 +134,7 @@ Step3 Drag your video and drop it in the **Timeline** to start the editing proce
 Step4 Review your video and make the necessary outro adjustments in the Timeline. Finally, click the **"Export"** option and save the video on your mobile device and upload it on TikTok afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. A Bonus Recommendation: TikTok Outro Online Makers
@@ -167,10 +167,6 @@ So, all you need is a strong editing app, a creative mind, and user-friendly sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boosting Video Impact with Expert Slow Motion Filming on TikTok
 
 TikTok is a music video-making program that enables users to create entertaining, innovative, and visually appealing videos. The program gives users a plethora of tools and alternatives to help them increase their creativity and originality when it comes to their material. It is possible to apply the Slow-motion effect to a video using one of the tools that TikTok gives to its users.
@@ -197,6 +193,10 @@ In this section, we'll go through how to record a TikTok video with the slow-mo 
 
 ![tiktok record video button](https://images.wondershare.com/filmora/article-images/tiktok-record-video-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: You will be taken to the recording area, where your phone's camera will be launched immediately.
 
 **Step 2:** When you first access the new video area, a bar displaying the various recording speeds displays, as seen in the screenshot below. It is necessary to pick the slowest feasible speed.
@@ -330,7 +330,7 @@ In this section, we'll go through how to record a TikTok video with the slow-mo 
 ![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
@@ -359,15 +359,15 @@ Step 2: To use this feature, you must browse the Time Effects part of the effect
 
 ![tiktok slow motion effect](https://images.wondershare.com/filmora/article-images/tiktok-slow-motion-effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
 
 **(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
 
 ## Part 3: How to Slow Down Tik Tok Videos Online for Free?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Kapwing
 
@@ -457,10 +457,6 @@ In this section, we'll go through how to record a TikTok video with the slow-mo 
 
 ![confirm tiktok recording speed option](https://images.wondershare.com/filmora/article-images/confirm-tiktok-recording-speed-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step** **4:** Then, go to the next step after selecting the desired speed. As seen below, you must record the video by **Tapping and Holding the Red Color Record button** for some time.
 
 **Note**: Once the video has been recorded and is in a slower speed, it will automatically be recorded in slow motion. You can use this method to record your TikTok videos with a slow-motion effect.
@@ -481,6 +477,10 @@ Step 2: To use this feature, you must browse the Time Effects part of the effect
 
 ![tiktok time effects option](https://images.wondershare.com/filmora/article-images/tiktok-time-effects-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** It is necessary to choose the **Slow Motion** option from the list of alternatives that appears, as shown in the figure below. This will give the video the appearance of being in slow motion.
 
 **Tip**: Changing the length of the slow-motion is accomplished by dragging the green square that appears on the screen. **Drag it** to any portion of the page where you want the slow-motion effect to appear.
@@ -490,6 +490,10 @@ Step 2: To use this feature, you must browse the Time Effects part of the effect
 **Step 4:** Once you're pleased with the effect, you may save it by selecting the save option from the menu. As seen in the illustration below, click on "**Save**" will save your work.
 
 **(Note**: You will be returned to the previous screen if you do so. After that, you may edit it with whatever filters you want and publish it just like any other video).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Slow Down Tik Tok Videos Online for Free?
 
@@ -508,12 +512,16 @@ Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are al
 ![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
 
 ![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
 
@@ -542,10 +550,6 @@ For macOS 10.12 or later
 **Step 3:** To access the speed control panel, pick the video on the timeline and right-click on it, then choose "**Speed**" from the context menu, and then select **Speed and Duration** option.
 
 ![filmora speed options](https://images.wondershare.com/filmora/article-images/filmora-speed-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You may adjust the video speed by **_dragging the slider_** to the right or left as needed.
 
@@ -635,19 +639,11 @@ Get started by uploading a video or pasting a URL. AVI, MP4, MOV, and 3PG are al
 
 ![add slow motion effect kapwing online](https://images.wondershare.com/filmora/article-images/add-slow-motion-effect-kapwing-online.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: This step is optional, but it comes in useful if you're performing in a duet or if you want to watch a TikTok video while you're not connected to the internet. Following your completion of the speed adjustment, go to the top of the studio and click **Export** **Video**. After your video has been processed, you may save it to your device by clicking the **Download** button.
 
 ![download or share looping video interface kapwing](https://images.wondershare.com/filmora/article-images/download-or-share-looping-video-interface-kapwing.jpg)
 
 _For more detail, you can check this article:_ [_How to make a slo-mo video with Kapwing_](https://tools.techidaily.com/wondershare/filmora/download/) _?_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Slow TikTok Video And Song Using Filmora?
 
@@ -674,6 +670,10 @@ For macOS 10.12 or later
 **Step 3:** To access the speed control panel, pick the video on the timeline and right-click on it, then choose "**Speed**" from the context menu, and then select **Speed and Duration** option.
 
 ![filmora speed options](https://images.wondershare.com/filmora/article-images/filmora-speed-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may adjust the video speed by **_dragging the slider_** to the right or left as needed.
 
@@ -704,16 +704,22 @@ Well, now you know how you can add the slo-mo effect on **Slow Motion TikTok** v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-seamless-spinning-and-stitching-an-android-videographers-handbook/"><u>[New] In 2024, Seamless Spinning & Stitching An Android Videographer's Handbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[Updated] 2024 Approved From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-top-5-tiktok-gif-tools-mastering-video-to-gif-transformations/"><u>[Updated] 2024 Approved Top 5 TikTok GIF Tools Mastering Video-to-GIF Transformations</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-how-to-craft-an-original-tiktok-tag-identifier/"><u>2024 Approved How to Craft an Original TikTok Tag Identifier</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>2024 Approved ScreenStreaming Mastery Capturing High-Quality Content on Your Mac</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-tutorial-on-configuring-sql-server-replication-from-scratch/"><u>Comprehensive Tutorial on Configuring SQL Server Replication From Scratch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-the-blue-screen-error-a-guide-to-bsod-meaning-and-causes/"><u>Demystifying the Blue Screen Error: A Guide to BSOD Meaning and Causes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-stop-a-mac-from-going-to-sleep/"><u>How to Stop a Mac From Going to Sleep</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-vision-with-lunapics-tutorial/"><u>In 2024, Unlock Creative Vision with LunaPic's Tutorial</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unmissable-fun-with-todays-viral-tiktok-trials/"><u>In 2024, Unmissable Fun with Today’s Viral TikTok Trials</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/jujutsu-kaisens-universe-on-your-tiktok-feed/"><u>Jujutsu Kaisen’s Universe on Your TikTok Feed</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-elevate-content-appeal-with-these-essential-5-tiktok-caption-techniques/"><u>[New] Elevate Content Appeal with These Essential 5 TikTok Caption Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-navigate-to-connect-with-a-tiktok-life-stream/"><u>[New] Navigate to Connect with a TikTok Life Stream</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-grasping-the-essence-an-in-depth-guide-to-tiktok-filters-for-2024/"><u>[Updated] Grasping the Essence An In-Depth Guide to TikTok Filters for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos/"><u>[Updated] In 2024, Unlock Creative Expression Adding Descriptive Texts to Your TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-optimal-mobile-tools-for-post-processing-dji-media/"><u>[Updated] Optimal Mobile Tools for Post-Processing DJi Media</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/5th/"><u>「アイデンティティヴ 5Thギャザリング」映像キャプチャ:パソコンとスマートフォンでのガイド</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>2024 Approved Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/altitude-achieved-a-critical-look-at-gopro-karma-for-2024/"><u>Altitude Achieved A Critical Look at GoPro Karma for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/from-old-moniker-to-new-dawn-a-comprehensive-tiktok-name-change-blueprint/"><u>From Old Moniker to New Dawn A Comprehensive TikTok Name Change Blueprint</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-comprehensible-guide-to-mac-based-ootd-videography-for-2024/"><u>The Comprehensible Guide to Mac-Based OOTD Videography for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/trimmer-och-avkastrar-medan-du-bara-foljer-vinnande-traningsutvecklingstips-videotrimming-101/"><u>Trimmer Och Avkastrar Medan Du Bara Följer Vinnande Träningsutvecklingstips - Videotrimming 101</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-strength-analysis-jabra-steelphones/"><u>Ultimate Strength Analysis - Jabra Steelphones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-tutorial-finding-and-setting-up-new-drivers-for-your-epson-et-3760-in-windows/"><u>Ultimate Tutorial: Finding and Setting Up New Drivers for Your Epson ET-3760 in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-how-to-get-arduino-drivers-compatible-with-windows-operating-system/"><u>Ultimate Tutorial: How to Get Arduino Drivers Compatible with Windows Operating System</u></a></li>
 </ul></div>
 
