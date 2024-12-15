@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for DirectX Glitches in Battlefield 2042 – A Comprehensive Walkthrough
-date: 2024-12-03T17:08:01.738Z
-updated: 2024-12-09T19:34:40.512Z
+date: 2024-12-10T16:26:20.099Z
+updated: 2024-12-15T22:36:11.585Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not have to try all of them. Simply work down the list until you find the one that works for you.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game files
@@ -87,15 +83,15 @@ You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -124,6 +120,10 @@ If this fix failed to solve your issue, please move on to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
@@ -141,10 +141,14 @@ Here’s how:
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -164,10 +168,6 @@ For example, you can follow these steps to disable Steam overlay:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
 
@@ -200,20 +200,17 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-insta-exiting-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Insta Exiting A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/arma-3-tarkov-error-resolution-understanding-and-fixing-code-1n03003/"><u>Arma 3 Tarkov Error Resolution: Understanding and Fixing Code 1N03003</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210061348-9781250782274-everyday-osho/"><u>Everyday Osho | Free Book</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer!</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-does-windows-identify-and-restore-accidentally-deleted-documents/"><u>How Does Windows Identify & Restore Accidentally Deleted Documents?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/how-to-overcome-a-frozen-state-in-civilization-v-cold-war-edition/"><u>How to Overcome a Frozen State in Civilization V: Cold War Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X100 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-composition-techniques-for-eye-catching-fb-ad-content/"><u>In 2024, Composition Techniques for Eye-Catching FB Ad Content</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/infatuation-inkling-german-flirtations/"><u>Infatuation Inkling: German Flirtations</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/intrigue-and-stealth-game-wrap-up-dissecting-the-hitman-3-experience/"><u>Intrigue and Stealth Game Wrap-Up - Dissecting the Hitman 3 Experience</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-solutions-for-a-common-problem-restoring-sound-on-your-laptop/"><u>Quick Solutions for a Common Problem - Restoring Sound on Your Laptop</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-silent-quest-restored-unraveling-and-repairing-audio-disruptions-in-lost-ark/"><u>The Silent Quest Restored: Unraveling and Repairing Audio Disruptions in Lost Ark</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/troubleshooting-apex-legends-connectivity-errors-effectively/"><u>Troubleshooting Apex Legends Connectivity Errors Effectively</u></a></li>
-<li><a href="https://solve-help.techidaily.com/tutorial-simples-duplicando-um-ssd-em-outro-maior-no-windows-1011/"><u>Tutorial Simples: Duplicando Um SSD Em Outro Maior No Windows 10/11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/wie-sie-das-problem-mit-dem-datumigkeits-versionsverlauf-in-windows-11-beheben-konnen/"><u>Wie Sie Das Problem Mit Dem Datumigkeits-Versionsverlauf in Windows 11 Beheben Können</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[New] Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cross-platform-streaming-techniques-from-youtube-to-30plus-platforms/"><u>[Updated] 2024 Approved Cross-Platform Streaming Techniques From YouTube to 30+ Platforms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-accidental-tiktok-overview-can-i-see-previous-videos-in-2024/"><u>[Updated] Accidental TikTok Overview – Can I See Previous Videos, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-summer-screen-escapades-top-10-classic-kids-films/"><u>[Updated] Summer Screen Escapades Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-transforming-footage-into-viral-content-on-tiktok-from-computer-for-2024/"><u>[Updated] Transforming Footage Into Viral Content on TikTok From Computer for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-art-of-reshaping-your-tiktok-avatar-for-2024/"><u>[Updated] Unveiling the Art of Reshaping Your TikTok Avatar for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-3-approaches-to-big-head-makeover-in-tiktok-videos/"><u>2024 Approved Top 3 Approaches to Big Head Makeover in TikTok Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-media-top-ranking-camera-apps-for-iphonesandroid-devices-for-2024/"><u>Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
+<li><a href="https://review-topics.techidaily.com/unleash-your-inner-warrior-play-the-iconic-god-of-war-as-a-thrilling-pc-fps-game/"><u>Unleash Your Inner Warrior: Play the Iconic God of War as a Thrilling PC FPS Game</u></a></li>
 </ul></div>
 

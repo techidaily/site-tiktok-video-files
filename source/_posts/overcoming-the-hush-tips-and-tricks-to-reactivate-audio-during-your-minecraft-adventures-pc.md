@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hush: Tips and Tricks to Reactivate Audio During Your Minecraft Adventures (PC)"
-date: 2024-12-08T17:56:07.805Z
-updated: 2024-12-09T18:59:52.018Z
+date: 2024-12-13T17:21:16.539Z
+updated: 2024-12-15T18:08:59.752Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Minecraft in compatibility mode
@@ -40,26 +40,18 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -68,10 +60,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -85,6 +73,10 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -106,6 +98,10 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
@@ -115,10 +111,6 @@ If the issue remains, move on to the next fix.
 
 If this method doesn’t do the trick, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -127,11 +119,19 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -141,16 +141,16 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -179,22 +179,18 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-harmonizing-chrome-android-ios-for-tiktok-sharing/"><u>[New] Harmonizing Chrome, Android, iOS for TikTok Sharing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-100-hysterical-moments-on-tiktok/"><u>[New] In 2024, 100 Hysterical Moments on TikTok</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-photo-framing-digital-sites-and-apps-guide/"><u>[New] Perfect Photo Framing Digital Sites and Apps Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-perfecting-tiktok-habit-how-to-share-videos-from-macpc/"><u>[New] Perfecting TikTok' Habit How to Share Videos From MAC/PC</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>[Updated] In 2024, Making a Mark Jujutsu Kaisen on the TikTok Scene</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-revolutionizing-video-viewing-master-fast-forward-on-tiktok/"><u>[Updated] In 2024, Revolutionizing Video Viewing Master Fast-Forward on TikTok</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1-os-melhores-metodos-para-fazer-gravuras-no-iphone-11-uma-aula-detalhada-com-a-ferramenta-movavi-4-dicas-unicas/"><u>1. Os Melhores Métodos Para Fazer Gravuras No iPhone 11: Uma Aula Detalhada Com a Ferramenta Movavi (4 Dicas Únicas)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-expedite-your-tiktok-videos-with-ease/"><u>2024 Approved Expedite Your TikTok Videos with Ease</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-master-your-media-best-ios-players-for-phones-and-tablets/"><u>2024 Approved Master Your Media Best iOS Players for Phones & Tablets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/agrarian-aesthetics-stardew-clones-and-cousins-for-2024/"><u>Agrarian Aesthetics Stardew Clones and Cousins for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/giggle-guide-to-funny-memes-a-quick-primer-for-2024/"><u>Giggle Guide to Funny Memes A Quick Primer for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/how-to-make-duet-on-tiktok/"><u>How to Make Duet On TikToK?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigate-ios-complications-seamlessly-with-our-complete-iphone-support-software/"><u>Navigate iOS Complications Seamlessly with Our Complete iPhone Support Software</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/toplogic-aomei-pro-x64-pour-la-sauvegarde-de-serveurs-windows-server-2012-solutions-optimales-et-efficaces/"><u>Toplogic AOMEI Pro X64 Pour La Sauvegarde De Serveurs Windows Server 2012 : Solutions Optimales Et Efficaces</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-now-fix-cutting-out-voices-in-fortnite-without-delay/"><u>Troubleshoot Now: Fix Cutting Out Voices in Fortnite Without Delay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-finest-small-tablets-of-2024-professional-evaluations-and-insights-zdnet/"><u>Ultimate Guide to the Finest Small Tablets of 2024: Professional Evaluations and Insights | ZDNET</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/zipping-up-an-enthralling-tiktok-credit-sequence-for-2024/"><u>Zipping Up an Enthralling TikTok Credit Sequence for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-high-quality-tiktok-editors-ranked-1-10-on-windows/"><u>[New] In 2024, High-Quality TikTok Editors Ranked #1-10 on Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-key-to-memorable-tiktok-opens-mac-edition/"><u>[New] The Key to Memorable TikTok Opens - Mac Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-conference-name-builder-for-2024/"><u>[Updated] Elite Conference Name Builder for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-compelling-narratives-with-your-own-fb-slideshow-creation/"><u>2024 Approved Crafting Compelling Narratives with Your Own FB Slideshow Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-visual-stories-for-successful-fb-covers-for-2024/"><u>Crafting Visual Stories for Successful FB Covers for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/exploring-options-a-treasure-hunt-for-your-tiktok-symbol-for-2024/"><u>Exploring Options A Treasure Hunt for Your TikTok Symbol for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-beyond-the-norm-redefining-fun-with-vr-technology/"><u>In 2024, Beyond the Norm Redefining Fun with VR Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-definitive-tutorial-on-youtube-metrics-and-profit/"><u>In 2024, The Definitive Tutorial on YouTube Metrics and Profit</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-space-best-practices-for-tiktok-videos/"><u>In 2024, Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-hunt-for-sonys-ps5-expert-advice-and-secrets-unveiled-by-zdnet/"><u>Mastering the Hunt for Sony's PS5: Expert Advice & Secrets Unveiled by ZDNet</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quick-guide-to-boost-your-tiktok-production-speed/"><u>Quick Guide to Boost Your TikTok Production Speed</u></a></li>
 </ul></div>
 

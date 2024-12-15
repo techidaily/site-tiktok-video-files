@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-12-04T17:42:57.040Z
-updated: 2024-12-09T17:45:37.438Z
+date: 2024-12-10T17:23:39.763Z
+updated: 2024-12-15T18:19:38.725Z
 tags:
   - chatgpt
   - open-ai
@@ -33,16 +33,12 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -56,7 +52,7 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
@@ -72,6 +68,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -79,10 +79,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -93,7 +89,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -106,6 +102,10 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -128,18 +128,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-conquering-chrome-the-complete-tiktok-video-upload/"><u>[New] Conquering Chrome The Complete TikTok Video Upload</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[New] In 2024, Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-10-tools-to-track-and-improve-tiktok-performance-for-2024/"><u>[New] Top 10 Tools to Track & Improve TikTok Performance for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-celebrating-tiktok-raps-with-cultural-impact/"><u>[Updated] 2024 Approved Celebrating TikTok Raps with Cultural Impact</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-voiceover-revolution-in-tiktok-content-creation/"><u>[Updated] 2024 Approved The Voiceover Revolution in TikTok Content Creation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>[Updated] Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-camon-20-premier-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Camon 20 Premier 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-powered-solutions-enhance-your-websites-traffic-and-engagement/"><u>Cookiebot Powered Solutions - Enhance Your Website's Traffic & Engagement</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nubia-red-magic-8s-proplus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nubia Red Magic 8S Pro+ Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-5-tiktok-gif-tools-mastering-video-to-gif-transformations/"><u>In 2024, Top 5 TikTok GIF Tools Mastering Video-to-GIF Transformations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-access-download-and-setup-hp-officejet-5740-printer-software/"><u>Instant Access: Download and Setup HP OfficeJet 5740 Printer Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/ultimate-strategies-for-enjoying-vainglory-on-a-personal-computer-setup/"><u>Ultimate Strategies for Enjoying Vainglory on a Personal Computer Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-assistance-hub-solutions-for-winx-dvd-rippingvideo-format-changer-tool/"><u>Virtual Assistance Hub: Solutions for WinX DVD Ripping/Video Format Changer Tool</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tiktok-stitching-demos-for-beginners/"><u>[New] 2024 Approved TikTok Stitching Demos for Beginners</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[New] Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-best-apps-for-keeping-your-linkedin-vids-safe-and-sound/"><u>[New] In 2024, The Best Apps for Keeping Your LinkedIn Vids Safe & Sound</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-expertly-snip-tamil-ringtones-a-complete-walkthrough/"><u>[Updated] 2024 Approved How to Expertly Snip Tamil Ringtones A Complete Walkthrough</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-imitation-for-a-unique-and-authentic-tiktok-presence/"><u>[Updated] 2024 Approved Mastering the Art of Imitation for a Unique and Authentic TikTok Presence</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-creating-popular-jujutsu-kaisen-tiktok-content/"><u>[Updated] In 2024, Creating Popular Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-complete-guide-to-netflix-screen-capture-discover-six-efficient-ways-on-macos/"><u>[Updated] In 2024, The Complete Guide to Netflix Screen Capture - Discover Six Efficient Ways on macOS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-right-move-copyright-validation-before-posting-on-tiktok-for-2024/"><u>[Updated] The Right Move Copyright Validation Before Posting on TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-repeated-sign-in-alerts-team-collaboration-edition/"><u>Avoiding Repeated Sign-In Alerts: Team Collaboration Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-creations-get-free-high-quality-templates-today/"><u>In 2024, Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nubia-z50s-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nubia Z50S Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-nord-n30-se-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Nord N30 SE Lock Screen Password</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok/"><u>Peaceful Rhythm The Best Chill Country Music for Relaxing Dance Parties on TikTok</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unraveling-the-secrets-behind-tiktoks-pfp-emoji-for-2024/"><u>Unraveling the Secrets Behind TikTok's PFP Emoji for 2024</u></a></li>
 </ul></div>
 

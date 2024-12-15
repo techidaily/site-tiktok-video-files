@@ -1,7 +1,7 @@
 ---
 title: Overcoming Updating Glitches in the Original Minecraft Game Launcher
-date: 2024-12-04T17:24:48.639Z
-updated: 2024-12-09T18:45:00.088Z
+date: 2024-12-10T16:28:08.191Z
+updated: 2024-12-15T19:48:25.096Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
 If you want to enjoy a video game to the fullest, you need decent FPS and there shouldn’t be stutters and freezing during the gameplay. If there are performance issues intervening in the enjoyment of playing Splitgate, no worries. In this post, we’ll show you how to optimize your game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -33,10 +29,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Close unnecessary programs
 
@@ -51,7 +43,7 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
@@ -61,6 +53,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete temp files
 
@@ -73,10 +69,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
@@ -87,9 +79,17 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -105,12 +105,16 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -127,24 +131,16 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
@@ -157,6 +153,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
 **RESOLUTION:** your native resolution (If you have no idea what your screen resolution is, refer to [this post](https://tools.techidaily.com/drivereasy/download/) . )  
@@ -185,24 +185,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cam-protection-the-ultimate-10-guide/"><u>[New] Cam Protection The Ultimate 10 Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-easy-steps-to-obscure-identities-in-piscart/"><u>[New] Easy Steps to Obscure Identities in PiscArt</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-premier-top-ten-creative-av-media-maker-directory/"><u>[New] In 2024, The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-pics-high-quality-no-cost/"><u>2024 Approved Transform Your Pics - High Quality, No Cost</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/budget-friendly-asus-vivobook-11-an-all-in-one-compact-laptop-review/"><u>Budget-Friendly Asus VivoBook 11: An All-in-One Compact Laptop Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discover-the-best-in-technology-with-toms-equipment-reviews/"><u>Discover the Best in Technology with Tom's Equipment Reviews</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/experience-next-level-mini-pc-performance-the-gem12-pros-advanced-amd-ryzen-7-processor-screen-integration-and-oculink-capability/"><u>Experience Next-Level Mini PC Performance – The Gem12 Pro's Advanced AMD Ryzen 7 Processor, Screen Integration, and OCuLink Capability</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-f23-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo F23 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-s23-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel S23</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>In 2024, Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-new-technologies-guided-tours-with-toms-hardware-specialists/"><u>Navigating New Technologies: Guided Tours with Tom's Hardware Specialists</u></a></li>
-<li><a href="https://facebook.techidaily.com/oculus-redefining-self-in-the-virtual-realm/"><u>Oculus: Redefining Self in the Virtual Realm</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/silicon-photonics-leap-forward-by-tsmc-achieving-unmatched-12n8-terabitsecond-on-package-optical-communication-for-ai-applications/"><u>Silicon Photonics Leap Forward by TSMC - Achieving Unmatched 12.n8 Terabit/Second On-Package Optical Communication for AI Applications</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-guide-to-choosing-electronics-toms-hardware-solutions/"><u>The Ultimate Guide to Choosing Electronics: Tom's Hardware Solutions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-pick-for-family-fun-a-review-of-the-amazing-amazon-fire-hd-10-tablet/"><u>Top Pick for Family Fun - A Review of the Amazing Amazon Fire HD 10 Tablet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-power-of-social-platforms-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Power of Social Platforms: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unlocking-tech-potential-toms-authoritative-take-on-computer-hardware/"><u>Unlocking Tech Potential: Tom’s Authoritative Take on Computer Hardware</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/withings-move-smartwatch-a-stylish-timepiece-that-marries-analog-elegance-and-digital-features-for-the-modern-user/"><u>Withings Move Smartwatch - A Stylish Timepiece That Marries Analog Elegance and Digital Features for the Modern User</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-live-stream-to-instagram-from-obs/"><u>[New] 2024 Approved How To Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mystical-environments-transforming-spaces-with-anime-on-tiktok/"><u>[New] 2024 Approved Mystical Environments Transforming Spaces with Anime on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>[New] Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders-for-2024/"><u>[New] From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-sculpting-an-impactful-tiktok-conclusion/"><u>[New] In 2024, Sculpting an Impactful TikTok Conclusion</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-speak-up-with-text-to-speech-on-tiktok-platform/"><u>[New] In 2024, Speak Up with Text-to-Speech on TikTok Platform</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-crossing-over-attending-tiktok-live-gigs-easily-for-2024/"><u>[Updated] Crossing Over Attending TikTok Live Gigs Easily for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-make-stunning-tiktok-videos-using-these-templates-for-2024/"><u>[Updated] Make Stunning TikTok Videos Using These Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/240hz-dream-affordable-superior-gaming-displays/"><u>240Hz Dream: Affordable, Superior Gaming Displays</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-rankings-using-the-cookiebot-platform/"><u>Boost Your Rankings Using the Cookiebot Platform</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x50-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X50</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-pcs-audio-issue-instantly-a-simple-guide/"><u>Fix Your PC's Audio Issue Instantly: A Simple Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-70-lite-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 70 Lite 5G Device</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unlocking-the-code-a-guide-to-your-own-special-tiktok-hash/"><u>In 2024, Unlocking the Code A Guide to Your Own Special TikTok Hash</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-selection-of-webinar-technologies/"><u>Premium Selection of Webinar Technologies</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unexpected-tiktok-rewind-recover-lost-posts-easily-in-2024/"><u>Unexpected TikTok Rewind – Recover Lost Posts Easily, In 2024</u></a></li>
 </ul></div>
 
