@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems"
-date: 2024-12-13T22:21:05.384Z
-updated: 2024-12-15T18:53:02.788Z
+date: 2024-12-19T17:12:34.034Z
+updated: 2024-12-24T17:19:00.274Z
 tags:
   - win11
   - win10
@@ -57,16 +57,24 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-09.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
@@ -133,6 +141,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
@@ -151,10 +163,6 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Type**C:\\Users\\** _Your Windows Username_ **\\AppData\\Local\\Sports Interactive\\Football Manager 2019** on the address bar, then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-17.jpg)
@@ -163,14 +171,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Set Game Launch Options
@@ -200,6 +204,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-48-02.jpg)
@@ -221,7 +229,7 @@ If you still have the problem, try running your game in Windowed mode.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
@@ -231,10 +239,6 @@ If you still have the problem, try running your game in Windowed mode.
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
@@ -251,7 +255,7 @@ If you still have the problem, try running your game in Windowed mode.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type**control** , then press the**Enter** key on your keyboard.
@@ -261,6 +265,10 @@ If you still have the problem, try running your game in Windowed mode.
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -289,10 +297,6 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-54-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Relaunch Steam, then download and install_Football Manager 2019_ .
 
 If the game still crashes, try reinstalling the game launcher.
@@ -303,6 +307,10 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
@@ -311,10 +319,6 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14-1.jpg)
@@ -322,10 +326,6 @@ If the game still crashes, try reinstalling the game launcher.
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -362,20 +362,22 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-science-spheres-pinnacle-channels-top-15-yt-lists/"><u>[New] 2024 Approved Science Sphere's Pinnacle Channels Top 15 YT Lists</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-guide-to-the-best-money-estimation-apps-on-tiktok-for-2024/"><u>[New] Guide to the Best Money Estimation Apps on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[New] In 2024, Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-catalog-of-remarkable-education-websites/"><u>[New] In 2024, The Ultimate Catalog of Remarkable Education Websites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-modern-uses-of-drones-to-coming-innovations/"><u>[New] Modern Uses of Drones to Coming Innovations</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-transforming-wardrobe-stories-into-mac-made-ootd-videos-for-2024/"><u>[New] Transforming Wardrobe Stories Into Mac-Made OOTD Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>[Updated] Elite Essentials The Ultimate Collection of Cardboard VR Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-gratuitous-video-chats-with-desktop-viewing-for-2024/"><u>[Updated] Top 10 Gratuitous Video Chats with Desktop Viewing for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/anime-emojis-and-animations-sprucing-up-your-tiktok-videos-for-2024/"><u>Anime Emojis & Animations Sprucing Up Your TikTok Videos for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-6-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 6 without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-realtek-wi-fi-usb-dongle-driver-for-windows-tn-free-download/"><u>Latest Version of Realtek Wi-Fi USB Dongle Driver for Windows ˈtɛn - Free Download</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-time-lapse-photography-a-guide-to-using-the-iphone-camera-timers/"><u>Setting Up Time-Lapse Photography: A Guide to Using the iPhone Camera Timers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-complete-guide-to-cashing-in-on-tiktok-in-8-steps-for-2024/"><u>The Complete Guide to Cashing In on TikTok in 8 Steps for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unleash-the-fun-of-jumping-into-tiktok-lives-for-2024/"><u>Unleash the Fun of Jumping Into TikTok Lives for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-seize-the-moment-exploring-top-10-social-media-phenoms/"><u>[New] Seize the Moment Exploring Top 10 Social Media Phenoms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-crafting-prime-tiktok-openings-using-macos/"><u>[Updated] 2024 Approved Crafting Prime TikTok Openings Using MacOS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-boosting-video-success-tips-from-top-50plus-quotes-on-tiktok-for-2024/"><u>[Updated] Boosting Video Success Tips From Top 50+ Quotes on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks-for-2024/"><u>[Updated] Streamlining Ad Revenue Post-Monetization YT Tips & Tricks for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>[Updated] Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-card-selections-uhd-video-perfection/"><u>2024 Approved Advanced Card Selections UHD Video Perfection</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-streaming-apple-tv-with-your-fire-stick-device/"><u>Guide: Streaming Apple TV with Your Fire Stick Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-and-learn-with-animated-youtubers-top-picks-for-today/"><u>In 2024, Laugh and Learn with Animated YouTubers - Top Picks for Today</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/les-meilleurs-outils-de-recouvrement-dimages-libres-pour-votre-appareil-photo-numerique-top-5-gratuit/"><u>Les Meilleurs Outils De Recouvrement D’Images Libres Pour Votre Appareil Photo Numérique : Top 5 Gratuit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/shadows-and-highlights-for-text-depth-in-illustrator-for-2024/"><u>Shadows & Highlights for Text Depth in Illustrator for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-portable-wireless-movie-hub-for-students-rooms/"><u>Step-by-Step Tutorial on Building a Portable Wireless Movie Hub for Students' Rooms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/taste-the-trend-top-tiktok-food-challenges/"><u>Taste the Trend Top TikTok Food Challenges</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-past-images-a-snapchat-journey/"><u>The Art of Past Images A Snapchat Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-comprehensive-guide-to-best-trivia-shows/"><u>The Comprehensive Guide to Best Trivia Shows</u></a></li>
 </ul></div>
 

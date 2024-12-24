@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2024-12-12T22:48:44.402Z
-updated: 2024-12-15T21:23:32.023Z
+date: 2024-12-20T16:55:17.238Z
+updated: 2024-12-24T17:57:46.435Z
 tags:
   - win11
   - win10
@@ -30,13 +30,13 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
@@ -44,9 +44,17 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -56,12 +64,16 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -76,25 +88,13 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -131,17 +131,16 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-desktop-techniques-for-effective-tiktok-live-sessions/"><u>[New] 2024 Approved Desktop Techniques for Effective TikTok Live Sessions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-explore-and-learn-personalized-tiktok-identifier-creation-for-2024/"><u>[New] Explore and Learn Personalized TikTok Identifier Creation for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-meme-madness-discovering-the-most-hilarious-tiktok-challenges-for-2024/"><u>[New] Meme Madness Discovering the Most Hilarious TikTok Challenges for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-dive-into-the-intricacies-of-adobe-cloud-for-secure-efficient-data-management/"><u>[Updated] Full Dive Into the Intricacies of Adobe Cloud for Secure, Efficient Data Management</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-does-youtube-work-after-a-video-is-uploaded/"><u>[Updated] How Does YouTube Work After a Video Is Uploaded</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-taste-of-trending-the-foodie-world-of-tiktok/"><u>[Updated] In 2024, A Taste of Trending The Foodie World of TikTok</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-performance-meets-eye-popping-price-explore-the-razer-blade-18-featuring-rtx-4090-graphics-card-and-amd-ryzen-processor-for-4799/"><u>Elite Performance Meets Eye-Popping Price: Explore the Razer Blade 18 Featuring RTX 4090 Graphics Card & AMD Ryzen Processor for $4,799</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/guide-to-silentizing-ambient-sounds-use-of-audacitys-features-for-2024/"><u>Guide to Silentizing Ambient Sounds Use of Audacity's Features for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11-proplus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11 Pro+ Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/multiply-both-sides-of-the-first-equation-by-5-the-coefficient-of-y-in-the-second-equation/"><u>Multiply Both Sides of the First Equation by 5 (the Coefficient of Y in the Second Equation):</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-hassle-maximum-benefit-instant-usb-access-now/"><u>No Hassle, Maximum Benefit – Instant USB Access Now!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-trending-10-tiktok-effects-to-dominate-social-media/"><u>[New] 2024 Approved Trending 10 TikTok Effects to Dominate Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>[New] From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>[New] In 2024, Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-reputed-tiktok-follower-purchasers/"><u>[Updated] 2024 Approved Reputed TikTok Follower Purchasers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-advanced-techniques-to-skip-content-on-tiktok-for-2024/"><u>[Updated] Advanced Techniques to Skip Content on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-discover-how-to-thrive-in-tiktok-lives-from-desktop/"><u>[Updated] In 2024, Discover How to Thrive in TikTok Lives From Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazing-find-the-most-reliable-alternative-to-appleankers-magsafe-wallet-just-went-on-sale-full-review/"><u>Amazing Find! The Most Reliable Alternative to Apple/Anker's MagSafe Wallet Just Went on Sale – Full Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-democracy-decisions-valid-banning-of-trump-short-term-strategy/"><u>Digital Democracy Decisions: Valid Banning of Trump, Short-Term Strategy</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a78-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-laptops-stuck-on-screen-issue/"><u>Ultimate Guide: Resolving Your Laptop's Stuck-On Screen Issue</u></a></li>
 </ul></div>
 

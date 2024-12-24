@@ -1,7 +1,7 @@
 ---
 title: "The Silent Quest Restored: Unraveling and Repairing Audio Disruptions in Lost Ark"
-date: 2024-12-09T20:21:22.923Z
-updated: 2024-12-15T22:21:30.697Z
+date: 2024-12-20T16:20:07.505Z
+updated: 2024-12-24T18:18:09.343Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ Here’s how to use Fortect to run a Windows repair:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -66,6 +66,10 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -92,16 +96,8 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -125,6 +121,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
@@ -132,14 +132,10 @@ To check the specs of your PC:
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -150,11 +146,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
 
@@ -163,6 +159,10 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -187,12 +187,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -217,21 +217,14 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boost-your-tiktok-video-speed-easy-methods-explored/"><u>[Updated] In 2024, Boost Your TikTok Video Speed Easy Methods Explored</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boosting-your-tiktok-following-a-selection-of-engaging-username-ideas/"><u>[Updated] In 2024, Boosting Your TikTok Following - A Selection of Engaging Username Ideas</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-5-methods-for-creating-an-impressive-tiktok-introduction-with-macos/"><u>[Updated] In 2024, Top 5 Methods for Creating an Impressive TikTok Introduction with MacOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-visualizing-warriors/"><u>[Updated] In 2024, Visualizing Warriors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dimmed-beginning-display/"><u>Dimmed Beginning Display</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-resolving-witcher-3-game-failures-on-startup/"><u>Effective Strategies for Resolving Witcher 3 Game Failures on Startup</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhance-your-digital-marketing-strategy-using-smart-tracking-technology-empowered-by-cookiebot-solutions/"><u>Enhance Your Digital Marketing Strategy Using Smart Tracking Technology – Empowered by Cookiebot Solutions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>In 2024, Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s18e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S18e Location | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-filmmaking-methods-for-multidevice-integration-for-2024/"><u>Innovative Filmmaking Methods for Multidevice Integration for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/savory-sessions-tiktoks-top-food-vloggers/"><u>Savory Sessions TikTok's Top Food Vloggers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-ios-cropping-enhancing-your-images-for-2024/"><u>The Ultimate Guide to iOS Cropping Enhancing Your Images for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-automatiska-videoredigerar-navigera-i-det-latestna-trenden-med-videoautomation/"><u>Top 7 Automatiska Videoredigerar: Navigera I Det Latestna Trenden Med Videoautomation!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-the-top-10-webm-to-mp4-convertors-for-pc-and-mac-enthusiasts/"><u>Ultimate Guide: The Top 10 WebM to MP4 Convertors for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-right-way-to-increase-your-tiktok-followers-safely/"><u>[New] In 2024, The Right Way to Increase Your TikTok Followers Safely</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-ultimate-no-return-path-to-tiktok-deactivation/"><u>[Updated] 2024 Approved The Ultimate No-Return Path to TikTok Deactivation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-your-video-cover-images-updating-techniques-for-fb/"><u>[Updated] Enhancing Your Video Cover Images Updating Techniques for FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-clip-curator-platform/"><u>[Updated] In 2024, Clip Curator Platform</u></a></li>
+<li><a href="https://solve-help.techidaily.com/bridging-systems-smoothly-a-step-by-step-guide-to-linking-windows-laptop-and-desktop-environments/"><u>Bridging Systems Smoothly: A Step-by-Step Guide to Linking Windows Laptop and Desktop Environments</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discover-your-inner-editor-6-a-list-apps-for-android-and-ios-snaps/"><u>Discover Your Inner Editor 6 A-List Apps for Android & iOS Snaps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-creative-fusion-of-images-for-joyful-existence/"><u>In 2024, Creative Fusion of Images for Joyful Existence</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-obs-issues-why-its-no-longer-failing-to-record-screen/"><u>Overcome OBS Issues: Why It's No Longer Failing to Record Screen</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-keeping-tiktok-content-safe-on-devices-for-2024/"><u>The Art of Keeping TikTok Content Safe on Devices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock the Power of Captions in TikTok Content Creation for 2024"
-date: 2024-12-08T19:35:55.838Z
-updated: 2024-12-15T20:30:33.073Z
+date: 2024-12-23T16:46:20.683Z
+updated: 2024-12-24T20:01:19.222Z
 tags:
   - ai video
   - ai tiktok
@@ -75,10 +75,6 @@ Step1 Download and launch CapCut on your phone. To import, tap on "New Project" 
 
 ![create a new project](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Afterward, select "Text" options from which you can either choose "Auto Lyrics" or "Auto Captions." Using the Auto Lyrics option, you can generate captions for a song automatically. On the other hand, by using the Auto Captions option, you can transcribe the voice in your video to create subtitles. From the pop-up menus, choose the sound source and language to proceed.
 
 ![choose auto-captions or lyrics option](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-4.jpg)
@@ -155,6 +151,10 @@ To add TikTok captions, you can choose the manual or automatic way. TikTok has a
 
 If you want to add TikTok captions after posting, you have to download the video on your phone first. Afterward, hit the Plus icon to re-upload the video from your gallery. Choose that particular video again and tap on the Post button. Now you can write the captions on the given space easily. Afterward, tap on the "Post" button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Last Words
 
 This article has shed light on various ways how to add captions on TikTok efficiently. You can add TikTok captions manually or use the auto-generator for ease. Moreover, we have also highlighted an online tool to create subtitles that can be accessed from any web browser. However, if you want a professional caption editor for a longer run, Wondershare Filmora is the best choice among other tools. It has an easy-to-use interface and achieves accurate results comfortably.
@@ -179,13 +179,13 @@ Audio problems may arise unexpectedly. In such situations, added captions on Tik
 
 If some foreigners can't understand or speak your native language, TikTok captions are necessary for them. By doing so, a broad and diverse audience can watch your TikTok videos easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Captions on TikTok?
 
 There are various ways through which you can generate TikTok captions effortlessly. Read this section to discover multiple and convenient ways to create TikTok captions easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 1: Auto-Generate Captions with TikTok's Built-in Feature
 
@@ -195,9 +195,17 @@ Step1 Once you have captured a video on TikTok, tap the "Tick" icon from the bot
 
 ![tap on the tick icon](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 On the editing mode, locate the "Captions" option from the right side. After tapping on it, TikTok will instantly generate the subtitles automatically. Make sure that all the captions are correctly created. Once you are done, hit the "Save" button displayed at the top right side. Afterward, you can quickly post your TikTok video with captions.
 
 ![select the captions option](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: Use Auto Captions in CapCut
 
@@ -247,6 +255,10 @@ Step3 After waiting some time, you can see your auto-captions. You can choose th
 
 ![export the tiktok captions video](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Add Captions to Your TikTok Videos with Filmora
 
 If you want to add further enhancements to your TikTok captions, you can use an offline tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Using this platform, you can manually [add captions](https://tools.techidaily.com/wondershare/filmora/download/) by choosing the suitable style from the presets. Moreover, you can also add customizations to the captions through Filomora easily. You can also upload SRT files on this tool to produce **TikTok captions**.
@@ -263,6 +275,10 @@ Once done with launching and creating the Filmora project on your PC, hit the "A
 
 ![add your tiktok video](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2 Initiate the Automatic Subtitle Feature
 
 On your timeline, tap on the "Speech-to-Text" feature. Choose your language and video clip from the pop-up menu. Wait for some seconds, and the subtitles will be generated automatically. Double-click on the created TikTok automatic captions to open the editing settings. Here, you can select subtitles style and respective time duration. You can also add customizations efficiently.
@@ -274,10 +290,6 @@ On your timeline, tap on the "Speech-to-Text" feature. Choose your language and 
 After completing all the settings, you can click on the "Export" button. Before exporting, you can choose the video resolution and file formats easily. Also, this tool gives you the facility to export the video file directly to your TikTok account.
 
 ![export or share the video](https://images.wondershare.com/filmora/article-images/2022/12/add-captions-on-tiktok-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: People Also Want to Know
 
@@ -324,6 +336,10 @@ Well, we are talking about the list of songs that stuck in your head. We're here
 * [Part 1: Top 10 Funny TikTok Videos](#part1)
 * [Part 2: Tips for making Funny Videos on TikTok](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 10 Catchy Tik Tok songs
 
 Let’s hear the best TikTok songs in our top 10 list given below.
@@ -400,13 +416,13 @@ Now, click on the imported video and add it to the timeline. Right-click video i
 
 ![Add Tiktok Song to Timeline](https://images.wondershare.com/filmora/article-images/add-tiktok-song-to-timeline.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The audio will now get detached and show in the panel right below the video. To use this music, you can delete by a right-click and adjust this audio in any of your favorite videos.
 
 ![Detach Audio](https://images.wondershare.com/filmora/article-images/detach-audio.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After you extract the video, take it to the main panel, and hit the **Export** button. Then, click **Export to Device**.
 
@@ -509,10 +525,6 @@ Go to **Media**\> +**Drop** icon button to import the **TikTok song** video.
 
 ![Import Tiktok Video](https://images.wondershare.com/filmora/article-images/import-tiktok-video.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 4: Add Project to timeline
 
 Now, click on the imported video and add it to the timeline. Right-click video in the timeline and click the **Detach Audio** button.
@@ -534,10 +546,6 @@ You will be able to see the progress of the **TikTok song** in the new window, a
 So, this is how you can download the top 10 TikTok songs of 2024\. Next time, if you like any TikTok song, make sure to download it with the help of the software we mentioned. Then, it would be super easy for you to remember those albums and have fun.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -619,6 +627,10 @@ First and foremost, you have to launch the software after clicking on the **Down
 Go to TikTok, search your favorite song, and download any particular video on it. It’s pretty simple to download from there. If you're on a laptop, you can right-click the video. Else, you can simply long-press the video on a smartphone and hit **Save Video**.
 
 ![Download Tiktok Music](https://images.wondershare.com/filmora/article-images/download-tiktok-music.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Import tik tok video
 
@@ -634,10 +646,6 @@ Now, click on the imported video and add it to the timeline. Right-click video i
 
 ![Add Tiktok Song to Timeline](https://images.wondershare.com/filmora/article-images/add-tiktok-song-to-timeline.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The audio will now get detached and show in the panel right below the video. To use this music, you can delete by a right-click and adjust this audio in any of your favorite videos.
 
 ![Detach Audio](https://images.wondershare.com/filmora/article-images/detach-audio.png)
@@ -647,10 +655,6 @@ After you extract the video, take it to the main panel, and hit the **Export** b
 You will be able to see the progress of the **TikTok song** in the new window, as shown below.
 
 ![Export Tiktok Song](https://images.wondershare.com/filmora/article-images/export-tiktok-song.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -676,10 +680,6 @@ Well, we are talking about the list of songs that stuck in your head. We're here
 
 * [Part 1: Top 10 Funny TikTok Videos](#part1)
 * [Part 2: Tips for making Funny Videos on TikTok](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 10 Catchy Tik Tok songs
 
@@ -725,6 +725,10 @@ The song called Payphone is sung directly from the heart. After listening to it,
 
 American rapper Travis Scott also sang Sicko Mode. It got so much love from fans that even the TikTok got significantly stuffed with this hit album. We found this TikTok song where Travis Scott himself is singing on stage and just rocking. The stage performance looked magnificent, where everyone got the adrenaline rush to sing along.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download music from TikTok?
 
 Want to download the best TikTok songs? If yes, then you have to use specific software that is reliable and quick. For inspiration, go for Filmora, which is the most basic version of Filmora by Wondershare. Wondershare has other advanced versions also such as Filmora Pro. However, to download TikTok songs, we recommend you to use Filmora. All kinds of video editing solutions are available here, right from basic editing to advanced changes.
@@ -742,10 +746,6 @@ First and foremost, you have to launch the software after clicking on the **Down
 Go to TikTok, search your favorite song, and download any particular video on it. It’s pretty simple to download from there. If you're on a laptop, you can right-click the video. Else, you can simply long-press the video on a smartphone and hit **Save Video**.
 
 ![Download Tiktok Music](https://images.wondershare.com/filmora/article-images/download-tiktok-music.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Import tik tok video
 
@@ -798,19 +798,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-replay-the-art-of-twitch-livestream-control/"><u>[New] Replay The Art of Twitch Livestream Control</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensible-explanation-of-youtubes-viewership-puzzle/"><u>[Updated] A Comprehensible Explanation of YouTube's Viewership Puzzle</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-back-your-teams-screens/"><u>Bring Back Your Teams Screens</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/cloud-server-performance-unmatched-the-yitian-710-cpu-from-alibaba-outpaces-competitors-in-speed-and-efficiency/"><u>Cloud Server Performance Unmatched - The Yitian 710 CPU From Alibaba Outpaces Competitors in Speed and Efficiency</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-tech-experience-with-beefy-meteor-lake-processor-the-onexplayer-m1-featuring-a-powerful-intel-core-coffee-lake-i9-up-to-32gb-of-ram-and-future-100/"><u>Elevate Your Tech Experience with Beefy Meteor Lake Processor: The OneXPlayer M1, Featuring a Powerful Intel Core Coffee Lake I9, Up to 32GB of RAM & Future-Ready Connectivity Options.</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elite-4k-screens-the-ultimate-choice-for-2024/"><u>Elite 4K Screens – The Ultimate Choice for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/exclusive-release-maingear-zero-series-desktops-featuring-concealed-cabling-prices-begin-at-1399/"><u>Exclusive Release: Maingear Zero Series Desktops Featuring Concealed Cabling - Prices Begin at $1,399</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/experiencing-uncommon-fun-with-ddpais-innovative-mini-3-dashcam-a-review/"><u>Experiencing Uncommon Fun With DDpai's Innovative Mini 3 Dashcam - A Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-modern-devices-with-guidance-from-toms-hardware/"><u>Navigating Modern Devices With Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-ultimate-gamers-pc-build-on-a-dime-maximizing-power-with-an-rtx-4070-and-2tb-storage-score-your-piece-this-prime-day/"><u>The Ultimate Gamers' PC Build on a Dime: Maximizing Power with an RTX 4070 & 2TB Storage - Score Your Piece This Prime Day</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-tips-for-effective-story-emoji-integration-on-instagram/"><u>Top Tips for Effective Story Emoji Integration on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-not-found-errors-with-d3dx-library-files-d3dx939dll/"><u>Troubleshooting Not Found Errors with D3DX Library Files (d3dx9_39.dll)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-professionals-playbook-streaming-live-videos-on-tiktok-from-computer/"><u>[New] 2024 Approved The Professional’s Playbook Streaming Live Videos on TikTok From Computer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-streamline-markings-ultimate-tiktok-eraser-tools-for-2024/"><u>[New] Streamline Markings Ultimate TikTok Eraser Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-creativity-making-striking-slideshows-for-fb-friends-for-2024/"><u>[New] Unveiling Creativity Making Striking SlideShows for FB Friends for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capturing-trust-the-significance-of-client-reviews/"><u>[Updated] In 2024, Capturing Trust The Significance of Client Reviews</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-eye-catching-typography-top-5-font-tools-to-propel-your-tiktok-growth/"><u>In 2024, Eye-Catching Typography Top 5 Font Tools to Propel Your TikTok Growth</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>In 2024, Synchronized Soundtracks The Year’s Most Recurring TikTok Songs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sales-surge-strategy-techniques-for-2024/"><u>Sales Surge Strategy Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-vs-2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic Vs 2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-pen-problems-resolved-solutions-for-windows-1110-users/"><u>Wacom Pen Problems Resolved: Solutions for Windows 11/10 Users</u></a></li>
 </ul></div>
 

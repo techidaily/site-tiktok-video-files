@@ -1,7 +1,7 @@
 ---
 title: 'Retrofuturistic' Fanless Mini PC Crafted with a High-Speed USB4 and Expansive Solid State Drives Collection
-date: 2024-12-08T22:37:35.192Z
-updated: 2024-12-15T21:17:57.567Z
+date: 2024-12-23T17:46:02.972Z
+updated: 2024-12-24T19:00:38.621Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/9phkDkvQPJpXRzA7QTKhza-320-80.png
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,21 +58,18 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/9phkDkvQPJpXRzA7QTKhza-320-80.png
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-music-magic-for-instagram-a-guide/"><u>[New] 2024 Approved Music Magic for Instagram A Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-snapshots-of-sound-characters-short-musical-roles/"><u>[New] 2024 Approved Snapshots of Sound Characters Short Musical Roles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>[New] 2024 Approved Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-trust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>[New] Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-choreographed-vocal-harmony-on-tiktok/"><u>[Updated] 2024 Approved Choreographed Vocal Harmony on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-how-to-un-refresh-and-restore-your-tiktok-videos/"><u>[Updated] 2024 Approved How to Un-Refresh and Restore Your TikTok Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-top-5-tiktok-gif-tools-mastering-video-to-gif-transformations/"><u>[Updated] 2024 Approved Top 5 TikTok GIF Tools Mastering Video-to-GIF Transformations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-down-the-fundamentals-of-lut-design/"><u>[Updated] Breaking Down the Fundamentals of LUT Design</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-perfecting-tiktok-habit-how-to-share-videos-from-macpc/"><u>[Updated] In 2024, Perfecting TikTok' Habit How to Share Videos From MAC/PC</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-how-to-craft-an-original-tiktok-tag-identifier/"><u>2024 Approved How to Craft an Original TikTok Tag Identifier</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-the-impact-of-youtube-money-changes/"><u>2024 Approved Understanding the Impact of YouTube Money Changes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-7-best-tiktok-emojis-and-how-to-discover-tiktok-secret-emojis/"><u>In 2024, 7 Best TikTok Emojis and How to Discover TikTok Secret Emojis</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-from-disjointed-elements-to-a-cohesive-tiktok-narrative/"><u>In 2024, From Disjointed Elements to a Cohesive TikTok Narrative</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unmissable-fun-with-todays-viral-tiktok-trials/"><u>In 2024, Unmissable Fun with Today’s Viral TikTok Trials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-100-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor 100 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ultimate-choices-for-accurate-3ds-simulators-pc-edition-for-2024/"><u>Ultimate Choices for Accurate 3DS Simulators, PC Edition for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-quick-guide-seamless-audio-transitions/"><u>[New] 2024 Approved Quick Guide Seamless Audio Transitions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-echo-chamber-best-online-spots-for-free-skype-music/"><u>[New] Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[New] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[New] In 2024, Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-uncover-the-art-of-participating-in-tiktok-live-shows/"><u>[New] In 2024, Uncover the Art of Participating in TikTok Live Shows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unusual-upsets-top-10-unexpected-gaming-sensations-on-tiktok/"><u>[New] Unusual Upsets Top 10 Unexpected Gaming Sensations on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-rhymes-that-roam-a-list-of-must-have-tiktok-rap-songs/"><u>[Updated] 2024 Approved Rhymes That Roam A List of Must-Have TikTok Rap Songs</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-secure-your-content-copyright-checks-before-tiktok-sharing-for-2024/"><u>[Updated] Secure Your Content Copyright Checks Before TikTok Sharing for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-complete-mac-powered-guide-to-ootd-videography-for-2024/"><u>[Updated] The Complete Mac-Powered Guide to OOTD Videography for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-to-secure-your-instagram-accounts-verification-badge/"><u>Guide: How to Secure Your Instagram Account's Verification Badge</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-k11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo K11 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-10-must-watch-tiktok-gaming-sessions/"><u>In 2024, 10 Must-Watch TikTok Gaming Sessions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-x90s-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo X90S Location | Dr.fone</u></a></li>
 </ul></div>
 

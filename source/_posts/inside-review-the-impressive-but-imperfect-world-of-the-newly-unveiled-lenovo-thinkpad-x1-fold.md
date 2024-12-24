@@ -1,7 +1,7 @@
 ---
 title: "Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
-date: 2024-12-08T22:01:05.709Z
-updated: 2024-12-15T17:51:44.832Z
+date: 2024-12-18T17:39:55.642Z
+updated: 2024-12-24T16:41:13.727Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Review: The Impressive but Imperfect World of the Newly Unveiled Lenovo ThinkPad X1 Fold"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -40,12 +36,16 @@ Lifewire / Gannon Burgett
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
@@ -74,10 +74,6 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
 
 ## **Design: Beautiful, with room for improvements**
@@ -97,7 +93,7 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: One plug and you’re good to go**
@@ -107,6 +103,10 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -121,10 +121,6 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
 Lifewire / Gannon Burgett
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
 
@@ -143,7 +139,7 @@ Lifewire / Gannon Burgett
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Network: Fast and reliable**
@@ -157,10 +153,6 @@ Lifewire / Gannon Burgett
  The only camera on the 4K iMac is the integrated webcam, which sits dead center above the display. We would’ve liked to see a 1080p or even 4K webcam included, but the 720p resolution is good enough for basic video messaging.
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
@@ -177,6 +169,10 @@ Lifewire / Gannon Burgett
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -195,6 +191,10 @@ Lifewire / Gannon Burgett
 **Beautiful display in a thin, powerful machine.**
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -233,19 +233,20 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-mastering-tiktoks-economy-with-these-8-profitable-methods-for-2024/"><u>[New] Mastering TikTok's Economy with These 8 Profitable Methods for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-rhythm-route-developing-dynamic-tiktok-dances-on-a-mac-for-2024/"><u>[New] The Rhythm Route Developing Dynamic TikTok Dances on a Mac for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-bizarre-tiktok-quests-the-10-most-hilarious-games-to-try-now-for-2024/"><u>[Updated] Bizarre TikTok Quests The 10 Most Hilarious Games to Try Now for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-instant-upload-solutions-top-5-free-online-converter-services/"><u>[Updated] In 2024, Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-an-engaging-tiktok-closing-credits/"><u>2024 Approved Crafting An Engaging TikTok Closing Credits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-mastering-the-art-of-spoofing-gps-coordinates-on-mobile-devices/"><u>Guide: Mastering the Art of Spoofing GPS Coordinates on Mobile Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-techniques-for-slow-mo-tiktok-content-creation/"><u>In 2024, Essential Techniques for Slow Mo TikTok Content Creation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-racing-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 VIP Racing Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/jujutsu-kaisens-universe-on-your-tiktok-feed/"><u>Jujutsu Kaisen’s Universe on Your TikTok Feed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>New Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-zte-nubia-z60-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on ZTE Nubia Z60 Ultra and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-zoom-crashes-on-windows-systems/"><u>Ultimate Fix for Persistent Zoom Crashes on Windows Systems</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unify-your-visual-style-color-matching-techniques-for-powerdirector-for-2024/"><u>Unify Your Visual Style Color Matching Techniques for PowerDirector for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-5-proven-techniques-for-live-streaming-on-tiktok-desktop/"><u>[New] 2024 Approved 5 Proven Techniques for Live Streaming on TikTok Desktop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-simplified-steps-to-documenting-fb-chats-and-calls/"><u>[New] In 2024, Simplified Steps to Documenting FB Chats and Calls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-essentials-to-establish-a-singular-hashtag-on-tiktok/"><u>[Updated] 2024 Approved The Essentials to Establish a Singular Hashtag on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-tiktok-tricks-faster-video-loading/"><u>[Updated] 2024 Approved TikTok Tricks Faster Video Loading</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-top-15-innovative-tiktok-challenges-unveiled/"><u>[Updated] 2024 Approved Top 15 Innovative TikTok Challenges Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-understanding-the-core-of-asmr-media/"><u>[Updated] 2024 Approved Understanding the Core of ASMR Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-building-a-strong-foundation-for-advertising-deals-using-famebit-methods/"><u>[Updated] Building a Strong Foundation for Advertising Deals Using FameBit Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-get-more-views-and-likes-on-tik-tok/"><u>[Updated] How to Get More Views and Likes on Tik Tok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/19-best-anime-inspirations-for-tiktok-stars/"><u>19 Best Anime Inspirations for TikTok Stars</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compreeved-insight-androids-version-of-photoshop-lightroom/"><u>2024 Approved Compreeved Insight Android's Version of Photoshop - Lightroom</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-anime-elements-that-make-for-tiktok-success/"><u>2024 Approved Top Anime Elements That Make For TikTok Success</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-x8b-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor X8b Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/memetic-masterpieces-behind-the-scenes-for-2024/"><u>Memetic Masterpieces Behind the Scenes for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats-for-2024/"><u>Transformative Power of VLC From MP4 to a Multitude of Formats for 2024</u></a></li>
 </ul></div>
 
