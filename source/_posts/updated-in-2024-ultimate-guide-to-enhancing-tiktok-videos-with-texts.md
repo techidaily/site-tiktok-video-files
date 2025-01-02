@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Ultimate Guide to Enhancing TikTok Videos with Texts"
-date: 2024-12-19T18:41:33.918Z
-updated: 2024-12-24T18:28:03.553Z
+date: 2024-12-28T02:11:53.093Z
+updated: 2025-01-02T03:57:53.871Z
 tags:
   - ai video
   - ai tiktok
@@ -45,147 +45,9 @@ Now that you know a little background information on why adding to your TikTok v
 
 ![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
 
-**Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
-
-![edit text to video tiktok](https://images.wondershare.com/filmora/article-images/edit-text-to-video-tiktok.jpg)
-
-**Step 5:** Then, choose **Next**, write a title and any other required information, and afterward tap on **Post** to finish the TikTok video production.
-
-## Part 2: How to Edit and Customize Text on TikTok?
-
-While you can add text to your TikTok videos, that's not the only thing you can do with adding text. TikTok offers you the chance to further customize the video by making modifications to the added text. Here are three ways in which you can further customize your TikTok video:
-
-**1\. How to Put Text on TikTok and Make It Disappear?**
-
-TikTok allows you to control when your text that appears onscreen. The single condition is that it must be visible for at least one full second. All you have to do now is follow these steps to determine the length of your content.
-
-**Step 1:** Tap on the **Text** you want to edit.
-
-**Step 2:** You'll need to pick **Set duration** to change the time of the text on your video. This will take you to a panel where you can control when the text displays and, if necessary, when it fades away. **_Drag the timing bar_** so that it fits perfectly to choose a start and finish time.
-
-![set text duraiton tiktok video](https://images.wondershare.com/filmora/article-images/set-text-duraiton-tiktok-video.jpg)
-
-**Step 3:** **_Drag the red box_** around the bottom of the timeline to choose when the text should appear.
-
-![adjust text duration tiktok video](https://images.wondershare.com/filmora/article-images/adjust-text-duration-tiktok-video.jpg)
-
-**Step 4:** Tap the **Checkmark** in the bottom right-hand corner once you're done.
-
-**2\. How to Change TikTok Text, Font, and Size?**
-
-Customization of your textual videos on TikTok isn't restricted to adding and disappearing the text or adding multiple lines of text. You also change the text font and size of your captions by using these steps:
-
-**Step 1:** By tapping the **A** on the left side of the display, you can **_Highlight_** the text.
-
-**Step 2:** You can alter the **Fonts** by picking an alternative from the **_multi-colored circles_** at the bottom of the display.
-
-![change texts font tiktok video](https://images.wondershare.com/filmora/article-images/change-texts-font-tiktok-video.jpg)
-
-**Step 3:** TikTok further allows you to alter the color by choosing an alternative from the **Color options** provided on the top-left side of the text menu.
-
-**3\. How to Add Multiple Lines of Text to Your TikTok?**
-
-One line of text isn't always sufficient. You can add your first in-video caption by completing the procedures outlined above. Then follow these steps to learn how to use the TikTok editor to add various texts to your clips.
-
-**Step 1:** Tap the **Text** button once again once you've added your first line of text to your video.
-
-**Step 2:** **Type** the new caption line.
-
-![add multiple texts tiktok video](https://images.wondershare.com/filmora/article-images/add-multiple-texts-tiktok-video.jpg)
-
-**Step 3:** Choose a **Font** and a **Color**. Don't forget to tap **Done.**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## Part 3: How to Add Background Color to Text on TikTok?
-
-Right when you thought the video editing with textual effects was limited to this point, TikTok decided to surprise you further. You might have seen your Instagram fellow members use a dark background behind their text in several stories, videos, posts, haven't you? We assumed so.
-
-But did you know you can use a similar effect to post or share videos on TikTok too? Even if you didn't, it's not a problem. Because in this part, we will tell you how you can use the help of Instagram and add background color to text on TikTok.
-
-**Step 1:** You access the Story recording view by clicking the **\+ icon** on the interface. Then you either record live video or use video from the gallery collection.
-
-**Step 2:** Select the **letter Aa** in the video interface to enter the text you wish to appear in the video. You may change the font and size of the text displayed below.
-
-**Step 3:** Choose a **black backdrop** for the text by clicking on the **letter A** with two asterisks above. Then press the **Next** button. There are two tiles for applying text effects to the letter **A symbol**.
-
-![add backdrop tiktok video text](https://images.wondershare.com/filmora/article-images/add-backdrop-tiktok-video-text.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 4:** As a result, we produced a text effect vide a dark backdrop. To save videos to your device's album, click the **Download** symbol.
-
-**Step 5:** To capture video, **Launch the TikTok** application and tap the **\+ icon**. To access the gallery on the smartphone and pick the video to download from Instagram, click **Upload** squares in the touch interface.
-
-**Step 6:** Lastly, you can add extra elements to the video, such as _filters_ and _stickers,_ before uploading it to your TikTok account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 4: How to Add Text to Video in Filmora?
-
-One of the finest methods to tidy up your videos is to add text. Applying text to video allows viewers to see the film in a loud setting while still getting the information they need, which would be ideal for individuals watching the muted Autoplay videos on Facebook's News Feed.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Although adding text to video would need video editing software, you can use a powerful yet easy to use editor such as Filmora. With this video editor's various cutting-edge editing tools, adding and customizing texts in TikTok videos becomes a breeze. In this tutorial, we'll walk you through how to use Filmora to add text overlay to video.
-
-**Step 1:** To go to the main screen of Filmora, select **New Project**. When entering the **Project Settings** box, we recommend modifying options such as _aspect ratio_ and _frame rates_.
-
-**Step 2:** To modify your video clips, _drag & drop_ them from the **Media Library** to the **Timeline** panel.
-
-**Step 3:** To access the **Text & Title** settings, go to the **Titles** tab. Filmora includes over 200 text effects that span various genres, including _lifestyle, media, seasonal, opener, bottom third_, and end _credits_. In the **Preview** window, double-click the **Titles** setting to see the outcome.
-
-![add text to tiktok video filmora](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video-filmora.jpg)
-
-**Step 4:** To alter the length of the text effect, first pick **Text** in the **Timeline** and then select the **Duration** symbol.
-
-![set tiktok video text duration filmora](https://images.wondershare.com/filmora/article-images/set-tiktok-video-text-duration-filmora.jpg)
-
-**Step 5:** Double-click the **Title frame in** the **Timeline** to bring up a window where you may conduct some simple title editing. You may _type the text_ for your text overlay here and alter the _text's font, color, and size_.
-
-![edit tiktok video text filmora](https://images.wondershare.com/filmora/article-images/edit-tiktok-video-text-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Conclusion**
-
-We are hopeful that you now know precisely **How to Add Text to TikTok** video. TikTok videos that are short and energetic might capture a wider audience. Additionally, adding adaptive text to your videos is another option for adding some diversity to your material.
-
-Nevertheless, based on why you're using TikTok, there are various methods to express yourself. And if TikTok isn't cutting it for you, there are plenty of other options to consider.
-
-02 [How to Edit and Customize Text on TikTok?](#part2)
-
-03 [How to Add Background Color to Text on TikTok?](#part3)
-
-04 [How to Add Text to Video in Filmora?](#part4)
-
-## Part 1: How to Add Text to a TikTok in the TikTok Editor?
-
-The TikTok text editor is straightforward to use. Your participation and overall account reach will skyrocket when you start adding text to your TikTok videos. And this is not just a "made-up" fact from us or from someone we know. According to an estimate, [80% of US consumers](https://www.nexttv.com/news/mobile-videos-often-watched-without-audio-study-finds) love watching videos containing textual captions. What it does is that it increases the customer engagement, viewership, and comprehending of the video much more accessible.
-
-Now that you know a little background information on why adding to your TikTok videos is essential in the modern age, it's finally time to start mastering the art. Don't worry, though. It's no rocket science. All you need is to follow this step-by-step procedure down below on how to add captions on TikTok to your videos. Starting with:
-
-**Step 1:** Make a new TikTok by pressing the **"+"** box at the bottom of your stream to begin adding text. Create a new video, edit an existing one, or upload a video from your photo library.
-
-**Step 2:** Collectively, **Edit** and **Cut** your clip. Click **Next** after you're satisfied.
-
-**Step 3**: Tap the **Text icon (Aa)** at the bottom of the display when TikTok has taken you to the video editing menu.
-
-![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
 
 **Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
 
@@ -236,7 +98,7 @@ One line of text isn't always sufficient. You can add your first in-video captio
 ![add multiple texts tiktok video](https://images.wondershare.com/filmora/article-images/add-multiple-texts-tiktok-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Choose a **Font** and a **Color**. Don't forget to tap **Done.**
@@ -283,13 +145,13 @@ Although adding text to video would need video editing software, you can use a p
 
 ![add text to tiktok video filmora](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** To alter the length of the text effect, first pick **Text** in the **Timeline** and then select the **Duration** symbol.
 
 ![set tiktok video text duration filmora](https://images.wondershare.com/filmora/article-images/set-tiktok-video-text-duration-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Double-click the **Title frame in** the **Timeline** to bring up a window where you may conduct some simple title editing. You may _type the text_ for your text overlay here and alter the _text's font, color, and size_.
 
@@ -306,45 +168,45 @@ Nevertheless, based on why you're using TikTok, there are various methods to exp
 03 [How to Add Background Color to Text on TikTok?](#part3)
 
 04 [How to Add Text to Video in Filmora?](#part4)
-
-## Part 1: How to Add Text to a TikTok in the TikTok Editor?
-
-The TikTok text editor is straightforward to use. Your participation and overall account reach will skyrocket when you start adding text to your TikTok videos. And this is not just a "made-up" fact from us or from someone we know. According to an estimate, [80% of US consumers](https://www.nexttv.com/news/mobile-videos-often-watched-without-audio-study-finds) love watching videos containing textual captions. What it does is that it increases the customer engagement, viewership, and comprehending of the video much more accessible.
-
-Now that you know a little background information on why adding to your TikTok videos is essential in the modern age, it's finally time to start mastering the art. Don't worry, though. It's no rocket science. All you need is to follow this step-by-step procedure down below on how to add captions on TikTok to your videos. Starting with:
-
-**Step 1:** Make a new TikTok by pressing the **"+"** box at the bottom of your stream to begin adding text. Create a new video, edit an existing one, or upload a video from your photo library.
-
-**Step 2:** Collectively, **Edit** and **Cut** your clip. Click **Next** after you're satisfied.
-
-**Step 3**: Tap the **Text icon (Aa)** at the bottom of the display when TikTok has taken you to the video editing menu.
-
-![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
-
-**Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
-
-![edit text to video tiktok](https://images.wondershare.com/filmora/article-images/edit-text-to-video-tiktok.jpg)
-
-**Step 5:** Then, choose **Next**, write a title and any other required information, and afterward tap on **Post** to finish the TikTok video production.
-
-## Part 2: How to Edit and Customize Text on TikTok?
-
-While you can add text to your TikTok videos, that's not the only thing you can do with adding text. TikTok offers you the chance to further customize the video by making modifications to the added text. Here are three ways in which you can further customize your TikTok video:
-
-**1\. How to Put Text on TikTok and Make It Disappear?**
-
-TikTok allows you to control when your text that appears onscreen. The single condition is that it must be visible for at least one full second. All you have to do now is follow these steps to determine the length of your content.
-
-**Step 1:** Tap on the **Text** you want to edit.
-
-**Step 2:** You'll need to pick **Set duration** to change the time of the text on your video. This will take you to a panel where you can control when the text displays and, if necessary, when it fades away. **_Drag the timing bar_** so that it fits perfectly to choose a start and finish time.
-
-![set text duraiton tiktok video](https://images.wondershare.com/filmora/article-images/set-text-duraiton-tiktok-video.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## Part 1: How to Add Text to a TikTok in the TikTok Editor?
+
+The TikTok text editor is straightforward to use. Your participation and overall account reach will skyrocket when you start adding text to your TikTok videos. And this is not just a "made-up" fact from us or from someone we know. According to an estimate, [80% of US consumers](https://www.nexttv.com/news/mobile-videos-often-watched-without-audio-study-finds) love watching videos containing textual captions. What it does is that it increases the customer engagement, viewership, and comprehending of the video much more accessible.
+
+Now that you know a little background information on why adding to your TikTok videos is essential in the modern age, it's finally time to start mastering the art. Don't worry, though. It's no rocket science. All you need is to follow this step-by-step procedure down below on how to add captions on TikTok to your videos. Starting with:
+
+**Step 1:** Make a new TikTok by pressing the **"+"** box at the bottom of your stream to begin adding text. Create a new video, edit an existing one, or upload a video from your photo library.
+
+**Step 2:** Collectively, **Edit** and **Cut** your clip. Click **Next** after you're satisfied.
+
+**Step 3**: Tap the **Text icon (Aa)** at the bottom of the display when TikTok has taken you to the video editing menu.
+
+![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
+
+**Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
+
+![edit text to video tiktok](https://images.wondershare.com/filmora/article-images/edit-text-to-video-tiktok.jpg)
+
+**Step 5:** Then, choose **Next**, write a title and any other required information, and afterward tap on **Post** to finish the TikTok video production.
+
+## Part 2: How to Edit and Customize Text on TikTok?
+
+While you can add text to your TikTok videos, that's not the only thing you can do with adding text. TikTok offers you the chance to further customize the video by making modifications to the added text. Here are three ways in which you can further customize your TikTok video:
+
+**1\. How to Put Text on TikTok and Make It Disappear?**
+
+TikTok allows you to control when your text that appears onscreen. The single condition is that it must be visible for at least one full second. All you have to do now is follow these steps to determine the length of your content.
+
+**Step 1:** Tap on the **Text** you want to edit.
+
+**Step 2:** You'll need to pick **Set duration** to change the time of the text on your video. This will take you to a panel where you can control when the text displays and, if necessary, when it fades away. **_Drag the timing bar_** so that it fits perfectly to choose a start and finish time.
+
+![set text duraiton tiktok video](https://images.wondershare.com/filmora/article-images/set-text-duraiton-tiktok-video.jpg)
+
 **Step 3:** **_Drag the red box_** around the bottom of the timeline to choose when the text should appear.
 
 ![adjust text duration tiktok video](https://images.wondershare.com/filmora/article-images/adjust-text-duration-tiktok-video.jpg)
@@ -420,10 +282,6 @@ Although adding text to video would need video editing software, you can use a p
 **Step 4:** To alter the length of the text effect, first pick **Text** in the **Timeline** and then select the **Duration** symbol.
 
 ![set tiktok video text duration filmora](https://images.wondershare.com/filmora/article-images/set-tiktok-video-text-duration-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Double-click the **Title frame in** the **Timeline** to bring up a window where you may conduct some simple title editing. You may _type the text_ for your text overlay here and alter the _text's font, color, and size_.
 
@@ -503,11 +361,11 @@ One line of text isn't always sufficient. You can add your first in-video captio
 
 ![add multiple texts tiktok video](https://images.wondershare.com/filmora/article-images/add-multiple-texts-tiktok-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Choose a **Font** and a **Color**. Don't forget to tap **Done.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Add Background Color to Text on TikTok?
 
@@ -528,6 +386,148 @@ But did you know you can use a similar effect to post or share videos on TikTok 
 **Step 5:** To capture video, **Launch the TikTok** application and tap the **\+ icon**. To access the gallery on the smartphone and pick the video to download from Instagram, click **Upload** squares in the touch interface.
 
 **Step 6:** Lastly, you can add extra elements to the video, such as _filters_ and _stickers,_ before uploading it to your TikTok account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 4: How to Add Text to Video in Filmora?
+
+One of the finest methods to tidy up your videos is to add text. Applying text to video allows viewers to see the film in a loud setting while still getting the information they need, which would be ideal for individuals watching the muted Autoplay videos on Facebook's News Feed.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Although adding text to video would need video editing software, you can use a powerful yet easy to use editor such as Filmora. With this video editor's various cutting-edge editing tools, adding and customizing texts in TikTok videos becomes a breeze. In this tutorial, we'll walk you through how to use Filmora to add text overlay to video.
+
+**Step 1:** To go to the main screen of Filmora, select **New Project**. When entering the **Project Settings** box, we recommend modifying options such as _aspect ratio_ and _frame rates_.
+
+**Step 2:** To modify your video clips, _drag & drop_ them from the **Media Library** to the **Timeline** panel.
+
+**Step 3:** To access the **Text & Title** settings, go to the **Titles** tab. Filmora includes over 200 text effects that span various genres, including _lifestyle, media, seasonal, opener, bottom third_, and end _credits_. In the **Preview** window, double-click the **Titles** setting to see the outcome.
+
+![add text to tiktok video filmora](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 4:** To alter the length of the text effect, first pick **Text** in the **Timeline** and then select the **Duration** symbol.
+
+![set tiktok video text duration filmora](https://images.wondershare.com/filmora/article-images/set-tiktok-video-text-duration-filmora.jpg)
+
+**Step 5:** Double-click the **Title frame in** the **Timeline** to bring up a window where you may conduct some simple title editing. You may _type the text_ for your text overlay here and alter the _text's font, color, and size_.
+
+![edit tiktok video text filmora](https://images.wondershare.com/filmora/article-images/edit-tiktok-video-text-filmora.jpg)
+
+**Conclusion**
+
+We are hopeful that you now know precisely **How to Add Text to TikTok** video. TikTok videos that are short and energetic might capture a wider audience. Additionally, adding adaptive text to your videos is another option for adding some diversity to your material.
+
+Nevertheless, based on why you're using TikTok, there are various methods to express yourself. And if TikTok isn't cutting it for you, there are plenty of other options to consider.
+
+02 [How to Edit and Customize Text on TikTok?](#part2)
+
+03 [How to Add Background Color to Text on TikTok?](#part3)
+
+04 [How to Add Text to Video in Filmora?](#part4)
+
+## Part 1: How to Add Text to a TikTok in the TikTok Editor?
+
+The TikTok text editor is straightforward to use. Your participation and overall account reach will skyrocket when you start adding text to your TikTok videos. And this is not just a "made-up" fact from us or from someone we know. According to an estimate, [80% of US consumers](https://www.nexttv.com/news/mobile-videos-often-watched-without-audio-study-finds) love watching videos containing textual captions. What it does is that it increases the customer engagement, viewership, and comprehending of the video much more accessible.
+
+Now that you know a little background information on why adding to your TikTok videos is essential in the modern age, it's finally time to start mastering the art. Don't worry, though. It's no rocket science. All you need is to follow this step-by-step procedure down below on how to add captions on TikTok to your videos. Starting with:
+
+**Step 1:** Make a new TikTok by pressing the **"+"** box at the bottom of your stream to begin adding text. Create a new video, edit an existing one, or upload a video from your photo library.
+
+**Step 2:** Collectively, **Edit** and **Cut** your clip. Click **Next** after you're satisfied.
+
+**Step 3**: Tap the **Text icon (Aa)** at the bottom of the display when TikTok has taken you to the video editing menu.
+
+![add text to tiktok video](https://images.wondershare.com/filmora/article-images/add-text-to-tiktok-video.jpg)
+
+**Step 4:** Type your text in the box, and then use the options available to modify the text. Select your preferred **Font** and **Color** that you would like to use. Tap **Done** in the top-right corner of the display, taking into account that you can only adjust the text location and time after this stage.
+
+![edit text to video tiktok](https://images.wondershare.com/filmora/article-images/edit-text-to-video-tiktok.jpg)
+
+**Step 5:** Then, choose **Next**, write a title and any other required information, and afterward tap on **Post** to finish the TikTok video production.
+
+## Part 2: How to Edit and Customize Text on TikTok?
+
+While you can add text to your TikTok videos, that's not the only thing you can do with adding text. TikTok offers you the chance to further customize the video by making modifications to the added text. Here are three ways in which you can further customize your TikTok video:
+
+**1\. How to Put Text on TikTok and Make It Disappear?**
+
+TikTok allows you to control when your text that appears onscreen. The single condition is that it must be visible for at least one full second. All you have to do now is follow these steps to determine the length of your content.
+
+**Step 1:** Tap on the **Text** you want to edit.
+
+**Step 2:** You'll need to pick **Set duration** to change the time of the text on your video. This will take you to a panel where you can control when the text displays and, if necessary, when it fades away. **_Drag the timing bar_** so that it fits perfectly to choose a start and finish time.
+
+![set text duraiton tiktok video](https://images.wondershare.com/filmora/article-images/set-text-duraiton-tiktok-video.jpg)
+
+**Step 3:** **_Drag the red box_** around the bottom of the timeline to choose when the text should appear.
+
+![adjust text duration tiktok video](https://images.wondershare.com/filmora/article-images/adjust-text-duration-tiktok-video.jpg)
+
+**Step 4:** Tap the **Checkmark** in the bottom right-hand corner once you're done.
+
+**2\. How to Change TikTok Text, Font, and Size?**
+
+Customization of your textual videos on TikTok isn't restricted to adding and disappearing the text or adding multiple lines of text. You also change the text font and size of your captions by using these steps:
+
+**Step 1:** By tapping the **A** on the left side of the display, you can **_Highlight_** the text.
+
+**Step 2:** You can alter the **Fonts** by picking an alternative from the **_multi-colored circles_** at the bottom of the display.
+
+![change texts font tiktok video](https://images.wondershare.com/filmora/article-images/change-texts-font-tiktok-video.jpg)
+
+**Step 3:** TikTok further allows you to alter the color by choosing an alternative from the **Color options** provided on the top-left side of the text menu.
+
+**3\. How to Add Multiple Lines of Text to Your TikTok?**
+
+One line of text isn't always sufficient. You can add your first in-video caption by completing the procedures outlined above. Then follow these steps to learn how to use the TikTok editor to add various texts to your clips.
+
+**Step 1:** Tap the **Text** button once again once you've added your first line of text to your video.
+
+**Step 2:** **Type** the new caption line.
+
+![add multiple texts tiktok video](https://images.wondershare.com/filmora/article-images/add-multiple-texts-tiktok-video.jpg)
+
+**Step 3:** Choose a **Font** and a **Color**. Don't forget to tap **Done.**
+
+## Part 3: How to Add Background Color to Text on TikTok?
+
+Right when you thought the video editing with textual effects was limited to this point, TikTok decided to surprise you further. You might have seen your Instagram fellow members use a dark background behind their text in several stories, videos, posts, haven't you? We assumed so.
+
+But did you know you can use a similar effect to post or share videos on TikTok too? Even if you didn't, it's not a problem. Because in this part, we will tell you how you can use the help of Instagram and add background color to text on TikTok.
+
+**Step 1:** You access the Story recording view by clicking the **\+ icon** on the interface. Then you either record live video or use video from the gallery collection.
+
+**Step 2:** Select the **letter Aa** in the video interface to enter the text you wish to appear in the video. You may change the font and size of the text displayed below.
+
+**Step 3:** Choose a **black backdrop** for the text by clicking on the **letter A** with two asterisks above. Then press the **Next** button. There are two tiles for applying text effects to the letter **A symbol**.
+
+![add backdrop tiktok video text](https://images.wondershare.com/filmora/article-images/add-backdrop-tiktok-video-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 4:** As a result, we produced a text effect vide a dark backdrop. To save videos to your device's album, click the **Download** symbol.
+
+**Step 5:** To capture video, **Launch the TikTok** application and tap the **\+ icon**. To access the gallery on the smartphone and pick the video to download from Instagram, click **Upload** squares in the touch interface.
+
+**Step 6:** Lastly, you can add extra elements to the video, such as _filters_ and _stickers,_ before uploading it to your TikTok account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Add Text to Video in Filmora?
 
@@ -612,7 +612,7 @@ Before learning how to invite others on TikTok, let's shed light on the requirem
 * To use virtual gifts during a live stream on TikTok, you should be 18 years old or above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Invite Others to Join Your Live on TikTok Easily
@@ -680,20 +680,24 @@ TikTok has made a significant impact on the social media industry. Due to its hi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-experts-guide-to-laptop-screenrecord-software-for-2024/"><u>[New] Expert's Guide to Laptop ScreenRecord Software for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-complete-overview-what-is-google-podcast-app/"><u>[New] In 2024, Complete Overview What Is Google Podcast App?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-orchestrate-online-albums-photos-pair-with-songs/"><u>[New] In 2024, Orchestrate Online Albums Photos Pair With Songs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-6-tools-to-download-lite-videos-from-facebook/"><u>[New] Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-earnings-spectrum-unveiling-the-financial-power-of-dailymovement-and-youtube/"><u>[Updated] Earnings Spectrum Unveiling the Financial Power of DailyMovement and YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-streamlining-tiktok-videos-chromeandroidios-junctions/"><u>[Updated] Streamlining TikTok Videos Chrome/Android/iOS Junctions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-blueprint-for-earning-money-on-tiktok-8-strategies/"><u>2024 Approved The Ultimate Blueprint for Earning Money on TikTok (8 Strategies)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-30-tiktok-usernames-for-higher-engagement-and-followers/"><u>2024 Approved Top 30 TikTok Usernames for Higher Engagement and Followers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cartoonhub-complete-guide-and-assessment-2024/"><u>CartoonHub Complete Guide & Assessment 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-every-moment-mastering-snapchat-photo-edits/"><u>Elevate Every Moment Mastering Snapchat Photo Edits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/experts-guide-to-tiktok-character-variants/"><u>Expert's Guide to TikTok Character Variants</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-12-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 12 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-12-pro-max-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 12 Pro Max? 5 Best Solutions | Stellar</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/quick-fixes-to-fasten-tiktok-video-speed-for-2024/"><u>Quick Fixes to Fasten TikTok Video Speed for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210885704-9781088129463-shawana-a-memoir/"><u>Shawana, A Memoir | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-screen-recorder-for-everyday-users/"><u>[New] 2024 Approved Best Screen Recorder for Everyday Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-elevate-your-creative-content-the-top-50plus-tiktok-tags/"><u>[New] Elevate Your Creative Content The Top 50+ TikTok Tags</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enhance-image-quality-with-iphone-lights-control-for-2024/"><u>[New] Enhance Image Quality with iPhone Lights Control for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-essential-steps-for-crafting-stunning-slow-mo-videos-on-tiktok-for-2024/"><u>[New] Essential Steps for Crafting Stunning Slow Mo Videos on TikTok for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>[New] Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-precision-record-keeper-for-chromebook/"><u>[Updated] 2024 Approved Precision Record Keeper for ChromeBook</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-composing-the-ideal-tiktok-closure-melody/"><u>[Updated] Composing the Ideal TikTok Closure Melody</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-crafting-captivating-jujutsu-kaisen-videos-for-tiktok/"><u>[Updated] In 2024, Crafting Captivating Jujutsu Kaisen Videos for TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-20-tiktok-captions-for-captivating-viewers/"><u>[Updated] Top 20 TikTok Captions for Captivating Viewers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>2024 Approved Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hazy-days-no-more-ensuring-clean-gopro-images/"><u>2024 Approved Hazy Days No More Ensuring Clean GoPro Images</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-elite-circle-unveiling-top-10-gamers-on-tiktok/"><u>2024 Approved The Elite Circle Unveiling Top 10 Gamers on TikTok</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/access-the-latest-social-interactions-watch-facebook-live-on-roku/"><u>Access the Latest Social Interactions Watch Facebook Live on Roku</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/deciphering-the-connotations-of-pfp-on-social-media-for-2024/"><u>Deciphering the Connotations of 'PFP' On Social Media for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-chatgpt-responses-through-proven-techniques-discover-the-7-most-impactful-ones/"><u>Elevate ChatGPT Responses Through Proven Techniques – Discover the 7 Most Impactful Ones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movaviqrgif/"><u>Movavi簡便實用的在線QR到GIF轉換器，無限量使用預設選項 - 數位化變身教學影片</u></a></li>
+<li><a href="https://win-superb.techidaily.com/prevent-computer-overheating-with-proven-strategies-by-yl-software-experts/"><u>Prevent Computer Overheating with Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/quick-photovideo-recovery-on-snapchat/"><u>Quick Photo/Video Recovery on Snapchat</u></a></li>
 </ul></div>
 
