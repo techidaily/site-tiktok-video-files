@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-12-31T04:51:45.124Z
-updated: 2025-01-01T18:50:59.125Z
+date: 2025-01-07T16:37:52.550Z
+updated: 2025-01-09T19:40:44.017Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -52,14 +52,10 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -72,10 +68,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -84,6 +76,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -91,6 +87,10 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -104,7 +104,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -128,19 +128,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-art-of-embedding-yt-videos-on-your-website/"><u>[New] 2024 Approved Mastering the Art of Embedding YT Videos on Your Website</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-essential-guide-for-newcomers-on-av1/"><u>[New] The Essential Guide for Newcomers on AV1</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-boost-your-tiktok-video-speed-easy-methods-explored/"><u>[Updated] In 2024, Boost Your TikTok Video Speed Easy Methods Explored</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-top-5-methods-for-creating-an-impressive-tiktok-introduction-with-macos/"><u>[Updated] In 2024, Top 5 Methods for Creating an Impressive TikTok Introduction with MacOS</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-40i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 40i Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>In 2024, Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-optimal-live-video-distributors-suite/"><u>In 2024, Optimal Live Video Distributors' Suite</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-swift-fixes-to-rectify-non-sending-videos-on-the-social-networking-platform-iphoneandroid/"><u>In 2024, Swift Fixes to Rectify Non-Sending Videos on the Social Networking Platform iPhone/Android</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement/"><u>In 2024, The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-free-m4a-audio-editing-software-reviews-and-downloads/"><u>New 2024 Approved Top Free M4A Audio Editing Software Reviews and Downloads</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/savory-sessions-tiktoks-top-food-vloggers/"><u>Savory Sessions TikTok's Top Food Vloggers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-house-flipper-2-pc-crash-issues-a-comprehensive-guide/"><u>Solving 'House Flipper 2' PC Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-8-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 8 Plus Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-nord-n30-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Nord N30 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-bringing-jujutsu-kaisen-characters-to-life-online/"><u>[New] Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-selective-removers-to-purify-video-identity-signs/"><u>[New] In 2024, Selective Removers to Purify Video Identity Signs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-instant-improvement-in-visuals-the-canva-technique-for-borderless-images-for-2024/"><u>[New] Instant Improvement in Visuals The Canva Technique for Borderless Images for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unlock-your-potential-tiktok-money-making-techniques-explained-for-2024/"><u>[New] Unlock Your Potential TikTok Money-Making Techniques Explained for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-19-best-anime-inspirations-for-tiktok-stars/"><u>[Updated] 2024 Approved 19 Best Anime Inspirations for TikTok Stars</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-getting-started-with-computers-the-basics-of-going-live-on-tiktok/"><u>[Updated] 2024 Approved Getting Started with Computers The Basics of Going Live on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>2024 Approved Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/crafting-your-unique-chrome-dino-adventure-with-easy-gendino-instructions/"><u>Crafting Your Unique Chrome Dino Adventure with Easy GenDino Instructions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cutting-edge-techniques-for-outstanding-tiktok-video-production-using-templates-for-2024/"><u>Cutting-Edge Techniques for Outstanding TikTok Video Production Using Templates for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-securely-transfer-data-from-windows-server-2012-r2-to-external-usb-storage-a-guide-with-three-proven-methods/"><u>How to Securely Transfer Data From Windows Server 2012 R2 to External USB Storage - A Guide with Three Proven Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-depth-look-this-years-unique-tiktok-moves/"><u>In-Depth Look This Year's Unique TikTok Moves</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/nailing-the-technique-for-snapchat-screen-time-lapses/"><u>Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-wdf-performance-to-reduce-system-cpu-usage/"><u>Optimizing WDF Performance to Reduce System CPU Usage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-tecno-camon-20-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Tecno Camon 20 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-and-reviewing-anthropics-smart-photo-editor-software/"><u>The Ultimate Guide to Using and Reviewing Anthropics Smart Photo Editor Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unveiling-the-magic-of-clear-audio-eliminating-ambient-noises-using-audacity-for-2024/"><u>Unveiling the Magic of Clear Audio Eliminating Ambient Noises Using Audacity for 2024</u></a></li>
 </ul></div>
 

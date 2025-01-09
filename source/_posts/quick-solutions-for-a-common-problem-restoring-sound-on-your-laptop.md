@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for a Common Problem - Restoring Sound on Your Laptop
-date: 2024-12-26T22:15:08.203Z
-updated: 2025-01-01T22:17:34.988Z
+date: 2025-01-02T16:49:35.495Z
+updated: 2025-01-09T17:05:28.381Z
 tags:
   - win11
   - win10
@@ -39,13 +39,17 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
@@ -95,19 +95,23 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
@@ -117,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
@@ -125,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
@@ -135,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
@@ -143,17 +151,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 5: Troubleshoot hardware issues**
 
@@ -185,17 +185,17 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>[New] 2024 Approved Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras-for-2024/"><u>[New] Camera Connoisseurs' Hits The Best 6 of the Year's 4K Cameras for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>[New] In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-elevating-your-youtube-presence-with-customized-subtitles/"><u>[New] In 2024, Elevating Your YouTube Presence with Customized Subtitles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-best-laptops-for-video-editing/"><u>[Updated] 2024 Approved The Best Laptops for Video Editing</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/25-popular-tiktok-creators-with-anime-flair-for-2024/"><u>25 Popular TikTok Creators with Anime Flair for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhancing-tiktok-experience-with-siri-voice-commands/"><u>Enhancing TikTok Experience with Siri Voice Commands</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/foremost-choices-customizable-mobile-alerts/"><u>Foremost Choices Customizable Mobile Alerts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c51-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C51 To Phone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/leveraging-social-influence-a-guide-to-biz-success-on-snap/"><u>Leveraging Social Influence A Guide to Biz Success on Snap</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-professional-pathways-for-audio-integration-in-igtv-media/"><u>New Professional Pathways for Audio Integration in IGTV Media</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/regular-vlogger-discussion-guidelines/"><u>Regular Vlogger Discussion Guidelines</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>[New] 2024 Approved Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-jujutsu-kaisens-tiktok-a-creative-journey/"><u>[New] In 2024, Jujutsu Kaisen's TikTok A Creative Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>[New] In 2024, Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-turning-tiktok-videos-into-gifs-with-best-tools/"><u>[Updated] In 2024, Seamlessly Turning TikTok Videos Into GIFs with Best Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-craziest-tiktok-games-worth-playing/"><u>[Updated] Top 10 Craziest TikTok Games Worth Playing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-10-most-popular-tiktok-challenges-deserves-a-try/"><u>2024 Approved 10 Most Popular TikTok Challenges Deserves A Try</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-best-tool-to-translate-youtube-video-to-arabic/"><u>2024 Approved Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-recorders-for-low-end-pc/"><u>2024 Approved Screen Recorders for Low-End PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-savings-on-a-large-screen-upgrade-swapping-out-your-tv-for-a-high-quality-cost-effective-projector-at-20-offzdnet/"><u>Exceptional Savings on a Large Screen Upgrade: Swapping Out Your TV for a High-Quality, Cost-Effective Projector at 20% Off![ZDNet]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-fold-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel Fold to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>In 2024, Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
 </ul></div>
 
