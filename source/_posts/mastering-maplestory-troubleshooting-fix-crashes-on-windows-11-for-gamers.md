@@ -1,7 +1,7 @@
 ---
 title: Mastering MapleStory Troubleshooting – Fix Crashes on Windows 11 for Gamers
-date: 2025-01-10T02:00:15.947Z
-updated: 2025-01-15T07:27:57.810Z
+date: 2025-01-15T17:37:10.206Z
+updated: 2025-01-21T18:59:03.062Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -56,6 +52,10 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -65,6 +65,10 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -76,9 +80,17 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -98,6 +110,10 @@ It may take some time to complete the verifying process.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finished updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
@@ -115,10 +131,6 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -129,19 +141,11 @@ It may take some time to complete the verifying process.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -150,10 +154,6 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -183,22 +183,22 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-blending-pictures-into-a-single-storyboard-image/"><u>[New] 2024 Approved Blending Pictures Into a Single Storyboard Image</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-accidental-video-loadout-on-tiktok-find-again/"><u>[New] Accidental Video Loadout on TikTok – Find Again?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-cutting-edge-tiktok-live-broadcast-techniques-on-computer/"><u>[New] Cutting-Edge TikTok Live Broadcast Techniques on Computer</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>[New] In 2024, Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-elevate-engagement-the-hottest-tiktok-hashtags-for-now/"><u>[New] In 2024, Elevate Engagement The Hottest TikTok Hashtags for Now</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-secrets-of-creating-a-bespoke-tiktok-hashtag/"><u>[New] In 2024, Secrets of Creating a Bespoke TikTok Hashtag</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-editing-software-listings/"><u>[New] Ultimate Editing Software Listings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-weaving-your-way-to-greatness-in-tiktok-content/"><u>[Updated] In 2024, Weaving Your Way to Greatness in TikTok Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-8-best-open-source-videoconference-systems-for-enterprises-today-for-2024/"><u>[Updated] The 8 Best Open Source Videoconference Systems for Enterprises Today for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/k-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-youtube-dimensions-a-comprehensive-guide-for-2024/"><u>Mastering YouTube Dimensions A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-twitch-universe-a-beginners-pathway/"><u>Navigating the Twitch Universe: A Beginner's Pathway</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/optimal-techniques-to-record-your-snapchat-stories/"><u>Optimal Techniques to Record Your Snapchat Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-tricks-to-take-images-from-your-screen-on-a-logitech-keyboard-setup/"><u>Quick Tricks to Take Images From Your Screen on a Logitech Keyboard Setup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-camon-30-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Camon 30 Pro 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/tiktok-video-upload-guide-chromeandroidios-strategies-for-2024/"><u>TikTok Video Upload Guide Chrome/Android/iOS Strategies for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-art-of-adding-descriptive-texts-in-tiktok-videos/"><u>[New] 2024 Approved The Art of Adding Descriptive Texts in TikTok Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] 2024 Approved Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>[New] From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>[New] High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>[New] In 2024, Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-distinguishing-yourself-with-ingenious-tiktok-profile-ideas/"><u>[New] In 2024, Distinguishing Yourself with Ingenious TikTok Profile Ideas</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treaming-stardom-unraveling-jake-pauls-youtube-rise-for-2024/"><u>[New] Streaming Stardom Unraveling Jake Paul's YouTube Rise for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-expert-tips-for-broadcasting-on-tiktok-via-computer/"><u>[Updated] 2024 Approved Expert Tips for Broadcasting on TikTok Via Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-essential-guide-to-tracking-down-your-youtube-voice/"><u>[Updated] 2024 Approved The Essential Guide to Tracking Down Your YouTube Voice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-total-environmental-immersion-in-media-creation/"><u>[Updated] Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tips-to-handle-unintended-self-presence-in-video-conversations/"><u>2024 Approved Tips to Handle Unintended Self-Presence in Video Conversations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-boost-your-tiktok-presence-with-strategic-captioning-methods/"><u>In 2024, Boost Your TikTok Presence with Strategic Captioning Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-culinary-delights-galore-the-best-of-the-viral-food-tiktok-recipes-you-cant-skip/"><u>In 2024, Culinary Delights Galore The Best of the Viral Food TikTok Recipes You Can't Skip</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-video-praise-with-innovative-approaches/"><u>In 2024, Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-fundamentals-of-earnings-on-youtube/"><u>In 2024, The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/scripting-the-final-push-for-your-tiktok-series/"><u>Scripting the Final Push for Your TikTok Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-the-18-most-effective-ios-shortcuts-hacks/"><u>Ultimate Guide: Discover the 18 Most Effective iOS Shortcuts Hacks</u></a></li>
 </ul></div>
 

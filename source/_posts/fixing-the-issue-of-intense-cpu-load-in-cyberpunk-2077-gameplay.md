@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Intense CPU Load in Cyberpunk 2077 Gameplay
-date: 2025-01-10T01:40:28.583Z
-updated: 2025-01-14T22:16:03.904Z
+date: 2025-01-15T16:50:00.429Z
+updated: 2025-01-21T18:26:14.598Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 **[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47)**  is finally out! Players can’t wait to add it to their game list. But the issue you might be encountering is, the download on Steam is stuck at 57.4 GB or the download speed is super slow. In this article, we’ll guide you how to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
  1) Under the**LIBRARY** tab, navigate to your game**Cyberpunk 2077** . Right-click it and select**Properties** .  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After applying the changes, resume your download to check if this boosts your download speed.
@@ -83,16 +87,12 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, your game’s unpacking speed should be boosted.
@@ -117,14 +117,14 @@ Here’s how it works:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -140,13 +140,13 @@ Here’s how it works:
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
@@ -162,13 +162,13 @@ Here’s how it works:
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you should be able to download your game at a faster speed.
 
@@ -191,22 +191,22 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] 2024 Approved Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac-for-2024/"><u>[New] Beat the Competition Designing Unforgettable TikTok Dancing on a Mac for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-examining-the-impact-of-aurora-on-home-entertainment/"><u>[New] Examining the Impact of Aurora on Home Entertainment</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[New] In 2024, A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[New] In 2024, Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>[New] In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-revolutionize-tiktok-live-top-techniques-from-desktop-viewers/"><u>[New] Revolutionize TikTok Live Top Techniques From Desktop Viewers</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features/"><u>[Updated] Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[Updated] In 2024, Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-follower-deletion-identification-for-2024/"><u>[Updated] Instagram Follower Deletion Identification for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools/"><u>2024 Approved Find the Perfect Video Collaboration App Our Choice of 10 Free Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-factory-reset-process-in-windows-11/"><u>Complete Guide: Step-by-Step Factory Reset Process in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-compelling-end-screens-in-youtube-videos/"><u>Crafting Compelling End Screens in YouTube Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-tablet-size-talent-leading-ipados-art-programs/"><u>In 2024, Tablet-Size Talent Leading iPadOS Art Programs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success/"><u>Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-ultimate-list-of-top-ios-apps-for-pdf-management-viewing-editing-in-2020/"><u>The Ultimate List of Top iOS Apps for PDF Management (Viewing, Editing) in 2020</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>[New] 2024 Approved Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-a-closer-look-at-tiktoks-hot-reaction-videos/"><u>[New] A Closer Look at TikTok's Hot Reaction Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-needlework-nuggets-cultivating-craftsmanship-in-the-creative-sphere-for-2024/"><u>[New] Needlework Nuggets Cultivating Craftsmanship in the Creative Sphere for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-cutting-edge-tiktok-techniques-for-new-video-borders/"><u>[Updated] Cutting-Edge TikTok Techniques for New Video Borders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-essential-techniques-for-musical-tiktok-creation/"><u>[Updated] Essential Techniques for Musical TikTok Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-perfecting-the-craft-of-youtube-short-video-making/"><u>[Updated] In 2024, Perfecting the Craft of YouTube Short Video Making</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-standout-on-social-media-top-30-memorable-tiktok-usernames-for-views-for-2024/"><u>[Updated] Standout on Social Media Top 30 Memorable TikTok Usernames for Views for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-backgrounds-a-filmmakers-guide/"><u>2024 Approved Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-lightning-fast-method-to-claim-tiktok-treasures/"><u>2024 Approved Lightning-Fast Method to Claim TikTok Treasures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/archiving-made-simple-saving-chatgpt-talks/"><u>Archiving Made Simple: Saving ChatGPT Talks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-engineering-a-standout-tiktok-endcap/"><u>In 2024, Engineering A Standout TikTok Endcap</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-key-to-immersive-roleplay-zooming-into-roblox-worlds/"><u>In 2024, The Key to Immersive Roleplay Zooming Into Roblox Worlds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-ballad-barren-builder-create-personal-accompaniment-music/"><u>New In 2024, Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pre-order-apple-vision-pro-coming-soon-availability-begins-jan-19-see-it-in-person-feb-2-zdnet/"><u>Pre-Order Apple Vision Pro Coming Soon: Availability Begins Jan 19; See It In Person Feb 2 - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-charge-or-slow-power-comparing-level-1-2-and-3-ev-charging-options-explained/"><u>Quick Charge or Slow Power? Comparing Level 1, 2 & 3 EV Charging Options Explained</u></a></li>
 </ul></div>
 

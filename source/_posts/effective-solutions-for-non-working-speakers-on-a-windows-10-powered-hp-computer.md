@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2025-01-08T04:44:36.469Z
-updated: 2025-01-14T22:57:55.771Z
+date: 2025-01-20T19:03:43.245Z
+updated: 2025-01-21T16:52:39.698Z
 tags:
   - win11
   - win10
@@ -30,17 +30,13 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
@@ -51,6 +47,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -65,7 +65,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -77,7 +77,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
@@ -92,10 +92,6 @@ Go with the easy steps to show it.
 
  5) Check if speakers works on your laptop now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -105,6 +101,10 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,24 +131,18 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-hassle-free-tiktok-age-checks/"><u>[New] 2024 Approved Hassle-Free TikTok Age Checks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlocking-the-hidden-power-of-instagrams-ask-emoji/"><u>[New] 2024 Approved Unlocking the Hidden Power of Instagram’s Ask Emoji</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-viral-visions-the-ultimate-guide-to-tiktok-editing-wonders/"><u>[New] In 2024, Viral Visions The Ultimate Guide to TikTok Editing Wonders</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-delicious-diplomacy-global-tiktok-cuisine/"><u>[Updated] 2024 Approved Delicious Diplomacy Global TikTok Cuisine</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-architecting-a-stellar-tiktok-closing-segment-for-2024/"><u>[Updated] Architecting a Stellar TikTok Closing Segment for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elite-9-directors-cuts-downloader/"><u>[Updated] Elite 9 Directors' Cuts Downloader</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-essential-techniques-for-mac-based-ootd-tiktok-videos/"><u>[Updated] In 2024, Essential Techniques for Mac-Based OOTD TikTok Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-studio-validating-earnings-flow/"><u>[Updated] In 2024, YouTube Studio Validating Earnings Flow</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-quick-access-installing-and-using-tiktok-app-on-macbook-for-2024/"><u>[Updated] Quick Access Installing and Using TikTok App on MacBook for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2023s-most-captivating-channel-the-ultimate-story-showcase-for-2024/"><u>2023'S Most Captivating Channel The Ultimate Story Showcase for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/90-funniest-2-minute-tiktoks-ever-for-2024/"><u>90 Funniest 2-Minute TikToks Ever for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-10-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>In 2024, Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>In 2024, Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/key-10-tiktok-filter-techniques-for-memorable-videos-for-2024/"><u>Key 10 TikTok Filter Techniques For Memorable Videos for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-digital-movie-files-at-home/"><u>Repairing Digital Movie Files at Home</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-art-of-publicizing-vimeo-videos/"><u>The Art of Publicizing Vimeo Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-clash-of-titans-iphone-15-pro-max-against-samsung-s24-ultra-detailed-comparison/"><u>The Clash of Titans: IPhone 15 Pro Max Against Samsung S24 Ultra – Detailed Comparison</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-users-guide-to-picture-softening-four-ways/"><u>[New] 2024 Approved IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-legal-tips-and-tricks-for-custom-watermarking-in-instagram/"><u>[New] Legal Tips and Tricks for Custom Watermarking in Instagram</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-dual-identity-approach-for-influential-tiktok-presence/"><u>[Updated] 2024 Approved The Dual Identity Approach for Influential TikTok Presence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-professional-thumbnails-from-your-phone-for-youtube/"><u>[Updated] Professional Thumbnails From Your Phone for YouTube</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-amplify-your-creative-voice-on-tiktok-designed-themes-for-you/"><u>2024 Approved Amplify Your Creative Voice on TikTok Designed Themes for You</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>2024 Approved The Ultimate TikTok Playbook Driving View Growth and Engagement</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/advanced-techniques-in-managing-data-storage-systems/"><u>Advanced Techniques in Managing Data Storage Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/demons-souls-reborn-visual-mastery-meets-the-iconic-world-and-mechanics/"><u>Demon's Souls Reborn: Visual Mastery Meets the Iconic World & Mechanics</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-information-for-successful-tiktok-use-on-macos/"><u>In 2024, Essential Information for Successful TikTok Use on macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-quick-fixes-for-critical-cxfreeze-software-crashes/"><u>Resolved: Quick Fixes for Critical Cx_Freeze Software Crashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-mov-files-into-gifs-discover-the-top-3-methods-with-2-free-options/"><u>Transforming MOV Files Into GIFs: Discover the Top 3 Methods with 2 Free Options</u></a></li>
 </ul></div>
 

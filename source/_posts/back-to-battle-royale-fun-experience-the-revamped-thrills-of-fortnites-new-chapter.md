@@ -1,7 +1,7 @@
 ---
 title: Back to Battle Royale Fun? Experience The Revamped Thrills of Fortnite's New Chapter
-date: 2025-01-08T05:01:43.577Z
-updated: 2025-01-14T18:52:38.600Z
+date: 2025-01-18T18:10:24.468Z
+updated: 2025-01-21T18:00:40.846Z
 categories:
   - BestProducts
 description: This Article Describes Back to Battle Royale Fun? Experience The Revamped Thrills of Fortnite's New Chapter
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/3_trWro3k1YIItm5sa5VVRLep5s=/400x300/fi
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/KDrlBicwDSsm8oahXwLC9cx5FSs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -44,7 +40,7 @@ Lifewire / Yoona Wagener
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Halo
@@ -77,10 +73,14 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design: An accessory that blends in
@@ -103,6 +103,10 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -121,10 +125,6 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -135,10 +135,6 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -146,6 +142,10 @@ Lifewire / Yoona Wagener
  While this isn’t the longest-lasting battery, it was rapid to charge at just about 1 hour and 15 minutes. It was also easy to keep track of battery life and avoid inadvertently over-charging the device, thanks to system notifications that popped up on my[smartphone](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) when my band battery was low as well as when it was fully charged and ready to go again.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -172,7 +172,7 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -206,20 +206,20 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[New] 2024 Approved Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[New] In 2024, Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-revolutionary-tiktok-profits-estimator-guide-for-2024/"><u>[New] Revolutionary TikTok Profits Estimator Guide for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-guide-to-tiktok-captioning-mastery-for-2024/"><u>[New] The Ultimate Guide to TikTok Captioning Mastery for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-tiktok-visuals-with-monumental-head-effects/"><u>[Updated] In 2024, Elevating TikTok Visuals with Monumental Head Effects</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-successfully-recovered-comprehensive-guide-to-rebuilding-your-itunes-and-apple-music-collection-across-ios-and-windows-systems/"><u>1. Successfully Recovered: Comprehensive Guide to Rebuilding Your iTunes & Apple Music Collection Across iOS and Windows Systems</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-essential-techniques-for-musical-tiktok-creation/"><u>2024 Approved Essential Techniques for Musical TikTok Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-exploration-of-polarrs-advanced-image-tools/"><u>Comprehensive Exploration of Polarr's Advanced Image Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-mini-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 mini</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-correct-missing-binkw32dll-files-in-your-computer-system/"><u>How to Address and Correct Missing Binkw32.dll Files in Your Computer System</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/kitchen-classics-top-10-popular-food-videos-on-tiktok-for-2024/"><u>Kitchen Classics Top 10 Popular Food Videos on TikTok for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/leading-10-video-editing-programs-for-instagram-reels-enthusiasts-for-2024/"><u>Leading 10 Video Editing Programs for Instagram Reels Enthusiasts for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209955957-9782824633633-vivre-la-voyance/"><u>Vivre la voyance | Free Book</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac-for-2024/"><u>[New] Beat the Competition Designing Unforgettable TikTok Dancing on a Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[New] In 2024, A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[New] In 2024, Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>[New] In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-revolutionize-tiktok-live-top-techniques-from-desktop-viewers/"><u>[New] Revolutionize TikTok Live Top Techniques From Desktop Viewers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevate-your-edits-creating-stellar-tiktok-react-videos-in-filmoras-pro-features/"><u>[Updated] Elevate Your Edits Creating Stellar TikTok React Videos in Filmora's Pro Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-rtx-gpus-what-you-need-to-know-about-nvidias-innovation/"><u>Exploring RTX GPUs: What You Need To Know About NVIDIA's Innovation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-interpret-your-laptopamoor-power-statistics-on-windows-10-insights-and-advice/"><u>How to Interpret Your Laptop'amoor Power Statistics on Windows 10: Insights & Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-magic-5-lite-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Magic 5 Lite online without jailbreak</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-mobile-movie-brilliance-with-these-four-methods/"><u>In 2024, Maximize Mobile Movie Brilliance with These Four Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success/"><u>Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-quick-elgato-driver-downloads-a-comprehensive-guide/"><u>Mastering Quick Elgato Driver Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-privacy-engage-in-encrypted-chats-via-duckduckgos-innovative-ai-platform-featuring-chatgpt/"><u>Protect Your Privacy: Engage in Encrypted Chats via DuckDuckGo's Innovative AI Platform, Featuring ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stepwise-approach-to-perfect-videography-adding-filters-on-devices/"><u>Stepwise Approach to Perfect Videography Adding Filters on Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-x-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone X from iCloud</u></a></li>
 </ul></div>
 
