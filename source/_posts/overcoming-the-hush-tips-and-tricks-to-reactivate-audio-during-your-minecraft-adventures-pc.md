@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hush: Tips and Tricks to Reactivate Audio During Your Minecraft Adventures (PC)"
-date: 2025-01-20T17:25:36.840Z
-updated: 2025-01-28T08:35:20.197Z
+date: 2025-02-04T16:12:31.613Z
+updated: 2025-02-09T16:17:40.464Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Minecraft-1.17.jpg)
 
  As one of the most popular video games, Minecraft keeps releasing new updates to bring new content. However, recently some gamers have reported a black screen issue after updating the game to the latest version. If you happen to be one of them, don’t worry. Here we will tell you some working solutions to this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,21 +36,25 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -66,7 +66,7 @@ If the issue persists, read on and try the next fix.
 If the issue remains, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -86,7 +86,7 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -105,6 +105,10 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
@@ -129,6 +133,10 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -136,10 +144,6 @@ If not, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run box, type**%appdata%.minecraft** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
@@ -150,10 +154,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -179,24 +179,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-seamless-sound-synthesis-inshots-audio-guide-for-2024/"><u>[New] Seamless Sound Synthesis InShot's Audio Guide for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-accidental-tiktok-overview-can-i-see-previous-videos-in-2024/"><u>[Updated] Accidental TikTok Overview – Can I See Previous Videos, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-diy-digital-storytelling-making-moving-pictures-on-your-smartphone-for-2024/"><u>[Updated] DIY Digital Storytelling Making Moving Pictures on Your Smartphone for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-makeup-artistry-leading-youtubers-of-2024/"><u>[Updated] Mastering the Makeup Artistry Leading YouTubers of 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-transforming-footage-into-viral-content-on-tiktok-from-computer-for-2024/"><u>[Updated] Transforming Footage Into Viral Content on TikTok From Computer for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-art-of-reshaping-your-tiktok-avatar-for-2024/"><u>[Updated] Unveiling the Art of Reshaping Your TikTok Avatar for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-visualize-for-a-friendly-facebook-for-2024/"><u>[Updated] Visualize for a Friendly Facebook for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-top-3-approaches-to-big-head-makeover-in-tiktok-videos/"><u>2024 Approved Top 3 Approaches to Big Head Makeover in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-viral-cooking-hits-best-tiktok-dishes/"><u>2024 Approved Viral Cooking Hits Best TikTok Dishes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-msedgeexe-crashing-on-windows-pcs/"><u>Effective Fixes for 'msedge.exe' Crashing on Windows PCs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-8-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 8 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-skyrocketing-your-tiktok-content-speed/"><u>In 2024, Skyrocketing Your TikTok Content Speed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-storm-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Storm 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
-<li><a href="https://article-files.techidaily.com/speech-tuning-made-simple-on-sony-playstation-consoles-for-2024/"><u>Speech Tuning Made Simple on Sony PlayStation Consoles for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/stellar-tiktok-handles-the-ultimate-guide-to-30-impactful-names-for-2024/"><u>Stellar TikTok Handles The Ultimate Guide to 30 Impactful Names for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/trouble-free-gaming-diagnosing-and-repairing-common-graphics-card-issues/"><u>Trouble-Free Gaming: Diagnosing and Repairing Common Graphics Card Issues</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728503606823-windows-11/"><u>ピクチャリソーシュナブの変更：Windows 11でドライブ間転送方法</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>[New] 2024 Approved Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-highpoint-artist-toolkit-review/"><u>[New] 2024 Approved Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-be-a-part-of-the-revolution-the-hottest-challenges-on-tiktok-top-10/"><u>[New] Be a Part of the Revolution The Hottest Challenges on TikTok (Top 10)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-free-virtual-meeting-software-options-for-both-windows-and-mac/"><u>[New] In 2024, Best Free Virtual Meeting Software Options For Both Windows & Mac</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unleashing-creativity-top-20-anime-themed-tiktoks/"><u>[New] In 2024, Unleashing Creativity Top 20 Anime-Themed TikToks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-legitimate-tiktok-growth-where-to-find-trustworthy-leads/"><u>[New] Legitimate TikTok Growth Where to Find Trustworthy Leads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings/"><u>[New] Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-5-innovative-yt-tales-share-your-life-journey/"><u>2024 Approved 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-innovating-character-size-in-tiktok-a-visual-guide/"><u>2024 Approved Innovating Character Size in TikTok A Visual Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-unlock-creative-potential-with-customizable-vocal-effects-on-tiktok/"><u>2024 Approved Unlock Creative Potential with Customizable Vocal Effects on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/engaging-generations-on-social-media-with-tiktok-campaigns/"><u>Engaging Generations on Social Media with TikTok Campaigns</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-v30t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme V30T is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-pivotal-role-of-thumbnails-in-video-success-stories/"><u>In 2024, The Pivotal Role of Thumbnails in Video Success Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
 </ul></div>
 

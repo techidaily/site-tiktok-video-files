@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2025-01-25T02:07:07.683Z
-updated: 2025-01-28T02:41:21.015Z
+date: 2025-02-04T16:07:17.346Z
+updated: 2025-02-09T16:05:08.418Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your speakers volume
@@ -33,6 +33,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 `` 2) Click the**sound** icon on your taskbar and choose**Mixer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Drag the slider to increase the volume to test if the sound could work.
 
@@ -44,9 +48,17 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -56,17 +68,9 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
 
@@ -84,17 +88,9 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -105,6 +101,10 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,22 +131,24 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-a-closer-look-at-non-tiktok-apps-leading-the-next-wave/"><u>[New] A Closer Look at Non-TikTok Apps Leading the Next Wave</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-anonymous-engagement-how-to-watch-instagram-stories-without-profile-reveal-pc-android-iphone/"><u>[New] Anonymous Engagement How to Watch Instagram Stories without Profile Reveal [PC, Android, iPhone]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-acquire-version-6-of-windows-movie-maker/"><u>[Updated] 2024 Approved How to Acquire Version 6 of Windows Movie Maker</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-revamping-your-tiktok-videos-top-3-background-changing-methods/"><u>[Updated] 2024 Approved Revamping Your TikTok Videos Top 3 Background Changing Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-lost-frames-during-video-capture-in-obs-for-2024/"><u>[Updated] Avoiding Lost Frames During Video Capture in OBS for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-breaking-through-on-tiktok-personal-branding-and-differentiation-for-2024/"><u>[Updated] Breaking Through on TikTok Personal Branding and Differentiation for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc-for-2024/"><u>[Updated] Unlock the Power of Live Broadcasting with TikTok From PC for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-viral-videos-and-lawfulness-pre-upload-copyright-verification/"><u>[Updated] Viral Videos & Lawfulness Pre-Upload Copyright Verification</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>2024 Approved Innovation in Minimization The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/36-epic-tiktok-comedy-moments-for-2024/"><u>36 Epic TikTok Comedy Moments for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/a-beginners-blueprint-to-crafting-engaging-tiktok-reaction-videos-with-filmora-for-2024/"><u>A Beginner’s Blueprint to Crafting Engaging TikTok Reaction Videos with Filmora for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazons-top-bargains-for-august-2eighty-four-unbeatable-deals-revealed-by-zdnet/"><u>Amazon's Top Bargains for August 2Eighty-Four: Unbeatable Deals Revealed by ZDNET!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-back-to-watching-seamlessly-a-guide-to-repairing-broken-closed-captions-on-amazon-prime/"><u>Get Back to Watching Seamlessly: A Guide to Repairing Broken Closed Captions on Amazon Prime</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-leading-gamers-in-tiktok-world/"><u>In 2024, Leading Gamers in TikTok World</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C12 Plus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/oppna-dig-for-fotovisare-ladda-ner-av-bilder-med-windows-and-mac-stodjavningar/"><u>Öppna Dig För Fotovisare - Ladda Ner Av Bilder Med Windows & Mac-Stödjävningar</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-amplifying-audio-with-tiktok-duets-for-2024/"><u>[New] Amplifying Audio with TikTok Duets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-filming-made-easy-selecting-the-right-audio-devices/"><u>[New] In 2024, Filming Made Easy Selecting the Right Audio Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-reliable-tiktok-popularity-enhancers-for-2024/"><u>[New] Reliable TikTok Popularity Enhancers for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-fostering-connection-and-engagement-for-brands-on-tiktok/"><u>[Updated] 2024 Approved Fostering Connection and Engagement for Brands on TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-bridging-still-life-with-moving-picture-magic/"><u>[Updated] In 2024, Bridging Still Life with Moving Picture Magic</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-incorporating-siri-commands-in-tiktok-videos/"><u>[Updated] In 2024, The Ultimate Guide to Incorporating Siri Commands in TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-step-into-fame-crafting-an-authentic-tiktok-duplicate/"><u>[Updated] Step Into Fame Crafting an Authentic TikTok Duplicate</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-step-up-your-game-stunning-tiktok-videos-made-simple/"><u>[Updated] Step Up Your Game Stunning TikTok Videos Made Simple</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-pioneering-youtube-success-stories-via-tubebuddy/"><u>2024 Approved Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-edition-reviewed-discover-the-3-game-changing-features-that-won-my-trust-zdnet/"><u>Apple Watch Edition Reviewed: Discover the 3 Game-Changing Features That Won My Trust | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-flvavi-movavi/"><u>FREE Online FLV到AVI格式转换 - 使用Movavi视频编辑器</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-blaze-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Blaze 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-infusing-life-into-jujutsu-kaisen-with-tiktok-videos/"><u>In 2024, Infusing Life Into Jujutsu Kaisen with TikTok Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting-for-2024/"><u>Innovative Approaches to Photo Sharpening with Photopea's Background Cutting for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/jump-into-todays-buzzing-tiktok-trials/"><u>Jump Into Today's Buzzing TikTok Trials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-resolve-graphics-issues-after-forza-horizon-5-patch/"><u>Solution: Resolve Graphics Issues After Forza Horizon 5 Patch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-strategies-to-protect-your-online-privacy-using-any-web-browser-insights-from-zdnet/"><u>Top Strategies to Protect Your Online Privacy Using Any Web Browser - Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/trending-beats-navigating-the-world-of-viral-tiktok-raps-for-2024/"><u>Trending Beats Navigating the World of Viral TikTok Raps for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-free-mpeg-video-concatenators/"><u>Updated In 2024, Top-Rated Free MPEG Video Concatenators</u></a></li>
 </ul></div>
 
