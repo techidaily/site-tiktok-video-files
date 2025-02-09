@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Working Speakers on a Windows 10 Powered HP Computer
-date: 2025-01-20T19:03:43.245Z
-updated: 2025-01-21T16:52:39.698Z
+date: 2025-01-25T02:07:07.683Z
+updated: 2025-01-28T02:41:21.015Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **3\. Reinstall your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 3. Reinstall your sound driver)
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your speakers volume
 
  1)`` Make sure your laptop sound isn’t muted.
@@ -29,10 +33,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 `` 2) Click the**sound** icon on your taskbar and choose**Mixer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Drag the slider to increase the volume to test if the sound could work.
 
@@ -48,10 +48,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
 Go with the easy steps to show it.
@@ -60,12 +56,16 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -76,10 +76,6 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
@@ -88,9 +84,17 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -101,10 +105,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,18 +131,22 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-users-guide-to-picture-softening-four-ways/"><u>[New] 2024 Approved IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-legal-tips-and-tricks-for-custom-watermarking-in-instagram/"><u>[New] Legal Tips and Tricks for Custom Watermarking in Instagram</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-dual-identity-approach-for-influential-tiktok-presence/"><u>[Updated] 2024 Approved The Dual Identity Approach for Influential TikTok Presence</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-professional-thumbnails-from-your-phone-for-youtube/"><u>[Updated] Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-amplify-your-creative-voice-on-tiktok-designed-themes-for-you/"><u>2024 Approved Amplify Your Creative Voice on TikTok Designed Themes for You</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>2024 Approved The Ultimate TikTok Playbook Driving View Growth and Engagement</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/advanced-techniques-in-managing-data-storage-systems/"><u>Advanced Techniques in Managing Data Storage Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/demons-souls-reborn-visual-mastery-meets-the-iconic-world-and-mechanics/"><u>Demon's Souls Reborn: Visual Mastery Meets the Iconic World & Mechanics</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-information-for-successful-tiktok-use-on-macos/"><u>In 2024, Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-quick-fixes-for-critical-cxfreeze-software-crashes/"><u>Resolved: Quick Fixes for Critical Cx_Freeze Software Crashes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-mov-files-into-gifs-discover-the-top-3-methods-with-2-free-options/"><u>Transforming MOV Files Into GIFs: Discover the Top 3 Methods with 2 Free Options</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-a-closer-look-at-non-tiktok-apps-leading-the-next-wave/"><u>[New] A Closer Look at Non-TikTok Apps Leading the Next Wave</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-anonymous-engagement-how-to-watch-instagram-stories-without-profile-reveal-pc-android-iphone/"><u>[New] Anonymous Engagement How to Watch Instagram Stories without Profile Reveal [PC, Android, iPhone]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-acquire-version-6-of-windows-movie-maker/"><u>[Updated] 2024 Approved How to Acquire Version 6 of Windows Movie Maker</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-revamping-your-tiktok-videos-top-3-background-changing-methods/"><u>[Updated] 2024 Approved Revamping Your TikTok Videos Top 3 Background Changing Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-lost-frames-during-video-capture-in-obs-for-2024/"><u>[Updated] Avoiding Lost Frames During Video Capture in OBS for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-breaking-through-on-tiktok-personal-branding-and-differentiation-for-2024/"><u>[Updated] Breaking Through on TikTok Personal Branding and Differentiation for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unlock-the-power-of-live-broadcasting-with-tiktok-from-pc-for-2024/"><u>[Updated] Unlock the Power of Live Broadcasting with TikTok From PC for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-viral-videos-and-lawfulness-pre-upload-copyright-verification/"><u>[Updated] Viral Videos & Lawfulness Pre-Upload Copyright Verification</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>2024 Approved Innovation in Minimization The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/36-epic-tiktok-comedy-moments-for-2024/"><u>36 Epic TikTok Comedy Moments for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-beginners-blueprint-to-crafting-engaging-tiktok-reaction-videos-with-filmora-for-2024/"><u>A Beginner’s Blueprint to Crafting Engaging TikTok Reaction Videos with Filmora for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-top-bargains-for-august-2eighty-four-unbeatable-deals-revealed-by-zdnet/"><u>Amazon's Top Bargains for August 2Eighty-Four: Unbeatable Deals Revealed by ZDNET!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-back-to-watching-seamlessly-a-guide-to-repairing-broken-closed-captions-on-amazon-prime/"><u>Get Back to Watching Seamlessly: A Guide to Repairing Broken Closed Captions on Amazon Prime</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-leading-gamers-in-tiktok-world/"><u>In 2024, Leading Gamers in TikTok World</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C12 Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/oppna-dig-for-fotovisare-ladda-ner-av-bilder-med-windows-and-mac-stodjavningar/"><u>Öppna Dig För Fotovisare - Ladda Ner Av Bilder Med Windows & Mac-Stödjävningar</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
 
