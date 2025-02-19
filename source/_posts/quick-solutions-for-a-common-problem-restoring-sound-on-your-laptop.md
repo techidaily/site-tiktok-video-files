@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for a Common Problem - Restoring Sound on Your Laptop
-date: 2025-02-05T16:18:13.588Z
-updated: 2025-02-09T16:27:46.610Z
+date: 2025-02-13T17:19:39.998Z
+updated: 2025-02-19T16:31:29.300Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Run Windows audio playback troubleshooter**
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ### **Fix 3: Check your audio settings**
@@ -88,18 +92,22 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -114,14 +122,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
@@ -131,28 +135,24 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 5: Troubleshoot hardware issues**
@@ -185,20 +185,20 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unison-choirs-the-duet-experience-on-tiktok/"><u>[New] In 2024, Unison Choirs The Duet Experience on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-master-the-process-of-freeing-up-iphones-from-tiktok-video-watermarks/"><u>[New] Master the Process of Freeing Up iPhones From TikTok Video Watermarks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-laugh-out-loud-labyrinths-exploring-hysterical-tiktok-gaming-quests/"><u>[Updated] 2024 Approved Laugh-Out-Loud Labyrinths Exploring Hysterical TikTok Gaming Quests</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-building-bonds-before-buying-subscription-strategies/"><u>[Updated] Building Bonds Before Buying Subscription Strategies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-demystifying-the-meaning-behind-pfp-on-tiktok/"><u>[Updated] Demystifying the Meaning Behind PFP on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-downloading-the-latest-tiktok-features-on-your-macbook/"><u>[Updated] In 2024, Downloading the Latest TikTok Features on Your MacBook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-premium-android-vr3d-player-selection/"><u>[Updated] In 2024, Premium Android VR/3D Player Selection</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-yield-assessment-predicting-youtube-money-for-2024/"><u>[Updated] Yield Assessment Predicting YouTube Money for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-10t-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme 10T 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/holistic-photo-tale-architect-platform/"><u>Holistic Photo Tale Architect Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a56s-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A56s 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>In 2024, Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-gadgets-ranked-11-auditory-capture-guide-for-2024/"><u>Innovative Gadgets Ranked #11 Auditory Capture Guide for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-the-legal-landscape-check-tiktok-video-compliance-for-2024/"><u>Navigating the Legal Landscape Check TikTok Video Compliance for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/premium-audio-selection-top-cd-changers-and-players-24/"><u>Premium Audio Selection: Top CD Changers & Players '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-eliminate-youtubes-automatic-preplay-buffer/"><u>[New] 2024 Approved Eliminate YouTube's Automatic Preplay Buffer</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-animation-in-viral-online-videos/"><u>[New] 2024 Approved Mastering the Art of Animation in Viral Online Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-initiating-a-new-beginning-easy-steps-for-changing-your-tiktok-handle/"><u>[New] Initiating a New Beginning Easy Steps for Changing Your TikTok Handle</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-make-a-mark-with-rapid-impactful-tiktok-photo-tricks/"><u>[Updated] In 2024, Make a Mark with Rapid, Impactful TikTok Photo Tricks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos-for-2024/"><u>[Updated] Keep Your Content Safe Guidelines for Clearance of TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-guide-to-discovering-virtual-augmentations/"><u>2024 Approved A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-authentic-follower-acquisition-on-tiktok/"><u>2024 Approved Authentic Follower Acquisition on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-10-best-live-tv-streaming-services-with-comparison/"><u>In 2024, 10 Best Live TV Streaming Services - With Comparison</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mac-to-snapchat-creating-compact-shareable-content/"><u>Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-5-best-free-wmv-video-splitters/"><u>New In 2024, Top 5 Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-music-video-creators-for-stunning-visuals-for-2024/"><u>New Top 10 Music Video Creators for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-delete-programs-on-macos-easily/"><u>Step-by-Step Tutorial: How to Delete Programs on macOS Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-cant-i-access-mass-effect-legendary-edition/"><u>Troubleshooting: Why Can't I Access Mass Effect Legendary Edition?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211332532-9798869177605-hvkhrz-khmt-l-45-dkvt-mh-hv-rh-vykh-zh-ynh-t-hyyv-lntsh-hvvyh-l-krvv-lmvvt-nde/"><u>הוכרז כמת ל -45 דקות - מה שהוא ראה ואיך זה שינה את חייו לנצח - חוויה של קרוב למוות (NDE) | Free Book</u></a></li>
 </ul></div>
 

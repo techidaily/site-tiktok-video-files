@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering the Art of Creating an Original TikTok Hashtag\""
-date: 2025-02-02T16:28:25.987Z
-updated: 2025-02-09T16:13:39.077Z
+date: 2025-02-18T16:54:51.976Z
+updated: 2025-02-19T17:35:31.178Z
 tags:
   - ai video
   - ai tiktok
@@ -248,10 +248,6 @@ In this article, you will learn about the top **TikTok rap songs 2021**.
 
 02 [Who Is the Best Rapper in TikTok?](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: 20 Popular TikTok Rap Songs in 2021
 
 Check out the popular TikTok rap songs that you can dance to.
@@ -264,127 +260,9 @@ Fans are fascinated by the unique approach of the artist to lyrics and music. He
 
 This song has been used in more than 30 million TikTok videos accompanied by Keara Wilson’s dance challenge. Her choreography had such a big impact on TikTok that she was named the dancer by Vogue in their ’21 under 21’ feature.
 
-### 3\. Roddy Ricch the Box
-
-The Box has been a part of more than 2 million TikTok videos. It has also been one of the top songs on Billboard Hot 100\. The song received three Grammy Awards nominations in 2021, including the best rap song, song of the year, and best melodic rap performance. It has not been a part of any dance performance but it is used by Jay Will as a meme.
-
-### 4\. Doja Cat Say So
-
-Even though say so was already very popular before it became viral on TikTok. It became one of the popular **rap TikTok songs 2021** when Haley Sharp began a dance challenge on this song. There have been more than 18 million videos on this song this year.
-
-### 5\. K Camp Lottery (Renegade)
-
-If you even opened TikTok once last year, you must have seen a video on Lottery (Renegade) on the ‘For You Page’. More than 30 million creators on TikTok participated in a dance challenge on this song. The dance was choreographed by Jalaiah Harmon. Eventually, K Camp was also credited for the choreography following some controversy around Harmon not getting any credit for the dance.
-
-### 6\. Cardi B ft Megan Thee Stallion Wap
-
-The song is collaboration between Megan Thee Stallion and Cardi B. Within just a few hours of its release, Brian Esperson, Guamanian choreographer, shared a routine to the song. This got noticed by Cardi B and then she shared a clip of the video. She also shared the clips of many other dancers who tried choreographing it. This is how the song became viral on TikTok.
-
-### 7\. Saweetie Tap In
-
-Within 11 days of this song's release date, Lesley Gonzalez, the TikTok star, began a dance challenge. Since then the song has been used in more than 7 million videos. But not all of them are dance challenges.
-
-### 8\. Benee Supalonely ft. Gus Dappperton
-
-The song is by BENEE, a singer from New Zealand. It became popular due to the viral dance challenge by Zoi Lerma. Moreover, The Straits Times had credited the success of the song due to the pandemic as people were easily able to connect to the theme of the song. It has been used in more than 10 million TikTok videos.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### 9\. Tampa Curhat Beat and Karl Wine Baila
-
-This is a dance song with a catchy beat and this too went viral on TikTok. Last year, it was used in more than 24 million videos. Isn’t that amazing.
-
-### 10\. Jawsh 685 and Jason Derulo Laxed (Siren Beat)
-
-The song is originally known as Savage Love. It was created by Jawsh 685, the music producer and a teen from New Zealand. The track had been created to celebrate his Cook Island heritage and Samoan. Later Jason Derulo reached out to him to collaborate on the song and released the song under the name Savage Love without giving credit to Jawsh 685\. This song hit the top of the Billboard Hot 100.
-
-### 11\. Rod Wave ft. ATR Son Son Rags2Riches
-
-Within 2 months of its release, the song had featured in over 5 million TikTok videos as a part of the dance challenge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 12\. Pop Smoke What You Know Bout Love
-
-The rap song was a part of debut album Shoot for the Stars, Aim for the Moon by Pop Smoke. What You Know Bout Love had been released by the end of 2020 and until 2021, it had more than 12 million TikTok videos on it.
-
-### 13\. Surfaces Sunday Best
-
-Sunday Best is by the band Surfaces. Even though the song was released in 2019, it started gaining traction much later. Thousands of dance routines have been launched on the song.
-
-### 14\. Curtis Waters Stunnin’ ft. Harm Franklin
-
-In case you are searching for a popular song for your TikTok video on how good you feel and look, 'Stunning' might be your answer.
-
-### 15\. Doja Cat Boss Bitch
-
-Doja Cat released the song Boss Bitch and since then it has been used by several TikTokers. It is used to highlight your badassery.
-
-### 16\. Sada Baby Whole Lotta Choppas
-
-It is the first single from the rapper’s debut album. Sada Baby’s song and the choreography became viral on TikTok. But after a remix was released featuring Nicki Minaj, the song reached the top of the Billboard.
-
-### 17\. Powfu Death Bed (Coffee for Your Head)
-
-It is a sweet-sounding song by Powfy sampling Coffee by Beabadoobee, the Filipino-British artist. After the song was released on all streaming services, it became popular on TikTok. It helped the song earn more than 4.1 billion plays.
-
-### 18\. Puri Coño ft. Jhorrmountain x Adje
-
-It is another most viral TikTok rap song that you will come across. In fact, it has featured in over 22 million videos on the platform.
-
-### 19\. Young Thug Relationship ft. Future
-
-The rap song by Young Thug had garnered more than 33 million TikTok videos in 2021\. It is surely one of the songs to look out for.
-
-### 20\. Jackboys and Travis Scott are OUT WEST ft. Young Thug
-
-This song was released by the end of 2019 but it gained popularity much later and sparked its own dance challenge.
-
-## Part 2: Who Is the Best Rapper in TikTok?
-
-Here are the top **TikTok rappers** and their songs to watch out for.
-
-1. Lil Yachty: All you had to say & One Night.
-2. Saweetie: Confetti and Tap In.
-3. Young M.A. Body Bag and Beat Box.
-4. Doja Cat: Say So and Boss Bitch.
-5. Wiz Khalifa: No Sleep and So High.
-
-### Conclusion
-
-One of the best ways to be viral on TikTok and gain more followers is to perform on a viral TikTok song. But to create a high-quality video that resonates with your audience, use Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Do you still dream of making your mark on TikTok? Well, for that you need some good dance moves to back the dance. And you will find several **TikTok rap songs** to do that. When it comes to platforms like TikTok, content creators just have a few seconds to grab the user’s attention before a user swipe to go over to the next one. However, there are a few song artists who have broken the code and have tapped on the power of the app.
-
-In this article, you will learn about the top **TikTok rap songs 2021**.
-
-#### In this article
-
-01 [20 Popular TikTok Rap Songs in 2021](#part1)
-
-02 [Who Is the Best Rapper in TikTok?](#part2)
-
-## Part 1: 20 Popular TikTok Rap Songs in 2021
-
-Check out the popular TikTok rap songs that you can dance to.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 1\. YNW Melly and 9lokkNine - "223’s”
-
-Fans are fascinated by the unique approach of the artist to lyrics and music. He has an eccentric persona hopped on the wave when a few tracks received dances from the biggest stars of TikTok and he started getting viral. But “223’s” is the most successful track to date.
-
-### 2\. Megan Thee Stallion Savage
-
-This song has been used in more than 30 million TikTok videos accompanied by Keara Wilson’s dance challenge. Her choreography had such a big impact on TikTok that she was named the dancer by Vogue in their ’21 under 21’ feature.
 
 ### 3\. Roddy Ricch the Box
 
@@ -455,7 +333,7 @@ It is another most viral TikTok rap song that you will come across. In fact, it 
 The rap song by Young Thug had garnered more than 33 million TikTok videos in 2021\. It is surely one of the songs to look out for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 20\. Jackboys and Travis Scott are OUT WEST ft. Young Thug
@@ -492,9 +370,17 @@ In this article, you will learn about the top **TikTok rap songs 2021**.
 
 Check out the popular TikTok rap songs that you can dance to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. YNW Melly and 9lokkNine - "223’s”
 
 Fans are fascinated by the unique approach of the artist to lyrics and music. He has an eccentric persona hopped on the wave when a few tracks received dances from the biggest stars of TikTok and he started getting viral. But “223’s” is the most successful track to date.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Megan Thee Stallion Savage
 
@@ -512,13 +398,13 @@ Even though say so was already very popular before it became viral on TikTok. It
 
 If you even opened TikTok once last year, you must have seen a video on Lottery (Renegade) on the ‘For You Page’. More than 30 million creators on TikTok participated in a dance challenge on this song. The dance was choreographed by Jalaiah Harmon. Eventually, K Camp was also credited for the choreography following some controversy around Harmon not getting any credit for the dance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Cardi B ft Megan Thee Stallion Wap
 
 The song is collaboration between Megan Thee Stallion and Cardi B. Within just a few hours of its release, Brian Esperson, Guamanian choreographer, shared a routine to the song. This got noticed by Cardi B and then she shared a clip of the video. She also shared the clips of many other dancers who tried choreographing it. This is how the song became viral on TikTok.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Saweetie Tap In
 
@@ -532,6 +418,10 @@ The song is by BENEE, a singer from New Zealand. It became popular due to the vi
 
 This is a dance song with a catchy beat and this too went viral on TikTok. Last year, it was used in more than 24 million videos. Isn’t that amazing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Jawsh 685 and Jason Derulo Laxed (Siren Beat)
 
 The song is originally known as Savage Love. It was created by Jawsh 685, the music producer and a teen from New Zealand. The track had been created to celebrate his Cook Island heritage and Samoan. Later Jason Derulo reached out to him to collaborate on the song and released the song under the name Savage Love without giving credit to Jawsh 685\. This song hit the top of the Billboard Hot 100.
@@ -540,13 +430,13 @@ The song is originally known as Savage Love. It was created by Jawsh 685, the mu
 
 Within 2 months of its release, the song had featured in over 5 million TikTok videos as a part of the dance challenge.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 12\. Pop Smoke What You Know Bout Love
 
 The rap song was a part of debut album Shoot for the Stars, Aim for the Moon by Pop Smoke. What You Know Bout Love had been released by the end of 2020 and until 2021, it had more than 12 million TikTok videos on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 13\. Surfaces Sunday Best
 
@@ -563,6 +453,10 @@ Doja Cat released the song Boss Bitch and since then it has been used by several
 ### 16\. Sada Baby Whole Lotta Choppas
 
 It is the first single from the rapper’s debut album. Sada Baby’s song and the choreography became viral on TikTok. But after a remix was released featuring Nicki Minaj, the song reached the top of the Billboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 17\. Powfu Death Bed (Coffee for Your Head)
 
@@ -626,6 +520,10 @@ The Box has been a part of more than 2 million TikTok videos. It has also been o
 
 Even though say so was already very popular before it became viral on TikTok. It became one of the popular **rap TikTok songs 2021** when Haley Sharp began a dance challenge on this song. There have been more than 18 million videos on this song this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. K Camp Lottery (Renegade)
 
 If you even opened TikTok once last year, you must have seen a video on Lottery (Renegade) on the ‘For You Page’. More than 30 million creators on TikTok participated in a dance challenge on this song. The dance was choreographed by Jalaiah Harmon. Eventually, K Camp was also credited for the choreography following some controversy around Harmon not getting any credit for the dance.
@@ -637,10 +535,6 @@ The song is collaboration between Megan Thee Stallion and Cardi B. Within just a
 ### 7\. Saweetie Tap In
 
 Within 11 days of this song's release date, Lesley Gonzalez, the TikTok star, began a dance challenge. Since then the song has been used in more than 7 million videos. But not all of them are dance challenges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Benee Supalonely ft. Gus Dappperton
 
@@ -654,10 +548,6 @@ This is a dance song with a catchy beat and this too went viral on TikTok. Last 
 
 The song is originally known as Savage Love. It was created by Jawsh 685, the music producer and a teen from New Zealand. The track had been created to celebrate his Cook Island heritage and Samoan. Later Jason Derulo reached out to him to collaborate on the song and released the song under the name Savage Love without giving credit to Jawsh 685\. This song hit the top of the Billboard Hot 100.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 11\. Rod Wave ft. ATR Son Son Rags2Riches
 
 Within 2 months of its release, the song had featured in over 5 million TikTok videos as a part of the dance challenge.
@@ -666,9 +556,119 @@ Within 2 months of its release, the song had featured in over 5 million TikTok v
 
 The rap song was a part of debut album Shoot for the Stars, Aim for the Moon by Pop Smoke. What You Know Bout Love had been released by the end of 2020 and until 2021, it had more than 12 million TikTok videos on it.
 
+### 13\. Surfaces Sunday Best
+
+Sunday Best is by the band Surfaces. Even though the song was released in 2019, it started gaining traction much later. Thousands of dance routines have been launched on the song.
+
+### 14\. Curtis Waters Stunnin’ ft. Harm Franklin
+
+In case you are searching for a popular song for your TikTok video on how good you feel and look, 'Stunning' might be your answer.
+
+### 15\. Doja Cat Boss Bitch
+
+Doja Cat released the song Boss Bitch and since then it has been used by several TikTokers. It is used to highlight your badassery.
+
+### 16\. Sada Baby Whole Lotta Choppas
+
+It is the first single from the rapper’s debut album. Sada Baby’s song and the choreography became viral on TikTok. But after a remix was released featuring Nicki Minaj, the song reached the top of the Billboard.
+
+### 17\. Powfu Death Bed (Coffee for Your Head)
+
+It is a sweet-sounding song by Powfy sampling Coffee by Beabadoobee, the Filipino-British artist. After the song was released on all streaming services, it became popular on TikTok. It helped the song earn more than 4.1 billion plays.
+
+### 18\. Puri Coño ft. Jhorrmountain x Adje
+
+It is another most viral TikTok rap song that you will come across. In fact, it has featured in over 22 million videos on the platform.
+
+### 19\. Young Thug Relationship ft. Future
+
+The rap song by Young Thug had garnered more than 33 million TikTok videos in 2021\. It is surely one of the songs to look out for.
+
+### 20\. Jackboys and Travis Scott are OUT WEST ft. Young Thug
+
+This song was released by the end of 2019 but it gained popularity much later and sparked its own dance challenge.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: Who Is the Best Rapper in TikTok?
+
+Here are the top **TikTok rappers** and their songs to watch out for.
+
+1. Lil Yachty: All you had to say & One Night.
+2. Saweetie: Confetti and Tap In.
+3. Young M.A. Body Bag and Beat Box.
+4. Doja Cat: Say So and Boss Bitch.
+5. Wiz Khalifa: No Sleep and So High.
+
+### Conclusion
+
+One of the best ways to be viral on TikTok and gain more followers is to perform on a viral TikTok song. But to create a high-quality video that resonates with your audience, use Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Do you still dream of making your mark on TikTok? Well, for that you need some good dance moves to back the dance. And you will find several **TikTok rap songs** to do that. When it comes to platforms like TikTok, content creators just have a few seconds to grab the user’s attention before a user swipe to go over to the next one. However, there are a few song artists who have broken the code and have tapped on the power of the app.
+
+In this article, you will learn about the top **TikTok rap songs 2021**.
+
+#### In this article
+
+01 [20 Popular TikTok Rap Songs in 2021](#part1)
+
+02 [Who Is the Best Rapper in TikTok?](#part2)
+
+## Part 1: 20 Popular TikTok Rap Songs in 2021
+
+Check out the popular TikTok rap songs that you can dance to.
+
+### 1\. YNW Melly and 9lokkNine - "223’s”
+
+Fans are fascinated by the unique approach of the artist to lyrics and music. He has an eccentric persona hopped on the wave when a few tracks received dances from the biggest stars of TikTok and he started getting viral. But “223’s” is the most successful track to date.
+
+### 2\. Megan Thee Stallion Savage
+
+This song has been used in more than 30 million TikTok videos accompanied by Keara Wilson’s dance challenge. Her choreography had such a big impact on TikTok that she was named the dancer by Vogue in their ’21 under 21’ feature.
+
+### 3\. Roddy Ricch the Box
+
+The Box has been a part of more than 2 million TikTok videos. It has also been one of the top songs on Billboard Hot 100\. The song received three Grammy Awards nominations in 2021, including the best rap song, song of the year, and best melodic rap performance. It has not been a part of any dance performance but it is used by Jay Will as a meme.
+
+### 4\. Doja Cat Say So
+
+Even though say so was already very popular before it became viral on TikTok. It became one of the popular **rap TikTok songs 2021** when Haley Sharp began a dance challenge on this song. There have been more than 18 million videos on this song this year.
+
+### 5\. K Camp Lottery (Renegade)
+
+If you even opened TikTok once last year, you must have seen a video on Lottery (Renegade) on the ‘For You Page’. More than 30 million creators on TikTok participated in a dance challenge on this song. The dance was choreographed by Jalaiah Harmon. Eventually, K Camp was also credited for the choreography following some controversy around Harmon not getting any credit for the dance.
+
+### 6\. Cardi B ft Megan Thee Stallion Wap
+
+The song is collaboration between Megan Thee Stallion and Cardi B. Within just a few hours of its release, Brian Esperson, Guamanian choreographer, shared a routine to the song. This got noticed by Cardi B and then she shared a clip of the video. She also shared the clips of many other dancers who tried choreographing it. This is how the song became viral on TikTok.
+
+### 7\. Saweetie Tap In
+
+Within 11 days of this song's release date, Lesley Gonzalez, the TikTok star, began a dance challenge. Since then the song has been used in more than 7 million videos. But not all of them are dance challenges.
+
+### 8\. Benee Supalonely ft. Gus Dappperton
+
+The song is by BENEE, a singer from New Zealand. It became popular due to the viral dance challenge by Zoi Lerma. Moreover, The Straits Times had credited the success of the song due to the pandemic as people were easily able to connect to the theme of the song. It has been used in more than 10 million TikTok videos.
+
+### 9\. Tampa Curhat Beat and Karl Wine Baila
+
+This is a dance song with a catchy beat and this too went viral on TikTok. Last year, it was used in more than 24 million videos. Isn’t that amazing.
+
+### 10\. Jawsh 685 and Jason Derulo Laxed (Siren Beat)
+
+The song is originally known as Savage Love. It was created by Jawsh 685, the music producer and a teen from New Zealand. The track had been created to celebrate his Cook Island heritage and Samoan. Later Jason Derulo reached out to him to collaborate on the song and released the song under the name Savage Love without giving credit to Jawsh 685\. This song hit the top of the Billboard Hot 100.
+
+### 11\. Rod Wave ft. ATR Son Son Rags2Riches
+
+Within 2 months of its release, the song had featured in over 5 million TikTok videos as a part of the dance challenge.
+
+### 12\. Pop Smoke What You Know Bout Love
+
+The rap song was a part of debut album Shoot for the Stars, Aim for the Moon by Pop Smoke. What You Know Bout Love had been released by the end of 2020 and until 2021, it had more than 12 million TikTok videos on it.
 
 ### 13\. Surfaces Sunday Best
 
@@ -731,24 +731,24 @@ One of the best ways to be viral on TikTok and gain more followers is to perform
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[New] Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-expert-guide-to-a-lasting-goodbye-deleting-tiktok-effectively/"><u>[New] Expert Guide to a Lasting Goodbye Deleting TikTok Effectively</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transforming-your-photos-on-instagram-green-screen/"><u>[New] In 2024, Transforming Your Photos on Instagram Green Screen</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-uncover-the-art-of-participating-in-tiktok-live-shows/"><u>[New] In 2024, Uncover the Art of Participating in TikTok Live Shows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-joyous-jigsaw-mobile-editors-crafting-humor/"><u>[New] Joyous Jigsaw Mobile Editors Crafting Humor</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-unusual-upsets-top-10-unexpected-gaming-sensations-on-tiktok/"><u>[New] Unusual Upsets Top 10 Unexpected Gaming Sensations on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-rhymes-that-roam-a-list-of-must-have-tiktok-rap-songs/"><u>[Updated] 2024 Approved Rhymes That Roam A List of Must-Have TikTok Rap Songs</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-elite-gamers-top-10-on-tiktok-unleashed-for-2024/"><u>[Updated] Elite Gamers Top 10 on TikTok Unleashed for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-sync-up-to-share-live-moments-on-tiktok/"><u>[Updated] In 2024, Sync Up to Share Live Moments on TikTok</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-secure-your-content-copyright-checks-before-tiktok-sharing-for-2024/"><u>[Updated] Secure Your Content Copyright Checks Before TikTok Sharing for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-complete-mac-powered-guide-to-ootd-videography-for-2024/"><u>[Updated] The Complete Mac-Powered Guide to OOTD Videography for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-free-ae-template-packs-for-amateurs-for-2024/"><u>[Updated] Top FREE AE Template Packs for Amateurs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/excellent-10-drone-set-professional-filming-and-photography/"><u>Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/humorous-hits-lifetime-access-to-memes/"><u>Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-10-must-watch-tiktok-gaming-sessions/"><u>In 2024, 10 Must-Watch TikTok Gaming Sessions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-play-8t-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Play 8T Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/741095-9781409082279-stillness-through-my-prayers/"><u>Stillness Through My Prayers | Free Book</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/windows-11-capture-top-eight-tools-ranked-for-2024/"><u>Windows 11 Capture Top Eight Tools Ranked for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-identifying-your-one-of-a-kind-tiktok-sequence/"><u>[New] 2024 Approved Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unleashing-potential-the-best-anime-ideas-in-videos/"><u>[New] 2024 Approved Unleashing Potential The Best Anime Ideas in Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-pinpointing-your-own-signature-tiktok-tag/"><u>[New] In 2024, Pinpointing Your Own Signature TikTok Tag</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-keep-your-views-covert-with-these-tools/"><u>[New] Keep Your Views Covert with These Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-prowl-these-top-ranked-sites-for-generous-vector-imagery-access/"><u>[New] Prowl These Top-Ranked Sites for Generous Vector Imagery Access</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweet-titans-social-networks-10-most-shared-posts/"><u>[New] Tweet Titans Social Network’s 10 Most Shared Posts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[Updated] 2024 Approved Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb/"><u>[Updated] 2024 Approved Smooth Sailing for Social Broadcasts Fixing Interruptions on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] 2024 Approved Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-5-exceptional-tiktok-to-gif-converter-software-listings-for-2024/"><u>[Updated] 5 Exceptional TikTok to GIF Converter Software Listings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>[Updated] In 2024, The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-freely-downloadable-apps-for-tiktok-video-editing-on-mac-for-2024/"><u>[Updated] Top 10 Freely Downloadable Apps for TikTok Video Editing on Mac for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-jujutsu-kaisen-in-action-making-memorable-tiktok-videos/"><u>2024 Approved Jujutsu Kaisen in Action Making Memorable TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-win-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>2024 Approved Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-techniques-in-capturing-live-sports-on-camera-for-2024/"><u>Essential Techniques in Capturing Live Sports on Camera for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-se-2020-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone SE (2020) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/peak-content-performance-the-ultimate-list-of-powerful-tiktok-captions/"><u>Peak Content Performance The Ultimate List of Powerful TikTok Captions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/uncover-the-art-of-participating-in-tiktok-live-shows/"><u>Uncover the Art of Participating in TikTok Live Shows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheim-quest-for-soundscape-harmony-mastering-pc-audio-fixes-completed/"><u>Valheim Quest for Soundscape Harmony: Mastering PC Audio Fixes [COMPLETED]</u></a></li>
 </ul></div>
 
